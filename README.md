@@ -1,1 +1,1 @@
-# urbariat.dulova.github.io
+# urbariat dulova ves - verejne informacie
