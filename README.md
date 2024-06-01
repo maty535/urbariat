@@ -45,5 +45,5 @@
 ## Pravne spory
 
 
-## Dozorna rad
+## Dozorna rada
 
