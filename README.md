@@ -46,7 +46,7 @@
 
 ## Kradeze dreva a neeticke konanie proti spoločenstvu a dobrým marovm
  - treba spisat nejaky eticky kodex urbarnika
- - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody bloku vsetky vyplaty zo zisku az do vysporiadania
+ - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody blokuju vsetky vyplaty zo zisku az do vysporiadania, resp. sa pristupy az na exekuciu podielu urbarnika, ktory preukazatelne vykonal kradez , resp. svojim spravanim sposobil skodu spolocenstvu.
  - v pripade neetickeho spravania, ktore ma financne nasledky sa blokuje samovyroba dreva a vyplata podielov v tomto rozsahu
    -  kradez do 10 m3: blokovanie samovyroby a vyplaty podielov na 3 roky
    -  kradez do od 12m3  do 20 m3: blokovanie samovyroby a vyplaty podielov na 5 roky
