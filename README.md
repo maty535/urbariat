@@ -21,22 +21,22 @@
     - Pri zadrzani o viac ako 14 dni je zaviazany zaplati 15 % zo zadrzanej sumy.
 
 
-## Komunikacia  - rychle zlesenia (Quick Wins)
+## Komunikacia  - rychle zlepsenia (Quick Wins)
 - zriadenie webu
-- zriadenie uctu na google, tym padom je ulozisko pre dokumenty zdielane iba so spolocenstvom, resp. pre verejne dokumenty
+- zriadenie uctu na google, tym padom je ulozisko pre dokumenty (googleDrive) zdielane iba so spolocenstvom, resp. pre verejne dokumenty
 - ziskanie pristupu na slovensko.sk a zriadenie notifikacii o novej poste pre vsetkych clenov vykonneho vyboru
 
 
-## Administrativa - rychle zlesenia (Quick Wins)
+## Administrativa - rychle zlepsenia (Quick Wins)
 - dohodnut so starostom miestnost na stretavanie a vybavit v nej zabezpecene ulozisko arvhivnych dokumentov
-- aktivne dokumenty pre aktualny rok  (kto drzi ? - mal by drzat predseda spolocenstva) - vsetky budu musia byt zoscanovane a pristupne do 24 hodin aj v el. podobe vsetkym clenom vykonneho vyboru
+- aktivne dokumenty pre aktualny rok  (kto drzi ? - mal by drzat predseda spolocenstva) - vsetky budu musia byt zoscanovane a pristupne do 24 hodin aj v el. podobe vsetkym clenom vykonneho vyboru, registruje ich do knihy doslej posty u financneho podpredsedu, alebo ich naskenovane vlozi do dohodnutej zlozky na googleDrive ?
 - publikovanie elektronickych verzii dokumentov zakladatelskej zmluvy a stanov na webe termin, do 30 dni od zvolenia noveho vykonneho vyboru
 
 
 ## Obhospodarovanie lesa
- - zverejnit vsetky zmluvy a dohody s lesnym hospodarom
+ - zverejnit vsetky zmluvy a dohody s lesnym hospodarom + zverejnenie planu starostlivosti o les + hospodarskeho planu na webe
  -  ako sa robi predaj dreva ? Je potreba urobit verejnu sutaz, resp. verejnu drazbu priamo v lese na jednotlive kusy dreva, ak to ma zmysel. Tak to robia v CZ.
- -  doplnit do vsetkych zmluv klauzuly o vrateni lesnych ciest a chodnikov do povodneho stavu , dokial to nebude realizovane tazobnou spolocnostou, ake sankcie : vyradenie zo sutazi na kolko rokov ???
+ -  doplnit do vsetkych zmluv klauzuly o vrateni lesnych ciest a chodnikov do povodneho stavu. Pokial to nebude realizovane tazobnou spolocnostou ma zakaz ucati vo verejnych sutaziach v urbare ?, alebo ake ine sankcie: vyradenie zo sutazi na kolko rokov ???
  
 
 
@@ -58,7 +58,7 @@
    -  kradez od 12m3  do 22 m3: blokovanie samovyroby a vyplaty podielov na 5 rokov
    -  kradez od 22m3  do 50 m3: blokovanie samovyroby a vyplaty podielov na 7 rokov
    -  kradez nad 50 m3: exekucia podielu a tym padom vylucenie zo spolocenstva
-   -  v pripade opakovanej kradeze za obdobie 10 rokov su vsetky sadzby sankcii 3-nasobne
+   -  v pripade opakovanej kradeze za obdobie 10 rokov su vsetky sadzby sankcii 3-nasobne. Pri 3 opakovanej kradezi, je automaticky exekuovany podiel urbarnika, rozdiel medzi skodou a hodnotou podielu sa mu vyplati vo forme penazi.
  - Pri neetickom konani, alebo kradezi dreva clenom vykonneho vyboru sa do 7 dni zvola verejná schodza vykonneho vyboru, na ktorej bude výkonný výbor verejne hlasovat o odvolani clena vyboru a toto hlasovanie sa zverejni aj so všetkými podkladmi (fotky, policajne spravy, ak existuju, pisomne priznanie sa viny, resp. obhajoba svojho spravania vinnikom)
      - pri kradezi dreva ***clenom vykonneho vyboru*** su vsetky sadzby sankcii ***3-nasobne***, v pripade ***predsedu,resp. podpredsedu vykonneho vyboru*** su vsetky sadzby sankcii ***5-nasobne*** a vsetka do kradeze nevyplatena odmena za vykon cinnosti vo vybore prepada v prospech spolocenstva na kompenzaciu skod aj moralnych.
 
