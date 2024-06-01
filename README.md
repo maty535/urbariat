@@ -60,3 +60,5 @@
 
 ## Dozorna rada
 
+- dozorna rada ma pravo zucstnict sa kazdeho, aj neverejneho zasadnutia vykonneho vyboru a pozadovat originaly dokladov a vysvetlenie vykonneho vyboru ku ktorejkolvek transakcii, alebo ktorejkolvek zmluve alebo cinnosti vykonavanej v urbare, co musi vykonny vybor akceptovat a dodat vsetky potrebne informacie a dokumenty do 48 hodin.
+
