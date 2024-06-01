@@ -35,6 +35,7 @@
 ## Obhospodarovanie lesa
  - zverejnit vsetky zmluvy a dohody s lesnym hospodarom
  -  ako sa robi predaj dreva ? Je potreba urobit verejnu sutaz, resp. verejnu drazbu priamo v lese na jednotlive kusy dreva, ak to ma zmysel. Tak to robia v CZ.
+ -  doplnit do vsetkych zmluv klauzuly o vrateni lesnych ciest a chodnikov do povodneho stavu , dokial to nebude realizovane tazobnou spolocnostou, ake sankcie : vyradenie zo sutazi na kolko rokov ???
  
 
 
