@@ -53,7 +53,7 @@
    -  kradez od 22m3  do 50 m3: blokovanie samovyroby a vyplaty podielov na 7 rokov
    -  kradez nad 50 m3: exekucia podielu a tym padom vylucenie zo spolocenstva
  - Pri neetickom konani, alebo kradezi dreva clenom vykonneho vyboru sa do 7 dni zvola schodza vykonneho vyboru, na ktorej sa bude verejne hlasovat o odvolani clena vyboru a toto hlasovanie sa zverejni
-     - pri kradezi dreva su vsetky sadzby sankcii 3-nasobne a vsetka odmena za vykonn cinnosti vo vybore prepada v prospech spolocenstva na kompenzaciu skody
+     - pri kradezi dreva su vsetky sadzby sankcii 3-nasobne a vsetka do kradeze nevyplatena odmena za vykonn cinnosti vo vybore prepada v prospech spolocenstva na kompenzaciu skody
 
 
 ## Dozorna rada
