@@ -44,7 +44,7 @@
 
 ## Pravne spory
 
-## Kradeze dreva a neeticke konanie proti spoločenstvu a dobrým marovm
+## Kradeze dreva a neeticke konanie proti spoločenstvu a dobrým mravom
  - treba spisat nejaky eticky kodex urbarnika
  - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody blokuju vsetky vyplaty zo zisku az do vysporiadania, resp. sa pristupy az na exekuciu podielu urbarnika, ktory preukazatelne vykonal kradez , resp. svojim spravanim sposobil skodu spolocenstvu.
  - v pripade neetickeho spravania, ktore ma financne nasledky sa blokuje samovyroba dreva a vyplata podielov v tomto rozsahu
