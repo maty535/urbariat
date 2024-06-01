@@ -44,7 +44,7 @@
  -  V lese sa nesmie pohybovat ***tazobna technika*** (pily, sekery, vyvazacky )  mimo terminov tazby, ktore su na to urcene. 
  -  V lese sa nesmu pohybovat ***podielnici s tazobnou technikou*** (pily, sekery, vyvazacky) mimo oblasti, ktora je urcena na samovyrobu a mimo obdobia urceneho na samopripravu dreva na kurenie
  -  V lese sa mozu pohybovat ***ine osoby s tazobnou technikou*** (pily, sekery, vyvazacky) iba v oblasti, ktora je urcena na samovyrobu a v obdobi urcenom na samopripravu dreva na kurenie, ak je s nimi pritomný podielnik, resp. jeho zákonný zástupca s platným povolením na samovýrobu, ktoré musí predloziť na mieste aj v el. forme, ako fotku v mobile. 
--  Drevo zo samovýrby by nemalo byť použité na predaj, resp. posun iným osobám, ako sú rodinní príslušnici podielnika urbáru, pokial všetci podielnici, ktorí žiadali o drevo formou samovýroby neboli uspokojení.
+-  Drevo zo samovýroby nesmie byť použité na predaj, resp. posun iným osobám (okrem rodinných príslušnikov podielnika urbáru), pokial všetci podielnici, ktorí žiadali o drevo formou samovýroby neboli uspokojení. (Pri porušení aká sankcia ? Blokovanie samovýroby na 2-3 roky ?)
 
 ## Pravne spory
 
