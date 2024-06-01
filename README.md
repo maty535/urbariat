@@ -8,7 +8,7 @@
 
 
 ## Financie - rychle zlepsenia (Quick Wins)
- - zriadit internetbanking - aktivny pristup: financny riaditel, pasivny (zobrazenie transakcii): vsetci clenovia vykonneho vyboru, takisto clenovia urbariatu, ktori prejavia zaujem
+ - zriadit internetbanking - aktivny pristup: financny riaditel, pasivny (zobrazenie transakcii): vsetci clenovia vykonneho vyboru, takisto clenovia urbariatu, ktori prejavia zaujem + uctovnicka ma iba pasivny pristup ,t.z. je notifikovana o transakciach a vie si robit vypis z uctu podla potreby.
  - na operacie v internetbankingu ma pravo iba financny riaditel (podpredseda), ktory nema vykonne pravomoci (nepodpisuje zmluvy, nedojednava zakazky ani obchody)
  - vyrovnanie bezhotovostne sa robi kazdy den, t.z. najneskor do konca dna musia byt vyrovnane financne pohladavky, resp. naklady ktore budu financnemu riaditelovi urbariatu podlozene dokladmi a su opravnene, tieto doklady a transkacie budu zdielane so vsetkymi clenmi vykonneho vyboru, potazme vsetkymi clenmi urbariatu, ktori prejavia zaujem
  - V pripade spornosti o opravnenost nakladov tento spor riesi vykonny vybor urbariatu a po komunikacia a predlozeni dokladov ich bud akceptuje alebo zamietne, o com musi byt vyhotoveny verejny zaznama aj s hlasovanim jednotlivych clenov vykonneho vyboru, ktori za toto rozhodnutie preberaju plnu zodpovednot.
