@@ -48,7 +48,7 @@
 
 ## Pravne spory
 
-- kto bude riesit a najme rozhodovat v nejakych sporoch v spolocenstve ? Je potrebne nejaku zmierovaciu komisiu, alebo nejaky zmierovaci organ ? Mal by byt jeho clenom aj zastupca cirkevneho spolocenstva v obci ? Resp. mame v spolocenstve nejakych skusenych ludi s pravnnickym vzdelanim ? (Cestna Rada starsich ??? - osvedceni ludia, ktori maju dostocny moralny kredit a nepotrebuju peniaze ??? Tato rada starsich by mal byt aj poradny organ pre Dozornu radu a aj vykonny vybor)
+- kto bude riesit a najme rozhodovat v nejakych sporoch v spolocenstve ? Je potrebne nejaku zmierovaciu komisiu, alebo nejaky zmierovaci organ ? Mal by byt jeho clenom aj zastupca cirkevneho spolocenstva v obci ? Resp. mame v spolocenstve nejakych skusenych ludi s pravnnickym vzdelanim, alebo lesnickym vzdelanim ? (Cestna Rada starsich ??? - osvedceni ludia, ktori maju dostocny moralny kredit a nepotrebuju peniaze. Tato rada starsich by mala byt aj poradny organ pre Dozornu radu a aj vykonny vybor)
 
 ## Kradeze dreva a neeticke konanie proti spoločenstvu a dobrým mravom
  - treba spisat nejaky eticky kodex urbarnika
