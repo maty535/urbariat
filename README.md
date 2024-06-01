@@ -41,8 +41,8 @@
 
 
 ## Tazba a samopriprava dreva na kurenie
- -  V lese sa nesmie pohybovat tazobna technika (stilky, sekery, vyvazacky )  mimo terminov tazby, ktore su na to urcene. 
- -  V lese sa nesmu pohybovat podielnici s tazobnou technikou (stilky, sekery, vyvazacky ) mimo oblasti, ktora je urcena na samovyrobu a mimo obdobia urceneho na samopripravu dreva na kurenie
+ -  V lese sa nesmie pohybovat ***tazobna technika*** (pily, sekery, vyvazacky )  mimo terminov tazby, ktore su na to urcene. 
+ -  V lese sa nesmu pohybovat ***podielnici s tazobnou technikou*** (pily, sekery, vyvazacky) mimo oblasti, ktora je urcena na samovyrobu a mimo obdobia urceneho na samopripravu dreva na kurenie
 
 ## Pravne spory
 
@@ -56,7 +56,7 @@
    -  kradez nad 50 m3: exekucia podielu a tym padom vylucenie zo spolocenstva
    -  v pripade opakovanej kradeze za obdobie 10 rokov su vsetky sadzby sankcii 3-nasobne
  - Pri neetickom konani, alebo kradezi dreva clenom vykonneho vyboru sa do 7 dni zvola schodza verejná vykonneho vyboru, na ktorej sa bude verejne hlasovat o odvolani clena vyboru a toto hlasovanie sa zverejni
-     - pri kradezi dreva clenom vykonneho su vsetky sadzby sankcii 3-nasobne, v pripade predsedu, resp. podpredsedu vykonneho vyboru 5-nasobne a vsetka do kradeze nevyplatena odmena za vykonn cinnosti vo vybore prepada v prospech spolocenstva na kompenzaciu skod
+     - pri kradezi dreva ***clenom vykonneho vyboru*** su vsetky sadzby sankcii ***3-nasobne***, v pripade ***predsedu,resp. podpredsedu vykonneho vyboru*** su vsetky sadzby sankcii ***5-nasobne*** a vsetka do kradeze nevyplatena odmena za vykon cinnosti vo vybore prepada v prospech spolocenstva na kompenzaciu skod aj moralnych.
 
 
 ## Dozorna rada
