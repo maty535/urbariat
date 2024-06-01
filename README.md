@@ -15,7 +15,7 @@
  - V pripade spornosti o opravnenost nakladov tento spor do 3 dni riesi vykonny vybor urbariatu a po komunikacii a predlozeni vsetkych dokladov ich bud akceptuje alebo zamietne, o com musi byt vyhotoveny verejny zaznam aj s hlasovanim jednotlivych clenov vykonneho vyboru, ktori za toto rozhodnutie preberaju plnu zodpovednot. Ti mozu predlozit svoje odlisne stanovisko v termine do 48 hodin od rozhodnutia. Toto stanovisko bude zverejnené spolu so všetkými dokladmi a hlasovaním členov výkonného výboru
  - peniaze vo vyske viac ako bezna rezia na 1 mesiac nesmu lezat na bezurconych uctoch, resp. byt v hotovosti neurocene viac ako 30 dni
  - kazdy pohyb na ucte, resp. zmena stavu na uctoch a v pokladni musia byt najneskor na konci dna oznamene vsetkym clenom vyboru - pomocou notifikacii z bankovych uctov a zdielanym financnym dennikom na google drive financnym riaditelom ostatnym clenom vykonneho vyboru
- - Zadrziavanie penazi, ktore boli opravnene a nie su sporne (boli podlozene dokladmi (aj elektronickymi: blocky, faktury) je finanacny riaditel zodpovedny osobne
+ - Za zadrziavanie penazi, ktore boli opravnene a nie su sporne (boli podlozene dokladmi (aj elektronickymi: blocky, faktury) je finanacny riaditel zodpovedny osobne
     - Pri omeskani sa o viac ako 48 hodin od predlozenia dokladov je viazany zaplatit urok vo vyske 3 % zo sumy, ktoru zadrzal na nie viac ako 5 dni.
     - Pri zadrzani o viac ako 7 dni je viazany zaplatit zo svojich prostriedkov 7 % zo zadrzanej sumy.
     - Pri zadrzani o viac ako 14 dni je zaviazany zaplati 15 % zo zadrzanej sumy.
