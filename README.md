@@ -35,4 +35,13 @@
 ## Obhospodarovanie lesa
  - zverejnit vsetky zmluvy a dohody s lesnym hospodarom
  -  ako sa robi predaj dreva ? Je potreba urobit verejnu sutaz, resp. verejnu drazbu priamo v lese na jednotlive kusy dreva, ak to ma zmysel. Tak to robia v CZ.
+ -  V lese sa nesmie pohybovat tazobna technika mimo terminov, ktore su na to urcene. 
+ -  V lese sa nesmu pohybovat podielnici s tazobnou technikov (stilky, sekery ) ani podielnici urbariatu mimo oblasti, ktora je urcena na samovyrobu a mimo obdobia urceneho na samovyrobu
+
+## Tazba a samovyroba
+
+## Pravne spory
+
+
+## Dozorna rad
 
