@@ -41,7 +41,7 @@
 
 ## Tazba a samopriprava dreva na kurenie
  -  V lese sa nesmie pohybovat tazobna technika (stilky, sekery, vyvazacky )  mimo terminov tazby, ktore su na to urcene. 
- -  V lese sa nesmu pohybovat podielnici s tazobnou technikou (stilky, sekery, vyvazacky ) ani podielnici urbariatu mimo oblasti, ktora je urcena na samovyrobu a mimo obdobia urceneho na samopripravu dreva na kurenie
+ -  V lese sa nesmu pohybovat podielnici s tazobnou technikou (stilky, sekery, vyvazacky ) mimo oblasti, ktora je urcena na samovyrobu a mimo obdobia urceneho na samopripravu dreva na kurenie
 
 ## Pravne spory
 
