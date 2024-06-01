@@ -1,11 +1,11 @@
 # Urbariat dulova ves - poznamky
 
 ## Rychle zlesenia (Quick Wins)
- - kazda planovana a schvalena vykonavana cinnost v urbariate bude komunikovana vsetkym clenom, ktory ak prejavia zaujem, ju budu moct vykonat za rovnakych podmienok ako bola dohodnuta s externymi dodavatelmi.
+ - kazda planovana a schvalena vykonavana cinnost v urbariate bude komunikovana vsetkym clenom, ktori ak prejavia zaujem,sa budu na nej moct spolupodielat, t.z. ju budu moct vykonat za rovnakych podmienok ako bola dohodnuta s externymi dodavatelmi. V pripade nedodrzania kvality, reps. nevykonania prac, to bude transparentne komunikovane a budu sa hladat aj napravne opatrenia tohto stavu.
  - 
 
 ## Financie - rychle zlepsenia (Quick Wins)
- - zriadit internetbanking - aktivny pristup: financny riaditel, pasivny (zobrazenie transakcii): vsetci clenovia vykonneho vyboru, takisto clenovia urbariatu, kto prejavy zaujem
+ - zriadit internetbanking - aktivny pristup: financny riaditel, pasivny (zobrazenie transakcii): vsetci clenovia vykonneho vyboru, takisto clenovia urbariatu, ktori prejavia zaujem
  - na operacie v internetbankingu ma pravo iba financny riaditel (podpredseda), ktory nema vykonne pravomoci (nepodpisuje zmluvy, nedojednava zakazky ani obchody)
  - vyrovnanie bezhotovostne sa robi kazdy den, t.z. najneskor do konca dna musia byt vyrovnane financne pohladavky, resp. naklady ktore budu financnemu riaditelovi urbariatu podlozene dokladmi a su opravnene, tieto doklady a transkacie budu zdielane so vsetkymi clenmi vykonneho vyboru, potazme vsetkymi clenmi urbariatu, ktori prejavia zaujem
  - peniaze nesmu lezat na bezurconych uctoch, resp. byt v hotovosti neurocene viac ako 30 dni
