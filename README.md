@@ -2,7 +2,10 @@
 
 ## Rychle zlesenia (Quick Wins)
  - kazda planovana a schvalena vykonavana cinnost v urbariate bude komunikovana vsetkym clenom, ktori ak prejavia zaujem,sa budu na nej moct spolupodielat, t.z. ju budu moct vykonat za rovnakych podmienok ako bola dohodnuta s externymi dodavatelmi. V pripade nedodrzania kvality, reps. nevykonania prac, to bude transparentne komunikovane a budu sa hladat aj napravne opatrenia tohto stavu.
- - 
+ - prebrat ASAP pristup na slovensko.sk
+ - notifikacie o spravach na slovensko sk budu dostavat vsetci clenovia vykonneho vyboru 
+
+
 
 ## Financie - rychle zlepsenia (Quick Wins)
  - zriadit internetbanking - aktivny pristup: financny riaditel, pasivny (zobrazenie transakcii): vsetci clenovia vykonneho vyboru, takisto clenovia urbariatu, ktori prejavia zaujem
