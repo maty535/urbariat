@@ -48,6 +48,8 @@
 
 ## Pravne spory
 
+- kto bude riesit a najme rozhodovat v nejakych sporoch v spolocenstve ? Je potrebne nejaku zmierovaciu komisiu, alebo nejaky zmierovaci organ ? Mal by byt jeho clenom aj zastupca cirkevneho spolocenstva v obci ? Resp. mame v spolocenstve nejakych skusenych ludi s pravnnickym vzdelanim ? (Cestna Rada starsich ???)
+
 ## Kradeze dreva a neeticke konanie proti spoločenstvu a dobrým mravom
  - treba spisat nejaky eticky kodex urbarnika
  - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody blokuju vsetky vyplaty zo zisku az do vysporiadania, resp. sa pristupi az na exekuciu podielu urbarnika, ktory preukazatelne vykonal kradez, resp. svojim spravanim sposobil nezanedbatelnu skodu spolocenstvu.
