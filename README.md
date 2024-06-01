@@ -50,7 +50,7 @@
  - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody blokuju vsetky vyplaty zo zisku az do vysporiadania, resp. sa pristupi az na exekuciu podielu urbarnika, ktory preukazatelne vykonal kradez, resp. svojim spravanim sposobil nezanedbatelnu skodu spolocenstvu.
  - v pripade neetickeho spravania, ktore ma financne nasledky sa blokuje samovyroba dreva a vyplata podielov v tomto rozsahu
    -  kradez do 12 m3: blokovanie samovyroby a vyplaty podielov na 3 roky
-   -  kradez od 12m3  do 22 m3: blokovanie samovyroby a vyplaty podielov na 5 roky
+   -  kradez od 12m3  do 22 m3: blokovanie samovyroby a vyplaty podielov na 5 rokov
    -  kradez od 22m3  do 50 m3: blokovanie samovyroby a vyplaty podielov na 7 rokov
    -  kradez nad 50 m3: exekucia podielu a tym padom vylucenie zo spolocenstva
    -  v pripade opakovanej kradeze za obdobie 10 rokov su vsetky sadzby sankcii 3-nasobne
