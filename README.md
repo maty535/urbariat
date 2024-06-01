@@ -30,5 +30,5 @@
 
 
 ## Obhospodarovanie lesa
- - zevrejnit vsetky zmluvy a dohody s lesnym hospodarom
+ - zverejnit vsetky zmluvy a dohody s lesnym hospodarom
 
