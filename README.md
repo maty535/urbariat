@@ -25,8 +25,8 @@
 
 ## Administrativa - rychle zlesenia (Quick Wins)
 - dohodnut so starostom miestnost na stretavanie a vybavit v nej zabezpecene ulozisko arvhivnych dokumentov
-- aktivne dokumenty pre aktualny rok  (kto drzi ?) - vsetky budu musia byt zoscanovane a pristupne do 24 hodin aj v el. podobe
-- publikovanie elektronickych verzii dokumentov zakladatelskej zmluvy a stanov na webe
+- aktivne dokumenty pre aktualny rok  (kto drzi ? - mal by drzat predseda spolocenstva) - vsetky budu musia byt zoscanovane a pristupne do 24 hodin aj v el. podobe vsetkym clenom vykonneho vyboru
+- publikovanie elektronickych verzii dokumentov zakladatelskej zmluvy a stanov na webe termin, do 30 dni od zvolenia noveho vykonneho vyboru
 
 
 ## Obhospodarovanie lesa
