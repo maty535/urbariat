@@ -48,8 +48,8 @@
  - treba spisat nejaky eticky kodex urbarnika
  - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody blokuju vsetky vyplaty zo zisku az do vysporiadania, resp. sa pristupi az na exekuciu podielu urbarnika, ktory preukazatelne vykonal kradez, resp. svojim spravanim sposobil nezanedbatelnu skodu spolocenstvu.
  - v pripade neetickeho spravania, ktore ma financne nasledky sa blokuje samovyroba dreva a vyplata podielov v tomto rozsahu
-   -  kradez do 10 m3: blokovanie samovyroby a vyplaty podielov na 3 roky
-   -  kradez od 12m3  do 20 m3: blokovanie samovyroby a vyplaty podielov na 5 roky
+   -  kradez do 12 m3: blokovanie samovyroby a vyplaty podielov na 3 roky
+   -  kradez od 12m3  do 22 m3: blokovanie samovyroby a vyplaty podielov na 5 roky
    -  kradez od 22m3  do 50 m3: blokovanie samovyroby a vyplaty podielov na 7 rokov
    -  kradez nad 50 m3: exekucia podielu a tym padom vylucenie zo spolocenstva
  - Pri neetickom konani, alebo kradezi dreva clenom vykonneho vyboru sa do 7 dni zvola schodza vykonneho vyboru, na ktorej sa bude verejne hlasovat o odvolani clena vyboru a toto hlasovanie sa zverejni
