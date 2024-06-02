@@ -62,7 +62,7 @@
    -  kradez od 12m3  do 22 m3: blokovanie samovyroby a vyplaty podielov na 5 rokov
    -  kradez od 22m3  do 50 m3: blokovanie samovyroby a vyplaty podielov na 7 rokov
    -  kradez nad 50 m3: exekucia podielu a tym padom vylucenie zo spolocenstva
-   -  v pripade opakovanej kradeze za obdobie 10 rokov su vsetky sadzby sankcii 3-nasobne. Pri 3 opakovanej kradezi, je automaticky exekuovany podiel urbarnika, rozdiel medzi skodou a hodnotou podielu sa mu vyplati vo forme penazi.
+   -  v pripade opakovanej kradeze za obdobie 10 rokov su vsetky sadzby sankcii 3-nasobne. Pri ***3-tej*** opakovanej kradezi, je automaticky exekuovany podiel urbarnika, rozdiel medzi skodou a hodnotou podielu sa mu vyplati vo forme penazi. 
  - Pri neetickom konani, alebo kradezi dreva clenom vykonneho vyboru sa do 7 dni zvola verejná schodza vykonneho vyboru, na ktorej bude výkonný výbor verejne hlasovat o odvolani clena vyboru a toto hlasovanie sa zverejni aj so všetkými podkladmi (fotky, policajne spravy, ak existuju, pisomne priznanie sa viny, resp. obhajoba svojho spravania vinnikom)
      - pri kradezi dreva ***clenom vykonneho vyboru*** su vsetky sadzby sankcii ***3-nasobne***, v pripade ***predsedu,resp. podpredsedu vykonneho vyboru*** su vsetky sadzby sankcii ***5-nasobne*** a vsetka do kradeze nevyplatena odmena za vykon cinnosti vo vybore prepada v prospech spolocenstva na kompenzaciu skod aj moralnych.
 
