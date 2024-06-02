@@ -37,9 +37,9 @@
  - zverejnit vsetky zmluvy a dohody s lesnym hospodarom + zverejnenie planu starostlivosti o les + hospodarskeho planu na webe
  -  ako sa robi predaj dreva ?
    Napr:
-     - [https://www.lesmedium.sk/aktualne/lesny-podnik-mesta-zvolen-predava-prvykrat-na-drevo-na-drazbe-s-vyuzitim-skenera-ponukaju-200-kubikov-gulatiny]
-     - [https://www.silvarium.cz/zpravy-z-oboru-lesnictvi-a-drevarstvi/ctvrta-aukce-arcibiskupskych-lesu-vyprodala-temer-1-300-m3-cenneho-drivi-ado-cz]
-     - [https://www.ceskatelevize.cz/porady/10122427178-udalosti-v-regionech-brno/323281381990329/cast/971009/]
+     - [Zvolen] (https://www.lesmedium.sk/aktualne/lesny-podnik-mesta-zvolen-predava-prvykrat-na-drevo-na-drazbe-s-vyuzitim-skenera-ponukaju-200-kubikov-gulatiny)
+     - [Olomouc] (https://www.silvarium.cz/zpravy-z-oboru-lesnictvi-a-drevarstvi/ctvrta-aukce-arcibiskupskych-lesu-vyprodala-temer-1-300-m3-cenneho-drivi-ado-cz)
+     - [Brno] (https://www.ceskatelevize.cz/porady/10122427178-udalosti-v-regionech-brno/323281381990329/cast/971009/)
  -  doplnit do vsetkych zmluv klauzuly o vrateni lesnych ciest a chodnikov do povodneho stavu. Pokial to nebude realizovane tazobnou spolocnostou ma zakaz ucati vo verejnych sutaziach v urbare ?, alebo ake ine sankcie: vyradenie zo sutazi na kolko rokov ???
  
 
