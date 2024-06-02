@@ -35,7 +35,7 @@
 
 ## Obhospodarovanie lesa
  - zverejnit vsetky zmluvy a dohody s lesnym hospodarom + zverejnenie planu starostlivosti o les + hospodarskeho planu na webe
- -  ako sa robi predaj dreva ?
+ -  ako sa robi predaj dreva inde ?
    Napr:
      - [Zvolen](https://www.lesmedium.sk/aktualne/lesny-podnik-mesta-zvolen-predava-prvykrat-na-drevo-na-drazbe-s-vyuzitim-skenera-ponukaju-200-kubikov-gulatiny)
      - [Olomouc](https://www.silvarium.cz/zpravy-z-oboru-lesnictvi-a-drevarstvi/ctvrta-aukce-arcibiskupskych-lesu-vyprodala-temer-1-300-m3-cenneho-drivi-ado-cz)
