@@ -35,7 +35,10 @@
 
 ## Obhospodarovanie lesa
  - zverejnit vsetky zmluvy a dohody s lesnym hospodarom + zverejnenie planu starostlivosti o les + hospodarskeho planu na webe
- -  ako sa robi predaj dreva ? Je potreba urobit verejnu sutaz, resp. verejnu drazbu priamo v lese na jednotlive kusy dreva, ak to ma zmysel. Tak to robia v CZ.
+ -  ako sa robi predaj dreva ?
+   Napr:
+     - 480 EUR/m3 [https://www.lesmedium.sk/aktualne/lesny-podnik-mesta-zvolen-predava-prvykrat-na-drevo-na-drazbe-s-vyuzitim-skenera-ponukaju-200-kubikov-gulatiny]
+     - [https://www.silvarium.cz/zpravy-z-oboru-lesnictvi-a-drevarstvi/ctvrta-aukce-arcibiskupskych-lesu-vyprodala-temer-1-300-m3-cenneho-drivi-ado-cz]
  -  doplnit do vsetkych zmluv klauzuly o vrateni lesnych ciest a chodnikov do povodneho stavu. Pokial to nebude realizovane tazobnou spolocnostou ma zakaz ucati vo verejnych sutaziach v urbare ?, alebo ake ine sankcie: vyradenie zo sutazi na kolko rokov ???
  
 
