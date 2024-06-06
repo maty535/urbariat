@@ -1,5 +1,30 @@
 # Zoznam vsetkych vedenych sudnych sporov a konani
 
+## Exekkúcie
+
+- Poverenie ECLI:SK:OSBB:2024:6124217120.3
+AKTUÁLNY
+Oprávnený
+Názov
+Jarkovský Peter
+Sídlo
+Jesenná 8502/8, 08005 Prešov
+IČO
+32925042
+Povinný
+Názov
+Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
+Sídlo
+Obchodná 15, 08252 Dulova Ves
+IČO
+42379831
+
+  
+
+
+## Súdne spory
+
+
 
 ## Sablona, ako si poziadat o pristup do el. sudneho spisu
 
