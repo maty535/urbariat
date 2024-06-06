@@ -55,13 +55,13 @@
 - kto bude riesit a najme rozhodovat v nejakych sporoch v spolocenstve ? Je potrebne nejaku zmierovaciu komisiu, alebo nejaky zmierovaci organ ? Mal by byt jeho clenom aj zastupca cirkevneho spolocenstva v obci ? Resp. mame v spolocenstve nejakych skusenych ludi s pravnnickym vzdelanim, alebo lesnickym vzdelanim ? (Cestna Rada starsich ??? - osvedceni ludia, ktori maju dostocny moralny kredit a nepotrebuju peniaze. Tato rada starsich by mala byt aj poradny organ pre Dozornu radu a aj vykonny vybor)
 - kto obide zmierovaciu komisiu, vykonny vybor, alebo dozornu radu a svoj spor proti spolocenstvu bude riesit na sude, do jeho vysporiadania sa mu musia zablokovat :
     - vyplata podielov
-    - smovyroba dreva
+    - samovyroba dreva
 -  Treba vyriesit otazku, ci je pravne mozne kvoli hrubemu neetickemu, resp. nemoralnemu konaniu niekoho vylucit z urbarneho spolocenstva a  vyplatit mu podiel v peniazoch ? Staci na to legitimne hlasovanie nadpolovicnej vacsiny vsetkych podielnikov ?
       
 
 ## Kradeze dreva a neeticke konanie proti spoločenstvu a dobrým mravom
  - treba spisat nejaky eticky kodex urbarnika
- - spory v spolocenstve by nemali byt ako prva moznost riesenie na sude (kauza Jarkovsky)
+ - spory v spolocenstve by nemali byt ako prva moznost riesene hned na sude (kauza Jarkovsky)
  - v pripade nespornej a preukazanej kradeze dreva v nezanedbatelnom rozsahu, t.z. viac ako 4 m3 sa do nahrady skody blokuju vsetky vyplaty zo zisku az do vysporiadania, resp. sa pristupi az na exekuciu podielu urbarnika, ktory preukazatelne vykonal kradez, resp. svojim spravanim sposobil nezanedbatelnu skodu spolocenstvu.
  - v pripade neetickeho spravania, ktore ma financne nasledky sa blokuje samovyroba dreva a vyplata podielov v tomto rozsahu
    -  kradez do 12 m3: blokovanie samovyroby a vyplaty podielov na 3 roky
