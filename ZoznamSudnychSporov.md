@@ -1,5 +1,8 @@
 # Zoznam vsetkych vedenych sudnych sporov a konani
 
+- urbariát zastupuje AK Tarabčák: 0903 770 428, 	tarabcak(at)centrum.sk
+- zastupuje urbariat v sporoch o neucinnost dorucenia exekucnych titulov a v spore o nepravoplatnost kupnej zmluvy LELAKOVHO podielu
+
 ## Exekkúcie
 
 - Poverenie ECLI:SK:OSBB:2024:6124217120.3
