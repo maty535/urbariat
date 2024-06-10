@@ -1,7 +1,7 @@
 # Zoznam vsetkych vedenych sudnych sporov a konani
 
 - urbariát zastupuje AK Tarabčák: 0903 770 428, tarabcak(at)centrum.sk
-- zastupuje urbariat v sporoch o neucinnost dorucenia exekucnych titulov (nizke sance na uspech) a v spore o nepravoplatnost kupnej zmluvy LELAKOVHO podielu ( kvoli predkupnemu pravu ) (vyssie sance na uspecha, ale velmi nizke sance na zavlokovanie vstupu Jarkovskeho cez Lelakov podiel do spolocestva). Ak urbar vyhra tento spor, potom okamzite Jarkovsky skupi tento podiel tak, ze to nebude mozne sudne spochybnit.
+- zastupuje urbariat v sporoch o neucinnost dorucenia exekucnych titulov (nizke sance na uspech) a v spore o nepravoplatnost kupnej zmluvy LELAKOVHO podielu ( kvoli predkupnemu pravu ) (vyssie sance na uspech, ale velmi nizke sance na zablokovanie vstupu Jarkovskeho cez Lelakov podiel do spolocestva). Ak urbar vyhra tento spor, potom okamzite Jarkovsky skupi tento podiel tak, ze to nebude mozne sudne spochybnit.
 - je treba ziskat navrh na urovnanie sporu, ktory poslal Jarkovsky urbaru
 
 ## Exekkúcie
