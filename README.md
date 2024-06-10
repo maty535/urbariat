@@ -5,6 +5,7 @@
  - prebrat ASAP pristup na slovensko.sk
  - notifikacie o spravach na slovensko sk budu dostavat vsetci clenovia vykonneho vyboru 
  - ASAP ziskat suhlas s el. spracovanim zakladnych osobnych udajov v rozsahu: Meno, Priezvisko, Bydlisko, Mobil, Email, Profesia(Odbornost), Cislo Uctu od kazdeho podielnika.
+- ASAP zastavit spekulativne skupovanie podielov externymi ludmi, bude na to treba vyclenit budget.
 
 
 ## Financie - rychle zlepsenia (Quick Wins)
