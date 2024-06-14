@@ -51,6 +51,10 @@
  -  V lese sa mozu pohybovat ***ine osoby s tazobnou technikou*** (pily, sekery, vyvazacky) iba v oblasti, ktora je urcena na samovyrobu a v obdobi urcenom na samopripravu dreva na kurenie, ak je s nimi pritomný podielnik, resp. jeho zákonný zástupca s platným povolením na samovýrobu, ktoré musí predloziť na mieste aj v el. forme, ako fotku v mobile. 
 -  Drevo zo samovýroby nesmie byť použité na predaj, resp. posun iným osobám (okrem rodinných príslušnikov podielnika urbáru), pokial všetci podielnici, ktorí žiadali o drevo formou samovýroby neboli uspokojení. (Pri porušení aká sankcia ? Blokovanie samovýroby na 2-3 roky ?)
 
+## Zber suchého dreva na zimu (čistenie lesa)
+ - Do lesa mozu vstúpiť aj nepodielnici a iné osoby, aby čistili les iba v prípade, že majú povolenie na zber suchého dreva pre daný rok a nevyvážajú z lesa drevo hrubšie ako je obvod zápästia človeka, ktorý takto drevo pripravuje. Tento zber možu vykonávať iba ručnými, t.z. nemotorovými pílami a sekerami.
+
+
 ## Pravne spory
 
 - kto bude riesit a najme rozhodovat v nejakych sporoch v spolocenstve ? Je potrebne nejaku zmierovaciu komisiu, alebo nejaky zmierovaci organ ? Mal by byt jeho clenom aj zastupca cirkevneho spolocenstva v obci ? Resp. mame v spolocenstve nejakych skusenych ludi s pravnnickym vzdelanim, alebo lesnickym vzdelanim ? (Cestna Rada starsich ??? - osvedceni ludia, ktori maju dostocny moralny kredit a nepotrebuju peniaze. Tato rada starsich by mala byt aj poradny organ pre Dozornu radu a aj vykonny vybor)
