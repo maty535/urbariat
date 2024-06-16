@@ -26,9 +26,9 @@
 - zriadenie webu
 - zriadenie uctu na google, tym padom je ulozisko pre dokumenty (googleDrive) zdielane iba so spolocenstvom, resp. pre verejne dokumenty
 - ziskanie pristupu na slovensko.sk a zriadenie notifikacii o novej poste pre vsetkych clenov vykonneho vyboru
-- zriadenie informacnych tabul, resp. vyvesie:
+- zriadenie informacnych tabul, resp. vyvesiek:
   - Obecny urad
-  - Pred kostolom
+  - Pred kostolom, pred cintorinom
   - Krcma u Zika, resp. Jednota obchod
   - Skolka
   - Bar na Ihrisku a ihrisko
@@ -58,7 +58,8 @@
 -  Drevo zo samovýroby nesmie byť použité na predaj, resp. posun iným osobám (okrem rodinných príslušnikov podielnika urbáru), pokial všetci podielnici, ktorí žiadali o drevo formou samovýroby neboli uspokojení. (Pri porušení aká sankcia ? Blokovanie samovýroby na 2-3 roky ?)
 
 ## Zber suchého dreva na zimu (čistenie lesa)
- - Do lesa mozu vstúpiť aj nepodielnici a iné osoby, aby čistili les iba v prípade, že majú povolenie na zber suchého dreva pre daný rok a nevyvážajú z lesa drevo hrubšie ako je obvod zápästia človeka, ktorý takto drevo pripravuje. Tento zber možu vykonávať iba ručnými, t.z. nemotorovými pílami a sekerami.
+ - Do lesa mozu vstúpiť aj nepodielnici a iné osoby,ktoré majú trvalý pdobyt v obci Dulova Ves, aby čistili les iba v prípade, že majú povolenie na zber suchého dreva pre daný rok a nevyvážajú z lesa drevo hrubšie ako je obvod zápästia človeka, ktorý takto drevo pripravuje. Tento zber možu vykonávať iba ručnými, t.z. nemotorovými pílami a sekerami.
+ - podielnici, ich rodinní príslušníci možu zierať suché drevo v lese aj bez povolenia, za podmienky, ze nevyvážajú z lesa drevo hrubšie ako je obvod zápästia človeka, ktorý takto drevo pripravuje
 
 
 ## Pravne spory
