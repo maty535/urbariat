@@ -36,7 +36,7 @@
 
 ## Administrativa - rychle zlepsenia (Quick Wins)
 - dohodnut so starostom miestnost na stretavanie a vybavit v nej zabezpecene ulozisko archivnych dokumentov
-- aktivne dokumenty pre aktualny rok  (kto drzi ? - mal by drzat predseda spolocenstva) - vsetky budu musia byt zoscanovane a pristupne do 24 hodin aj v el. podobe vsetkym clenom vykonneho vyboru, registruje ich do knihy doslej posty u financneho podpredsedu, alebo ich naskenovane vlozi do dohodnutej zlozky na googleDrive ?
+- aktivne dokumenty pre aktualny rok  (kto drzi ? - mal by drzat predseda spolocenstva) - vsetky budu musia byt zoscanovane a pristupne do 24 hodin aj v el. podobe vsetkym clenom vykonneho vyboru, registruje ich do knihy doslej posty u financneho podpredsedu, alebo ich naskenovane vlozi do dohodnutej zlozky na googleDrive ? Resp. sa pripravý na google drive jeden xls zosit, kde budu zapisovane online vsetkych informacie, ktore obsahuje kniha doslej a odoslanej posty.
 - publikovanie elektronickych verzii dokumentov zakladatelskej zmluvy a stanov na webe termin, do 30 dni od zvolenia noveho vykonneho vyboru
 
 
