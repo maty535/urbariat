@@ -27,12 +27,11 @@
 - zriadenie uctu na google, tym padom je ulozisko pre dokumenty (googleDrive) zdielane iba so spolocenstvom, resp. pre verejne dokumenty
 - ziskanie pristupu na slovensko.sk a zriadenie notifikacii o novej poste pre vsetkych clenov vykonneho vyboru
 - zriadenie informacnych tabul, resp. vyvesie:
- - 1. obecny urad
-   2. Pred kostolom
-   3. U zika, resp. Jednota obchod
-   4. Skolka
-   5. Krcma u Zika
-   6. Bar na Ihrisku a ihrisko
+  - Obecny urad
+  - Pred kostolom
+  - Krcma u Zika, resp. Jednota obchod
+  - Skolka
+  - Bar na Ihrisku a ihrisko
 
 
 ## Administrativa - rychle zlepsenia (Quick Wins)
