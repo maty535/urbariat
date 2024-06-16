@@ -19,7 +19,7 @@
  - Za zadrziavanie penazi po splatnosti, ktore boli opravnene a nie su sporne (boli podlozene dokladmi (aj elektronickymi: blocky, faktury) je finanacny riaditel zodpovedny osobne:
     - Pri omeskani sa o viac ako 48 hodin od splatnosti dokladov je viazany zaplatit urok vo vyske 2 % zo sumy, ktoru zadrzal na nie viac ako 5 dni.
     - Pri zadrzani o viac ako 7 dni je viazany zaplatit zo svojich prostriedkov 6 % zo zadrzanej sumy.
-    - Pri zadrzani o viac ako 14 dni je zaviazany zaplati 10 % zo zadrzanej sumy.
+    - Pri zadrzani o viac ako 14 dni je zaviazany zaplati 10 % zo zadrzanej sumy + po 14 dni zacina plynut sankcna urokova sadzba podla ECB, resp. NBS,t.z. [zákonné sadzby úrokov z omeškania](https://www.justice.gov.sk/agenda-ministerstva/civilne-pravo/aktualna-sadzba-zakonnych-urokov-z-omeskania/)
 
 
 ## Komunikacia  - rychle zlepsenia (Quick Wins)
