@@ -59,3 +59,22 @@ Dátum vydania poverenia	14.02.2024
 Dátum zverejnenia poverenia	24.02.2024
 ```
 
+### Opakovana ziadost o spristupnenie sudneho spisu z zoznamu vsetkych el. upominacich konani.
+
+Dobry den, 
+
+na zaklade toho, ze organy Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo, so sídlom Obchodná 25/15, 082 52 
+Dulova Ves, IČO: 42 379 831
+
+si neplnili svoje povinnosti riadne a s dostatocnou starostlivostou chranit zaujmy vlastnikov spolocnej nehnutelnosti, a svojim nekonanim, resp. ignorovanim existencie el. komunikacie pomocou slovensko.sk sposobili znacnu skodu spolocenstvu, a aj nadalej nekonaju tak, aby novozvolenym organom spolocenstva umoznili riadny vykon pravomoci a to najme pristup k elektronickej schranke slovensko.sk Vas preto ziadam znovu , aby ste mi, ako vlastnikovi spolocnej nehnutelnosti a zaroven novozvolenemu clenovi vykonneho vyboru spristupnili el. sudny spis a zaroven aj zaslali zoznam vsetkych upominacich a exekucnych konani (cisla spisov, resp. ich ECLI), ktore boli riesene v el. upominacom konani na Vasom sude voci spolocenstvu urbariát Dulova Ves pozemkové spoločenstvo, so sídlom Obchodná 25/15, 082 52 
+Dulova Ves, IČO: 42 379 831.
+
+
+Dakujem za porozumenie.
+
+
+V lehote do 21 dni by sme mali ziskat pristup na slovensko.sk, a tym aj vsetky informacie, ktore sa snazili sudy a ine organy dorucovat nasmu spolocenstvu el. formou cez slovensko.sk.
+
+
+Za porozumenie Vam dakujem.
+
