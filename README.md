@@ -2,8 +2,8 @@
 
 ## Rychle zlepsenia (Quick Wins)
  - kazda planovana a schvalena vykonavana cinnost v urbariate bude komunikovana vsetkym clenom, ktori ak prejavia zaujem,sa budu na nej moct spolupodielat, t.z. ju budu moct vykonat za rovnakych podmienok ako bola dohodnuta s externymi dodavatelmi. V pripade nedodrzania kvality, reps. nevykonania prac, to bude transparentne komunikovane a budu sa hladat aj napravne opatrenia tohto stavu. (Treba pozbierat kontakty a aj odbornost, resp. realne moznosti ludi)
- - prebrat ASAP pristup na slovensko.sk
- - notifikacie o spravach na slovensko sk budu dostavat vsetci clenovia vykonneho vyboru 
+ - ~~prebrat ASAP pristup na slovensko.sk~~: $${\color{green}DONE}$$
+ - ~~notifikacie o spravach na slovensko sk budu dostavat vsetci clenovia vykonneho vyboru~~: DONE 
  - ASAP ziskat suhlas s el. spracovanim zakladnych osobnych udajov v rozsahu: Meno, Priezvisko, Bydlisko, Mobil, Email, Profesia(Odbornost), Cislo Uctu od kazdeho podielnika.
 - ASAP zastavit spekulativne skupovanie podielov externymi ludmi, bude na to treba vyclenit budget, bude sa treba poradit, ako sa s tymto fenomenom vyrovnavaju v inych urbariatnych spolocnostiach v SR
 - vypracovanie auditu cinnosti 
