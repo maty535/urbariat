@@ -7,6 +7,7 @@
  >- ~~notifikacie o spravach na slovensko sk budu dostavat vsetci clenovia vykonneho vyboru~~: DONE
  >- ASAP ziskat suhlas s el. spracovanim zakladnych osobnych udajov v rozsahu: Meno, Priezvisko, Bydlisko, Mobil, Email, Profesia(Odbornost), Cislo Uctu od kazdeho podielnika.
  >- ASAP zastavit spekulativne skupovanie podielov externymi ludmi, bude na to treba vyclenit budget, bude sa treba poradit, ako sa s tymto fenomenom vyrovnavaju v inych urbariatnych spolocnostiach v SR
+
 > [!IMPORTANT]  
 >- vypracovanie auditu cinnosti 
 
