@@ -1,7 +1,7 @@
 
 # Urbariát Dulova Ves - verejné informácie
-
-## Dňa 25.5.2024 na valnom zhromaždení členov urbariátu v Dulovej Vsi bol zvolený nový výkonný výbor urbariátu v tomto zložení:
+ Dňa 25.5.2024 na valnom zhromaždení členov urbariátu v Dulovej Vsi bol zvolený nový 
+## Výkonný výbor urbariátu:
 
 - Peter Semeš ml. [kontakt: 0905 384 750, petersemesvt(at)gmail.com ]
 - Marta Giňovská [kontakt: 0908 591 984, marta.ginovska(at)gmail.com]
@@ -10,9 +10,9 @@
 - Ing. Matúš Ivanecký [kontakt: 0918 730 322, matus.ivanecky(at)gmail.com]
 
 ## ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa bohužial nezúčastnili valného zhromaždenia
-Stanislav Leško
-Pavol Sokol
-Anton Petrovčík
+- Stanislav Leško
+- Pavol Sokol
+- Anton Petrovčík
 
 ### Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových štatutárnych zástupcov:
 - Predseda: Peter Semeš ml. [získal 5 hlasov z 5]
