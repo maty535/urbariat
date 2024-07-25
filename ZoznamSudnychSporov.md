@@ -1,6 +1,11 @@
+---
+layout: default
+title: Súdne spory
+description: Prehľad vsetkych vedenych sudnych sporov a konani
+---
 # Zoznam vsetkych vedenych sudnych sporov a konani
 
-stav v konaniach žalobcu P. Jarkovský – CORYN
+Stav v konaniach žalobcu P. Jarkovský – CORYN
 
 38Up/852/2023 na OS Banská Bystrica – o neúčinnosť doručenia platobného rozkazu – podané odvolanie z 8.4.2024 proti uzneseniu zo 14.3.2024, ktorým súd zamietol náš návrh na vyslovenie neúčinnosti doručenia. O odvolaní zatiaľ nerozhodnuté.
 
