@@ -2,7 +2,7 @@
 
 ## Rychle zlepsenia (Quick Wins)
  - kazda planovana a schvalena vykonavana cinnost v urbariate bude komunikovana vsetkym clenom, ktori ak prejavia zaujem,sa budu na nej moct spolupodielat, t.z. ju budu moct vykonat za rovnakych podmienok ako bola dohodnuta s externymi dodavatelmi. V pripade nedodrzania kvality, reps. nevykonania prac, to bude transparentne komunikovane a budu sa hladat aj napravne opatrenia tohto stavu. (Treba pozbierat kontakty a aj odbornost, resp. realne moznosti ludi)
- > [!TIP]
+ > [!TIP|Splnene]
  >- ~~prebrat ASAP pristup na slovensko.sk~~: $${\color{green}}$$ DONE
  >- ~~notifikacie o spravach na slovensko sk budu dostavat vsetci clenovia vykonneho vyboru~~: DONE
 
