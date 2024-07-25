@@ -13,7 +13,7 @@ Stav v konaniach žalobcu P. Jarkovský – CORYN
 
 - 14Up/766/2023 na OS Banská Bystrica – o zaplatenie 3.474,53 € - sme podali návrh na neúčinnosť doručenia platobného rozkazu, ktorý bol uznesením z 3.7.2024 zamietnutý. Tu už bol podaný návrh na exekúciu a zrejmé aj zrealizovaný.
 
-                Uznesenie o zamietnutí návrhu na neúčinnosť doručenia bude prevzatá 19.7.2024 a proti nemu bude prípustné odvolanie. Vyjadrite sa, či chcete podať odvolanie. Úspech  odvolania zrejme nie je možné predpokladať, skôr nebudeme úspešní.
+   -- Uznesenie o zamietnutí návrhu na neúčinnosť doručenia bude prevzatá 19.7.2024 a proti nemu bude prípustné odvolanie. Vyjadrite sa, či chcete podať odvolanie. Úspech  odvolania zrejme nie je možné predpokladať, skôr nebudeme úspešní.
 
 - 17C/51/2023 OS Prešov – o relatívnu neplatnosť kúpnych zmlúv – bolo pojednávanie určené na 4.6.2024 zrušené a nový termín zatiaľ nebol určený.
 
