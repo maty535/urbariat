@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Nárvhy na zlepšenie
+description: Koncept nárvhov na zlepšenie fungovania spoločenstva
 ---
 
 # Urbariat dulova ves - poznamky - [ koncept, nezavazne, predlozit na diskusiu vo vybore]
