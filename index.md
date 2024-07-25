@@ -1,8 +1,9 @@
+[Prebiehajúce aktivity](./README.html)
 
 # Urbariát Dulova Ves - verejné informácie
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
 
-[Ďalšie detaily](./README.html).
+
 
 ## Výkonný výbor urbariátu:
 - Peter Semeš ml. [kontakt: 0905 384 750, petersemesvt(at)gmail.com ]
