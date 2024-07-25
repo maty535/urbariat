@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [Prebiehajúce aktivity](./another-page.html) [Prehľad súdnych sporov](./ZoznamSudnychSporov.html)
 
 # Urbariát Dulova Ves - verejné informácie
@@ -18,7 +22,6 @@
 - Anton Petrovčík
 
 - Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových štatutárnych zástupcov.
-- Výkonný výbor aktuálne pracuje na doladení veci ohľadom 2 podpredsedu a pokladníka a na probléme kumulácii niektorých zodpovedností a povinností v rámci výkonného výboru.
 
 ## Štatutárny zástupcovia:
 - Predseda: Peter Semeš ml. [získal 5 hlasov z 5]
