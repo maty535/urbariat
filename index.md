@@ -14,7 +14,8 @@
 - Pavol Sokol
 - Anton Petrovčík
 
-### Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových štatutárnych zástupcov:
+Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových 
+## štatutárnych zástupcov:
 - Predseda: Peter Semeš ml. [získal 5 hlasov z 5]
 - Podpredseda: Matúš Bidovský [získal 4 hlasy z 5]
 - Výkonný výbor aktuálne pracuje na doladení veci ohľadom 2 podpredsedu a pokladníka a na probléme kumulácii niektorých zodpovedností a povinností v rámci výkonného výboru.
