@@ -1,4 +1,4 @@
-[Prebiehajúce aktivity](./README.html)
+[Prebiehajúce aktivity](./another-page.html)
 
 # Urbariát Dulova Ves - verejné informácie
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
