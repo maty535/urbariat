@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Prebiehajúce aktivity](./navrhy-zlepseni.html) [Prehľad súdnych sporov](./ZoznamSudnychSporov.html)
+[Prebiehajúce aktivity](./navrhy-zlepseni.html) 
+[Prehľad súdnych sporov](./ZoznamSudnychSporov.html)
 
 # Urbariát Dulova Ves - verejné informácie
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
