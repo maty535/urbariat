@@ -14,11 +14,13 @@
 - Pavol Sokol
 - Anton Petrovčík
 
-Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových štatutárnych zástupcov.
+- Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových štatutárnych zástupcov.
+- Výkonný výbor aktuálne pracuje na doladení veci ohľadom 2 podpredsedu a pokladníka a na probléme kumulácii niektorých zodpovedností a povinností v rámci výkonného výboru.
 
 ## Štatutárny zástupcovia:
 - Predseda: Peter Semeš ml. [získal 5 hlasov z 5]
 - Podpredseda: Matúš Bidovský [získal 4 hlasy z 5]
 
-- Výkonný výbor aktuálne pracuje na doladení veci ohľadom 2 podpredsedu a pokladníka a na probléme kumulácii niektorých zodpovedností a povinností v rámci výkonného výboru.
-- Odborný lesný hospodár: Anton Pustý, 0908 218 331 avizoval potrebu realizácie čistenia/vyžínania obasti lesa o výmera cca. 8-ha, ktorá bola vyťažená a prebehla na nej min. rok nová výsadba sadeníc porastu. výbor preverí túto aktivitu,jej podmienky a hlavne opodstatnenosť.
+ 
+## Odborný lesný hospodár: 
+- Anton Pustý, 0908 218 331 avizoval potrebu realizácie čistenia/vyžínania obasti lesa o výmera cca. 8-ha, ktorá bola vyťažená a prebehla na nej min. rok nová výsadba sadeníc porastu. výbor preverí túto aktivitu,jej podmienky a hlavne opodstatnenosť.
