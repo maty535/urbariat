@@ -1,3 +1,9 @@
+---
+layout: default
+title: Another page
+description: This is just another page
+---
+
 # Urbariat dulova ves - poznamky - [ koncept, nezavazne, predlozit na diskusiu vo vybore]
 
 ## Rychle zlepsenia (Quick Wins)
@@ -94,3 +100,5 @@
 
 - dozorna rada ma pravo zucstnict sa kazdeho, aj neverejneho zasadnutia vykonneho vyboru a pozadovat originaly dokladov a vysvetlenie vykonneho vyboru ku ktorejkolvek transakcii, alebo ktorejkolvek zmluve alebo cinnosti vykonavanej v urbare, co musi vykonny vybor akceptovat a dodat vsetky potrebne informacie a dokumenty do 48 hodin, resp. bezodkladne.
 - predseda, resp. ktorykolvek clen vykonneho vyboru, po odsuhlaseni zasadnutia by mal poslat pozvanku (o com sa ide rokovat - body rokovania aj s podkladmi) s terminom konania vykonneho vyboru aj na vsetkych clenov dozornej rady a to min. 3 dni pred zasadnutim vykonneho vyboru
+
+[back](./)
