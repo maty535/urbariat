@@ -11,7 +11,7 @@
 - Vladimír Koropšák ml. [kontakt: 0907 606 664, vladimir.koropsak(at)vkcontrol.sk]
 - Ing. Matúš Ivanecký [kontakt: 0918 730 322, matus.ivanecky(at)gmail.com]
 
- ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa bohužial nezúčastnili valného zhromaždenia
+ ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa nezúčastnili valného zhromaždenia
 - Stanislav Leško
 - Pavol Sokol
 - Anton Petrovčík
