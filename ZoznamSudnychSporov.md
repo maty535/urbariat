@@ -21,4 +21,4 @@ S pozdravom
 
 JUDr. Jozef Tarabčák, advokát 
 
-- urbariát zastupuje AK Tarabčák: 0903 770 428, tarabcak(at)centrum.sk
+- urbariát zastupoval do 23.7.2024 AK Tarabčák: 0903 770 428, tarabcak(at)centrum.sk
