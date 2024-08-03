@@ -7,7 +7,7 @@ description: Organizačná štruktúra spoločenstva
 # Urbariát Dulova Ves - Aktuálna organizačná štruktúra
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
 
-## Výbor:
+## Výbor
 
 |Meno|Funkcia|Od|
 |:-------------|:------------------|:------|
@@ -22,7 +22,7 @@ ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa
 - Pavol Sokol
 - Anton Petrovčík
 
-## Dozorná rada:
+## Dozorná rada
 
 |Meno|Funkcia| Od|
 |:-------------|:------------------|:------|
