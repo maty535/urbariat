@@ -3,7 +3,7 @@ title: "Odvodňovacie zariadenia nad ihriskom"
 date: 2024-06-11
 ---
 
-## Projekt obce pre realizáciu vodozádrzných opatrení v lokalite nad Ihriskom
+## Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom
  
  Zdôvodnenie potreby stavby
 
