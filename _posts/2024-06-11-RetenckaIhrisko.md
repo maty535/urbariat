@@ -12,13 +12,11 @@ Ing. Ján Komorník (rodák z obce Dulova Ves) v projekte uvádza:
 
 ### Zdôvodnenie potreby stavby
 
-V súčasnosti chýba systém odvodnenia v lokalite nad ihriskom v Dulovej Vsi. Pôvodný systém odvodnenia bol výstav-
-bou rodinných domov zrušený, čím vzniklo riziko nedostatočného odvodnenia v tejto lokalite s následným zaplavením územia a poškodením majetku.
+V súčasnosti chýba systém odvodnenia v lokalite nad ihriskom v Dulovej Vsi. Pôvodný systém odvodnenia bol výstavbou rodinných domov zrušený, čím vzniklo riziko nedostatočného odvodnenia v tejto lokalite s následným zaplavením územia a poškodením majetku.
 
 ### Účel a ciele stavby
 
-Účelom navrhovanej stavby je odstránenie nevyhovujúceho systému odvodnenia danej lokality. Cieľom navrhovanej stavby je zlepšenie systému odvodnenia a zabráneniu zaplavenia územia a poškodenia majetku, ako aj bezpečnosť pre obyva-
-teľov tejto lokality.
+Účelom navrhovanej stavby je odstránenie nevyhovujúceho systému odvodnenia danej lokality. Cieľom navrhovanej stavby je zlepšenie systému odvodnenia a zabráneniu zaplavenia územia a poškodenia majetku, ako aj bezpečnosť pre obyvateľov tejto lokality.
 
 Predmetná stavba je zložená z týchto časti:
  1. Retenčno-vsakovacia nádrž
