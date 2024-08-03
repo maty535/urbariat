@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: O nás
 description: Základne právne a registračné informácie o spoločenstve
+permalink: /about/
 ---
 
 # Registrácia spoločenstva v registri pozemkových spoločebstiev
