@@ -22,14 +22,14 @@ minima:
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   date_format: "%d. %m. %Y"
 
-  social_links:
-    - { platform: twitter,              user_url: "https://twitter.com/urbarDulova" }
+  #social_links:
+  #  - { platform: twitter,              user_url: "https://twitter.com/urbarDulova" }
 
 show_excerpts: true
 
-#plugins:
-# - jekyll-feed
-# - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
  
 header_pages:
   - about.md
