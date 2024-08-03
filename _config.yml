@@ -6,10 +6,9 @@ description: >
   spoločenstva. Dopredu Vám ďakujeme za návrhy na akékoľvek zlepšenia,
   alebo opravu chýb.
 
-author:
-  name: Ing. Matus Ivanecky
-  email: matus.ivanecky@gmail.com
-
+author: Ing. Matus Ivanecky
+email: matus.ivanecky@gmail.com
+rss: rss
 theme: minima
 
 minima:
