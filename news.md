@@ -4,7 +4,7 @@ title: Orgány
 description: Organizačná štruktúra spoločenstva
 ---
 
-# Urbariát Dulova Ves - verejné informácie
+# Urbariát Dulova Ves - Aktuálna organizačná štruktúra
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
 
 ## Výkonný výbor urbariátu:
