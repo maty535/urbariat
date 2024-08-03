@@ -3,7 +3,7 @@ title: Urbariát a pasienkové spoločenstvo v Dulovej Vsi
 description: Urbariát Dulova Ves - verejné informácie
 
 github:
-  is_project_page: true
+  is_project_page: false
 
 # Display breadcrumbs at all?
 breadcrumb_display: true
