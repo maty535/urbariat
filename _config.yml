@@ -3,12 +3,18 @@ theme: minima
 minima:
   date_format: "%d. %m. %Y"
   skin: dark
-  
-#url: http://urbar.imcontec.eu
+
+
 title: Urbariát Dulova Ves
 description: Urbariát Dulova Ves - verejné informácie
 show_excerpts: true
 
+#url: http://urbar.imcontec.eu
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ 
 github:
   is_project_page: false
 
