@@ -10,11 +10,8 @@ author:
   name: Ing. Matus Ivanecky
   email: matus.ivanecky@gmail.com
 
-rss: rss
-
-
 minima:
-  skin: solarized-dark
+  skin: solarized-light
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -22,7 +19,7 @@ minima:
   date_format: "%d. %m. %Y"
 
   social_links:
-    - { platform: x,              user_url: "https://x.com/urbarDulova" }
+    - { platform: twitter,              user_url: "https://twitter.com/urbarDulova" }
 
 show_excerpts: true
 
