@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O nás
-description: Základne informácie o spoločenstve
+description: Základne právne a registračné informácie o spoločenstve
 ---
 
 
