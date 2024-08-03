@@ -9,9 +9,8 @@ description: Najnovšie oznamy spoločenstva
 
 ## Výkonný výbor urbariátu:
 
-|Meno|Kontakt|Od|
+|Meno|Funkcia|Od|
 |:-------------|:------------------|:------|
-|Meno|Funkcia| Od|
 |Ing. Peter Semeš ml. |člen - predseda|26.05.2024| 
 |Marta Giňovská |člen|26.05.2024| 
 |Matúš Bidovský |člen - podpredseda|26.05.2024| 
