@@ -2,7 +2,7 @@ theme: minima
 
 minima:
   date_format: "%d. %m. %Y"
-  skin: solarized
+  skin: solarized-dark
   
 #url: http://urbar.imcontec.eu
 title: Urbariát
