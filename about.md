@@ -24,13 +24,13 @@ description: Základne právne a registračné informácie o spoločenstve
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka
 |:---------- | :--------- | :------- | :--------
-| 813591 | DULOVA VES | 414 | |			
-| 813591 | DULOVA VES | 473 | |			
-| 813591 | DULOVA VES | 822 | |			
-| 874159 | ŽEHŇA | 633	    | |	
-| 874159 | ŽEHŇA | 634	    | |	
-| 874159 | ŽEHŇA | 1033     | |		
-| 874159 | ŽEHŇA | 1037     | |
+| 813591 | DULOVA VES | [414](https://kataster.skgeodesy.sk/eskn-portal/search/lv/nahlad?p1=gy2bq796Kj90WhvvJEaI6w) | |			
+| 813591 | DULOVA VES | 473 | nenašiel sa LV |			
+| 813591 | DULOVA VES | [822](https://kataster.skgeodesy.sk/eskn-portal/search/lv/nahlad?p1=73ideqAOrWPgBEoHDzBk3w) | |			
+| 874159 | ŽEHŇA | 633	    | nenašiel sa LV |	
+| 874159 | ŽEHŇA | [634](https://kataster.skgeodesy.sk/eskn-portal/search/lv/nahlad?p1=apa99seoT0AXBtxXGu5aIw)	    | |	
+| 874159 | ŽEHŇA | [1033](https://kataster.skgeodesy.sk/eskn-portal/search/lv/nahlad?p1=iH8NlRqc-GfC4iGssie4Lw)     | |		
+| 874159 | ŽEHŇA | [1037](https://kataster.skgeodesy.sk/eskn-portal/search/lv/nahlad?p1=iH8NlRqc-GfJ8SkwUI1QRA)     | |
 
 
 # História
