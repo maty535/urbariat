@@ -2,9 +2,9 @@
 title: "Valné zhromaždenie"
 date: 2024-05-25
 ---
-
-# Urbariát Dulova Ves - Valné zhromaždenie - 25.5.2024
- Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
+- Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový výbor a dozorná rada.
+  -- [Zápisnica a uznesenie z VZ] ([https://drive.google.com/drive/folders/1DDMp7_qrtbSMIan6DcWQe4PBxGbJ-mDZ?usp=drive_link](https://drive.google.com/drive/folders/1WViJzAvt_b4kK8qIZ7vzys79xCvk5Jzv?usp=drive_link))
+  
 
 ## Výkonný výbor urbariátu:
 
