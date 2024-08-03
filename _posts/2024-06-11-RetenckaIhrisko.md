@@ -20,10 +20,10 @@ bou rodinných domov zrušený, čím vzniklo riziko nedostatočného odvodnenia
 teľov tejto lokality.
 
 Predmetná stavba je zložená z týchto časti:
-A. Retenčno-vsakovacia nádrž
-B. Dláždená priekopa
-C. Vsakovacia priekopa
-D. Priepust pod poľnou cestou
+ 1. Retenčno-vsakovacia nádrž
+ 1. Dláždená priekopa
+ 1. Vsakovacia priekopa
+ 1. Priepust pod poľnou cestou
 
    
 ![image](https://github.com/user-attachments/assets/08a7d86e-82b5-4797-8a9a-820c91a88983)
