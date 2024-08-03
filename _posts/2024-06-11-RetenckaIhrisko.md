@@ -1,6 +1,6 @@
 ---
 title: "Odvodňovacie zariadenie nad ihriskom"
-description: "Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom"
+description: "Výbor schválil zámer obce, poskytne svcoju plnú súčinnosť a prenajme obce pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení podielnikov upozorní aby svojvoľne nezasypávanie existujúce odvodňovacie priekopy"
 date: 2024-06-11
 ---
 
