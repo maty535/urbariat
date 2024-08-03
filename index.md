@@ -3,29 +3,16 @@ layout: default
 ---
 
 # Registrácia spoločenstva
-
-|:------------------------------|:------------------|
-| IČO           |42379831|
-| Dátum zápisu:| 10.03.2014   |
-| Vložka číslo:| R-0054/PO<      |
-| Stav PS:     | Zaregistrovaná |
-| Funkčné obdobie výboru:| 5 rokov |
-| Funkčné obdobie dozornej rady:| 5 rokov|
-| Vykonáva podnikateľskú činnosť?| nie|
-|Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti:|nie|
-|Poznámka:||
-
 <dl>
 <dt>IČO:</dt><dd> 42379831</dd>
 <dt>Dátum zápisu:</dt><dd> 10.03.2014</dd>
 <dt>Vložka číslo:</dt><dd> R-0054/PO</dd>
 <dt>Stav PS:</dt><dd> Zaregistrovaná</dd>
-<dt>Funkčné obdobie výboru:</dt><dd> 5</dd>
-<dt>Funkčné obdobie dozornej rady:</dt><dd> 5</dd>
+<dt>Funkčné obdobie výboru:</dt><dd> 5 rokov</dd>
+<dt>Funkčné obdobie dozornej rady:</dt><dd> 5 rokov</dd>
 <dt>Vykonáva podnikateľskú činnosť?</dt><dd> nie</dd>
 <dt>Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti:</dt><dd>nie</dd>
-<dt>Poznámka:</dt></dt><dd></dd>
-
+<dt>Poznámka:</dt>
 </dl>
 
 # Urbariát Dulova Ves - verejné informácie
