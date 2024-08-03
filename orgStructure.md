@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Orgány
 description: Organizačná štruktúra spoločenstva
+permalink: /organization/
 ---
 
 # Aktuálna organizačná štruktúra
