@@ -1,6 +1,6 @@
 ---
 title: "Odvodňovacie zariadenie nad ihriskom"
-date: 2024-06-11
+date: 2024-07-08
 ---
 - Výbor schválil zámer obce, poskytne svcoju plnú súčinnosť a prenajme obci pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení upozorní podielnikov aby svojvoľne nezasypávali existujúce odvodňovacie priekopy
 
