@@ -11,7 +11,7 @@ author:
   email: matus.ivanecky@gmail.com
 
 minima:
-  skin: solarized-light
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -29,9 +29,6 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
-github:
-  is_project_page: true
-
 header_pages:
   - about.md
   - orgStructure.md
