@@ -2,6 +2,19 @@
 layout: default
 ---
 
+IČO: 42379831
+Dátum zápisu: 10.03.2014
+Vložka číslo: R-0054/PO
+Stav PS: Zaregistrovaná
+Likvidácia od:
+Dátum zrušenia:
+Dôvod zrušenia:
+Funkčné obdobie výboru: 5
+Funkčné obdobie dozornej rady: 5
+Vykonáva podnikateľskú činnosť? nie
+Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti: nie
+Poznámka:
+
 [Prebiehajúce aktivity](./navrhy-zlepseni.html) 
 [Prehľad súdnych sporov](./ZoznamSudnychSporov.html)
 
