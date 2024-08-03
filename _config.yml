@@ -1,3 +1,4 @@
+url: https://urbar.imcontec.eu
 title: Urbariát Dulova Ves
 #description: Urbariát Dulova Ves - verejné informácie
 description: >
@@ -23,18 +24,15 @@ minima:
 
 show_excerpts: true
 
-#url: http://urbar.imcontec.eu
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
  
 header_pages:
   - about.md
   - orgStructure.md
   - docs.md
   - contacts.md
-
 
 remote_theme: jekyll/minima
 plugins:
