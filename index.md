@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# Registrácia spoločenstva
 IČO: 42379831
 Dátum zápisu: 10.03.2014
 Vložka číslo: R-0054/PO
@@ -14,9 +14,6 @@ Funkčné obdobie dozornej rady: 5
 Vykonáva podnikateľskú činnosť? nie
 Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti: nie
 Poznámka:
-
-[Prebiehajúce aktivity](./navrhy-zlepseni.html) 
-[Prehľad súdnych sporov](./ZoznamSudnychSporov.html)
 
 # Urbariát Dulova Ves - verejné informácie
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
