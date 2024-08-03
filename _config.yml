@@ -12,7 +12,6 @@ author:
 
 rss: rss
 
-theme: minima
 
 minima:
   skin: solarized-dark
@@ -34,7 +33,7 @@ plugins:
  - jekyll-seo-tag
  
 github:
-  is_project_page: false
+  is_project_page: true
 
 header_pages:
   - about.md
@@ -42,11 +41,7 @@ header_pages:
   - docs.md
   - contacts.md
 
-plugins:
-  - jekyll-remote-theme
 
 remote_theme: jekyll/minima
-
-#remote_theme: pages-themes/cayman@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins:
+  - jekyll-remote-theme
