@@ -36,4 +36,4 @@ header_pages:
 
 plugins:
   - jekyll-remote-theme
-remote_theme: minima
+remote_theme: jekyll/minima
