@@ -1,5 +1,6 @@
 ---
 title: "Odvodňovacie zariadenie nad ihriskom"
+description: "Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom"
 date: 2024-06-11
 ---
 
