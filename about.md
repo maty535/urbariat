@@ -7,7 +7,7 @@ description: Základne právne a registračné informácie o spoločenstve
 
 # Registrácia spoločenstva v registri pozemkových spoločebstiev
  
-| ---------------- | ------------------------------------------------ |
+|:----------------|:------------------------------------------------ |
 | **Názov** | Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo |
 | **Sídlo** | Obchodná 25/15, 082 52 Dulova Ves |
 | **IČO** |42379831 |
