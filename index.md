@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Registrácia spoločenstva
 IČO: 42379831
 Dátum zápisu: 10.03.2014
