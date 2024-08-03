@@ -9,7 +9,7 @@ date: 2024-06-11
    
 Ing. Ján Komorník (rodák z obce Dulova Ves) v projekte uvádza:  
 
- ### Zdôvodnenie potreby stavby
+### Zdôvodnenie potreby stavby
 
 V súčasnosti chýba systém odvodnenia v lokalite nad ihriskom v Dulovej Vsi. Pôvodný systém odvodnenia bol výstav-
 bou rodinných domov zrušený, čím vzniklo riziko nedostatočného odvodnenia v tejto lokalite s následným zaplavením územia a poškodením majetku.
