@@ -1,10 +1,10 @@
-## 2.5.0
+## 2024
 
-### Bug Fixes
+### Správa o činnosti
 
  * Add `jekyll-feed` plugin in config (#228)
 
-### Minor Enhancements
+### Zlepšenia
 
  * Stick footer for short posts (#223)
  * Consolidate trigger SVG paths (#148)
