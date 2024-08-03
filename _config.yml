@@ -1,3 +1,4 @@
+baseurl: ""
 url: http://urbar.imcontec.eu
 title: Urbariát Dulova Ves
 description: >
@@ -6,9 +7,9 @@ description: >
   spoločenstva. Dopredu Vám ďakujeme za návrhy na akékoľvek zlepšenia,
   alebo opravu chýb.
 
-feed_items: 10
-feed_update_period: daily
-feed_update_frequency: 1
+#feed_items: 10
+#feed_update_period: daily
+#feed_update_frequency: 1
 
 author:
   name: Ing. Matus Ivanecky
@@ -27,10 +28,6 @@ minima:
 
 show_excerpts: true
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
- 
 header_pages:
   - about.md
   - orgStructure.md
