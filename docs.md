@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Dokumenty
 description: Základne dokumenty spoločenstva
+permalink: /docs/
 ---
 
 # Zakladateľské dokumenty
