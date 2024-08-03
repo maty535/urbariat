@@ -1,9 +1,13 @@
 ---
-title: "Odvodňovacie zariadenia nad ihriskom"
+title: "Odvodňovacie zariadenie nad ihriskom"
 date: 2024-06-11
 ---
 
 ## Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom
+
+ - Projektová dokumentácia: https://drive.google.com/drive/folders/1DDMp7_qrtbSMIan6DcWQe4PBxGbJ-mDZ?usp=drive_link
+   
+
  
  ### Zdôvodnenie potreby stavby
 
@@ -25,7 +29,7 @@ D. Priepust pod poľnou cestou
 ![image](https://github.com/user-attachments/assets/08a7d86e-82b5-4797-8a9a-820c91a88983)
 
 
-![Screenshot from 2024-08-03 12-05-37](https://github.com/user-attachments/assets/92cda5a5-140e-4e31-88e3-2c2fcb2eb560)
+![Screenshot from 2024-08-03 12-05-37](https://github.com/user-attachments/assets/1349d11b-e6b5-4020-ad87-7e10c1f23b33)
 
 
 ![Screenshot from 2024-08-03 12-08-16](https://github.com/user-attachments/assets/51cfa24e-e9f9-4a4e-bd76-8237a515f714)
