@@ -36,4 +36,4 @@ Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zv
 
  
 ## Odborný lesný hospodár: 
-- Anton Pustý, 0908 218 331 avizoval potrebu realizácie čistenia/vyžínania obasti lesa o výmera cca. 8-ha, ktorá bola vyťažená a prebehla na nej min. rok nová výsadba sadeníc porastu. výbor preverí túto aktivitu,jej podmienky a hlavne opodstatnenosť.
+- Anton Pustý
