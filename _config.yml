@@ -1,11 +1,14 @@
-url: https://urbar.imcontec.eu
+url: http://urbar.imcontec.eu
 title: Urbariát Dulova Ves
-#description: Urbariát Dulova Ves - verejné informácie
 description: >
   Toto je úvodná verzia web lokality Urbariátu Dulova Ves, ktorej
   cieľom je zlepšiť informovanosť podielnikov tohto urbariátneho
   spoločenstva. Dopredu Vám ďakujeme za návrhy na akékoľvek zlepšenia,
   alebo opravu chýb.
+
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 
 author:
   name: Ing. Matus Ivanecky
