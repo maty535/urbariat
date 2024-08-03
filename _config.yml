@@ -1,3 +1,8 @@
+title: Urbariát Dulova Ves
+description: Urbariát Dulova Ves - verejné informácie
+author: Matus Ivanecky
+email: matus.ivanecky@gmail.com
+
 theme: minima
 
 minima:
@@ -5,8 +10,6 @@ minima:
   skin: dark
 
 
-title: Urbariát Dulova Ves
-description: Urbariát Dulova Ves - verejné informácie
 show_excerpts: true
 
 #url: http://urbar.imcontec.eu
