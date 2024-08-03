@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kontakty spoločenstva
+title: Kontakty
 description: Oficialné kontakty spoločenstva
 ---
 
