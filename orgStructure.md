@@ -38,4 +38,4 @@ Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zv
 
  
 ## Odborný lesný hospodár: 
-- Anton Pustý
+- Ing. Anton Pustý
