@@ -34,6 +34,6 @@ header_pages:
   - docs.md
   - contacts.md
 
-remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+remote_theme: minima
