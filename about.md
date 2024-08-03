@@ -20,15 +20,16 @@ description: Základne právne a registračné informácie o spoločenstve
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
 
 ## Katastrálne informácie
+
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka
 |:---------- | :--------- | :------- | :--------
-| | 813591 | DULOVA VES | 414 | |			
-| | 813591 | DULOVA VES | 473 | |			
-| | 813591 | DULOVA VES | 822 | |			
-| | 874159 | ŽEHŇA | 633	    | |	
-| | 874159 | ŽEHŇA | 634	    | |	
-| | 874159 | ŽEHŇA | 1033     | |		
-| | 874159 | ŽEHŇA | 1037     | |
+| 813591 | DULOVA VES | 414 | |			
+| 813591 | DULOVA VES | 473 | |			
+| 813591 | DULOVA VES | 822 | |			
+| 874159 | ŽEHŇA | 633	    | |	
+| 874159 | ŽEHŇA | 634	    | |	
+| 874159 | ŽEHŇA | 1033     | |		
+| 874159 | ŽEHŇA | 1037     | |
 
 
 # História
