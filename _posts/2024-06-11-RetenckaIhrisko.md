@@ -5,7 +5,7 @@ date: 2024-06-11
 
 ## Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom
 
- - Projektová dokumentácia: https://drive.google.com/drive/folders/1DDMp7_qrtbSMIan6DcWQe4PBxGbJ-mDZ?usp=drive_link
+ - [Projektová dokumentácia](https://drive.google.com/drive/folders/1DDMp7_qrtbSMIan6DcWQe4PBxGbJ-mDZ?usp=drive_link)
    
 
  
