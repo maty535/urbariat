@@ -4,7 +4,7 @@ title: Kontakty
 description: Oficialné kontakty spoločenstva
 ---
 
-# Urbariát Dulova Ves - kontaktné informácie
+# Kontaktné informácie
  
 
 ## Výkonný výbor urbariátu:
