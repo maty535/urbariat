@@ -18,7 +18,7 @@ description: Základne dokumenty spoločenstva
 
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
-| 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)| Výbor schválil zámer obce, poskytne svcoju plnú súčinnosť a prenajme obce pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení podielnikov upozorní aby svojvoľne nezasypávanie existujúce odvodňovacie priekopy|
+| 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)| Výbor schválil zámer obce, poskytne jej svcoju plnú súčinnosť a prenajme obci pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení podielnikov upozorní aby svojvoľne nezasypávanie existujúce odvodňovacie priekopy|
 
 
 # Stanovy
