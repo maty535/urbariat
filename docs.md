@@ -15,6 +15,7 @@ description: Základne dokumenty spoločenstva
 
 
 # Projekty
+
 | Dátum        | Dokument          |
 |:-------------|:------------------|
 | 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)|
