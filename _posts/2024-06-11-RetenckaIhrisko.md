@@ -7,7 +7,7 @@ date: 2024-06-11
 
  - [Projektová dokumentácia](https://drive.google.com/drive/folders/1DDMp7_qrtbSMIan6DcWQe4PBxGbJ-mDZ?usp=drive_link)
    
-Ing. Ján Komorník v projekte uvádza:  
+Ing. Ján Komorník (rodák z obce Dulova Ves) v projekte uvádza:  
  ### Zdôvodnenie potreby stavby
 
 V súčasnosti chýba systém odvodnenia v lokalite nad ihriskom v Dulovej Vsi. Pôvodný systém odvodnenia bol výstav-
