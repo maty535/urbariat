@@ -4,15 +4,17 @@ layout: default
 
 # Registrácia spoločenstva
 <dl>
-<dt>IČO:</dt><dd> 42379831</dd>
-<dt>Dátum zápisu:</dt><dd> 10.03.2014</dd>
-<dt>Vložka číslo:</dt><dd> R-0054/PO</dd>
-<dt>Stav PS:</dt><dd> Zaregistrovaná</dd>
-<dt>Funkčné obdobie výboru:</dt><dd> 5 rokov</dd>
-<dt>Funkčné obdobie dozornej rady:</dt><dd> 5 rokov</dd>
-<dt>Vykonáva podnikateľskú činnosť?</dt><dd> nie</dd>
-<dt>Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti:</dt><dd>nie</dd>
-<dt>Poznámka:</dt>
+ <dt>Názov:</dt><dd>Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo</dd>
+ <dt>Sídlo:</dt><dd>Obchodná 25/15, 082 52 Dulova Ves</dd>
+ <dt>IČO:</dt><dd>42379831</dd>
+ <dt>Dátum zápisu:</dt><dd> 10.03.2014</dd>
+ <dt>Vložka číslo:</dt><dd> R-0054/PO</dd>
+ <dt>Stav PS:</dt><dd> Zaregistrovaná</dd>
+ <dt>Funkčné obdobie výboru:</dt><dd> 5 rokov, od 26.5.2024</dd>
+ <dt>Funkčné obdobie dozornej rady:</dt><dd> 5 rokov, od 26.5.2024</dd>
+ <dt>Vykonáva podnikateľskú činnosť?</dt><dd> nie</dd>
+ <dt>Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti:</dt><dd>nie</dd>
+ <dt>Poznámka:</dt>
 </dl>
 
 # Urbariát Dulova Ves - verejné informácie
