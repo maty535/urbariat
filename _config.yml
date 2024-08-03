@@ -7,9 +7,9 @@ theme: minima
 
 minima:
   date_format: "%d. %m. %Y"
-  skin: dark
+  
 
-
+skin: dark
 show_excerpts: true
 
 #url: http://urbar.imcontec.eu
