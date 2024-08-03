@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Oznamy spoločenstva
-description: Najnovšie oznamy spoločenstva
+title: Orgány
+description: Organizačná štruktúra spoločenstva
 ---
 
 # Urbariát Dulova Ves - verejné informácie
