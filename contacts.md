@@ -5,9 +5,6 @@ description: Oficialné kontakty spoločenstva
 ---
 
 # Kontaktné informácie
- 
-
-## Výkonný výbor urbariátu:
 
 |Názov|Kontakt|
 |:-------------|:------------------|
