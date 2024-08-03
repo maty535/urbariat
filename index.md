@@ -1,5 +1,5 @@
 ---
-title: Urbariát Dulova Ves
+title: Prehľad oznamov spoločenstva
 list_title: Najnovšie oznamy
 description: Prehľad oznamov spoločenstva
 ---
