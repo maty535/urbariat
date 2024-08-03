@@ -8,6 +8,7 @@ description: Najnovšie oznamy spoločenstva
  Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový 
 
 ## Výkonný výbor urbariátu:
+
 |Meno|Kontakt|Od|
 |:-------------|:------------------|:------|
 |Ing. Peter Semeš ml. |0905 384 750, petersemesvt(at)gmail.com|26.05.2024| 
@@ -22,6 +23,7 @@ ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa
 - Anton Petrovčík
 
 ## Dozorná rada urbariátu:
+
 |Meno|Funkcia| Od|
 |:-------------|:------------------|:------|
 | Mária Repková |Predseda|26.05.2024| 
