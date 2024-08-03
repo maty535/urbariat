@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Kontakty
 description: Oficialné kontakty spoločenstva
+permalink: /contacts/
 ---
 
 # Kontaktné informácie
