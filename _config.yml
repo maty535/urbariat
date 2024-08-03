@@ -1,15 +1,28 @@
 title: Urbariát Dulova Ves
-description: Urbariát Dulova Ves - verejné informácie
-#author: Ing. Matus Ivanecky
-#email: matus.ivanecky@gmail.com
+#description: Urbariát Dulova Ves - verejné informácie
+description: >
+  Toto je úvodná verzia web lokality Urbariátu Dulova Ves, ktorej
+  cieľom je zlepšiť informovanosť podielnikov tohto urbariátneho
+  spoločenstva. Dopredu Vám ďakujeme za návrhy na akékoľvek zlepšenia,
+  alebo opravu chýb.
+
+author:
+  name: Ing. Matus Ivanecky
+  email: matus.ivanecky@gmail.com
 
 theme: minima
 
 minima:
-  date_format: "%d. %m. %Y"
+  skin: solarized-dark
   
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  date_format: "%d. %m. %Y"
 
-skin: dark
+  social_links:
+    - { platform: x,              user_url: "https://x.com/urbarDulova" }
+
 show_excerpts: true
 
 #url: http://urbar.imcontec.eu
