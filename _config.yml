@@ -8,14 +8,11 @@ github:
 # Display breadcrumbs at all?
 breadcrumb_display: true
 
-# Display Home path in breadcrumb?
-breadcrumb_home_display: true
+#remote_theme: pages-themes/cayman@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-# Url for Home path to point to
-breadcrumb_home_url: http://urbar.imcontec.eu
+theme: minima
 
-# Display name for "Home" path
-breadcrumb_home_name: Home
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+minima:
+  date_format: "%d. %m. %Y"
