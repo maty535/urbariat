@@ -16,7 +16,7 @@ description: Najnovšie oznamy spoločenstva
 |Marta Giňovská |člen|26.05.2024| 
 |Matúš Bidovský |člen - podpredseda|26.05.2024| 
 |Vladimír Koropšák ml.|člen|26.05.2024| 
-|Ing. Matúš Ivanecký |člen[|26.05.2024| 
+|Ing. Matúš Ivanecký |člen|26.05.2024| 
 
 ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa nezúčastnili valného zhromaždenia
 - Stanislav Leško
