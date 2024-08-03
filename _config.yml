@@ -2,6 +2,7 @@ theme: minima
 
 minima:
   date_format: "%d. %m. %Y"
+  skin: solarized
   
 #url: http://urbar.imcontec.eu
 title: Urbariát
@@ -9,6 +10,13 @@ description: Urbariát Dulova Ves - verejné informácie
 
 github:
   is_project_page: false
+
+header_pages:
+  - about.md
+  - news.md
+  - docs.md
+  - contacts.md
+
 
 
 #remote_theme: pages-themes/cayman@v0.2.0
