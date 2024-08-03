@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Urbár Dulova Ves
 description: Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 ---
