@@ -5,6 +5,7 @@ description: Základne právne a registračné informácie o spoločenstve
 ---
 
 # Registrácia spoločenstva v registri pozemkových spoločebstiev
+
 | ID | hodnota |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo |
