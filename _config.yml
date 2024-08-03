@@ -3,8 +3,8 @@ theme: minima
 minima:
   date_format: "%d. %m. %Y"
   
-url: http://urbar.imcontec.eu
-title: Urbariát a pasienkové spoločenstvo v Dulovej Vsi
+#url: http://urbar.imcontec.eu
+title: Urbariát
 description: Urbariát Dulova Ves - verejné informácie
 
 github:
