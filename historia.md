@@ -9,7 +9,7 @@
  * Stick footer for short posts (#223)
  * Consolidate trigger SVG paths (#148)
 
-## 2.4.1
+## 2023
 
-### Bug Fixes
+### Správa o činnosti
 
