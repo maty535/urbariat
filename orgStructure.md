@@ -18,7 +18,7 @@ permalink: /organization/
 |Vladimír Koropšák ml.|člen|26.05.2024| 
 |Ing. Matúš Ivanecký |člen|26.05.2024| 
 
-ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa nezúčastnili valného zhromaždenia
+ako náhradníci do výboru boli zvolení títo členovia, ktorí sa nezúčastnili valného zhromaždenia
 - Stanislav Leško
 - Pavol Sokol
 - Anton Petrovčík
@@ -31,9 +31,9 @@ ako náhradníci do výkonného výboru boli zvolení títo členovia, ktorí sa
 |Janka Repková|Člen|26.05.2024			
 |Marta Uhrinová|Člen|26.05.2024
 
-Výkonný výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil nových štatutárnych zástupcov.
+Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štatutárnych zástupcov, ktorí majú splnomocnenie konať iba so súhlasom výboru a v rozsahu na ktorý ich výbor splnomocní.
 
-## Štatutárny zástupcovia:
+## Štatutárni zástupcovia:
 - Predseda: Peter Semeš ml. [získal 5 hlasov z 5] 
 - Podpredseda: Matúš Bidovský [získal 4 hlasy z 5]
 
