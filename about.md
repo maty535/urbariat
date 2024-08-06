@@ -25,12 +25,12 @@ permalink: /about/
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka
 |:---------- | :--------- | :------- | :--------
-| 813591 | DULOVA VES | [414]((https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html) | |			
-| 813591 | DULOVA VES | [822] (https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=822&cadastralUnitCode=813591&outputType=html) | |			
+| 813591 | DULOVA VES | [414](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html) | |			
+| 813591 | DULOVA VES | [822](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=822&cadastralUnitCode=813591&outputType=html) | |			
 | 813591 | DULOVA VES | [1133](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1133&cadastralUnitCode=813591&outputType=html) | |			
 | 813591 | DULOVA VES |[1600](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1600&cadastralUnitCode=813591&outputType=html)||
 | 874159 | ŽEHŇA | [634](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=634&cadastralUnitCode=874159&outputType=html)	    | |	
-| 874159 | ŽEHŇA | [1033]((https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html)     | |		
+| 874159 | ŽEHŇA | [1033](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html)     | |		
 | 874159 | ŽEHŇA | [1037](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1037&cadastralUnitCode=874159&outputType=html)     | |
 | 874159 | ŽEHŇA | [1050](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1050&cadastralUnitCode=874159&outputType=html)     | |
 
