@@ -34,6 +34,8 @@ permalink: /about/
 | 874159 | ŽEHŇA | [1037](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1037&cadastralUnitCode=874159&outputType=html)     | Lesný pozemok |
 | 874159 | ŽEHŇA | [1050](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1050&cadastralUnitCode=874159&outputType=html)     | Lesný pozemok |
 
+![Typ spoločných pozemkov](https://github.com/user-attachments/assets/a14b834c-ce20-4120-9a46-1a3f0e7e6fdf)
+
 
 # História
 - Pripravujeme
