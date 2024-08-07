@@ -21,6 +21,10 @@ permalink: /docs/
 |:-------------|:------------------|:------|
 | 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)| schválené, pred podpisom zmlúv|
 
+# Lesné hospodárstvo
+| Dátum        | Dokument          | Stav |
+|:-------------|:------------------|:------|
+| 23.4.2020   | [Program starostlivosti o lesy 2020 - 2029](https://drive.google.com/file/d/1KAEP71-1Xm3VcmqLDnmNtd0ZuWst9kmQ/view?usp=drive_link) | aktuálny, v platnosti |
 
 # Stanovy
 
