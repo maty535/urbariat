@@ -40,3 +40,4 @@ Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štat
  
 ## Odborný lesný hospodár: 
 - Ing. Anton Pustý
+- [Lesný hospodársky plán 2020 - 20299](https://drive.google.com/file/d/1KAEP71-1Xm3VcmqLDnmNtd0ZuWst9kmQ/view?usp=drive_link)
