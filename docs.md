@@ -25,7 +25,7 @@ permalink: /docs/
 
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
-| 23.4.2020   | [Program starostlivosti o lesy 2020 - 2029](https://drive.google.com/file/d/1KAEP71-1Xm3VcmqLDnmNtd0ZuWst9kmQ/view?usp=drive_link) | aktuálny, v platnosti |
+| 23.4.2020   | [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/1iTZVhZ-uITOTUCy7I2hu1q1THcTyJhCL/view?usp=drive_link) | aktuálny, v platnosti |
 
 # Stanovy
 
