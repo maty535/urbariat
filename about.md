@@ -43,5 +43,5 @@ permalink: /about/
 - Pripravujeme
 
 # Zakladajúca zmluva
-- zmluva + dodatky
-- nemame stanovy
+- [zmluva + dodatky](./docs/)
+- stanovy nemáme, uvítame ak aj vy prispejete svojimi návrhami a podnetmi na vytvorenie tychto stanov (na základe Vašich osobných skúsenosti z fungovanie vrámci tohto, alebo aj iných spoločenstiev).
