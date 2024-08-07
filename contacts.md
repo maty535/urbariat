@@ -5,8 +5,6 @@ description: Oficialné kontakty spoločenstva
 permalink: /contacts/
 ---
 
-# Kontaktné informácie
-
 |Názov|Kontakt|
 |:-------------|:------------------|
 |**IČO**| 42379831|
