@@ -4,8 +4,9 @@ title: O nás
 description: Základne právne a registračné informácie o spoločenstve
 permalink: /about/
 ---
+ - [Zákon o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)
 
-# Registrácia spoločenstva v registri pozemkových spoločebstiev
+# Registrácia spoločenstva v registri pozemkových spoločenstiev
 
 | ID | hodnota |
 | :---------- | :-------------------------------------------------------- |
