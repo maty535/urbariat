@@ -3,6 +3,7 @@ layout: post
 title: "Zverejnenie programu starostlivosti o les"
 date: 2024-08-07
 categories: Lesné hospodárenie
+tags: les hospodarenie starostlivost 
 ---
 
 - Týmto pristupujeme k zvereneniu programu starostlivosti o les pre aktuálne odbdobie 2020 - 2029.
