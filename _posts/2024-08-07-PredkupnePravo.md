@@ -3,6 +3,7 @@ layout: post
 title: "Ako postupovať pri porušení predkupného práva k nehnuteľnosti"
 date: 2024-08-07
 categories: Pravo
+tags: pravo zmluvy podiely nehnutlnost spolocna
 ---
 
 Ako sa môže dotknutý spoluvlastník brániť v prípade porušenia predkupného práva, a to najmä v kontexte katastrálneho konania:
