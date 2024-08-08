@@ -10,13 +10,13 @@ permalink: /organization/
 
 ## Výbor
 
-|Meno|Funkcia|Od|
-|:-------------|:------------------|:------|
-|Ing. Peter Semeš ml. |člen - predseda|26.05.2024| 
-|Marta Giňovská |člen|26.05.2024| 
-|Matúš Bidovský |člen - podpredseda|26.05.2024| 
-|Vladimír Koropšák ml.|člen|26.05.2024| 
-|Ing. Matúš Ivanecký |člen|26.05.2024| 
+|Meno|Funkcia|Od|Kontakt|
+|:-------------|:------------------|:------|:------|
+|Ing. Peter Semeš ml. |člen - predseda|26.05.2024|0905 384 750| 
+|Marta Giňovská |člen|26.05.2024|0908 591 984| 
+|Matúš Bidovský |člen - podpredseda|26.05.2024| 0907 394 830|
+|Vladimír Koropšák ml.|člen|26.05.2024|0907 606 664| 
+|Ing. Matúš Ivanecký |člen|26.05.2024|0918 730 322| 
 
 ako náhradníci do výboru boli zvolení títo členovia, ktorí sa nezúčastnili valného zhromaždenia
 - Stanislav Leško
