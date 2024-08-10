@@ -31,6 +31,7 @@ Predmetná stavba je zložená z týchto časti:
    
 ![image](https://github.com/user-attachments/assets/08a7d86e-82b5-4797-8a9a-820c91a88983)
 
+![image](https://github.com/user-attachments/assets/7a9c9053-2edc-4a43-b650-2c6e614c226d)
 
 ![Screenshot from 2024-08-03 12-05-37](https://github.com/user-attachments/assets/1349d11b-e6b5-4020-ad87-7e10c1f23b33)
 
