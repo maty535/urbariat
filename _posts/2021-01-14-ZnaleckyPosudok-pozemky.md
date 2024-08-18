@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ocenenie pozemkov súdnym znalcom "
-date: 2021-01-14
+title: "Ocenenie pozemkov súdnym znalcom - VÝZVA NA UPLATNENIE PREDKUPNÉHO PRÁVA"
+date: 2021-08-16
 categories: pozemky 
 tags: pozemky hodnota ocenenie
 ---
