@@ -9,7 +9,7 @@ tags: pozemky hodnota ocenenie
 - Dňa 14.01.2021 Ing.Dlhoš Róbert, znalec z odboru Poľnohospodárstvo,
   odvetvie Odhad hodnoty poľnohospodárskej pôdy Všeobecná hodnota v podiele
   ocenil pozemky v urbaráte pre potreby verejnej moci, t.z. pre konkurzné a reštrukturalizačné konanie
-  nášho spolupodielnika a dospel súd použil tieto hodnoty pre ocennenie jednotlivých typov pozemkov:
+  nášho spolupodielnika a súd použil tieto hodnoty pre ocennenie jednotlivých typov pozemkov a poslal urbariátu výzvu na uplatnenie predkupného práva:
 
 | Typ pozemkov | Všeobecná hodnota |
 |:-------------| :-----------------|
