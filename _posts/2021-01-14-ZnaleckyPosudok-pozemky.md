@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ocenenie pozemkov súdnym znalcom "
-date: 2024-07-08
+date: 2021-01-14
 categories: pozemky 
 tags: pozemky hodnota ocenenie
 ---
