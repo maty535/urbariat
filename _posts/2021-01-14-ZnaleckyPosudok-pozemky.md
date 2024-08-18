@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ocenenie pozemkov súdnym znalcom - VÝZVA NA UPLATNENIE PREDKUPNÉHO PRÁVA"
+title: "Ocenenie pozemkov súdnym znalcom"
 date: 2021-08-16
 categories: pozemky 
 tags: pozemky hodnota ocenenie
@@ -9,7 +9,7 @@ tags: pozemky hodnota ocenenie
 - Dňa 14.01.2021 Ing.Dlhoš Róbert, znalec z odboru Poľnohospodárstvo,
   odvetvie Odhad hodnoty poľnohospodárskej pôdy Všeobecná hodnota v podiele
   ocenil pozemky v urbaráte pre potreby verejnej moci, t.z. pre konkurzné a reštrukturalizačné konanie
-  nášho spolupodielnika a súd použil tieto hodnoty pre ocennenie jednotlivých typov pozemkov a poslal urbariátu výzvu na uplatnenie predkupného práva:
+  nášho spolupodielnika a správca konkurznej podstaty použil tieto hodnoty poslal urbariátu výzvu na uplatnenie si predkupného práva:
 
 | Typ pozemkov | Všeobecná hodnota |
 |:-------------| :-----------------|
