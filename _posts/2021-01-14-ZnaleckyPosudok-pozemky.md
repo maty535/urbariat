@@ -7,8 +7,7 @@ tags: pozemky hodnota ocenenie
 ---
 
 - Dňa 14.01.2021 Ing.Dlhoš Róbert, znalec z odboru Poľnohospodárstvo,
-  odvetvie Odhad hodnoty poľnohospodárskej pôdy Všeobecná hodnota v podiele
-  ocenil pozemky v urbaráte pre potreby verejnej moci, t.z. pre konkurzné a reštrukturalizačné konanie
+  odvetvie Odhad hodnoty poľnohospodárskej pôdy ocenil pozemky v urbariáte Dulova Ves pre potreby verejnej moci, t.z. pre konkurzné a reštrukturalizačné konanie
   nášho spolupodielnika a správca konkurznej podstaty použil tieto hodnoty a poslal urbariátu výzvu na uplatnenie si predkupného práva:
 
 | Typ pozemkov | Všeobecná hodnota |
