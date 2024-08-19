@@ -33,4 +33,5 @@ header_pages:
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-seo-tag
 remote_theme: jekyll/minima
