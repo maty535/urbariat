@@ -18,3 +18,4 @@ Ako sa môže dotknutý spoluvlastník brániť v prípade porušenia predkupné
 - [Ak vlastník podielu spoločnej nehnuteľnosti chce previesť svoj spoluvlastnícky podiel
 na iného spoluvlastníka (podielnika) spoločnej nehnuteľnosti, ostatní spoluvlastníci nemajú
 predkupné právo](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/#paragraf-9.odsek-7)
+- [Podcast s Judr. Maslakom](https://www.pp.sk/podcast/predkupne-pravo---kedy-musite-svoj-podiel-prednostne-ponuknut-spoluvlastnikom-judr--marek-maslak-phd----advokat-specializujuci-sa-na-pozemkove-pravo)
