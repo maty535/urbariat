@@ -11,5 +11,5 @@ permalink: /contacts/
 |**email**| urbar.dulova(at)gmail.com|  
 |**sídlo**| Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo, Obchodná	25/15, 082 52	Dulova Ves |
 |**mobil**| ??? | 
-|**bankový kontakt**| SK9002000000003332244953 |
+|**bankový kontakt**| SK90 0200 0000 0033 3224 4953 |
 
