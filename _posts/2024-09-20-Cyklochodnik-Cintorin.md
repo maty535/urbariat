@@ -11,5 +11,5 @@ tags: projekty pozemky
 
  ## Projekt obce pre realizáciu napojenia na cykloželezničku cyklochodníkom okolo cintrorína
 
- - [Projektová dokumentácia]
+ - [Projektová dokumentácia](https://drive.google.com/drive/folders/18x3qJzPUqdkkGeYT8iTs5RVMmLBkfgOr?usp=drive_link)
  
