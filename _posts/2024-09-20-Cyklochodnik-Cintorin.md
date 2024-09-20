@@ -9,7 +9,7 @@ tags: projekty pozemky
 
 - Toto oznámenie je zverejnené rovnako na úradnej tabuli obce: [oznámenie](https://www.dulovaves.sk/download_file_f.php?id=2100629)
 
- ## Projekt obce pre realizáciu napojenia na cykloželezničku cyklochodníkom okolo cintrorína
+## Projekt obce pre realizáciu napojenia na cykloželezničku cyklochodníkom okolo cintrorína
 
  - [Projektová dokumentácia](https://drive.google.com/drive/folders/18x3qJzPUqdkkGeYT8iTs5RVMmLBkfgOr?usp=drive_link)
  
