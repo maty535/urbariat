@@ -28,6 +28,16 @@ permalink: /docs/
 |:-------------|:------------------|:------|
 | 23.4.2020   | [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/1iTZVhZ-uITOTUCy7I2hu1q1THcTyJhCL/view?usp=drive_link) | aktuálny, v platnosti |
 
+# Právo
+
+| Dátum        | Dokument          | Stav |
+|:-------------|:------------------|:------|
+| Január 2021   | [Praktikum 
+pozemkového 
+práva
+](https://drive.google.com/file/d/1J7sm2tkFYAsTRTROYT9azH6-b9AJuw3B/view?usp=drive_link)| právny stav k 30.9.2021|
+
+
 # Stanovy
 
 - Pripravujeme
