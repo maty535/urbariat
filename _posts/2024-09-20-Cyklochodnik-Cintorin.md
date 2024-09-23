@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Napojenie sa na cyklochodnik okolo cintrorína"
+title: "Napojenie na cykloželezničku cyklochodníkom okolo cintrorína"
 date: 2024-09-20
 categories: projekty
 tags: projekty pozemky
