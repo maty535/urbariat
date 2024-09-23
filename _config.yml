@@ -28,6 +28,7 @@ header_pages:
   - about.md
   - orgStructure.md
   - docs.md
+  - docs.md#projekty
   - contacts.md
 
 plugins:
