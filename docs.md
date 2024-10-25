@@ -26,7 +26,8 @@ permalink: /docs/
 
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
-| 23.4.2020   | [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/1iTZVhZ-uITOTUCy7I2hu1q1THcTyJhCL/view?usp=drive_link) | aktuálny, v platnosti |
+| 23.4.2020    | [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/1iTZVhZ-uITOTUCy7I2hu1q1THcTyJhCL/view?usp=drive_link) | aktuálny, v platnosti |
+| 25.10.2024   | [Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky o vyznačovaní ťažby dreva, označovaní vyťaženého dreva a dokladoch o pôvode dreva] (https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2006/232/)| v pripomienkovacom konaní|
 
 # Právo
 
