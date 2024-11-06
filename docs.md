@@ -19,8 +19,7 @@ permalink: /docs/
 
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
-| 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)| schválené, zmluva uzavreta 26.9.2024, prebieha 
-[Uzemne konanie](https://drive.google.com/file/d/1GNx6F_ul-NiwoBn7hfNo8SphgUlXxLWI/view?usp=drive_link)|
+| 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)| schválené, zmluva uzavreta 26.9.2024, prebieha [Uzemne konanie](https://drive.google.com/file/d/1GNx6F_ul-NiwoBn7hfNo8SphgUlXxLWI/view?usp=drive_link)|
 | 19.9.2024   |[Cyklochodník okolo cintrorína](./_posts/2024-09-20-Cyklochodnik-Cintorin.md)|pozemky prenajaté, prebieha stavebné konanie|
 
 # Lesné hospodárstvo
