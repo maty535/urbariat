@@ -1,6 +1,6 @@
 ---
 layout: page
-title: História
+title: História urbáru
 description: Základne míľniky urbárskeho spoločenstva
 permalink: /historia/
 ---
@@ -34,6 +34,11 @@ Prechodom spoločných lesov a pasienkov pod správu štátu zanikli pasienkové
     
 ## 1992
 
-Obnovenie pozemkového spoločenstva
+Obnovenie pozemkového spoločenstva ako občianskeho združenia vlastníkov spoločných nehnuteľností
     
 ## 2014
+Zmena právnej subjektivity podľa zákona 97/2013 o pozemkových spoločenstvách a pridelenie IČO
+
+## 2020
+Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [
+305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov - zákon o e-Governmente](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/305/20241001) 
