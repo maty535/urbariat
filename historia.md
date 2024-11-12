@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dôležité historické míľniky
+title: Historia
 description: Základne míľniky urbárskeho spoločenstva
 permalink: /historia/
 ---
