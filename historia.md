@@ -28,6 +28,6 @@ Prechodom spoločných lesov a pasienkov pod správu štátu zanikli pasienkové
     
 ## 1992
 
-Obnovenie pozemkového spoločenstva</p>
+Obnovenie pozemkového spoločenstva
     
 ## 2014
