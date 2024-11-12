@@ -9,7 +9,7 @@ Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú p
 
 
 ## 2014
-Zmena právnej subjektivity podľa zákona 97/2013 o pozemkových spoločenstvách a pridelenie IČO
+Zmena právnej subjektivity podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/20221101) a pridelenie IČO.
 
     
 ## 1992
