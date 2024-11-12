@@ -27,6 +27,7 @@ V období rokov 1945 – 1989 nastáva v samotnom pozemkovom práve,  hlavne v s
 Prechodom spoločných lesov a pasienkov pod správu štátu zanikli pasienkové a lesné spoločenstvá a v spoločnosti nastal všeobecný nezáujem o vlastníctvo.
     
 ## 1992
-    Obnovenie pozemkového spoločenstva</p>
+
+Obnovenie pozemkového spoločenstva</p>
     
 ## 2014
