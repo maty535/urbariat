@@ -1,3 +1,9 @@
+---
+layout: page
+title: História
+description: Základne míľniky urbárskeho spoločenstva
+permalink: /historia/
+---
 
 ## 16 st.
     
