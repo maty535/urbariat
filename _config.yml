@@ -30,8 +30,9 @@ header_pages:
   - orgStructure.md
   - docs.md
   - docs.md#projekty
-  - contacts.md
   - historia.md
+  - contacts.md
+  
 
 plugins:
   - jekyll-remote-theme
