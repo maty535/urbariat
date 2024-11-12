@@ -13,7 +13,7 @@
     bottom:0px;
     transform:translateX(-50%);
     width:4px;
-    background-color:#fff;
+    
   }
   .entries {
     width:calc(100% - 80px);
@@ -34,7 +34,6 @@
         font-size:32px;
         margin-bottom:12px;
         position: relative;
-        color:#fff;
         &:before {
           content: '';
           position: absolute;
