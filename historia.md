@@ -1,8 +1,3 @@
-<html>
-<head>
-<style>
- 
-</head>
 
 <div class="entries">
   <div class="entry">
