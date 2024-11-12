@@ -2,7 +2,6 @@
 <head>
 <style>
   body {
-  background-color:#1D1D1D;
   min-height:100vh;
   margin:0;
   font-family: 'Droid Sans', sans-serif;
