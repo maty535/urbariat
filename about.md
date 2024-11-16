@@ -40,7 +40,7 @@ permalink: /about/
 
 
 # História
-- Pripravujeme
+- [stručné historické míľniky](/historia/)
 
 # Zakladajúca zmluva
 - [zmluva + dodatky](/docs/)
