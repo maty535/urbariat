@@ -10,5 +10,5 @@ tags: pozemky projekty
 začatie územného konania všetkým účastníkom konania o umiestnení stavby „Odvodňovacie
 zariadenia nad ihriskom KN-C 550/1“ na pozemkoch parc. č. KN-C 550/1, KN-E 931/5,
 k.ú. Dulova Ves, verejnou vyhláškou. [odkaze](https://drive.google.com/file/d/1GNx6F_ul-NiwoBn7hfNo8SphgUlXxLWI/view?usp=drive_link).
-- Ide o projekt: [Odvodňovacie zariadenie nad ihriskom](/posts/2024-06-11-RetenckaIhrisko.md), [zmluva](https://drive.google.com/file/d/1dVn3ogNWCydnBpuxlJcHOElSbHoHP744/view?usp=drive_link) 
+- Ide o projekt: [Odvodňovacie zariadenie nad ihriskom](/posts/2024-06-11-RetenckaIhrisko.htnl), [zmluva](https://drive.google.com/file/d/1dVn3ogNWCydnBpuxlJcHOElSbHoHP744/view?usp=drive_link) 
 
