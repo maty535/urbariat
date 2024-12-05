@@ -19,8 +19,8 @@ ods. 3 zákona č. 97/2013 Z. z. zaradí túto ponuku na najbližšie zasadnutie
 zhromaždenia spoločenstva.
 
 <span style="color: red;">
-Ak chce člen urbáru alebo samotný urbár ponuku využiť, musí vyplatiť kúpnu cenu do dvoch
-mesiacov.</span> 
+***Ak chce člen urbáru alebo samotný urbár ponuku využiť, musí vyplatiť kúpnu cenu do dvoch
+mesiacov.***</span> 
 
 ## Lehota na zaplatenie kúpnej ceny sa počíta:
 
