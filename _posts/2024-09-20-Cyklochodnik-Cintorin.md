@@ -16,6 +16,8 @@ tags: projekty pozemky
  - [Projektová dokumentácia](https://drive.google.com/drive/folders/18x3qJzPUqdkkGeYT8iTs5RVMmLBkfgOr?usp=drive_link)
 
 
+![image](https://github.com/user-attachments/assets/9e55549c-2fd7-4215-8609-a1b88d1d93f8)
+
 
 
 [^1]: Citácia z [projektovej dokumentácie](https://drive.google.com/file/d/13gRekzmo_Ym1gNjYrpV-aUiqSQDCkr8a/view?usp=drive_link) vypracovanej Ing. Františkom Ondrejom
