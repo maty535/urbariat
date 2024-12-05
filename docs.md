@@ -14,9 +14,12 @@ permalink: /docs/
 |7.8.2021     | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej negnuteľnosti](./docs/2021-08-07-ZZ-Dodatok-1.pdf)|
 
 # Zákony
-[97/2013 Z.z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)
-[204/2009 Z.z. z 16. júna 2009 o o poľovníctve](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015)
-[40/1964 Z.z. z 26.februára 1964 OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)
+
+| Dátum           | Dokument          |
+|:-------------   |:------------------|
+| 26. marca 2013  |[97/2013 Z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)|
+|16. júna 2009    |[204/2009 Z.z. o poľovníctve](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015)|
+|26.februára 1964 |[40/1964 Z.z. OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)|
 
 
 # Projekty
