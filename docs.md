@@ -15,11 +15,11 @@ permalink: /docs/
 
 # Zákony
 
-| Dátum           | Dokument          |
-|:-------------   |:------------------|
-| 26. marca 2013  |[97/2013 Z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)|
-|16. júna 2009    |[204/2009 Z.z. o poľovníctve](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015)|
-|26.februára 1964 |[40/1964 Z.z. OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)|
+| Dátum           | Zákon Z.z.        | Téma
+|:-------------   |:------------------|:------------------|
+| 26. marca 2013  |[97/2013](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) |[O pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)|
+|16. júna 2009    |[204/2009](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015) |[O poľovníctve](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015)|
+|26.februára 1964 |[40/1964](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101) |[OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)|
 
 
 # Projekty
