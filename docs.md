@@ -15,7 +15,7 @@ permalink: /docs/
 
 # Zákony
 
-| Dátum účinnosti | Zákon č. Z.z.     | Názov zákona      |
+| Dátum vyhlásenia v z.z. | Číslo     | Názov             |
 |:-------------   |:------------------|:------------------|
 | 26. marca 2013  |[97/2013](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) |[O pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)|
 |16. júna 2009    |[204/2009](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015) |[O poľovníctve](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015)|
