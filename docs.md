@@ -20,6 +20,9 @@ permalink: /docs/
 |26.3 2013        |[97/2013](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) |[O pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)|
 |16.6 2009        |[204/2009](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015) |[O poľovníctve](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2009/274/20221015)|
 |26.2 1964        |[40/1964](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101) |[OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)|
+|13.7.2000        |[Zákon o slobodnom prístupe k informáciám ](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2000/211/) |
+|04.08.1995       |[Katastrálny zákon](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/162/) |
+
 
 
 # Projekty
@@ -41,6 +44,7 @@ permalink: /docs/
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
 | Január 2021   | [Praktikum pozemkového práva](https://drive.google.com/file/d/1J7sm2tkFYAsTRTROYT9azH6-b9AJuw3B/view?usp=drive_link)| právny stav k 30.9.2021|
+| Február 2016  | [Kataster nehnuteľností a právo na prístup k informáciám](https://drive.google.com/file/d/139rb2ioxFwgYD5DuuLD4ca7Oxmrxqed2/view?usp=drive_link)
 
 
 # Stanovy
