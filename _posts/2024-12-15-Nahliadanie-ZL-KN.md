@@ -12,4 +12,4 @@ tags: pozemky kataster
 - Detaily novely KN [212/2018 Z. z.](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2018/212/)
 - Katastrílny zákon [162/1995 Z. z.](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/162/)
 - Viac informácii  [Zjednodušenie procesu due diligence z pohľadu akvizícií nehnuteľností.](https://bnt.eu/sk/pravne-spravy/nove-pravidla-pri-nahliadani-do-katastra-nehnutelnosti/)
-- [Kataster nehnuteľností a právo na prístup k informáciám] (https://drive.google.com/file/d/139rb2ioxFwgYD5DuuLD4ca7Oxmrxqed2/view?usp=sharing)
+- [Kataster nehnuteľností a právo na prístup k informáciám](https://drive.google.com/file/d/139rb2ioxFwgYD5DuuLD4ca7Oxmrxqed2/view?usp=sharing)
