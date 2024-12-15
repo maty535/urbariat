@@ -11,7 +11,7 @@ permalink: /docs/
 | 20.9.1992   | [Stanovy pre založenie združenia - spoločenstva Urbariát bez právnej subjektivity](./docs/1992-09-20-ZZ.pdf) |
 | 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./docs/2014-01-14-ZZ-anon.pdf) |
 | 18.5.2019   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./docs/2019-05-18-ZZ-Dodatok.pdf)|
-|7.8.2021     | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej negnuteľnosti](./docs/2021-08-07-ZZ-Dodatok-1.pdf)|
+| 7.8.2021     | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej negnuteľnosti](./docs/2021-08-07-ZZ-Dodatok-1.pdf)|
 
 # Zákony
 
@@ -22,6 +22,7 @@ permalink: /docs/
 |26.2 1964        |[40/1964](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101) |[OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)|
 |13.7.2000        |[211/2000](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2000/211/) |[Zákon o slobodnom prístupe k informáciám ](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2000/211/) |
 |04.08.1995       |[162/1995](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/162/) |[Katastrálny zákon](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/162/) |
+| 25. 10 2016 |[307/2016](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2016/307/)|O upomínacom konaní a o doplnení niektorých zákonov|
 
 
 
