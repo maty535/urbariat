@@ -22,7 +22,7 @@ permalink: /docs/
 |26.2 1964        |[40/1964](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101) |[OBČIANSKY ZÁKONNÍK](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20241101)|
 |13.7.2000        |[211/2000](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2000/211/) |[Zákon o slobodnom prístupe k informáciám ](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2000/211/) |
 |04.08.1995       |[162/1995](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/162/) |[Katastrálny zákon](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/162/) |
-| 25. 10 2016 |[307/2016](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2016/307/)|O upomínacom konaní a o doplnení niektorých zákonov(https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2016/307/)|
+| 25. 10 2016 |[307/2016](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2016/307/)|[O upomínacom konaní a o doplnení niektorých zákonov](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2016/307/)|
 
 
 
