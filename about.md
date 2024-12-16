@@ -5,9 +5,9 @@ description: Základne právne a registračné informácie o spoločenstve
 permalink: /about/
 ---
 
-## Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastnníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
+###Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastnníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
  
-## Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo pôsobí na základe zákona: [
+###Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo pôsobí na základe zákona: [
 97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
