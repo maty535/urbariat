@@ -8,6 +8,7 @@ url: "https://urbar.dulovaves.sk"
 #feed_update_period: daily
 #feed_update_frequency: 1
 
+exclude: [vendor]
 
 author:
   name: Ing. Matus Ivanecky
