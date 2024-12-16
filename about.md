@@ -8,7 +8,9 @@ permalink: /about/
 Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
 {% endalert %}
 
-- Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo pôsobí na základe zákona: [97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)
+{% alert note %}
+Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo pôsobí na základe zákona: [97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/) 
+{% endalert %}
 
 # Registrácia spoločenstva v registri pozemkových spoločenstiev
 
