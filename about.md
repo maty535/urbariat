@@ -5,7 +5,7 @@ description: Základne právne a registračné informácie o spoločenstve
 permalink: /about/
 ---
 {% alert tip %}
-Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastnníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
+Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
 {% endalert %}
 
 {% alert note %}
