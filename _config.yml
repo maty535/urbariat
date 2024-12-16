@@ -40,7 +40,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - markdown_alerts
+  - markdown-alerts
 
 
 remote_theme: jekyll/minima
