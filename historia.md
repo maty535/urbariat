@@ -11,10 +11,14 @@ Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú p
 ## 2014
 Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/20221101) a pridelenie IČO.
 
+## 1995
+	
+Bola prijatá zákonna úprava vzťahov pozemkových spoločenstiev [181/1995 z.z. O pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/181/vyhlasene_znenie.html)
     
 ## 1992
 
-Obnovenie pozemkového spoločenstva ako občianskeho združenia vlastníkov spoločných nehnuteľností
+Obnovenie pozemkového spoločenstva ako občianskeho združenia vlastníkov spoločných nehnuteľností. Fungovanie sa pohybuje vrámci zákona: [293/1992 z.z. 
+O úprave niektorých vlastníckych vzťahov k nehnuteľnostiam](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/293/)
     
 
 ## 1948
