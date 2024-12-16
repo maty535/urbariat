@@ -39,4 +39,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-alerts-plugin
+
 remote_theme: jekyll/minima
