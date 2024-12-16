@@ -9,6 +9,10 @@ permalink: /about/
 > vlastnníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
 
 
+{% alert tip %}
+This is a tip!
+{% endalert %}
+
 - Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo pôsobí na základe zákona: [
 97/2013 Z. z. z 26. marca 2013 o pozemkových spoločenstvách](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/)
 
