@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 
 gem "jekyll", "~> 3.1"
 gem "minima"
+gem "kramdown-parser-gfm"
 #gem  install "jekyll-alerts-tag.rb", path: "_plugins/"
 #gem  "jekyll-alerts-tag.rb",path: "_plugins/"
 
