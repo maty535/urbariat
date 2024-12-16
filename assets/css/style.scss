@@ -79,3 +79,26 @@
 .markdown-alert.markdown-alert-caution .markdown-alert-title {
   color: #e5534b;
 }
+
+// generated with https://codepen.io/sosuke/pen/Pjoqqp
+// colors taken from https://github.com/orgs/community/discussions/16925
+
+.octicon-info {
+  filter: invert(55%) sepia(55%) saturate(2060%) hue-rotate(191deg) brightness(99%) contrast(93%);
+}
+
+.octicon-tip {
+  filter: invert(58%) sepia(64%) saturate(351%) hue-rotate(73deg) brightness(89%) contrast(90%);
+}
+
+.octicon-important {
+  filter: invert(67%) sepia(41%) saturate(6791%) hue-rotate(225deg) brightness(92%) contrast(92%);
+}
+
+.octicon-caution {
+  filter: invert(45%) sepia(68%) saturate(2586%) hue-rotate(333deg) brightness(95%) contrast(88%);
+}
+
+.octicon-warning {
+  filter: invert(78%) sepia(17%) saturate(5107%) hue-rotate(350deg) brightness(85%) contrast(78%);
+}
