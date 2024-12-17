@@ -8,10 +8,10 @@ permalink: /docs/
 
 | Dátum        | Dokument          |
 |:-------------|:------------------|
-| 20.9.1992   | [Stanovy pre založenie združenia - spoločenstva Urbariát bez právnej subjektivity](./docs/1992-09-20-ZZ.pdf) |
-| 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./docs/2014-01-14-ZZ-anon.pdf) |
-| 18.5.2019   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./docs/2019-05-18-ZZ-Dodatok.pdf)|
-| 7.8.2021     | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej negnuteľnosti](./docs/2021-08-07-ZZ-Dodatok-1.pdf)|
+| 20.9.1992   | [Stanovy pre založenie združenia - spoločenstva Urbariát bez právnej subjektivity](./1992-09-20-ZZ.pdf) |
+| 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2014-01-14-ZZ-anon.pdf) |
+| 18.5.2019   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2019-05-18-ZZ-Dodatok.pdf)|
+| 7.8.2021    | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej negnuteľnosti](./2021-08-07-ZZ-Dodatok-1.pdf)|
 
 # Zákony
 
@@ -31,7 +31,7 @@ permalink: /docs/
 | Dátum        | Dokument          | Stav |
 |:-------------|:------------------|:------|
 | 11.6.2024   | [Odvodňovacie zariadenie nad ihriskom](./_posts/2024-06-11-RetenckaIhrisko.md)| schválené, [zmluva](https://drive.google.com/file/d/1dVn3ogNWCydnBpuxlJcHOElSbHoHP744/view?usp=drive_link) uzavreta 26.9.2024, prebieha [Uzemne konanie](https://drive.google.com/file/d/1GNx6F_ul-NiwoBn7hfNo8SphgUlXxLWI/view?usp=drive_link)|
-| 19.9.2024   |[Cyklochodník okolo cintrorína](./_posts/2024-09-20-Cyklochodnik-Cintorin.md)|pozemky prenajaté, prebieha stavebné konanie|
+| 19.9.2024   |[Cyklochodník okolo cintrorína](/_posts/2024-09-20-Cyklochodnik-Cintorin.md)|pozemky prenajaté, prebieha stavebné konanie|
 
 # Lesné hospodárstvo
 
