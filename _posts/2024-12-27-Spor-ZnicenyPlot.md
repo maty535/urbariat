@@ -2,7 +2,7 @@
 layout: post
 title: "Právoplatné ukončenie sporu o náhradu škody za poškodenie plota v lokality býv. muničného skladu"
 date: 2024-12-17
-categories: "sudne spory" pravo
+categories: spory pravo
 tags: spory kataster právo
 ---
 
