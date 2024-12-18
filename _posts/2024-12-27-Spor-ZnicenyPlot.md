@@ -20,7 +20,7 @@ published: true
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:red;">18.10.2021</span> | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
-| 15.11.2021  | Urbár (MG)          | Zaslanie odpovede na žiadosť o odstránenie spadnutých stromov (neprevzatá) ||
+| 15.11.2021  | Urbár (MG)          | Zaslanie odpovede na žiadosť o odstránenie spadnutých stromov (neprevzatá), k náprava však nedošlo, bola iba v liste deklarovaná ||
 | <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
 | <span style="color:red;">5.5.2023</span>  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - spílenie 6 stromov (o zaplatenie 6798,96 € s príslušenstvom)|38Up/852/2023|
