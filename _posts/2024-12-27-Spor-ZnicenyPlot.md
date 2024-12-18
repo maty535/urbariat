@@ -4,7 +4,7 @@ title: "Právoplatné ukončenie sporu o náhradu škody za poškodenie plota v 
 date: 2024-12-17
 categories: spory pravo
 tags: spory kataster právo
-published: false
+published: true
 ---
 
 - Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného na odklad účinkov elektronického doručenia platobného rozkazu
@@ -24,6 +24,7 @@ published: false
 | 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti el. platobného rozkazu||
 | 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
+| <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky ||
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  ||
  
 ![image](https://github.com/user-attachments/assets/d25e875e-26db-4a3f-a8de-bcec0eedefd0)
