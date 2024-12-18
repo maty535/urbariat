@@ -6,10 +6,18 @@ permalink: /historia/
 ---
 ## 2020
 Sporná zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3), ktorú urbaár namieta pred súdmi SR ako právne neurčitú, nesprávne aplikovanú, nejasne a pochybne zavedenú do právneho systému SR (bez dolo6ky vplyvov na dotknut0 subjekty), 3x novelizovanú. 
-- Tieto novelizácie, ale aj samotné zavedenie povinnosti do právneho systemu SR bez riadneho odôvodnenia a najmä bez zohľadnenia vplyvov na dotknuté subjekty, podľa názoru urbáru nie je jasne vymedzená, je neurčitá a bola vložená do právneho systemu bez explicitneho vymedzenia (subjektov, ktorých sa ma týkať a najmä časových termínov, kedy sa má realizovať, čo nie je v sulade s princípom právnej istoty a najmä s [článkom ústavy 13, odsek 1](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/1992/460/vyhlasene_znenie.html#ustavnyclanok-13.odsek-1):
+- ![image](https://github.com/user-attachments/assets/9353d7b9-23a7-4824-9e85-d9ce35d538f7)
+- Tieto novelizácie, ale aj samotné zavedenie povinnosti do právneho systemu SR bez riadneho odôvodnenia a najmä bez zohľadnenia vplyvov na dotknuté subjekty (ako [vládnej novelizácie zákona o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách)](https://www.nrsr.sk/web/Default.aspx?sid=zakony/cpt&ZakZborID=13&CisObdobia=7&ID=132), podľa názoru urbáru nie je jasne vymedzená, je neurčitá a bola vložená do právneho systemu bez explicitneho vymedzenia (subjektov, ktorých sa ma týkať a najmä časových termínov, kedy sa má realizovať, čo nie je v sulade s princípom právnej istoty a najmä s [článkom ústavy 13, odsek 1](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/1992/460/vyhlasene_znenie.html#ustavnyclanok-13.odsek-1):
 > "Čl. 13
 >(1)
 >Povinnosti možno ukladať len na základe zákona, v jeho medziach a pri zachovaní základných práv a slobôd."
+
+A preto tento postup aktivácie el. schránok na doručovanie pre právnické osoby nezapísane do obchodného registra považuje za aplikovaný mimo medzi zákona a to nielen časových, ale aj mimo zákonného vymedzenia, ktoré musia platiť rovnako pre všetky prípady, ktoré spĺňajú ustanovené podmienky, t.j. podľa [ústavy SR Čl.13 odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/1992/460/vyhlasene_znenie.html#ustavnyclanok-13.odsek-3):
+> "Čl. 13
+>(3)
+>Zákonné obmedzenia základných práv a slobôd musia platiť rovnako pre všetky prípady, ktoré spĺňajú ustanovené podmienky.
+
+
 
 
 ## 2014
