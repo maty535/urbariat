@@ -12,12 +12,9 @@ Sporná zmena spôsobu doručovania listín od orgánov verejnej moci na elektro
 >(1)
 >Povinnosti možno ukladať len na základe zákona, v jeho medziach a pri zachovaní základných práv a slobôd."
 
-A preto tento postup aktivácie el. schránok na doručovanie pre právnické osoby nezapísane do obchodného registra považuje za aplikovaný mimo medzi zákona a to nielen časových, ale aj mimo zákonného vymedzenia, ktoré musia platiť rovnako pre všetky prípady, ktoré spĺňajú ustanovené podmienky, t.j. podľa [ústavy SR Čl.13 odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/1992/460/vyhlasene_znenie.html#ustavnyclanok-13.odsek-3):
-> "Čl. 13
->(3)
->Zákonné obmedzenia základných práv a slobôd musia platiť rovnako pre všetky prípady, ktoré spĺňajú ustanovené podmienky.
+A preto tento postup aktivácie el. schránok na doručovanie pre právnické osoby nezapísane do obchodného registra považuje za aplikovaný mimo medzí zákona a to nielen časových, ale aj mimo zákonného vymedzenia, ktoré musia platiť rovnako pre všetky prípady, ktoré spĺňajú zákonom ustanovené podmienky.
 
-
+T.z. právny predpis neobsahuje vymedzenie subjektov, časových hraníc a bol aplikovaný a vykonavány iba na základe svoj-voľve iného štátne orgánu.
 
 
 ## 2014
