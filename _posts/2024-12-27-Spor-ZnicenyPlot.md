@@ -16,7 +16,7 @@ published: true
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:red;">18.10.2021</span> | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede na žiadosť o odstránenie spadnutých stromov (neprevzatá) ||
-| <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky ||
+| <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
 | <span style="color:red;">5.5.2023</span>  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - spílenie stromov|38Up/852/2023|
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - plot|14Up/766/2023|
@@ -26,8 +26,8 @@ published: true
 | 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti el. platobného rozkazu||
 | 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
-| <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky ||
-| <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  ||
+| <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
+| <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |14Up/766/2023|
  
 ![image](https://github.com/user-attachments/assets/d25e875e-26db-4a3f-a8de-bcec0eedefd0)
 
