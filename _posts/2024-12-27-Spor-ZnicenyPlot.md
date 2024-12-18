@@ -8,7 +8,7 @@ published: true
 ---
 
 - Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného na odklad účinkov elektronického doručenia platobného rozkazu
-- Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti a nespochybniteľnosti už vykonanej exekúcie (28.12.2023) z platobného rozkazu (3.10.2023), ktorý bol vydaný na základe žaloby Petra Jarkovského podanej dňa 3.7.2023 a bol vymožený exekúciou finančných prostriedkov vo výške **5 651,14 €**{: style="color: red;" } z účtu urbárskeho spoločenstva dňa 19.1.2024.
+- Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti už vykonanej exekúcie (28.12.2023) z platobného rozkazu (3.10.2023), ktorý bol vydaný na základe žaloby Petra Jarkovského podanej dňa 3.7.2023 a bol vymožený exekúciou finančných prostriedkov vo výške **5 651,14 €**{: style="color: red;" } z účtu urbárskeho spoločenstva dňa 19.1.2024.
 
 ## Stručná rekapitulácia
 
@@ -23,8 +23,8 @@ published: true
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede na žiadosť o odstránenie spadnutých stromov (neprevzatá) ||
 | <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
-| <span style="color:red;">5.5.2023</span>  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - spílenie stromov|38Up/852/2023|
-| 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - plot|14Up/766/2023|
+| <span style="color:red;">5.5.2023</span>  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - spílenie 6 stromov (o zaplatenie 3474,53 Eur s príslušenstvom)|38Up/852/2023|
+| 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - plot (o zaplatenie 3474,53 Eur s príslušenstvom)|14Up/766/2023|
 | 30.08.2023  | OS BB               | Vydanie platobného rozkazu|14Up/766/2023|
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu|14Ek/2838/2023|
 | <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva|178EX 1104/23|
