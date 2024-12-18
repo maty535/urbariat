@@ -8,7 +8,7 @@ published: true
 ---
 
 - Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného na odklad účinkov elektronického doručenia platobného rozkazu
-- Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti a nespochybniteľnosti už vykonanej exekúcie (28.12.2023) z platobného rozkazu (3.10.2023), ktorý bol vydaný na základe žaloby Petra Jarkovského podanej dňa 3.7.2023 a boli vymožené exekúciou finančných prostriedkov vo výške **5 651,14 €**{: style="color: red;" } z účtu urbárskeho spoločenstva dňa 19.1.2024.
+- Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti a nespochybniteľnosti už vykonanej exekúcie (28.12.2023) z platobného rozkazu (3.10.2023), ktorý bol vydaný na základe žaloby Petra Jarkovského podanej dňa 3.7.2023 a bol vymožený exekúciou finančných prostriedkov vo výške **5 651,14 €**{: style="color: red;" } z účtu urbárskeho spoločenstva dňa 19.1.2024.
 
 ## Stručná rekapitulácia
 
