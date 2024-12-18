@@ -14,7 +14,9 @@ Sporná zmena spôsobu doručovania listín od orgánov verejnej moci na elektro
 
 A preto tento postup aktivácie el. schránok na doručovanie pre právnické osoby nezapísane do obchodného registra považuje za aplikovaný mimo medzí zákona a to nielen časových, ale aj mimo zákonného vymedzenia, ktoré musia platiť rovnako pre všetky prípady, ktoré spĺňajú zákonom ustanovené podmienky.
 
-T.z. právny predpis neobsahuje vymedzenie subjektov, časových hraníc a bol aplikovaný a vykonavány iba na základe svoj-voľve iného štátne orgánu, ktorým bol v tomto prípade správca modulu elektronických schránok.
+T.z. právny predpis neobsahuje vymedzenie subjektov, časových hraníc a ani presných lokalít, kde mali byť tieto informácie sprístupnené (mimo zákona), bol aplikovaný a vykonavány iba na základe svoj-vole iného štátne orgánu, ktorým bol v tomto prípade správca modulu elektronických schránok.
+
+Predsa je nemysliteľné aby štát, resp. štátne orgány nútili aj 80 rčných ľudí klikať 3 roky na nejaké neurčité URL lokality, ktoré neboli nikdy v zákone ani vymedzené ani určené. T.z. sú a boli neurčité.
 
 ## 2014
 Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/20221101) a pridelenie IČO.
