@@ -15,8 +15,9 @@ published: true
 | Dátum       |  Zodpovednosť       | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:red;">18.10.2021</span> | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
-| <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky ||
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede na žiadosť o odstránenie spadnutých stromov (neprevzatá) ||
+| <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky ||
+| <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní||
 | 03.10.2023  | OS BB               | Vydanie právoplatného a vykonateľného paltobného rozkazu||
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu||
