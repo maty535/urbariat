@@ -17,11 +17,11 @@ permalink: /historia/
 - T.z. právny predpis neobsahuje (priamo v zákone) vymedzenie subjektov, časových hraníc a ani presných webových lokalít, kde mali byť tieto informácie sprístupnené, bol aplikovaný a vykonavány iba na základe svoj-vole iného štátne orgánu, ktorým bol v tomto prípade správca modulu elektronických schránok.
 
 {% alert caution %} Predsa je nemysliteľné aby štát, resp. štátne orgány nútili aj 80 ročných ľudí klikať 3 roky na nejaké neurčité webové (URL) lokality, ktoré neboli nikdy v zákone ani vymedzené ani určené. T.z. sú a boli neurčité a ani teraz nie sú dostupné, resp. známe, resp. presne v zákone špecifikované.
+{% endalert %}
 
-Je absurdné, smutné a zaroveň aj humorné si túto spornú zákonnu normu transponovať do života a jazyka jednoduchých ľudi napr. takto:
+- Je absurdné, smutné a zaroveň aj humorné si túto spornú zákonnu normu transponovať do života a jazyka jednoduchých ľudi napr. takto:
 "Choďte na lokalitu správcu modulu elektronických schránok (aká je to lokalita?) a tam (kde tam ?) si po 1.5.2018 klikajte až neviem dokedy (reálne do 1.9.2020) a mali by ste sa dozvedieť, že Vám 10 dní od termínu (od kedy?) vytvorenia Vašej el. schránky správca túto el. schránku aj aktivuje na doručovanie a budeme Vám doručovať.
 
-{% endalert %}
 
 ## 2014
 Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/20221101) a pridelenie IČO.
