@@ -12,7 +12,7 @@ published: true
 
 ## Stručná rekapitulácia
 
-Sporu predchádzalo množstvo negatívnych stanovísk k aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do (/historia/)[r.1948], kedy došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát. 
+Sporu predchádzalo množstvo negatívnych stanovísk k aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do [r.1948](/historia/), kedy došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát. 
 
 | Dátum       |  Zodpovednosť       | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
