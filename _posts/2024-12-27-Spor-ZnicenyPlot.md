@@ -17,7 +17,7 @@ published: true
 
 - Urbár má však stále možnosť žiadať od pozemkového fondu náhradný pozemok v porovnateľnej výmere a v porovnateľnej lokalite v rámci SR o čo sa bude snažiť nový výbor spoločenstva.
 
-| Dátum       |  Zodpovednosť       | Udalosť           | Dokumenácia       |
+| Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:red;">18.10.2021</span> | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede na žiadosť o odstránenie spadnutých stromov (neprevzatá) ||
