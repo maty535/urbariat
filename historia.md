@@ -20,7 +20,7 @@ permalink: /historia/
 {% endalert %}
 
 - Je absurdné, smutné a zaroveň aj humorné si túto spornú zákonnu normu transponovať do života a jazyka jednoduchých ľudi napr. takto:
-"Choďte na lokalitu správcu modulu elektronických schránok (aká je to lokalita?) a tam (kde tam ?) si po 1.5.2018 klikajte až neviem dokedy (reálne do 1.9.2020) a mali by ste sa dozvedieť, že Vám 10 dní od termínu (od kedy?) vytvorenia Vašej el. schránky správca túto el. schránku aj aktivuje na doručovanie a budeme Vám doručovať.
+"Choďte na lokalitu správcu modulu elektronických schránok (aká je to lokalita?) a tam (kde tam ?) si po 1.5.2018 klikajte až neviem dokedy (reálne do 1.9.2020) a mali by ste sa dozvedieť, že Vám 10 dní od termínu (od kedy?) vytvorenia Vašej el. schránky správca túto el. schránku aj aktivuje (nie je jasné od kedy) na doručovanie a budeme Vám doručovať listiny od orgánov verejnej moci.
 
 
 ## 2014
