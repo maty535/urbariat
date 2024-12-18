@@ -13,7 +13,9 @@ published: true
 ## Stručná rekapitulácia
 
 - Sporu predchádzalo množstvo negatívnych stanovísk k aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do [r. 1948](/historia/) vo vlastnníctve urbariátu (Guľvas), následne došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát.
-- Pán Jarkovský pozemky kúpil od Ministerstva obrany SR v [r. 2014](https://www.crz.gov.sk/1317561/), keďže sa na takéto zastavané pozemky neuplatnoval zákonny nárok na vrátenie reštituovaného majetku. Urbár má však stále možnosť žiadať od pozemkového fondu náhradný pozemok v porovnateľnej výmere a v porovnateľnej lokalite v rámci SR o čo sa bude snažiť nový výbor spoločenstva.
+- Pán Jarkovský pozemky kúpil od Ministerstva obrany SR v [r. 2014](https://www.crz.gov.sk/1317561/), keďže takéto zastavané pozemky nebolo možné získať na základe (https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229/)[zákonného nároku na vrátenie reštituovaného majetku], (https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229)[229/1991], (https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2003/503/)[503/2003], (https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/180)[180/1995].
+
+- Urbár má však stále možnosť žiadať od pozemkového fondu náhradný pozemok v porovnateľnej výmere a v porovnateľnej lokalite v rámci SR o čo sa bude snažiť nový výbor spoločenstva.
 
 | Dátum       |  Zodpovednosť       | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
