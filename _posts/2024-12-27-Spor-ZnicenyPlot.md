@@ -20,11 +20,11 @@ published: true
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
 | <span style="color:red;">5.5.2023</span>  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - spílenie stromov|38Up/852/2023|
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní - plot|14Up/766/2023|
-| 03.10.2023  | OS BB               | Vydanie právoplatného a vykonateľného paltobného rozkazu|14Up/766/2023|
-| 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu|14Up/766/2023|
-| <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva|14Up/766/2023|
-| 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti el. platobného rozkazu|14Up/766/2023|
-| 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu |14Up/766/2023|
+| 03.10.2023  | OS BB               | Vydanie právoplatného a vykonateľného paltobného rozkazu||
+| 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu||
+| <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva||
+| 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti el. platobného rozkazu||
+| 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky ||
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  ||
