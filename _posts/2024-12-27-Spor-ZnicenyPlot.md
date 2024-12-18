@@ -12,6 +12,8 @@ published: true
 
 ## Stručná rekapitulácia
 
+Sporu predchádzalo množstvo negatívnych stanovísk k aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do (/historia/)[r.1948], kedy došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát. 
+
 | Dátum       |  Zodpovednosť       | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:red;">18.10.2021</span> | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
