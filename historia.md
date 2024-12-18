@@ -12,9 +12,9 @@ permalink: /historia/
 >(1)
 >Povinnosti možno ukladať len na základe zákona, v jeho medziach a pri zachovaní základných práv a slobôd."
 
-- Preto tento postup aktivácie el. schránok na doručovanie pre právnické osoby nezapísane do obchodného registra považujeme za aplikovaný mimo hraníc zákona a to nielen časových, ale aj mimo zákonného vymedzení, ktoré musia platiť rovnako pre všetky prípady, ktoré spĺňajú zákonom ustanovené podmienky.
+- Preto tento postup aktivácie el. schránok na doručovanie pre právnické osoby nezapísane do obchodného registra považujeme za aplikovaný mimo hraníc zákona a to nielen časových, ale aj mimo zákonných vymedzení, ktoré musia platiť rovnako pre všetky prípady, ktoré spĺňajú zákonom ustanovené podmienky.
 
-- T.z. právny predpis neobsahuje (priamo v zákone) vymedzenie subjektov, časových hraníc a ani presných webových lokalít, kde mali byť tieto informácie sprístupnené, bol aplikovaný a vykonavány iba na základe svoj-vole iného štátne orgánu, ktorým bol v tomto prípade správca modulu elektronických schránok.
+- T.z. právny predpis neobsahuje (priamo v zákone) vymedzenie subjektov, časových hraníc a ani presných webových lokalít, kde mali byť tieto informácie sprístupnené (publikované), bol aplikovaný a vykonávaný iba na základe svoj-vôle iného štátneho orgánu, ktorým bol v tomto prípade správca modulu elektronických schránok. 
 
 {% alert caution %} Predsa je nemysliteľné aby štát, resp. štátne orgány nútili aj 80 ročných ľudí klikať 3 roky na nejaké neurčité webové (URL) lokality, ktoré neboli nikdy v zákone ani vymedzené ani určené. T.z. sú a boli neurčité a ani teraz nie sú dostupné, resp. známe, resp. presne v zákone špecifikované.
 {% endalert %}
