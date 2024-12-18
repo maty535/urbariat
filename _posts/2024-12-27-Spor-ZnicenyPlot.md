@@ -28,8 +28,8 @@ published: true
 | 03.10.2023  | OS BB               | Vydanie právoplatného a vykonateľného paltobného rozkazu||
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu||
 | <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva||
-| 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti el. platobného rozkazu||
-| 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
+| 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti doručenie el. platobného rozkazu||
+| 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti doručenia el. platobného rozkazu ||
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu ||
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |14Up/766/2023|
