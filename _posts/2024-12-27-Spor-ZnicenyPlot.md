@@ -14,8 +14,8 @@ tags: spory kataster právo
 | Dátum       |  Zodpovednosť       | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | 18.10.2021  | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
-| 25.10.2021  | Urbár               | Zaslanie odpovede - neprevzatá ||
 | 25.10.2022  | Urbár               | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky ||
+| 15.11.2021  | Urbár               | Zaslanie odpovede - neprevzatá ||
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní||
 | 03.10.2023  | OS BB               | Vydanie právoplatného a vykonateľného paltobného rozkazu||
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu||
