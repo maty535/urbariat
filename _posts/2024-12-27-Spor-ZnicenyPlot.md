@@ -12,10 +12,12 @@ published: true
 
 ## Stručné zhrnutie sporu
 
-- Sporu predchádzalo množstvo negatívnych stanovísk k aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do [r. 1948](/historia/) vo vlastnníctve urbariátu (Guľvas), následne došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát.
+- Sporu predchádzalo množstvo negatívnych stanovísk k stavebnej aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do [r. 1948](/historia/) vo vlastnníctve urbariátu (Guľvas), následne došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát.
 - Pán Jarkovský pozemky kúpil od Ministerstva obrany SR v [r. 2014](https://www.crz.gov.sk/1317561/), keďže takéto zastavané pozemky pozemkový fond odmietol vydať na základe [zákonného nároku na vrátenie reštituovaného majetku](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229/), [229/1991](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229), [503/2003](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2003/503/), [180/1995](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/180) a urbár sa nezúčastlnil Verejnej obchodnej súťaže, kde mohol o svoje bývale pozemky rovnako, ako každý iný subjekt súťažiť.
 
 - Urbár má však stále možnosť žiadať od pozemkového fondu náhradný pozemok v porovnateľnej výmere a v porovnateľnej lokalite v rámci SR o čo sa bude snažiť nový výbor spoločenstva, po naštudovaní si problematiky reštitučných konaní a ich výsledkov vo vzťahu k urbáru.
+
+- Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali hranice cudzích pozemkov, aj ked tie nemusia byť vždy jednoznačne vytýčené. Problematiku tohto sporu a nasledných nedorozumení vidím v tom, ze Armáda SR nemala pôvodné oplotenie postavené na hraniciach svojho areálu muničného skladu, ako to je bežné pri iných súkromných pozemok, ale v skutočnosti si nechala na listoch vlastníctva určitú rezervu, ktorá bola za oplotením. Z pohľadu armády SR to bolo veľmi prezieravé, bohužial pre urbár ako vlastníka, ktorému bol pozemok odňatý bez náhrady to znamenalo, ze svojim nebdelým správanim a operáciami v blízkosti hraníc pozemkov areálu bývaleho muničného skladu zasiahol do práv iného subjektu, ktorým bol p. Peter Jarkovský. Tým, že vzájomné vzťahy medzi urbárom a p. Jarkovským boli max. vyhroteném vyústilo to až do vzájomných trestných oznámení a súdnych sporov, v ktorých mal urbár mal min. šancu, aby mohol a vedel tieto spory ustáť bez strát a aspoň s nejakým čiastočným úspechom.
 
 ## Časová os sporu
 
