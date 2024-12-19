@@ -7,12 +7,12 @@ tags: spory kataster právo
 published: true
 ---
 
-- Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
+- Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
 - Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti už vykonanej exekúcie (28.12.2023) z platobného rozkazu (3.10.2023), ktorý bol vydaný 30.8.2023 na základe žaloby Petra Jarkovského podanej dňa 3.7.2023 a bol vymožený exekúciou finančných prostriedkov vo výške:<br> **5 651,14 €**{: style="color: red;" } z účtu urbárskeho spoločenstva dňa 19.1.2024.
 
 ## Stručné zhrnutie sporu
 
-- Sporu predchádzalo množstvo negatívnych stanovísk k stavebnej aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do [r. 1948](/historia/) vo vlastnníctve urbariátu (Guľvas), následne došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát.
+- Sporu predchádzalo množstvo negatívnych stanovísk urbáru k stavebnej aktivite p. Jarkovského, ktorú vykonával na svojich súkromých pozemkoch v lokalite Chrasť (bývalý Muničný sklad), ktoré boli až do [r. 1948](/historia/) vo vlastnníctve urbariátu (Guľvas), následne došlo k zrušeniu pasienkových a lesných spoločenstiev a ich obhospodarovanie prešlo pod spoločnosť - štát.
 - Pán Jarkovský pozemky kúpil od Ministerstva obrany SR v [r. 2014](https://www.crz.gov.sk/1317561/), keďže takéto zastavané pozemky pozemkový fond odmietol vydať na základe [zákonného nároku na vrátenie reštituovaného majetku](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229/), [229/1991](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229), [503/2003](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2003/503/), [180/1995](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/180) a urbár sa nezúčastlnil Verejnej obchodnej súťaže, kde mohol o svoje bývale pozemky rovnako, ako každý iný subjekt súťažiť.
 
 - Urbár má však stále možnosť žiadať od pozemkového fondu náhradný pozemok v porovnateľnej výmere a v porovnateľnej lokalite v rámci SR o čo sa bude snažiť nový výbor spoločenstva, po naštudovaní si problematiky reštitučných konaní a ich výsledkov vo vzťahu k urbáru.
