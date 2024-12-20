@@ -9,6 +9,7 @@ tags: pozemky podiely predkupné právo ponuky
 - V prípade prevodu podielu na nečlena spoločenstva, alebo člena spoloičenstva, ktorý nie je zapísaný na rovnakom LV pre podiel na spoločnej nehnuteľnosti sa uplatňuje predkupné právo.
 
 - Člen je v takomto prípade povinný pred prevodom podielu ponúknuť tento podiel ostatným členom.
+- Ak sa spoluvlastnícky podiel prevádza na iného spoluvlastníka, ostatní spoluvlastníci predkupné právo nemajú
 
 - Podiel možno ponúknuť, a teda ponuku ostatným členom a urbáru možno urobiť dvoma
 spôsobmi:
