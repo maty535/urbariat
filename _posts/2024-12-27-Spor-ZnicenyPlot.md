@@ -25,9 +25,15 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
+| <span style="color:blue;">25.08.2021</span> | Peter Jarkovský    |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.1| 17C/51/2023 |
+| <span style="color:blue;">11.11.2021</span> | Peter Jarkovský    |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.2 |17C/51/2023|
 | <span style="color:red;">18.10.2021</span> | Peter Jarkovský     | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) ||
+| <span style="color:blue;">19.01.2022</span> | Peter Jarkovský    |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.1 | 17C/51/2023 |
+| <span style="color:blue;">30.03.2022</span> | Peter Jarkovský    |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-2872/2022 |
+| <span style="color:blue;">20.05.2022</span> | Peter Jarkovský    |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-4718/2022 |
 | <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
+| <span style="color:DarkOrange;">24.4.2023</span>  |Urbár (AK Tarabčák)     | Dovolanie sa relatávneh neplatnosti kúpnych zmlúv ||
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
 | <span style="color:red;">5.5.2023</span>   | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- spílenie 6 stromov na cudzom pozemku<br/>(o zaplatenie  <span style="color:red;">6 798,96 €</span> s príslušenstvom)|38Up/852/2023|
 | 23.05.2023  | OS BB               | Vydanie platobného rozkazu|38Up/852/2023|
