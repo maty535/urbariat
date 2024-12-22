@@ -61,8 +61,8 @@ function delayedSearch() {
 | <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.2 |17C/51/2023|
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) |14Up/766/2023|
 | <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.3 | 17C/51/2023 |
-| <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-2872/2022, 17C/51/2023 |
-| <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-4718/2022, 17C/51/2023 |
+| <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.1 na spoločnej nehnutelnnoti | V-2872/2022, 17C/51/2023 |
+| <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.2 na spoločnej nehnutelnnoti | V-4718/2022, 17C/51/2023 |
 | <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:DarkOrange;">24.4.2023</span>  |Urbár (AK Tarabčák)     | Dovolanie sa relatávnej neplatnosti kúpnych zmlúv |17C/51/2023|
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov |38Up/852/2023|
