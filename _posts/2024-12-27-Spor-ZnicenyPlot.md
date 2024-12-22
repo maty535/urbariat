@@ -11,11 +11,11 @@ published: true
 
 function search(){
   
-  var s = document.getElementById('search').value;
+  var s = document.getElementById('search').value.toLowerCase();
 
   rows = (document.getElementsByTagName('tbody')[0]).getElementsByTagName('TR');
   for(var i=0;i<rows.length;i++){
-    if ( rows[i].textContent.indexOf(s)>0  || s.length==0 ) {
+    if ( rows[i].textContent..toLowerCase().indexOf(s)>0  || s.length==0 ) {
 	  rows[i].style.display ='';
     } else {
       rows[i].style.display ='none';
