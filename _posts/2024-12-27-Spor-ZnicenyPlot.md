@@ -69,6 +69,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov |38Up/852/2023|
 | <span style="color:red;">5.5.2023</span>   | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- spílenie 6 stromov na cudzom pozemku<br/>(o zaplatenie  <span style="color:red;">6 798,96 €</span> s príslušenstvom)|38Up/852/2023|
 | 23.05.2023  | OS BB               | Vydanie platobného rozkazu|38Up/852/2023|
+| <span style="color:red;">19.06.2023</span>   | Urbár (AK Tarabčák) | Podanie žaloby o určenie relatívnej neplatnosti kúpnych zmlúv |17C/51/2023|
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- zničený plot<br/>(o zaplatenie  <span style="color:red;">3 474,53 €</span> s príslušenstvom)|14Up/766/2023|
 | 30.08.2023  | OS BB               | Vydanie platobného rozkazu|14Up/766/2023|
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu|14Ek/2838/2023|
