@@ -15,7 +15,7 @@ function search(){
 
   rows = (document.getElementsByTagName('tbody')[0]).getElementsByTagName('TR');
   for(var i=0;i<rows.length;i++){
-    if ( rows[i].textContent..toLowerCase().indexOf(s)>0  || s.length==0 ) {
+    if ( rows[i].textContent.toLowerCase().indexOf(s)>0  || s.length==0 ) {
 	  rows[i].style.display ='';
     } else {
       rows[i].style.display ='none';
