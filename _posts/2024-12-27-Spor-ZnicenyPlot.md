@@ -26,8 +26,8 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:blue;">25.08.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.1| 17C/51/2023 |
-| <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.2 |17C/51/2023|
 | <span style="color:red;">18.10.2021</span>  | Peter Jarkovský  | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| |
+| <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.2 |17C/51/2023|
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) ||
 | <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.3 | 17C/51/2023 |
 | <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-2872/2022 |
