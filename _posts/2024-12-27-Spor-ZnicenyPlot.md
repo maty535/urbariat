@@ -50,7 +50,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 {% endalert %}
 
 ## Časová os sporu
-<div><input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" /><input type="button" value="Vyhľadať" onclick="lsearch();"/><hr width="90%" size="1"/>
+<div><input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" /><input type="button" value="Vyhľadať" onclick="lsearch();"/>
 </div>
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
