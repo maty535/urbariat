@@ -53,6 +53,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 <div><input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" /><input type="button" value="Vyhľadať" onclick="lsearch();"/>
 <hr width="90%" size="1"/>
 </div>
+
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:blue;">25.08.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.1| 17C/51/2023 |
