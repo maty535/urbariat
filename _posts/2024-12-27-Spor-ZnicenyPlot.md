@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za poškodenie plota v lokalite býv. muničného skladu"
-date: 2024-12-17
+date: 2024-12-27
 categories: spory pravo
 tags: spory kataster právo
 published: true
