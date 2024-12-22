@@ -13,7 +13,7 @@ function search(){
   
   var s = document.getElementById('search').value;
 
-  rows = document.getElementsByTagName('TR');
+  rows = (document.getElementsByTagName('tbody')[0]).getElementsByTagName('TR');
   for(var i=0;i<rows.length;i++){
     if ( rows[i].textContent.indexOf(s)>0  || s.length==0 ) {
 	  rows[i].style.display ='';
