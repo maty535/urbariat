@@ -51,8 +51,8 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 
 ## Časová os sporu
 <div>
-  <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />&nbsp; 
-  <input type="button" value="Vyhľadať" onclick="lsearch();"/>
+  <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
+  <input type="button" value="Vyhľadať" onclick="lsearch();"/><br/>
 </div>
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
