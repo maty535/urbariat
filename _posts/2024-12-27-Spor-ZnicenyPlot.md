@@ -62,22 +62,22 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 | <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.2 |17C/51/2023|
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) ||
 | <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti v urbáre c.3 | 17C/51/2023 |
-| <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-2872/2022 |
-| <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-4718/2022 |
+| <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-2872/2022, 17C/51/2023 |
+| <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu na spoločnej nehnutelnnoti v urbáre | V-4718/2022, 17C/51/2023 |
 | <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
-| <span style="color:DarkOrange;">24.4.2023</span>  |Urbár (AK Tarabčák)     | Dovolanie sa relatávneh neplatnosti kúpnych zmlúv ||
-| <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov ||
+| <span style="color:DarkOrange;">24.4.2023</span>  |Urbár (AK Tarabčák)     | Dovolanie sa relatávnej neplatnosti kúpnych zmlúv |17C/51/2023|
+| <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov |38Up/852/2023|
 | <span style="color:red;">5.5.2023</span>   | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- spílenie 6 stromov na cudzom pozemku<br/>(o zaplatenie  <span style="color:red;">6 798,96 €</span> s príslušenstvom)|38Up/852/2023|
 | 23.05.2023  | OS BB               | Vydanie platobného rozkazu|38Up/852/2023|
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- zničený plot<br/>(o zaplatenie  <span style="color:red;">3 474,53 €</span> s príslušenstvom)|14Up/766/2023|
 | 30.08.2023  | OS BB               | Vydanie platobného rozkazu|14Up/766/2023|
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu|14Ek/2838/2023|
-| <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva|178EX 1104/23|
+| <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva|178EX 1104/23, 14Up/766/2023 |
 | 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti doručenie el. platobného rozkazu|14Up/766/2023|
 | 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti doručenia el. platobného rozkazu |14Up/766/2023|
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu |14Up/766/2023|
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
-| <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |15CoUp/4/2024|
+| <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |15CoUp/4/2024, 14Up/766/2023|
  
 ![image](https://github.com/user-attachments/assets/d25e875e-26db-4a3f-a8de-bcec0eedefd0)
 
