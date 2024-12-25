@@ -41,6 +41,8 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/a14b834c-ce20-4120-9a46-1a3f0e7e6fdf)
 
+# Mapa urbárskych pozemkov
+!(/assests/img/2024-12-25-MapaUrbaru-small.png)
 
 # História
 - [stručné historické míľniky](/historia/)
