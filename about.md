@@ -43,7 +43,7 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 
 # Mapa urbárskych pozemkov
 ![image](/assets/img/2024-12-25-MapaUrbaru-small.png)
-- [stiahnuť mapu ako pdf](/assests/2024-12-25-UrbarskePozemky.pdf)
+- [stiahnuť mapu ako pdf](/assets/2024-12-25-UrbarskePozemky.pdf)
 
 # História
 - [stručné historické míľniky](/historia/)
