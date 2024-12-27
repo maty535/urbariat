@@ -76,7 +76,8 @@ function delayedSearch() {
 | 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti doručenie el. platobného rozkazu|14Up/766/2023|
 | 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti doručenia el. platobného rozkazu |14Up/766/2023|
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu |14Up/766/2023|
-| <span style="color:DarkOrange;">23.7.2024</span> | AK Tarabčák | Vzdanie sa zastupovania urbáru vo všetkých právnych sporoch |17C/51/2023, 14Up/766/2023,38Up/852/2023|     | <span |style="color:DarkGreen;">18.9.2024</span> | AK Polakovič | Úprava žaloby: zmena žaobcov |17C/51/2023|     
+| <span style="color:DarkOrange;">23.7.2024</span> | AK Tarabčák | Vzdanie sa zastupovania urbáru vo všetkých právnych sporoch |17C/51/2023, 14Up/766/2023,38Up/852/2023|     
+| <span style="color:DarkGreen;">18.9.2024</span> | AK Polakovič | Úprava žaloby: zmena žaobcov |17C/51/2023|     
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |15CoUp/4/2024, 14Up/766/2023|
  
