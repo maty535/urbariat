@@ -4,6 +4,7 @@ title: "Počítanie lehôt v prípade predloženia ponúk pre uplatnenie predkup
 date: 2024-08-16
 categories: podiely 
 tags: pozemky podiely predkupné právo ponuky  
+author: Ing. Matúš Ivanecký
 ---
 
 - V prípade prevodu podielu na nečlena spoločenstva (iného než [blízku osobu](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/#paragraf-116)), alebo člena spoloičenstva, ktorý nie je zapísaný na rovnakom LV pre podiel na spoločnej nehnuteľnosti sa uplatňuje predkupné právo.

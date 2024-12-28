@@ -4,6 +4,7 @@ title: "Odvodňovacie zariadenie nad ihriskom"
 date: 2024-07-08
 categories: projekty
 tags: projekty pozemky
+author: Ing. Matúš Ivanecký
 ---
 
 - Výbor schválil zámer obce, poskytne svoju plnú súčinnosť a prenajme obci pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení upozorní podielnikov aby svojvoľne nezasypávali existujúce odvodňovacie priekopy a požiada Valné zhromaždenie o potvrdenie tohto zámeru.

@@ -4,6 +4,7 @@ title: "Ocenenie pozemkov súdnym znalcom a správcom konkurznej podstaty"
 date: 2021-08-16
 categories: pozemky 
 tags: pozemky hodnota ocenenie
+author: Ing. Matúš Ivanecký
 ---
 
 - Dňa 14.01.2021 Ing.Dlhoš Róbert, znalec z odboru Poľnohospodárstvo,

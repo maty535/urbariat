@@ -4,6 +4,7 @@ title: "Oznámenie o začatí územného konania pre stavbu: „Odvodňovacie za
 date: 2024-11-06
 categories: prejektu 
 tags: pozemky projekty
+author: Ing. Matúš Ivanecký
 ---
 
 - Stavebný úrad podľa § 36 ods. 1 stavebného zákona v znení jeho noviel oznamuje

@@ -4,6 +4,7 @@ title: "Nahliadanie do zbierky listín katastra nehnuteľností"
 date: 2024-12-15
 categories: kataster právo
 tags: pozemky kataster
+author: Ing. Matúš Ivanecký
 ---
 
 - Počnúc 1. októbrom 2018 došlo prostredníctvom novely katastrálneho zákona (zákon č. 162/1995) k úpravám pri nahliadaní do katastra nehnuteľností.
