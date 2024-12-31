@@ -18,6 +18,9 @@ permalink: /organization/
 |Vladimír Koropšák ml.|člen|26.05.2024|0907 606 664| 
 |Ing. Matúš Ivanecký |člen|26.05.2024|0918 730 322| 
 
+-  funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029
+
+
 ako náhradníci do výboru boli zvolení títo členovia, ktorí sa nezúčastnili valného zhromaždenia
 - Stanislav Leško
 - Pavol Sokol
