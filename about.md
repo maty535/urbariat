@@ -29,7 +29,7 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 ## Katastrálne informácie
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
-|:---------- | :--------- | :------- | :--------| :--------
+|:---------- | :--------- | :------- | :--------| --------:
 | 813591 | DULOVA VES | [414](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html) | TPP |	5.9829	|	
 | 813591 | DULOVA VES | [822](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=822&cadastralUnitCode=813591&outputType=html) | TPP, orná pôda |19.0824		|	
 | 813591 | DULOVA VES | [1133](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1133&cadastralUnitCode=813591&outputType=html) | Zastavaná plocha a nádvorie|0.0127		|	
