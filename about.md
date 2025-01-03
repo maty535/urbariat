@@ -39,7 +39,7 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 | 874159 | ŽEHŇA | [1037](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1037&cadastralUnitCode=874159&outputType=html)     | Lesný pozemok |35.1536|
 | 874159 | ŽEHŇA | [1050](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1050&cadastralUnitCode=874159&outputType=html)     | Lesný pozemok |0.0287|
 |===
-| Spolu:   {: style=";background-color: darkorange; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: darkorange; color: white;font-weight: bold;" }  :||||
+| Spolu:   {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/a14b834c-ce20-4120-9a46-1a3f0e7e6fdf)
 
