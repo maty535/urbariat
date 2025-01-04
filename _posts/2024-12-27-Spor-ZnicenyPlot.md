@@ -67,7 +67,7 @@ function delayedSearch() {
 | <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.3 | {{ page.spor_17c_uri }} |
 | <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.1 na spoločnej nehnutelnnoti | V-2872/2022, {{ page.spor_17c_uri }} |
 | <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.2 na spoločnej nehnutelnnoti | V-4718/2022, {{ page.spor_17c_uri }} |
-| <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
+|  <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky  {: style=";background-color: #C70039; color: white;font-weight: bold;" } |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:DarkOrange;">24.4.2023</span>  |Urbár (AK Tarabčák)     | Dovolanie sa relatávnej neplatnosti kúpnych zmlúv |{{ page.spor_17c_uri }}|
 | <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov |{{ page.spor_38up_uri }}|
 | <span style="color:red;">5.5.2023</span>   | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- spílenie 6 stromov na cudzom pozemku<br/>(o zaplatenie  <span style="color:red;">6 798,96 €</span> s príslušenstvom)|{{ page.spor_38up_uri }}|
