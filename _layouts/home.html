@@ -10,7 +10,7 @@ layout: base
   {{ content }}
 
 
-  {% if site.paginate %}
+  {% if site.pagination.enabled %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
