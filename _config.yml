@@ -5,7 +5,20 @@ description: >
 url: "https://urbar.dulovaves.sk"
 lang: sk_SK
 
-paginate: 5
+#paginate: 5
+
+pagination:
+  enabled: true
+  per_page: 5
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
+  extension: html
+  indexpage: 'index'
+  title: ':title - page :num'
 
 picture:
   nomarkdown: true
@@ -55,7 +68,7 @@ header_pages:
   
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
