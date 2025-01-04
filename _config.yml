@@ -5,18 +5,10 @@ description: >
 url: "https://urbar.dulovaves.sk"
 lang: sk_SK
 
+paginate: 5
+
 picture:
   nomarkdown: true
-
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page:num/'
-  title: ' - page :num'
-  limit: 0
-  sort_reverse: false
-
 
 #feed_items: 10
 #feed_update_period: daily
