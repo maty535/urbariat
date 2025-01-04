@@ -4,9 +4,19 @@ description: >
  Týmto projektom sa snažíme zlepšiť informovanie v rámci spoločenstva. Vaše návrhy a podnety nám posielajte na [email]. Ďakujeme!"
 url: "https://urbar.dulovaves.sk"
 lang: sk_SK
-nomarkdown: true
 
-#paginate: 5
+picture:
+  nomarkdown: true
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_reverse: false
+
 
 #feed_items: 10
 #feed_update_period: daily
