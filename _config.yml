@@ -6,7 +6,7 @@ url: "https://urbar.dulovaves.sk"
 lang: sk_SK
 nomarkdown: true
 
-paginate: 5
+#paginate: 5
 
 #feed_items: 10
 #feed_update_period: daily
