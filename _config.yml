@@ -10,6 +10,7 @@ lang: sk_SK
 pagination:
   enabled: true
   per_page: 5
+  permalink: '/:num/'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
@@ -18,7 +19,7 @@ pagination:
     after: 2
   extension: html
   indexpage: 'index'
-  title: ':title - page :num'
+  title: ':title | :num of :max'
 
 picture:
   nomarkdown: true
