@@ -20,13 +20,12 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 - Pán Jarkovský pozemky kúpil od Ministerstva obrany SR v [r. 2014](https://www.crz.gov.sk/1317561/), keďže takéto zastavané pozemky pozemkový fond odmietol vydať na základe [zákonného nároku na vrátenie reštituovaného majetku](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229/), [229/1991](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1991/229), [503/2003](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2003/503/), [180/1995](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1995/180) a urbár sa nezúčastlnil Verejnej obchodnej súťaže, kde mohol o svoje bývale pozemky rovnako, ako každý iný subjekt súťažiť.
 
 - Urbár má však stále možnosť žiadať od pozemkového fondu náhradný pozemok v porovnateľnej výmere a v porovnateľnej lokalite v rámci SR o čo sa bude snažiť nový výbor spoločenstva, po naštudovaní si problematiky reštitučných konaní a ich výsledkov vo vzťahu k urbáru.
-{::nomarkdown}
+
 {% alert warning %}
 Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali hranice cudzích pozemkov, aj ked tie nemusia byť vždy jednoznačne vytýčené a viditeľné. Dokonca viditeľné hranice v tomto prípade boli zavádzahúce. Problematiku tohto sporu a nasledných nedorozumení vidím v tom, ze Armáda SR nemala pôvodné oplotenie a stavby infraštruktúry postavené na hraniciach svojho areálu muničného skladu, ako to je bežné pri iných súkromných pozemkoch a stavbách (napr. ciest), ale v skutočnosti si nechala na listoch vlastníctva určitú rezervu, ktorá bola za oplotením a v okolí prístupovej komunikácie. Z pohľadu armády SR to bolo veľmi prezieravé, bohužial pre urbár ako vlastníka, ktorému bol pozemok odňatý bez náhrady to znamenalo, ze svojim nebdelým správanim a operáciami v blízkosti viditeľných hraníc pozemkov areálu bývaleho muničného skladu zasiahol do práv iného subjektu, ktorým bol p. Peter Jarkovský. Tým, že vzájomné vzťahy medzi urbárom a p. Jarkovským boli max. vyhrotené,  vyústilo to až do vzájomných trestných oznámení a súdnych sporov, v ktorých mal urbár len min. šancu, aby mohol spory ustáť bez strát a aspoň s nejakým čiastočným úspechom.
 {% endalert %}
-{:/nomarkdown}
+
 ## Časová os sporu
-{::nomarkdown}
 <script type="text/javascript">
 
 function search(){
@@ -54,7 +53,7 @@ function delayedSearch() {
     }, 500);
   }
 </script>
-{:/nomarkdown}
+
 <div>
   <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
   <input type="button" value="Vyhľadať" onclick="search();"/><br/>
