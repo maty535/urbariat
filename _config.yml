@@ -47,7 +47,7 @@ header_pages:
   
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
