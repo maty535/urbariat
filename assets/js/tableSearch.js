@@ -1,4 +1,3 @@
-<script type="text/javascript">
 
 function search(){
   
@@ -24,4 +23,3 @@ function delayedSearch() {
 		search();
     }, 500);
   }
-</script>
