@@ -11,6 +11,7 @@ spor_14up_uri : "[14Up/766/2023](https://drive.google.com/drive/folders/1kADN_QF
 spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fmrxJvqXsCCYWJSixGW8W0mTUiR?usp=drive_link)"
 ---
 
+
 - Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
 - Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti už vykonanej exekúcie (28.12.2023) z platobného rozkazu (3.10.2023), ktorý bol vydaný 30.8.2023 na základe žaloby Petra Jarkovského podanej dňa 3.7.2023 a bol vymožený exekúciou finančných prostriedkov vo výške:<br> **5 651,14 €**{: style="color: red;" } z účtu urbárskeho spoločenstva dňa 19.1.2024.
 
@@ -26,34 +27,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 {% endalert %}
 
 ## Časová os sporu
-<script type="text/javascript">
-
-function search(){
-  
-  var s = document.getElementById('search').value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-
-  rows = (document.getElementsByTagName('tbody')[0]).getElementsByTagName('TR');
-  for(var i=0;i<rows.length;i++){
-    if(rows[i].textContent.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').indexOf(s)>0  || s.length==0 ) {
-	  rows[i].style.display ='';
-    } else {
-      rows[i].style.display ='none';
-    }
-  }
-}
-
-
-var timer;
-function delayedSearch() {
-	clearTimeout(timer);
-	console.log('delay-ing')
-    timer = setTimeout(function () {
-		console.log('delay-running')
-		search();
-    }, 500);
-  }
-</script>
-
+<script src="/assets/js/tableSearch.js"></script>
 <div>
   <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
   <input type="button" value="Vyhľadať" onclick="search();"/><br/>
