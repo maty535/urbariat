@@ -10,6 +10,12 @@ paginate: 5
 picture:
   nomarkdown: true
 
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+
 #feed_items: 10
 #feed_update_period: daily
 #feed_update_frequency: 1
