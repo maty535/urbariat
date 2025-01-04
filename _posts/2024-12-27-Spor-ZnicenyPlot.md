@@ -69,7 +69,7 @@ function delayedSearch() {
 | <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.2 na spoločnej nehnutelnnoti | V-4718/2022, {{ page.spor_17c_uri }} |
 |  <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky  {: style=";background-color: #C70039; color: white;font-weight: bold;" } |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:DarkOrange;">24.4.2023</span>  |Urbár (AK Tarabčák)     | Dovolanie sa relatávnej neplatnosti kúpnych zmlúv |{{ page.spor_17c_uri }}|
-| <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov |{{ page.spor_38up_uri }}|
+| <span style="color:red;">27.4.2023</span>  | Peter Jarkovský     | Podanie trestného oznámenia vo veci spílenia 6 stromov    {: style=";background-color: #C70039; color: white;font-weight: bold;" } |{{ page.spor_38up_uri }}|
 | <span style="color:red;">5.5.2023</span>   | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- spílenie 6 stromov na cudzom pozemku<br/>(o zaplatenie  <span style="color:red;">6 798,96 €</span> s príslušenstvom)|{{ page.spor_38up_uri }}|
 | 23.05.2023  | OS BB               | Vydanie platobného rozkazu|{{ page.spor_38up_uri }}|
 | <span style="color:red;">19.06.2023</span>   | Urbár (AK Tarabčák) | Podanie žaloby o určenie relatívnej neplatnosti kúpnych zmlúv |{{ page.spor_17c_uri }}|
