@@ -86,7 +86,6 @@ function delayedSearch() {
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |15CoUp/4/2024, {{ page.spor_14up_uri }}|
  
-![image](https://github.com/user-attachments/assets/d25e875e-26db-4a3f-a8de-bcec0eedefd0)
 
 
 
