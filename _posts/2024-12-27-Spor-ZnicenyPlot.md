@@ -61,7 +61,7 @@ function delayedSearch() {
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
 | <span style="color:blue;">25.08.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.1| {{ page.spor_17c_uri }} |
-| <span style="color:red;">18.10.2021</span>  | Peter Jarkovský  | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia| {{ page.spor_14up_uri }} |
+| <span style="color:red;">18.10.2021</span>  | Peter Jarkovský  | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia {: style=";background-color: #FFC300; color: white;font-weight: bold;" }| {{ page.spor_14up_uri }} |
 | <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.2 |{{ page.spor_17c_uri }} |
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) |{{ page.spor_14up_uri }} |
 | <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.3 | {{ page.spor_17c_uri }} |
