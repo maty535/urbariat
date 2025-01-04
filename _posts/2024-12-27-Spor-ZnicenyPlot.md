@@ -51,14 +51,14 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 | 03.07.2023  | Peter Jarkovský     | Žaloba o náhradu škody v el. upomínacom konaní:<br/>- zničený plot<br/>(o zaplatenie 3 474,53 € s príslušenstvom)   {: style=";background-color: #900C3F; color: white;font-weight: bold;" } |{{ page.spor_14up_uri }}|
 | 30.08.2023  | OS BB               | Vydanie platobného rozkazu|{{ page.spor_14up_uri }}|
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu|14Ek/2838/2023|
-| <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva|178EX 1104/23, {{ page.spor_14up_uri }} |
+| <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva vo výške 5 651,14 € {: style=";background-color: #C70039; color: white;" }|178EX 1104/23, {{ page.spor_14up_uri }} |
 | 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti doručenie el. platobného rozkazu|{{ page.spor_14up_uri }}|
 | 03.07.2024  | OS BB               | Uznesenie o zamietnutí návrhu na určenie neúčinnosti doručenia el. platobného rozkazu |{{ page.spor_14up_uri }}|
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu |{{ page.spor_14up_uri }}|
 | <span style="color:DarkOrange;">23.7.2024</span> | AK Tarabčák | Vzdanie sa zastupovania urbáru vo všetkých právnych sporoch |{{ page.spor_17c_uri }}, {{ page.spor_14up_uri }}, {{ page.spor_38up_uri }}|     
 | <span style="color:DarkGreen;">18.9.2024</span>  | AK Polakovič | Úprava žaloby: zmena žalobcov |{{ page.spor_17c_uri }}|     
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
-| <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  |15CoUp/4/2024, {{ page.spor_14up_uri }}|
+| <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  {: style=";background-color: #C70039; color: white;" }|15CoUp/4/2024, {{ page.spor_14up_uri }}|
  
 
 
