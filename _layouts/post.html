@@ -29,7 +29,7 @@ pagination:
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ content| markdownify }}
   </div>
 
   {%- if site.disqus.shortname -%}
