@@ -26,7 +26,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 {% endalert %}
 
 ## Časová os sporu
-{::nomarkdown}
+{:nomarkdown}
 <script type="text/javascript">
 
 function search(){
