@@ -26,6 +26,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 {% endalert %}
 
 ## Časová os sporu
+{::nomarkdown}
 <script type="text/javascript">
 
 function search(){
@@ -53,6 +54,7 @@ function delayedSearch() {
     }, 500);
   }
 </script>
+{:/nomarkdown}
 <div>
   <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
   <input type="button" value="Vyhľadať" onclick="search();"/><br/>
