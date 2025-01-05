@@ -19,7 +19,7 @@ pagination:
     after: 2
   extension: html
   indexpage: 'index'
-  title: 'Aktuálne oznamy | :num of :max'
+  title: 'Aktuálne oznamy: :num z :max'
 
 picture:
   nomarkdown: true
