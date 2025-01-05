@@ -19,7 +19,7 @@ pagination:
     after: 2
   extension: html
   indexpage: 'index'
-  title: 'Strana :num z :max'
+  title: ':title :num z :max'
 
 picture:
   nomarkdown: true
