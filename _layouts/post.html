@@ -24,7 +24,9 @@ layout: base
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}
-     • <a href="https://hits.sh/urbar.dulovaves.sk/"><img alt="Hits" src="https://hits.sh/urbar.dulovaves.sk.svg"/></a>
+     • <span>
+         <a href="https://hits.sh/urbar.dulovaves.sk/{{page.id}}"><img alt="Zobrazeni" src="https://hits.sh/urbar.dulovaves.sk/{{page.id}}.svg?label=Zobrazen%C3%AD&color=dfb317"/></a>
+       </span>
     </p>
   </header>
 
