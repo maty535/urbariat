@@ -2,7 +2,7 @@
 layout: post
 title: Vyhláška Ministerstva pôdohospodárstva Slovenskej republiky č. 232/2006 Z. z. o vyznačovaní ťažby dreva, označovaní vyťaženého dreva a dokladoch o pôvode dreva v znení vyhlášky č. 176/2011 Z. z.."
 date: 2024-10-25
-categories: lesne hospodarstvo 
+categories: lesne hospodarenie 
 tags: pozemky les lesne hospodarenie drevo oznacovanie ocenenie
 author: Ing. Matúš Ivanecký
 ---
