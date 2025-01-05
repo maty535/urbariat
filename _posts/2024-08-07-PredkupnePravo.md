@@ -2,7 +2,7 @@
 layout: post
 title: "Ako postupovať pri porušení predkupného práva k nehnuteľnosti"
 date: 2024-08-07
-categories: Pravo
+categories: pravo predkupne
 tags: pravo zmluvy podiely nehnutlnost spolocna
 author: Ing. Matúš Ivanecký
 ---
