@@ -2,12 +2,12 @@
 layout: post
 title: "Počítanie lehôt v prípade predloženia ponúk pre uplatnenie predkupného práva pre odpredaj podielov mimo spoločenstva"
 date: 2024-08-16
-categories: právo predkupné
-tags: pozemky podiely predkupné právo ponuky  
+categories: právo predaj podiel
+tags: pozemky podiely predkupné právo ponuka predaj  
 author: Ing. Matúš Ivanecký
 ---
 
-- V prípade prevodu podielu na nečlena spoločenstva (iného než [blízku osobu](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/#paragraf-116)), alebo člena spoloičenstva, ktorý nie je zapísaný na rovnakom LV pre podiel na spoločnej nehnuteľnosti sa uplatňuje predkupné právo.
+- V prípade prevodu podielu na nečlena spoločenstva (iného než [blízku osobu](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/#paragraf-116)), alebo člena spoločenstva, ktorý nie je zapísaný na rovnakom LV pre podiel na spoločnej nehnuteľnosti sa uplatňuje predkupné právo.
 
 - Člen je v takomto prípade povinný pred prevodom podielu ponúknuť tento podiel ostatným členom.
 - Ak sa spoluvlastnícky podiel prevádza na iného spoluvlastníka, ostatní spoluvlastníci predkupné právo nemajú
@@ -20,7 +20,8 @@ samotnému (odporúčame doporučene), alebo
 
 <span style="color: red;">
 ***Ak chce člen urbáru alebo samotný urbár ponuku využiť, musí vyplatiť kúpnu cenu do dvoch
-mesiacov.***</span> 
+mesiacov.***
+</span> 
 
 ## Lehota na zaplatenie kúpnej ceny sa počíta:
 
