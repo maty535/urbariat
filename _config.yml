@@ -10,7 +10,7 @@ lang: sk_SK
 pagination:
   enabled: true
   per_page: 5
-  permalink: '/:num/'
+  permalink: '/news/:num/'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
@@ -19,7 +19,7 @@ pagination:
     after: 2
   extension: html
   indexpage: 'index'
-  title: ':title | :num of :max'
+  title: 'Aktuálne oznamy | :num of :max'
 
 picture:
   nomarkdown: true
