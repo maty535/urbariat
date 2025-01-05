@@ -2,7 +2,7 @@
 layout: post
 title: "Valné zhromaždenie"
 date: 2024-05-25
-categories: zhromazdenie
+categories: spolocenstvo zhromazdenie
 tags: zhromazdenie 2024
 author: Ing. Matúš Ivanecký
 ---
