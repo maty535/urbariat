@@ -3,7 +3,11 @@ layout: page
 title: O nás
 description: Základne právne a registračné informácie o spoločenstve
 permalink: /about/
+kataster_lv_uri_prefix: "/assets/2024-12-31-lv"
 ---
+
+
+
 {% alert tip %}
 Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a zveľadovať ju tak, aby bolo zachované životné prostredie a ráz krajiny v súlade s vhodnými životnými podmienkami nielen vlastníkov spoločných nehnuteľností, ale aj všetkých obyvateľov a žijúcich druhov v tomto prostredí. 
 {% endalert %}
@@ -27,10 +31,11 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
 
 ## Katastrálne informácie
+[//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
 |----------: | :--------- | :------- | :--------| --------:|
-| 813591 | DULOVA VES | [414](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html) | TPP |	5.9829	|	
+| 813591 | DULOVA VES | [414]({{ kataster_lv_uri_prefix}}-414.html) | TPP |	5.9829	|	
 | 813591 | DULOVA VES | [822](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=822&cadastralUnitCode=813591&outputType=html) | TPP, orná pôda |19.0824		|	
 | 813591 | DULOVA VES | [1133](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1133&cadastralUnitCode=813591&outputType=html) | Zastavaná plocha a nádvorie|0.0127		|	
 | 813591 | DULOVA VES |[1600](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1600&cadastralUnitCode=813591&outputType=html)| Lesný pozemok, Ostatná plocha, Trvalý trávny porast, Vodná plocha, Zastavaná plocha a nádvorie |43.9012|
