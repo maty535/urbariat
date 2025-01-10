@@ -32,17 +32,18 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 
 ## Katastrálne informácie
 [//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
+[//]: # (https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html) 
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
 |----------: | :--------- | :------- | :--------| --------:|
 | 813591 | DULOVA VES | {% capture lv_url %}[414]({{ page.kataster_lv_uri_prefix }}-414.html){% endcapture %}  {{ lv_url }} | TPP |	5.9829	|	
-| 813591 | DULOVA VES | [822](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=822&cadastralUnitCode=813591&outputType=html) | TPP, orná pôda |19.0824		|	
-| 813591 | DULOVA VES | [1133](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1133&cadastralUnitCode=813591&outputType=html) | Zastavaná plocha a nádvorie|0.0127		|	
-| 813591 | DULOVA VES |[1600](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1600&cadastralUnitCode=813591&outputType=html)| Lesný pozemok, Ostatná plocha, Trvalý trávny porast, Vodná plocha, Zastavaná plocha a nádvorie |43.9012|
-| 874159 | ŽEHŇA | [634](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=634&cadastralUnitCode=874159&outputType=html)	    | TPP |	0.0518|
-| 874159 | ŽEHŇA | [1033](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html)     | TPP | 24.4756|		
-| 874159 | ŽEHŇA | [1037](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1037&cadastralUnitCode=874159&outputType=html)     | Lesný pozemok |35.1536|
-| 874159 | ŽEHŇA | [1050](https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1050&cadastralUnitCode=874159&outputType=html)     | Lesný pozemok |0.0287|
+| 813591 | DULOVA VES | [822]({{ page.kataster_lv_uri_prefix }}-822.html) | TPP, orná pôda |19.0824		|	
+| 813591 | DULOVA VES | [1133]({{ page.kataster_lv_uri_prefix }}-1133.html) | Zastavaná plocha a nádvorie|0.0127		|	
+| 813591 | DULOVA VES | [1600]({{ page.kataster_lv_uri_prefix }}-1600.html)| Lesný pozemok, Ostatná plocha, Trvalý trávny porast, Vodná plocha, Zastavaná plocha a nádvorie |43.9012|
+| 874159 | ŽEHŇA | [634]({{ page.kataster_lv_uri_prefix }}-634.html)	    | TPP |	0.0518|
+| 874159 | ŽEHŇA | [1033]({{ page.kataster_lv_uri_prefix }}-1033.html)     | TPP | 24.4756|	
+| 874159 | ŽEHŇA | [1037]({{ page.kataster_lv_uri_prefix }}-1037.html)     | Lesný pozemok |35.1536|
+| 874159 | ŽEHŇA | [1050]({{ page.kataster_lv_uri_prefix }}-1050.html)     | Lesný pozemok |0.0287|
 |===
 | Spolu:   {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
 
