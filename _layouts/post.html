@@ -30,7 +30,7 @@ layout: base
          <a href="https://hits.sh/urbar.dulovaves.sk{{page.url}}"><img alt="Zobrazeni" src="https://hits.sh/urbar.dulovaves.sk{{page.url}}.svg?label=Zobrazen%C3%AD&color=dfb317"/></a>
        </span>
       {% if page.tags != empty %}
-      Viac:
+      <h5> k téme:</h5h>
       <ul class="tag-list">
         {% for tag in page.tags %}
         <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
