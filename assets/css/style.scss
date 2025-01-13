@@ -36,6 +36,13 @@ archive-list li:after,.archive-list-work li:after,.archive-list-work:after,.arch
     background-color: #e7b51e
 }
 
+ul:before{
+  content:attr(aria-label);
+  font-size:120%;
+  font-weight:bold;
+  margin-left:-15px;
+}
+
 // copied from view-source:https://github.com/orgs/community/discussions/16925
 
 .markdown-alert {
