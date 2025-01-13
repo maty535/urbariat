@@ -8,6 +8,17 @@
 
 // -------------------------------------------- //
 
+archive-list li:after,.archive-list-work li:after,.archive-list-work:after,.archive-list:after,.clearfix:after,.grid:after,.module:after,.page_header:after,.tag-list:after,article.services .skill-example ul:after,article.services section:after {
+    content: "";
+    display: table;
+    clear: both
+}
+
+*,:after,:before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
 // copied from view-source:https://github.com/orgs/community/discussions/16925
 
 .markdown-alert {
