@@ -3,7 +3,7 @@ layout: post
 title: "Zverejnenie programu starostlivosti o les"
 date: 2024-08-07
 categories: lesne hospodarenie
-tags: les hospodarenie 
+tags: les hospodarenie 2024
 author: Ing. Matúš Ivanecký
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za poškodenie plota v lokalite býv. muničného skladu"
 date: 2024-12-17
 author: Ing. Matúš Ivanecký
-categories: spory pravo
+categories: spory pravo 2021
 tags: spory kataster právo reality
 published: true
 spor_17c_uri  : "[17C/51/2023](https://drive.google.com/drive/folders/1P0l9AvJgUXxDmph6hbXsQJxx_oO7SaN1?usp=drive_link)"
