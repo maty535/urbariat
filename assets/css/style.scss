@@ -19,6 +19,23 @@ archive-list li:after,.archive-list-work li:after,.archive-list-work:after,.arch
     box-sizing: border-box
 }
 
+.tag-list li,article.services .skill-example ul li {
+    color: #fff;
+    font-size: .9rem;
+    display: inline-block;
+    background-color: #1fa3d7;
+    padding: .2rem .4rem;
+    margin: 0 .3rem .3rem 0
+}
+
+.tag-list a,article.services .skill-example ul a {
+    color: #fff
+}
+
+.tag-list-secondary li,article.services .skill-example ul li {
+    background-color: #e7b51e
+}
+
 // copied from view-source:https://github.com/orgs/community/discussions/16925
 
 .markdown-alert {
