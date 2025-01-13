@@ -38,6 +38,8 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
 {% assign all_tags = all_tags | sort %}
 {% assign all_tags = all_tags | uniq %}
 
+### Témy:
+
 <ul class="tag-list">
     {% for tag in all_tags %}
         <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
