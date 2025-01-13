@@ -36,10 +36,10 @@ archive-list li:after,.archive-list-work li:after,.archive-list-work:after,.arch
     background-color: #e7b51e
 }
 
-ul:before{
+.tag-list ul:before{
   content:attr(aria-label);
   font-weight:bold;
-  margin-left: -15px;
+  margin-left: 10px;
 }
 
 // copied from view-source:https://github.com/orgs/community/discussions/16925
