@@ -39,7 +39,7 @@ archive-list li:after,.archive-list-work li:after,.archive-list-work:after,.arch
 ul:before{
   content:attr(aria-label);
   font-weight:bold;
-  margin-left: 10px;
+  margin-left: -15px;
 }
 
 // copied from view-source:https://github.com/orgs/community/discussions/16925
