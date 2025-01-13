@@ -2,7 +2,7 @@
 layout: post
 title: "Ocenenie pozemkov súdnym znalcom a správcom konkurznej podstaty"
 date: 2021-08-16
-categories: právo 
+categories: pravo 
 tags: reality právo
 author: Ing. Matúš Ivanecký
 ---
