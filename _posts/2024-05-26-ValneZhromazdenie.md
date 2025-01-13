@@ -3,7 +3,7 @@ layout: post
 title: "Valné zhromaždenie"
 date: 2024-05-25
 categories: spolocenstvo zhromazdenie
-tags: zhromazdenie 2024
+tags: zhromaždenie 2024 právo
 author: Ing. Matúš Ivanecký
 ---
 - Dňa 25.5.2024 na valnom zhromaždení podielníkov urbariátu v Dulovej Vsi bol zvolený nový výbor a dozorná rada.
