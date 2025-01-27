@@ -4,7 +4,7 @@ title: Informácie o výsledku reštitučných konaní"
 date: 2025-01-27
 author: Ing. Matúš Ivanecký
 categories: restitucie pravo 
-tags: reštitúcie 2025
+tags: reštitúcie 2025 právo pozemky
 published: true
 ---
 
