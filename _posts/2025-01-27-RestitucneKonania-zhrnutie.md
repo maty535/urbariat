@@ -42,7 +42,7 @@ URBARIÁT Dulova Ves si mohli nárok na náhradu uplatniť na Slovenskom pozemko
 
 3) Rozhodnutím Obvodného pozemkového úradu v Prešove číslo: Č. j. 2005/2773-4/Fe z 15. 08. 2005 právoplatným
 
-19. 09. 2005 boli v k. ú. Dulova Ves vydané pozemky označené ako parcely registra „E“
+19.09.2005 boli v k. ú. Dulova Ves vydané pozemky označené ako parcely registra „E“
 - č. 174/1, orná pôda vo výmere 3740 m
 - č. 174/3, orná pôda vo výmere 612 m
 - č. 281, trvalý trávny porast vo výmere 8782 m
