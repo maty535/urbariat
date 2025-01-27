@@ -14,6 +14,7 @@ published: true
 Vybavuje/linka
 JUDr. Marta Hlavatá/
 E-mail: marta.hlavata@minv.sk
+tel: 051/748 5917
 
 20. 01. 2025, Prešov
 ```
