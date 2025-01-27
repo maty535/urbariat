@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Informácie o výsledku reštitučných konaní"
+title: Informácie o výsledku reštitučných konaní
 date: 2025-01-27
 author: Ing. Matúš Ivanecký
 categories: restitucie pravo 
