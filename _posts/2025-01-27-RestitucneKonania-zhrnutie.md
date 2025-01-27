@@ -8,7 +8,15 @@ tags: reštitúcie 2025 právo pozemky
 published: true
 ---
 
-POZEMKOVÝ A LESNÝ ODBOR Okresného úradu v Prešove poslal dňa 27.1.2025 nasledujúce infromácie týkajúce sa výsledku restitúcii majetku urbariátu:
+## POZEMKOVÝ A LESNÝ ODBOR Okresného úradu v Prešove poslal dňa 27.1.2025 nasledujúce infromácie týkajúce sa výsledku restitúcii majetku urbariátu:
+
+```
+Vybavuje/linka
+JUDr. Marta Hlavatá/
+E-mail: marta.hlavata@minv.sk
+
+20. 01. 2025, Prešov
+```
 
 
 Správny orgán prešetril uplatnený nárok členov Spoločenstva URBARIÁT Dulova Ves a s cieľom informovania
