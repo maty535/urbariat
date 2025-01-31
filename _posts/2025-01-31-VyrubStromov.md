@@ -16,6 +16,6 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
   zo dňa 8.04.2024 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
 - Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti platobného rozkazu vo veci o náhrade škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu 6 798,96 €, ktorý bol vydaný 23.05.2023 na základe žaloby Petra Jarkovského podanej dňa 27.4.2023
   a ešte nebol vymožený od urbariátu a monentáne jeho výška predstavuje min. :**11 540,55 €**{: style="color: red;" } k dňu 31.1.2025.
-- Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-27-Spor-ZnicenyPlot %}) pod značkou: {{ page.spor_38up_uri }}.
+- Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-17-Spor-ZnicenyPlot %}) pod značkou: {{ page.spor_38up_uri }}.
 
 ![image](https://github.com/user-attachments/assets/76df94da-1f2b-4caa-a3f8-6e96982606f2)
