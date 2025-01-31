@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za vypílenie stromov na cudzom pozemku"
+title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za vypílenie stromov v lokalite mun. skladu"
 date: 2025-01-31
 author: Ing. Matúš Ivanecký
 categories: spory pravo 
