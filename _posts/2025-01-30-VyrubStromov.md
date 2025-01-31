@@ -11,8 +11,7 @@ spor_14up_uri : "[14Up/766/2023](https://drive.google.com/drive/folders/1kADN_QF
 spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fmrxJvqXsCCYWJSixGW8W0mTUiR?usp=drive_link)"
 ---
 
-## Merito veci: Náhrada škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu vo výške 6 798,96 €
-
+- Merito veci: Náhrada škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu vo výške 6 798,96 €
 
 - Krajský súd v Banskej Bystrici dňa 31.01.2025 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 38Up/852/2023
   zo dňa 8.04.2024 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
