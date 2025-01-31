@@ -61,6 +61,10 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  {: style=";background-color: #C70039; color: white;" }|15CoUp/4/2024, {{ page.spor_14up_uri }}|
  
 
+## Detaily sporu
+
+![image](https://github.com/user-attachments/assets/d25e875e-26db-4a3f-a8de-bcec0eedefd0)
+
 
 
 
