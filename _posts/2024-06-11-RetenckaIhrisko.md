@@ -3,7 +3,7 @@ layout: post
 title: "Odvodňovacie zariadenie nad ihriskom"
 date: 2024-07-08
 categories: projekty
-tags: projekty pozemky zmluvy právo 2024
+tags: projekty pozemky zmluvy právo 2024 stavebnictvo
 author: Ing. Matúš Ivanecký
 ---
 
