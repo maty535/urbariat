@@ -18,4 +18,4 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
   a ešte nebol vymožený od urbariátu a monentáne jeho výška predstavuje min.:**11 540,55 €**{: style="color: red;" } k dňu 19.1.2024.
 
 
-- Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-27-Spor-ZnicenyPlot.md %}) pod značkou: spor_38up_uri.
+- Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-27-Spor-ZnicenyPlot %}) pod značkou: spor_38up_uri.
