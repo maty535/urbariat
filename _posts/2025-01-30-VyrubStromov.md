@@ -21,3 +21,5 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 
 
 - Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-27-Spor-ZnicenyPlot %}) pod značkou: {{ page.spor_38up_uri }}.
+
+![image](https://github.com/user-attachments/assets/76df94da-1f2b-4caa-a3f8-6e96982606f2)
