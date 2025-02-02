@@ -24,8 +24,8 @@ pagination:
   indexpage: 'index'
   title: ':title :num z :max'
 
-picture:
-  nomarkdown: true
+#picture:
+#  nomarkdown: true
 
 # Where things are
 jekyll-spaceship:
