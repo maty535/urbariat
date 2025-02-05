@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Historické sčítanie obyvateľstva z roku 1930"
+title: "Historické fakty a obyvatetelia žijúci na tomto území"
 date: 2025-02-04
 author: Ing. Matúš Ivanecký
 categories: spolocenstvo
