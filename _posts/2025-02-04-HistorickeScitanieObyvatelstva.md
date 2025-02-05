@@ -16,3 +16,6 @@ published: true
 | Gajdoš  | Ján | 1  | Pracháreň     | 
 | Gajdoš  | Ján | 2  | Boltocký mlyn |
 | Švihura | Ján | 3  | Guľvas obec   |
+| Krajňáková  | Anna | 4  | Guľvas obec   |
+|Ivanecký| Jozef|5| Guľvas obec   |
+|Komár| Jozef|6| Guľvas obec   |
