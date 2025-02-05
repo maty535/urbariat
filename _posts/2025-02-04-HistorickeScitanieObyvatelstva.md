@@ -10,7 +10,8 @@ published: true
 - [Historická katastrálna mapa Guľvasu z r.1767](https://maps.hungaricana.hu/en/MOLTerkeptar/2504/)
   ![image](https://github.com/user-attachments/assets/2bcbaf71-bf26-4558-9f56-0bec17b4dbac)
 
-  Súpis (censuz) obyvateľov:
+- Súpis (censuz) obyvateľov:
+  
 | #  | Meno               |
 |----|--------------------|
 | 1  | Ondka Onda        |
@@ -31,6 +32,7 @@ published: true
 | 16 | Petrovcsik Janko  |
 | 17 | Ondka Estok       |
 | 18 | Komar Onda        |
+
 
 - [Historická katastrálna mapa Guľvasu z r.1799](https://maps.hungaricana.hu/en/MOLTerkeptar/1613/)
   ![image](https://github.com/user-attachments/assets/55573d95-05a9-4dc0-82a3-09baec60077d)
