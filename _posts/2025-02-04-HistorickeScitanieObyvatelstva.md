@@ -10,18 +10,18 @@ published: true
 - [Historická katastrálna mapa Guľvasu z r.1767](https://maps.hungaricana.hu/en/MOLTerkeptar/2504/)
   ![image](https://github.com/user-attachments/assets/2bcbaf71-bf26-4558-9f56-0bec17b4dbac)
 
-- Súpis (censuz) obyvateľov r.1767:
+- Súpis (daňový censuz) obyvateľov r.1767:
   
 | #  | Meno               |
 |----|--------------------|
 | 1  | Ondka Onda        |
 | 2  | Kmec Janko        |
-| 3  | Cmar Onda        |
+| 3  | Cmar Onda         |
 | 4  | Bugosscum Gyura   |
 | 5  | Petrovcsik Onda   |
 | 6  | Gajdos Onda       |
 | 7  | Pavel Onda        |
-| 8  | Potocsnak Gyura  |
+| 8  | Potocsnak Gyura   |
 | 9  | Pavel Janko       |
 | 10 | Murman Gyura      |
 | 11 | Ander Gyura       |
