@@ -13,6 +13,6 @@ published: true
 
 |: Priezvisko :|: Meno :|: č.domu: |: osada :|
 |----------|-----|-----|
-|Gajdoš| Ján| 1  | Pracháreň    |
-|Gajdoš| Ján| 2  | Boltocký mlyn|
-|Švihura| Ján| 3  | Guľvas obec |
+| Gajdoš  | Ján | 1  | Pracháreň     | 
+| Gajdoš  | Ján | 2  | Boltocký mlyn |
+| Švihura | Ján | 3  | Guľvas obec   |
