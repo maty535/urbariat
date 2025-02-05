@@ -7,6 +7,13 @@ categories: spolocenstvo
 tags: reality podielnici história
 published: true
 ---
+- [Historická katastrálna mapa Guľvasu z r.1799](https://maps.hungaricana.hu/en/MOLTerkeptar/1613/)
+  ![image](https://github.com/user-attachments/assets/55573d95-05a9-4dc0-82a3-09baec60077d)
+
+- [Historická katastrálna mapa Guľvasu z r.1767](https://maps.hungaricana.hu/en/MOLTerkeptar/2504/)
+  ![image](https://github.com/user-attachments/assets/2bcbaf71-bf26-4558-9f56-0bec17b4dbac)
+
+
 
 - Prehľad obyvateľov obce Dulova Ves podľa sčitania obyvateľov z roku: [1930](https://slovakiana.sk/scitacie-harky/cair-ko29rli)
 
