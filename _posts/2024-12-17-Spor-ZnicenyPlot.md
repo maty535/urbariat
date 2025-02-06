@@ -57,7 +57,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 | 22.12.2023  | Peter Jarkovský     | Podanie návrhu na žačatie exekúcie platobného rozkazu|14Ek/2838/2023|
 | <span style="color:red;">19.01.2024</span> | exekútor Šviderský  | Vymoženie nároku príkazom z učtu spoločenstva vo výške 5 651,14 € {: style=";background-color: #C70039; color: white;" }|178EX 1104/23, {{ page.spor_14up_uri }} |
 | 16.02.2024  | Urbár (AK Tarabčák) | Návrh na určenie neúčinnosti doručenie el. platobného rozkazu|{{ page.spor_14up_uri }}|
-| 12.03.2024  | OS PO | Pojednávanie vo veci OS PO - |{{ page.spor_17c_uri }}|
+| 12.03.2024  | OS PO | Pojednávanie vo veci 17C/51/2023 |{{ page.spor_17c_uri }}|
 | 03.07.2024  | OS BB | Uznesenie o zamietnutí návrhu na určenie neúčinnosti doručenia el. platobného rozkazu |{{ page.spor_14up_uri }}|
 | 22.07.2024  | Urbár (AK Tarabčák) | Odvolanie sa proti uzneseniu o zamietnutí návrhu na určenie neúčinnosti el. platobného rozkazu |{{ page.spor_14up_uri }}|
 | <span style="color:DarkOrange;">23.7.2024</span> | AK Tarabčák | Vzdanie sa zastupovania urbáru vo všetkých právnych sporoch |{{ page.spor_17c_uri }}, {{ page.spor_14up_uri }}, {{ page.spor_38up_uri }}|     
