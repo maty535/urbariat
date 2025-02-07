@@ -8,7 +8,8 @@ tags: reality podielnici história
 published: true
 ---
 - [Historická katastrálna mapa Guľvasu z r.1767](https://maps.hungaricana.hu/en/MOLTerkeptar/2504/)
-  ![image](https://github.com/user-attachments/assets/2bcbaf71-bf26-4558-9f56-0bec17b4dbac)
+  ![image](https://github.com/user-attachments/assets/39b3565f-ff2b-4452-9bee-db3da3ab8791)
+
 
 - Súpis (daňový censuz) obyvateľov r.1767:
   
