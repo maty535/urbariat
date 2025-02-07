@@ -36,7 +36,8 @@ published: true
 
 
 - [Historická katastrálna mapa Guľvasu z r.1799](https://maps.hungaricana.hu/en/MOLTerkeptar/1613/)
-  ![image](https://github.com/user-attachments/assets/55573d95-05a9-4dc0-82a3-09baec60077d)
+  ![image](https://github.com/user-attachments/assets/51b6bd50-db60-455f-8423-38033c16e950)
+
 
 
 
