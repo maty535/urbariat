@@ -36,6 +36,7 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
   <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
   <input type="button" value="Vyhľadať" onclick="search();"/><br/>
 </div>
+--- 
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
