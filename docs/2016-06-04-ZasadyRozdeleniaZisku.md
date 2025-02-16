@@ -32,7 +32,7 @@ Zo zisku spoločenstva z hospodárskej činnosti sa vyčlenia finančné položk
 
 Schválená celková čiastka na rozdelenie podielov sa rozdelí podľa následovných kritérií:
 
-a) 90% z celkovej čiastky sa rozdelí na 6242400 podielov pre členov spoločenstva podľa ich výšky podielov na parcelách, kde zisk vznikol.
+***a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoločenstva podľa ich výšky podielov na parcelách, kde zisk vznikol.***
 
 b) 1,5% z celkovej čiastky sa rozdelí pre členov spoločenstva, ktorí sa na zisku aktívne podieľali napr.ťažba drevnej hmoty, zalesňovanie, vyžínanie, úprava lesných ciest, hraníc nehnuteľností a pod.
 
