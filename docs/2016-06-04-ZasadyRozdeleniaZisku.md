@@ -20,7 +20,7 @@ description: Zásady rozdelenia ročného zisku z hospodárskej činnosti Spolo�
 3. Zisk spoločenstva je rozdiel medzi príjmami a výdajmi spoločenstva.
 
 
-<div align="center"> ### B. Rozdelenie zisku< /div>
+<div align="center"> ### B. Rozdelenie zisku </div>
 
 Zo zisku spoločenstva z hospodárskej činnosti sa vyčlenia finančné položky nevyhnutné pre činnosť spoločenstva na následujúci rok v následovnom poradí:
 
