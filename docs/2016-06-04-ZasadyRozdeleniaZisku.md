@@ -11,7 +11,7 @@ description: Zásady rozdelenia ročného zisku z hospodárskej činnosti Spolo�
 - Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo v súlade so Zákonom NR-SR č.97/2013 Z.z. § 20 prijima tieto „Zásady rozdelenia ročného zisku":
 
 
-<div align="center">### A. Základné pojmy</div>
+<div align="center"> ### A. Základné pojmy</div>
 
 1. Príjmami spoločenstva" sú všetky ročné príjmy týkajúce sa hospodárskej činosti spoločenstva.
 
@@ -20,7 +20,7 @@ description: Zásady rozdelenia ročného zisku z hospodárskej činnosti Spolo�
 3. Zisk spoločenstva je rozdiel medzi príjmami a výdajmi spoločenstva.
 
 
-<div align="center">### B. Rozdelenie zisku</div>
+<div align="center"> ### B. Rozdelenie zisku</div>
 
 Zo zisku spoločenstva z hospodárskej činnosti sa vyčlenia finančné položky nevyhnutné pre činnosť spoločenstva na následujúci rok v následovnom poradí:
 
@@ -32,7 +32,7 @@ Zo zisku spoločenstva z hospodárskej činnosti sa vyčlenia finančné položk
 5. Výplatenie dividend-podielov: Výbor spoločenstva po uzatvoreníročnej uzávierky príslušného roku predloží zhromaždeniu" na schválenie celkovú čiastku na prerozdelenie podielov v EUR.
 
 
-<div align="center">### C Výplata dividend-podielov</div>
+<div align="center"> ### C Výplata dividend-podielov</div>
 
 Schválená celková čiastka na rozdelenie podielov sa rozdelí podľa následovných kritérií:
 
@@ -45,7 +45,7 @@ c) 1% z celkovej čiastky sa rozdeli pre členov dozornej rady spoločenstva.
 d) 7,5 % z celkovej čiastky sa rozdelí pre členov výboru spoločenstva.
 
 
-<div align="center">### D. Neprevzaté dividendy-podiely</div>
+<div align="center"> ### D. Neprevzaté dividendy-podiely</div>
 
 Dividendy-podiely, ktoré nebudú prevzaté osobne podielnikom, alebo osobou ním splnomocneným do doby troch rokov od výplaty prepadnú v prospech spoločenstva.
 
