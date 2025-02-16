@@ -51,7 +51,7 @@ Dividendy-podiely, ktoré nebudú prevzaté osobne podielnikom, alebo osobou ní
 
 Tieto „Zásady" schválilo Zhromaždenie spoločenstva urbariát Dulova Ves, pozemkové spoločenstvo dňa 04.06.2016 uznesením č. /2016 a platí pre rozdelenie zisku spoločenstva pre rok 2015 a následujúce roky.
 
-V Dulovej Vsi 04.06.2016
+V Dulovej Vsi ***04.06.2016****
 
 Zhromaždenie spoločen.urbariát
 
