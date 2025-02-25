@@ -12,4 +12,6 @@ permalink: /contacts/
 |**sídlo**| Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo, Obchodná	25/15, 082 52	Dulova Ves |
 |**mobil**| ??? | 
 |**bankový kontakt**| SK90 0200 0000 0033 3224 4953 |
+|**dozorná rada**| +421 |
+|**štatutárny zástupca spoločenstva**| +421  |
 
