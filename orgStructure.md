@@ -12,11 +12,11 @@ permalink: /organization/
 
 |Meno|Funkcia|Od|Kontakt|
 |:-------------|:------------------|:------|:------|
-|Ing. Peter Semeš ml. |člen - predseda|26.05.2024|0905 384 750| 
-|Marta Giňovská |člen|26.05.2024|0908 591 984| 
-|Matúš Bidovský |člen - podpredseda|26.05.2024| 0907 394 830|
-|Vladimír Koropšák ml.|člen|26.05.2024|0907 606 664| 
-|Ing. Matúš Ivanecký |člen|26.05.2024|0918 730 322| 
+| Ing. Peter Semeš ml.   | člen - predseda    | 26.05.2024 | 0905 384 750 | 
+| Marta Giňovská         | člen               | 26.05.2024 | 0908 591 984 | 
+| Matúš Bidovský         | člen - podpredseda | 26.05.2024 | 0907 394 830 |
+| Vladimír Koropšák ml.  | člen               | 26.05.2024 | 0907 606 664 | 
+| Ing. Matúš Ivanecký    | člen               | 26.05.2024 | 0918 730 322 | 
 
 -  funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029
 
@@ -28,11 +28,12 @@ ako náhradníci do výboru boli zvolení títo členovia, ktorí sa nezúčastn
 
 ## Dozorná rada
 
-|Meno|Funkcia| Od|
-|:-------------|:------------------|:------|
-| Mária Repková |Predseda|26.05.2024| 
-|Janka Repková|Člen|26.05.2024			
-|Marta Uhrinová|Člen|26.05.2024
+|Meno|Funkcia|Od|Kontakt|
+|:------------- |:------------------|:------|:------|
+| Mária Repková  | Predseda         | 26.05.2024  | 0903 961 154 |
+| Marta Uhrinová | Člen             | 26.05.2024  | 0904 604 905 |
+| Janka Repková  | Člen             | 26.05.2024|	|		            |
+
 
 Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štatutárnych zástupcov, ktorí majú splnomocnenie konať iba so súhlasom výboru a v rozsahu na ktorý ich výbor splnomocní.
 
