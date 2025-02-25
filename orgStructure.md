@@ -32,7 +32,7 @@ ako náhradníci do výboru boli zvolení títo členovia, ktorí sa nezúčastn
 |:------------- |:------------------|:------|:------|
 | Mária Repková  | Predseda         | 26.05.2024  | 0903 961 154 |
 | Marta Uhrinová | Člen             | 26.05.2024  | 0904 604 905 |
-| Janka Repková  | Člen             | 26.05.2024|	|		            |
+| Janka Repková  | Člen             | 26.05.2024  |		            |
 
 
 Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štatutárnych zástupcov, ktorí majú splnomocnenie konať iba so súhlasom výboru a v rozsahu na ktorý ich výbor splnomocní.
