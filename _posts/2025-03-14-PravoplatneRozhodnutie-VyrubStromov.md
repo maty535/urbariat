@@ -22,8 +22,8 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
   zo dňa 8.04.2024 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. 
 - Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti platobného rozkazu vo veci o náhrade škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu 6 798,96 €, ktorý bol vydaný 23.05.2023 na základe žaloby p. Petra Jarkovského podanej dňa 5.5.2023, ktorý ešte nebol vymožený od urbariátu a momentáne jeho výška predstavuje min.: **11 540,55 €**{: style="color: red;" } k dňu 31.1.2025.
 - Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-17-Spor-ZnicenyPlot %}) pod značkou: {{ page.spor_38up_uri }}.
-- [Právoplatné 1-stupňové rozhodnutie okresného súdu v BB](https://drive.google.com/file/d/1w55f6yT0RBMws5XFeTGF45zTqNwx74jb/view?usp=drive_link)
-- [Právoplatné 2-stupňové rozhodnutie Krajskkého súdu v BB](https://drive.google.com/file/d/1QvSanzcZIi7rTj07TxLUxJyCfp5s-oLL/view?usp=drive_link)
+- [Právoplatné 1-stupňové rozhodnutie Okresného súdu v BB](https://drive.google.com/file/d/1w55f6yT0RBMws5XFeTGF45zTqNwx74jb/view?usp=drive_link)
+- [Právoplatné 2-stupňové rozhodnutie Krajského súdu v BB](https://drive.google.com/file/d/1QvSanzcZIi7rTj07TxLUxJyCfp5s-oLL/view?usp=drive_link)
 
 Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na základe právoplatných a vykonateľných rozhodnutí súdov nároky p. Jarkovsklého, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu, čo mu potvrdili všetky súdne inštancie, ktoré zároveň konštatovali zanedbanie si povinností predch. výborom a dozornou radou urbariátu, čo je uvedené v oboch rozsudkoch oboch súdnych inštancií.
 
