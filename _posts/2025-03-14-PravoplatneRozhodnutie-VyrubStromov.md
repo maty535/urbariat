@@ -31,6 +31,11 @@ Citácia z rozhodnutia 1.stupňového súdu: strana 6, bod 22:
 
 ![image](https://github.com/user-attachments/assets/b47cb4c9-fb0b-44e1-9296-bf809d17d2d8)
 
+Citácia z rozhodnutia 1.stupňového súdu: strana 6, bod 23:
+
+![image](https://github.com/user-attachments/assets/fe03bf51-01d3-482e-9abb-80facab2ed9c)
+
+
 
 ![image](https://github.com/user-attachments/assets/811c7c56-932e-4007-ac2b-0be42ae0e97f)
 
