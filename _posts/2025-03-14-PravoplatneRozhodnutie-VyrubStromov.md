@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Právoplatné a vykonateľné rozhodnutia ssúdov v spore o náhradu škody za vypílenie stromov v lokalite mun. skladu"
+title: "Právoplatné a vykonateľné rozhodnutia súdov v spore o náhradu škody za vypílenie stromov v lokalite mun. skladu"
 date: 2025-03-14
 author: Ing. Matúš Ivanecký
 categories: spory pravo 
@@ -17,14 +17,14 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 - Dátum pnadobudnutia právoplatnosti a vykonateľnosti rozsudku: **14.3.2025**
 - Žalobca: **Peter Jarkovský**
 - Žalovaný: **Urbariát Dulova Ves p.s.**
-- Okresný súd v Banskej Bystrici dňa 14.03.2025 vyznačil právoplatnosť a vykonatelnosť rozsudoku o zamietnutí neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 38Up/852/2023
-  zo dňa 8.04.2024 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
-- Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti platobného rozkazu vo veci o náhrade škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu 6 798,96 €, ktorý bol vydaný 23.05.2023 na základe žaloby Petra Jarkovského podanej dňa 5.5.2023 a ešte nebol vymožený od urbariátu a monentáne jeho výška predstavuje min. :**11 540,55 €**{: style="color: red;" } k dňu 31.1.2025.
+- Okresný súd v Banskej Bystrici dňa 14.03.2025 vyznačil právoplatnosť a vykonatelnosť rozsudku o zamietnutí neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 38Up/852/2023
+  zo dňa 8.04.2024 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. 
+- Týmto bolo právoplatne a definitívne rozhodnuté o právoplatnosti platobného rozkazu vo veci o náhrade škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu 6 798,96 €, ktorý bol vydaný 23.05.2023 na základe žaloby p. Petra Jarkovského podanej dňa 5.5.2023, ktorý ešte nebol vymožený od urbariátu a monentáne jeho výška predstavuje min. :**11 540,55 €**{: style="color: red;" } k dňu 31.1.2025.
 - Viac informácii a detaily o tomto spore nájdete [tu]({% post_url 2024-12-17-Spor-ZnicenyPlot %}) pod značkou: {{ page.spor_38up_uri }}.
 - [Právoplatné 1-stupňové rozhodnutie okresného súdu v BB](https://drive.google.com/file/d/1w55f6yT0RBMws5XFeTGF45zTqNwx74jb/view?usp=drive_link)
 - [Právoplatné 2-stupňové rozhodnutie Krajskkého súdu v BB](https://drive.google.com/file/d/1QvSanzcZIi7rTj07TxLUxJyCfp5s-oLL/view?usp=drive_link)
 
-Obe rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na z8klade právoplatných a vykoanteľných rozhodnutí súdov nároky p. Jarkoovsklého, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu. Čo mu potvrdili vštky súdne inštancie , ktoré zároveň konštatovali zanedbanie si povinností predch. výborom a dozornou radou urbariátu.
+Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na základe právoplatných a vykonateľných rozhodnutí súdov nároky p. Jarkoovsklého, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu, čo mu potvrdili všetky súdne inštancie, ktoré zároveň konštatovali zanedbanie si povinností predch. výborom a dozornou radou urbariátu, čo je uvedené v oboch rozsudkoch oboch súdnych inštancií.
 
 
 ![image](https://github.com/user-attachments/assets/380d187c-89cd-4961-b266-889d31e2c17f)
