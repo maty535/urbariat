@@ -29,8 +29,7 @@ Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na 
 
 Citacia z rozhodnutia 1.stupňnového súdu , strana 6, bod 22:
 
-![image](https://github.com/user-attachments/assets/35fc6cfa-5065-4823-a99a-b96e12efce71)
-
+![image](https://github.com/user-attachments/assets/b47cb4c9-fb0b-44e1-9296-bf809d17d2d8)
 
 
 ![image](https://github.com/user-attachments/assets/811c7c56-932e-4007-ac2b-0be42ae0e97f)
