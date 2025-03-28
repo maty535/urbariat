@@ -15,7 +15,7 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
    **6 798,96 €**{: style="color: red;" } s príslušenstvom: **38Up/852/2023**
 - Dátum zistenia škody: **15.2.2023**
 - Dátum podania na súd: **5.5.2023**
-- Dátum pnadobudnutia právoplatnosti a vykonateľnosti rozsudku: **14.3.2025**
+- Dátum nadobudnutia právoplatnosti a vykonateľnosti rozsudku: **14.3.2025**
 - Žalobca: **Peter Jarkovský**
 - Žalovaný: **Urbariát Dulova Ves p.s.**
 - Okresný súd v Banskej Bystrici dňa 14.03.2025 vyznačil právoplatnosť a vykonatelnosť rozsudku o zamietnutí neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 38Up/852/2023
