@@ -5,7 +5,7 @@ description: Základne míľniky urbárskeho spoločenstva
 permalink: /historia/
 ---
 ## 2020
-- zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente, § 60b odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3)
+Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente, § 60b odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3)
   
 ## 2014
 Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/20221101) a pridelenie IČO.
