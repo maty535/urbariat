@@ -27,6 +27,11 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 
 Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na základe právoplatných a vykonateľných rozhodnutí súdov nároky p. Jarkovsklého, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu, čo mu potvrdili všetky súdne inštancie, ktoré zároveň konštatovali zanedbanie si povinností predch. výborom a dozornou radou urbariátu, čo je uvedené v oboch rozsudkoch oboch súdnych inštancií.
 
+Citacia z rozhodnutia 1.stupňnového súdu , strana 6, bod 22:
+
+![image](https://github.com/user-attachments/assets/35fc6cfa-5065-4823-a99a-b96e12efce71)
+
+
 
 ![image](https://github.com/user-attachments/assets/811c7c56-932e-4007-ac2b-0be42ae0e97f)
 
