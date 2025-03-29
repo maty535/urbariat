@@ -25,7 +25,9 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 - [Právoplatné 1-stupňové rozhodnutie Okresného súdu v BB](https://drive.google.com/file/d/1w55f6yT0RBMws5XFeTGF45zTqNwx74jb/view?usp=drive_link)
 - [Právoplatné 2-stupňové rozhodnutie Krajského súdu v BB](https://drive.google.com/file/d/1QvSanzcZIi7rTj07TxLUxJyCfp5s-oLL/view?usp=drive_link)
 
-Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na základe právoplatných a vykonateľných rozhodnutí súdov nároky p. Jarkovského, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu, čo mu potvrdili všetky súdne inštancie, ktoré zároveň konštatovali zanedbanie si povinností predch. výborom a dozornou radou urbariátu, čo je uvedené v oboch rozsudkoch oboch súdnych inštancií.  Tým, že predchádzajúci výbor urbariátu odmietol plniť nároky p. Jarkovského včas sa aj vďaka konaniu AK tarabčák vyšplhala výška pohľadávky takmer na dvojnásobok pôvodne požadovanej sumy. Toto by malo byť memento pre všetkých, ktorí sa odmietajú vyrovnať s protivníkom včas.
+Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na základe právoplatných a vykonateľných rozhodnutí súdov nároky p. Jarkovského, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu, čo mu potvrdili všetky súdne inštancie, ktoré zároveň konštatovali zanedbanie si povinností predch. výborom a dozornou radou urbariátu, čo je uvedené v oboch rozsudkoch oboch súdnych inštancií. 
+
+Tým, že predchádzajúci výbor urbariátu odmietol plniť nároky p. Jarkovského včas sa aj vďaka konaniu AK Tarabčák, ktorý vedel, že v tomto spore sa nedá uspieť a aj napriek tomu naťahoval vysporiadanie sa s p. Jarkovským iba na základe názoru jedného člena výboru, bez rozhodnutia výboru urbariatu, ako kolektívneho orgánu sa výška pohľadávky vyšplhala takmer na dvojnásobok pôvodne požadovanej sumy. Toto by malo byť memento pre všetkých, ktorí sa odmietajú vyrovnať s protivníkom včas a iba predlžujú riešenie a vysporiadanie sporov.
 
 Citácia z rozhodnutia 1.stupňového súdu: strana 6, bod 22:
 
