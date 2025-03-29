@@ -65,6 +65,7 @@ show_excerpts: true
 header_pages:
   - about.md
   - orgStructure.md
+  - docs.md#projekty
   - docs.md
   - historia.md
   - contacts.md
