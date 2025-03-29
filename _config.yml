@@ -78,4 +78,4 @@ plugins:
   - jekyll-spaceship
   - ./_plugins/jekyll-alerts-tag.rb
 
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@1e8a445"
