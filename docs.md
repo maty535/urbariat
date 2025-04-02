@@ -12,7 +12,7 @@ permalink: /docs/
 | 14.1.2014   | [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2014-01-14-ZZ-anon.pdf) |
 |  4.6.2016   | [Zásady rozdelenia ročného zisku spoločenstva](./2016-06-04-ZasadyRozdeleniaZisku.html) |
 | 18.5.2019   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2019-05-18-ZZ-Dodatok.pdf)|
-|  7.8.2021   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej negnuteľnosti](./2021-08-07-ZZ-Dodatok-1.pdf)|
+|  7.8.2021   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2021-08-07-ZZ-Dodatok-1.pdf)|
 
 # Zákony
 
