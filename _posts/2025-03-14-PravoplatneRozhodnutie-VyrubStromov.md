@@ -30,13 +30,17 @@ Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na 
 
 Tým, že predchádzajúci výbor urbariátu odmietol plniť nároky p. Jarkovského včas sa aj vďaka konaniu AK Tarabčák, ktorý vedel, že v tomto spore sa nedá uspieť a aj napriek tomu naťahoval vysporiadanie sa s p. Jarkovským iba na základe názoru jedného člena výboru, bez rozhodnutia výboru urbariatu, ako kolektívneho výkonneho štatutárneho orgánu sa výška pohľadávky vyšplhala takmer na dvojnásobok pôvodne požadovanej sumy. Toto by malo byť memento pre všetkých, ktorí sa odmietajú vyrovnať s protivníkom včas a iba predlžujú riešenie a vysporiadanie sporov.
 
-Citácia z rozhodnutia 1.stupňového súdu: strana 6, bod 22:
+Citácia z rozhodnutia 1.stupňového súdu: strana 6, odstavec 22:
 
 ![image](https://github.com/user-attachments/assets/b47cb4c9-fb0b-44e1-9296-bf809d17d2d8)
 
-Citácia z rozhodnutia 1.stupňového súdu: strana 6, bod 23:
+Citácia z rozhodnutia 1.stupňového súdu: strana 6, odstavec 23:
 
 ![image](https://github.com/user-attachments/assets/fe03bf51-01d3-482e-9abb-80facab2ed9c)
+
+Citácia z rozhodnutia 2.stupňového súdu: strana 7, odstavec 16:
+![image](https://github.com/user-attachments/assets/661606c5-3bc5-44bb-964e-f236fd2051f1)
+
 
 
 
