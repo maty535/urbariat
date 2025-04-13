@@ -12,7 +12,7 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 ---
 
 - Merito veci: <br/> Náhrada škody za svojvoľné spílenie 5 dubov a poškodenie jedného hrabu vo výške
-   **6 798,96 €**{: style="color: red;" } s príslušenstvom:<br/> **38Up/852/2023**
+   **6 798,96 €**{: style="color: red;" } s príslušenstvom: **38Up/852/2023**
 - Dátum zistenia škody: **15.2.2023**
 - Dátum podania na súd: **5.5.2023**
 - Dátum nadobudnutia právoplatnosti a vykonateľnosti rozsudku: **14.3.2025**
