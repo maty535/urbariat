@@ -25,6 +25,7 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 - [Znalecký posudok, na základe ktorého súd rozhodol o vydaní platobného rozkazu](https://drive.google.com/file/d/1ywRTXJV1o3D5IDHRaXel2HDof4ybxQAA/view?usp=drive_link)
 - [Právoplatné 1-stupňové rozhodnutie Okresného súdu v BB](https://drive.google.com/file/d/1w55f6yT0RBMws5XFeTGF45zTqNwx74jb/view?usp=drive_link)
 - [Právoplatné 2-stupňové rozhodnutie Krajského súdu v BB](https://drive.google.com/file/d/1QvSanzcZIi7rTj07TxLUxJyCfp5s-oLL/view?usp=drive_link)
+- [Exekučný príkaz](https://drive.google.com/file/d/1yDcGdiPHSoul-GTI1svlxtUSdTqSmq24/view?usp=drive_link)
 
 Oba rozhodnutia súdov sú v neprospech úrbáru, ktorý bude musieť plniť na základe právoplatných a vykonateľných rozhodnutí súdov nároky p. Jarkovského, ktorý sa oprávnene domáhal plnení od predchádzajúceho výboru urbariátu, čo mu potvrdili všetky súdne inštancie, ktoré zároveň konštatovali zanedbanie si povinností predch. výborom (priamo = explicitne) a dozornou radou (nepriamo = implicitne) urbariátu, čo je uvedené v oboch rozsudkoch oboch súdnych inštancií. 
 
