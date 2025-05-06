@@ -14,6 +14,8 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 - Merito veci: Náhrada škody za poškodenie plotu v lokatite bývaleho muničného skladu vo výške **3 474,53 €**{: style="color: red;" } s príslušenstvom  **14Up/766/2023**
 - Dátum prvého kontaktu: **18.10.2021**
 - Dátum podania žaloby na súd: **09.07.2023**
+- Dátum vydania platobného rozkazu: **30.08.2023**
+- Dátum právoplatnosti platobného rozkazu: **25.10.2023**
 - Žalobca: **Peter Jarkovský**
 - Žalovaný: **Urbariát Dulova Ves p.s.**
 - Krajský súd v Banskej Bystrici dňa 27.11.2024 právoplatne rozhodol vo veci o návrhu na určenie neúčinnosti elektronického doručenia platobného rozkazu Okresného súdu Banská Bystrica sp. zn. 14Up/766/2023 zo dňa 30. 08. 2023 a návrhu žalovaného (urbár) na odklad účinkov elektronického doručenia platobného rozkazu. (rozhodnutie Krajského súdu ešte nebolo urbáru platne doručené do el. schránky na slovensko.sk)
