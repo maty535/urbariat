@@ -16,7 +16,7 @@ spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fm
 - Dátum zistenia škody: **15.2.2023**
 - Dátum podania na súd: **5.5.2023**
 - Dátum vydania platobného rozkazu: **25.5.2023**
-- Dátum nadobudnutia právoplatnosti platovného rozkazu: **11.7.2023**
+- Dátum nadobudnutia právoplatnosti platobného rozkazu: **27.7.2023**
 - Dátum nadobudnutia právoplatnosti a vykonateľnosti rozsudku: **14.3.2025**
 - Žalobca: **Peter Jarkovský**
 - Žalovaný: **Urbariát Dulova Ves p.s.**
