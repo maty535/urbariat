@@ -12,7 +12,7 @@ author: Ing. Matúš Ivanecký
 |:-------------:|:-----------------:|:-----------------:|
 | TPP          | 0,0527 €/m2 |  	0,0474 €/m2 |
 | Orná pôda    | 0,3272 €/m2 |   	0,2237 €/m2 |
-| Lesné pozemky     |  0,20 €/m2 |   	- |
+| Lesné pozemky     |  0,20 €/m2 |  0,12 €/m2 |
 | Vodné plochy      |  0,20 €/m2 |   	- |
 | Ostatné plochy    |  1,85 €/m2 |   	- |
 | Zastavané plochy a nádvoria    | 1,85 €/m2 |   	-  |
