@@ -21,4 +21,5 @@ author: Ing. Matúš Ivanecký
 - [Hodnota lesných pozemok a porastov](https://www.forestportal.sk/odborna-sekcia-i/ekonomika-lesneho-hospodarstva/ocenovanie-lesov/priklad-vypoctu-hodnoty-lesa/)
 - [VZN č. 1/2018 o miestnych daniach a miestnych poplatkoch za komunálne odpady a drobné stavebné odpady pre obec Dulova Ves](https://www.dulovaves.sk/download_file_f.php?id=1185206)
 - [VZN č. 1/2020 o miestnych daniach a miestnych poplatkoch za komunálne odpady a drobné stavebné odpady pre obec Žehňa](https://www.uradne.sk/user/tablenews/file/913298)
+- [Vyhláška o stanovení všeobecnej hodnoty majetku](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2008/605/20090101)
 
