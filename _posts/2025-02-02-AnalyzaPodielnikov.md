@@ -9,7 +9,7 @@ published: true
 ---
 
 - Aktuálny stav spoločenstva k 31.12.2025
-  - Podľa katastra nehnuteľností evidujeme 317 vlastníkov spoločnej nehnuteľnosti z toho min. o 11 vieme, že sú zomrelí:
+  - Podľa katastra nehnuteľností evidujeme 298 vlastníkov spoločnej nehnuteľnosti z toho min. o 11 vieme, že sú zomrelí:
     
       |: Rozdelenie podielnikov podľa veku:   ||
       |:---|:---|
