@@ -16,7 +16,7 @@ author: Ing. Matúš Ivanecký
 | Lesný pozemok| 0.92 €/m2         |
 
 
-Cena za 1m2 podielu: ** €/m2**
+Cena za 1m2 podielu: **€/m2**
 
 [VÝZVA NA UPLATNENIE PREDKUPNÉHO PRÁVA - Obchodný vestník 157/2021](https://obchodnyvestnik.justice.gov.sk/ObchodnyVestnik/Formular/FormularDetailHtml.aspx?IdFormular=2968190)
 
