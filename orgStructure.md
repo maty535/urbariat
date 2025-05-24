@@ -43,5 +43,5 @@ Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štat
 
  
 ## Odborný lesný hospodár: 
-- Ing. Anton Pustý
+- Rudolf Najsarek, mobil: 0904 222 871
 - [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/1iTZVhZ-uITOTUCy7I2hu1q1THcTyJhCL/view?usp=drive_link)
