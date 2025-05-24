@@ -8,6 +8,7 @@ permalink: /contacts/
 |Názov|Kontakt|
 |:-------------|:------------------|
 |**IČO**| 42379831|
+|**DIČ**| 2024102465 |
 |**email**| urbar.dulova@gmail.com|  
 |**sídlo**| Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo,<br/> Obchodná	25/15,<br/> 082 52	Dulova Ves |
 |**mobil**| ??? | 
