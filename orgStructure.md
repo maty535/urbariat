@@ -43,5 +43,5 @@ Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štat
 
  
 ## Odborný lesný hospodár [OLH]: 
-- Rudolf Najsarek
+- Rudolf Najsarek, Pod Lesom 25, Dulova Ves, mobil: **0917 669 345**
 - [Program starostlivosti o les 2020 - 2029](https://drive.google.com/file/d/1iTZVhZ-uITOTUCy7I2hu1q1THcTyJhCL/view?usp=drive_link)
