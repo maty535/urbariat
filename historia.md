@@ -4,6 +4,12 @@ title: História
 description: Základne míľniky urbárskeho spoločenstva
 permalink: /historia/
 ---
+## 2025
+
+Od 30.5.2025 Zmena bakového účtu spoločenstva na: **SK63 8330 0000 0021 0316 9449**, tz.. prechod z VǓB banky do Fio banky, hlavne kvoli racionalizácii nákladov na poplatky a získanie úrokových výnosov z terminovaného, resp. sporiacieho účtu, ktorý je rádovo v desiatkach EUR (cca. 50 EUR/ mesiac) výhodnejší ako podnikateľský účet vo VÚB banke.
+
+Od 1.1.2025 Zmena na pozícii OLH, výbor vybral nového OLH, ktorým sa stal **Rudolf Najsarek, Pod Lesom 25, Dulova Ves, mobil: 0917 669 345** 
+
 ## 2020
 Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente, § 60b odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3)
   
