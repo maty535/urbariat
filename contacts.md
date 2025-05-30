@@ -12,7 +12,7 @@ permalink: /contacts/
 |**email**| urbar.dulova@gmail.com|  
 |**sídlo**| Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo,<br/> Obchodná	25/15,<br/> 082 52	Dulova Ves |
 |**mobil**| ??? | 
-|**bankový kontakt**| **SK63 8330 0000 0021 0316 9449** (Fio banka od 1.6.2025) <br/> SK90 0200 0000 0033 3224 4953 (VUB do 30.5.2025)|
+|**bankový kontakt**| **SK63 8330 0000 0021 0316 9449** (Fio banka od 9.4.2025) <br/> SK90 0200 0000 0033 3224 4953 (VUB do 30.5.2025)|
 |**dozorná rada**| +421 |
 |**štatutárny zástupca spoločenstva**| +421  |
 
