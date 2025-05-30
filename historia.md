@@ -6,7 +6,7 @@ permalink: /historia/
 ---
 ## 2025
 
-- 30.5.2025 Zmena bakového účtu spoločenstva na: **SK63 8330 0000 0021 0316 9449**, tz.. prechod z VǓB banky do Fio banky, hlavne kvoli racionalizácii nákladov na poplatky a získanie úrokových výnosov z terminovaného, resp. sporiacieho účtu, ktorý je rádovo v desiatkach EUR (cca. 50 EUR/ mesiac) výhodnejší ako podnikateľský účet vo VÚB banke.
+- 30.5.2025 Zmena bakového účtu spoločenstva na: **SK63 8330 0000 0021 0316 9449**, t.z. prechod z VǓB banky do Fio banky, hlavne kvoli racionalizácii nákladov na poplatky a získanie úrokových výnosov z terminovaného, resp. sporiacieho podnikateľského účtu, ktorý je rádovo v desiatkach EUR (cca. 50 EUR/ mesiac) výhodnejší ako podnikateľský účet vo VÚB banke.
 
 - 1.1.2025 Zmena na pozícii OLH, výbor vybral nového OLH, ktorým sa stal **Rudolf Najsarek, Pod Lesom 25, Dulova Ves, mobil: 0917 669 345**. 
 
