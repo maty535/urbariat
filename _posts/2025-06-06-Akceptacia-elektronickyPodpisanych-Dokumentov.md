@@ -14,7 +14,7 @@ author: Ing. Matúš Ivanecký
 
 - Pre podpísovanie el. dokumentov odporúčame použiť aplikáciu: [Autogram](https://sluzby.slovensko.digital/autogram/), alebo bez nutnosti inštalácie je možne použiť webovú lokalitu [QES portál](https://qesportal.sk/Portal/sk)
 
-- El. podpísané dokumenty môžete spoločesntvu zasielať na kontaktnú email adresu: urbar.dulova@gmail.com
+- El. podpísané dokumenty môžete spoločenstvu zasielať na kontaktnú email adresu: urbar.dulova@gmail.com
 
 
 
