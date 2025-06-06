@@ -12,6 +12,9 @@ author: Ing. Matúš Ivanecký
 ![image](https://github.com/user-attachments/assets/018692ff-0d59-42de-bfb2-77bd7208178b)
 
 
+- Pre podpísovanie el. dokumentov odporúčame použiť aplikáciu: [Autogram](https://sluzby.slovensko.digital/autogram/), alebo bez inštalácie je možne použiť webovú lokalitu [QES portál](https://qesportal.sk/Portal/sk)
+
+
 
 
  
