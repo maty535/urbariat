@@ -2,8 +2,8 @@
 layout: post
 title: "Pozvánka na brigádu"
 date: 2025-06-24
-categories: pravo 
-tags: podielnici 
+categories: oznamy brigada 
+tags: podielnici les pozemky 
 author: Matúš Bidovský  
 ---
 
