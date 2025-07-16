@@ -9,6 +9,8 @@ published: true
 spor_17c_uri  : "[17C/51/2023](https://drive.google.com/drive/folders/1P0l9AvJgUXxDmph6hbXsQJxx_oO7SaN1?usp=drive_link)"
 spor_14up_uri : "[14Up/766/2023](https://drive.google.com/drive/folders/1kADN_QFOKzfmAWeoaPRK5fYchv8QnZtX?usp=drive_link)"
 spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fmrxJvqXsCCYWJSixGW8W0mTUiR?usp=drive_link)"
+proces_uri_prefix: "https://otvorenesudy.sk/proceedings/"
+proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 ---
 
 - Merito veci: Náhrada škody za poškodenie plotu v lokatite bývaleho muničného skladu vo výške **3 474,53 €**{: style="color: red;" } s príslušenstvom  **14Up/766/2023**
@@ -42,8 +44,8 @@ Týmto chceme upozoniť podielnikov, aby boli obozretní a najme neprekračovali
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
-| <span style="color:blue;">25.08.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.1| {{ page.spor_17c_uri }} |
-| <span style="color:red;">18.10.2021</span>  | Peter Jarkovský  | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia {: style=";background-color: #FFC300; color: white;" }| {{ page.spor_14up_uri }} |
+| <span style="color:blue;">25.08.2021</span> | [AK Fecilak (Molcanova, Jarkovsky)]  ({{ proces_uri_prefix }}3952575)| Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.1| {{ page.spor_17c_uri }} |
+| <span style="color:red;">18.10.2021</span>  | Peter Jarkovský | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia {: style=";background-color: #FFC300; color: white;" }| {{ page.spor_14up_uri }} |
 | <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.2 |{{ page.spor_17c_uri }} |
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) |{{ page.spor_14up_uri }} |
 | <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.3 | {{ page.spor_17c_uri }} |
