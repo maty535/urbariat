@@ -7,9 +7,11 @@ tags: podielnici les pozemky
 author: Výbor urbariátu
 ---
 
-Vážení spolu-podielnici, Urbariát Dulová Ves organizuje brigádu v pestovateľských činnostiach a výrub nežiaducich drevín, na ktorú pozývame všetkých podielnikov. 
+Vážení spolu-podielnici, výkonný výbor Urbariátu Dulová Ves organizuje brigádu v pestovateľských činnostiach a výrub nežiaducich drevín, na ktorú pozývame všetkých podielnikov. 
 
 Brigáda sa bude konať **13.9.2025** na parcelách,kde prebiehala posledných 10 rokov ťažba drevnej hmoty. Spoločné stretnutie bude o  **8:00 hod.** na futbalovom ihrisku v Dulovej Vsi. 
 
 
 Prosíme, zoberte so sebou ručné pílky, mini-sekery, resp. kliešte na konáre, resp. mačety.
+
+Všetci podielnici , ktorí sa brigády zúčastnia budú uprednostnení v poradí pri prideľovaní samovýroby dreva po ťažbe.
