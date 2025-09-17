@@ -26,9 +26,9 @@ mesiacov od predloženia konkrétnej a určitej ponuky podielnikom na valnom zhr
 
 ## Lehota na zaplatenie kúpnej ceny sa počíta:
 
- 1. Od doručenia ponuky (ak sa člen rozhodne posielať ponuku všetkým ostatným členom, ako aj urbáru) 
- 2. Alebo od konania zasadnutia zhromaždenia spoločenstva (ak sa člen rozhodne poslať ponuku prostredníctvom výboru, a teda
-doručí ju výboru urbáru bez toho, aby ju zároveň zasielal ostatným členom).
+ 1. Od ***doručenia ponuky*** (ak sa člen rozhodne posielať ponuku všetkým ostatným členom, ako aj urbáru) 
+ 2. Alebo od ***konania zasadnutia zhromaždenia*** spoločenstva (ak sa člen rozhodne poslať ponuku prostredníctvom výboru, a teda
+doručí ju výboru urbáru bez toho, aby ju zároveň zasielal ostatným členom) na ktorom sa ponuka predloží podielnikom na prerokovanie.
 
 Až vtedy, ak o podiel neprejaví žiadny člen urbáru alebo samotný urbár, člen môže podiel voľne previesť.
 O podiel môžu prejaviť záujem aj viacerí členovia, v takom prípade nadobúdajú podiel
