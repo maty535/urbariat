@@ -25,16 +25,14 @@ mesiacov od predloženia konkrétnej a určitej ponuky podielnikom na valnom zhr
 </span> 
 
 ## Lehota na zaplatenie kúpnej ceny sa počíta:
-Ak nie je dohodnutá doba, dokedy sa má predaj uskutočniť, musí oprávnená osoba vyplatiť nehnuteľnosť do [dvoch mesiacov](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20240701#paragraf-605.odsek-1) po ponuke. Ak táto doba uplynie márne, predkupné právo zanikne. Ponuka sa vykoná ohlásením všetkých podmienok; ak ide o nehnuteľnosť, musí byť ponuka písomná. 
-<img width="936" height="225" alt="image" src="https://github.com/user-attachments/assets/5a6e336c-3eac-4fdd-873a-574f70e6388b" />
-
-
-
  1. Od ***doručenia ponuky*** (ak sa člen rozhodne posielať ponuku všetkým ostatným členom, ako aj urbáru) 
  2. Alebo od ***konania zasadnutia zhromaždenia*** spoločenstva (ak sa člen rozhodne poslať ponuku prostredníctvom výboru, a teda
 doručí ju výboru urbáru bez toho, aby ju zároveň zasielal ostatným členom) na ktorom sa ponuka predloží podielnikom na prerokovanie.
 
-Až vtedy, ak o podiel neprejaví žiadny člen urbáru alebo samotný urbár, člen môže podiel voľne previesť.
+- Ak nie je dohodnutá doba, dokedy sa má predaj uskutočniť, musí oprávnená osoba vyplatiť nehnuteľnosť do [dvoch mesiacov](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20240701#paragraf-605.odsek-1) po ponuke. Ak táto doba uplynie márne, predkupné právo zanikne. Ponuka sa vykoná ohlásením všetkých podmienok; ak ide o nehnuteľnosť, musí byť ponuka písomná. 
+<img width="936" height="225" alt="image" src="https://github.com/user-attachments/assets/5a6e336c-3eac-4fdd-873a-574f70e6388b" />
+
+- Až vtedy, ak o podiel neprejaví žiadny člen urbáru alebo samotný urbár, člen môže podiel voľne previesť.
 O podiel môžu prejaviť záujem aj viacerí členovia, v takom prípade nadobúdajú podiel
 pomerne podľa veľkosti svojich doterajších podielov.
 Predkupné právo platí aj v prípade darovania (s výnimkou, ak ide o darovanie blízkej osobe alebo urbáru). 
