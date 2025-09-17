@@ -7,6 +7,7 @@ tags: pozemky reality právo predaj 2024
 author: Ing. Matúš Ivanecký
 ---
 
+
 - V prípade prevodu podielu na nečlena spoločenstva (iného než [blízku osobu](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/#paragraf-116)), alebo člena spoločenstva, ktorý nie je zapísaný na rovnakom LV pre podiel na spoločnej nehnuteľnosti sa uplatňuje predkupné právo.
 
 - Člen je v takomto prípade povinný pred prevodom podielu ponúknuť tento podiel ostatným členom.
@@ -35,3 +36,9 @@ pomerne podľa veľkosti svojich doterajších podielov.
 Predkupné právo platí aj v prípade darovania (s výnimkou, ak ide o darovanie blízkej osobe alebo urbáru). 
 
 - Ak ide o darovanie, v rámci uplatnenia predkupného práva musí člen alebo urbár, ktorý chce ponuku využiť, zaplatiť obvyklú (trhovú) cenu vychádzajúcu najmä z odborného vyjadrenia realitnej kancelárie, resp. znalca, prípadne zo znaleckého posudku.
+
+## Kompetencie výboru spoločenstva pri ponuke predloženej prostredníctvom výboru
+
+Výbor pozemkového spoločenstva podľa § 14 ods. 3 zákona č. 97/2013 Z. z. túto ponuku musí uviesť v pozvánke spravidla na najbližšie valné
+zhromaždenie, kde sa ponuka prerokuje a kde možno predkupné právo uplatniť. Samostatné vyjadrenie výboru pozemkového spoločenstva o neuplatnení predkupného práva spoluvlastníkov a súhlas s prevodom ponúkaného podielu je nulitným aktom, pretože
+pozemkové spoločenstvo tu nemá oprávnenie konať za členov pozemkového spoločenstva a disponovať ich predkupným právom.
