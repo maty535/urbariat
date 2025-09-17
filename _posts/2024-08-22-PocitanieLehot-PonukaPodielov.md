@@ -21,7 +21,7 @@ samotnému (odporúčame doporučene), alebo
 
 <span style="color: red;">
 ***Ak chce člen urbáru alebo samotný urbár ponuku využiť, musí vyplatiť kúpnu cenu do dvoch
-mesiacov od predloženia konkrétnej a určitej ponuky podielnikom na valnom zhromaždení.***
+mesiacov od predloženia konkrétnej a určitej ponuky podielnikom na valnom zhromaždení (výška podielu, cena za 1m2 podielu, podiely na konkretných nehnuteľnostiach podľa LV).***
 </span> 
 
 ## Lehota na zaplatenie kúpnej ceny sa počíta:
