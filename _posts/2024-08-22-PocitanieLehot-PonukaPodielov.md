@@ -25,6 +25,9 @@ mesiacov od predloženia konkrétnej a určitej ponuky podielnikom na valnom zhr
 </span> 
 
 ## Lehota na zaplatenie kúpnej ceny sa počíta:
+Ak nie je dohodnutá doba, dokedy sa má predaj uskutočniť, musí oprávnená osoba vyplatiť nehnuteľnosť do [dvoch mesiacov](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1964/40/20240701#paragraf-605.odsek-1) po ponuke. Ak táto doba uplynie márne, predkupné právo zanikne. Ponuka sa vykoná ohlásením všetkých podmienok; ak ide o nehnuteľnosť, musí byť ponuka písomná. 
+<img width="964" height="273" alt="image" src="https://github.com/user-attachments/assets/30639ccc-fb29-44a3-bc93-3a25837b3397" />
+
 
  1. Od ***doručenia ponuky*** (ak sa člen rozhodne posielať ponuku všetkým ostatným členom, ako aj urbáru) 
  2. Alebo od ***konania zasadnutia zhromaždenia*** spoločenstva (ak sa člen rozhodne poslať ponuku prostredníctvom výboru, a teda
