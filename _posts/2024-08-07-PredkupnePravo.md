@@ -8,7 +8,7 @@ author: Ing. Matúš Ivanecký
 ---
 
 Ako sa môže dotknutý spoluvlastník brániť v prípade porušenia predkupného práva, a to najmä v kontexte katastrálneho konania:
-- [kompetencie a povinnosti výboru pri ponke podielu prostredníctvom výboru](https://urbar.dulovaves.sk/predkupne/pravo/2024/08/16/PocitanieLehot-PonukaPodielov.html)
+- [kompetencie a povinnosti výboru pri ponke podielu prostredníctvom výboru](https://urbar.dulovaves.sk/predkupne/pravo/2024/08/16/PocitanieLehot-PonukaPodielov.html#kompetencie-výboru-spoločenstva-pri-ponuke-predloženej-prostredníctvom-výboru)
 - [Počitanie lehôt pre uplatnenie predkupného práva](https://urbar.dulovaves.sk/predkupne/pravo/2024/08/16/PocitanieLehot-PonukaPodielov.html)
 - [detaily](https://www.ulpianus.sk/blog/pozemkove-spolocenstva-4-predkupne-pravo-v-pozemkovych-spolocenstvach-) o predkupnom práve v pozemkových spoločenstvách 
 - [Podcast s Judr. Marekom Maslákom - expert na pozemkové spoločenstvá a pozemkové právo](https://www.pp.sk/podcast/predkupne-pravo---kedy-musite-svoj-podiel-prednostne-ponuknut-spoluvlastnikom-judr--marek-maslak-phd----advokat-specializujuci-sa-na-pozemkove-pravo)
