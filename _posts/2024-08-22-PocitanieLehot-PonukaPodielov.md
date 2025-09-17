@@ -39,6 +39,4 @@ Predkupné právo platí aj v prípade darovania (s výnimkou, ak ide o darovani
 
 ## Kompetencie výboru spoločenstva pri ponuke predloženej prostredníctvom výboru
 
-Výbor pozemkového spoločenstva podľa § 14 ods. 3 zákona č. 97/2013 Z. z. túto ponuku musí uviesť v pozvánke spravidla na najbližšie valné
-zhromaždenie, kde sa ponuka prerokuje a kde možno predkupné právo uplatniť. Samostatné vyjadrenie výboru pozemkového spoločenstva o neuplatnení predkupného práva spoluvlastníkov a súhlas s prevodom ponúkaného podielu je nulitným aktom, pretože
-pozemkové spoločenstvo tu nemá oprávnenie konať za členov pozemkového spoločenstva a disponovať ich predkupným právom.
+- Výbor pozemkového spoločenstva podľa [§ 14 ods. 3 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/97/#paragraf-14.odsek-3) túto ponuku musí uviesť v pozvánke spravidla na najbližšie valné zhromaždenie, kde sa ponuka prerokuje a kde možno predkupné právo uplatniť. Samostatné vyjadrenie výboru pozemkového spoločenstva o neuplatnení predkupného práva spoluvlastníkov a súhlas s prevodom ponúkaného podielu je nulitným aktom, pretože pozemkové spoločenstvo tu nemá oprávnenie konať za členov pozemkového spoločenstva a disponovať ich predkupným právom.
