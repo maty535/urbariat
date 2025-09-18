@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Právoplatné rozhodnutia súdov v spore o náhradu škody za zničený plot v lokalite muni4n0ho skladu"
+title: "Právoplatné rozhodnutia súdov v spore o náhradu škody za zničený plot v lokalite muničného skladu"
 date: 2025-09-18
 author: Ing. Matúš Ivanecký
 categories: spory pravo 
