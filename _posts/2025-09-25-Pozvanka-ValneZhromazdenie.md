@@ -63,17 +63,12 @@ pozemkové spoločenstvo
 
 
 
+## Splnomocnenie
+Na zastupovanie člena pozemkového spoločenstva:
+
+
 **.......................................................... , narodený/á: ..............................................**
 
-## Splnomocnenie
-
-```
-Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo, Obchodná 25/15, 082 52
-Dulova Ves
-```
-```
-Na zastupovanie člena pozemkového spoločenstva:
-```
 **splnomocňujem:**
 
 ako člen pozemkového spoločenstva: Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
@@ -81,6 +76,15 @@ ako člen pozemkového spoločenstva: Spoločenstvo urbariát Dulova Ves pozemko
 trvale bytom: ...................................................................................................., SR,
 
 **Toto splnomocnenie vydávam:**
+
+Meno:..................................... dátum narodenia: .......................
+
+trvale bytom.........................................................................
+
+- iba k zastupovaniu na Valnom zhromaždení pozemkového spoločenstva:Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo v rozsahu hlasovacích práv
+- na všetky práva a povinnosti v zmysle zmluvy o založení spoločenstva (v plnom rozsahu)
+- na preberanie podielov (len fyzickú osobu)
+
 
 - jednorázovo na valné zhromaždenie konané dňa ...............
 - na dobu určitú do:..............
@@ -90,18 +94,12 @@ Dňa: ...................................... V .................................
 
 ### ...................................................... ............................................
 
-Podpis podielnika Podpis splmomocneného zástupcu
 
-Meno:..................................... dátum narodenia: .......................
 
-trvale bytom.........................................................................
+-------------------------                                         -----------------------------------
+Podpis podielnika                                                  Podpis splmomocneného zástupcu
 
-- iba k zastupovaniu na Valnom zhromaždení pozemkového spoločenstva:Spoločenstvo urbariát
 
-Dulova Ves pozemkové spoločenstvo v rozsahu hlasovacích práv
-
-- na všetky práva a povinnosti v zmysle zmluvy o založení spoločenstva (v plnom rozsahu)
-- na preberanie podielov (len fyzickú osobu)
 
 Vyplnené splnomocnenie možete zaslať na adresu spoločenstva
 
