@@ -1,4 +1,14 @@
-# POZVÁNKA
+---
+layout: post
+title: "POZVÁNKA na Valné zhromaždenie spoločenstva"
+date: 2025-09-25
+author: Ing. Matúš Ivanecký
+categories: valné zhromaždenie 
+tags: spory  2025 zhromaždenie
+published: true
+---
+
+# POZVÁNKA na Valné zhromaždenie
 
 ## Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 
