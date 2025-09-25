@@ -2,7 +2,7 @@
 layout: post
 title: "Pozvánka na Valné zhromaždenie spoločenstva"
 date: 2025-09-25
-author: Ing. Matúš Ivanecký
+author: Výbor urbariátu
 categories: valne zhromazdenie
 tags: 2025 zhromaždenie
 published: true
