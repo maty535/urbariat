@@ -8,7 +8,6 @@ tags: 2025 zhromaždenie
 published: true
 ---
 
-# POZVÁNKA na Valné zhromaždenie
 **Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo**
 Vás srdečne pozýva na valné zhromaždenie pozemkového spoločenstva, ktoré sa uskutoční :
 **v Kultúrnom dome v Kokošovciach**
