@@ -12,15 +12,11 @@ published: true
 
 **Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo**
 
-Vážená podielnik, srdečne Vás
-pozývame na valné zhromaždenie pozemkového
-spoločenstva: Urbariát Dulova Ves pozemkové
-spoločenstvo, ktoré sa uskutoční :
+Vás srdečne pozýva na valné zhromaždenie pozemkového spoločenstva, ktoré sa uskutoční :
 
 **v Kultúrnom dome v Kokošovciach**
 
 **dňa 26.10.2025 /Nedeľa/ o 15:00 hodine**
-
 
 V prípade ak sa rozhodnete, aby Vás na VZ zastupoval Váš splnomocnený zástupca, musí sa preukázať
 počas prezentácie touto pozvánkou, ktorej súčasťou je aj vyplnené a Vami podpísané
