@@ -21,10 +21,7 @@ spoločenstvo, ktoré sa uskutoční :
 
 **dňa 26.10.2025 /Nedeľa/ o 15:00 hodine**
 
-```
-výkonný výbor urbariátu Dulova Ves
-pozemkové spoločenstvo
-```
+
 V prípade ak sa rozhodnete, aby Vás na VZ zastupoval Váš splnomocnený zástupca, musí sa preukázať
 počas prezentácie touto pozvánkou, ktorej súčasťou je aj vyplnené a Vami podpísané
 priložené splnomocnenie.
@@ -59,6 +56,11 @@ Chovanca, ktorý sa ho chystá predať mimo spoločenstva
 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 18. Rôzne – diskusia
 19..Záver
+
+
+výkonný výbor urbariátu Dulova Ves
+pozemkové spoločenstvo
+
 
 
 **.......................................................... , narodený/á: ..............................................**
