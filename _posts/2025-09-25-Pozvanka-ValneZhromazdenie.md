@@ -47,7 +47,7 @@ Chovanca, ktorý sa ho chystá predať mimo spoločenstva
 16. Schválenie rozdelenia zisku
 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 18. Rôzne – diskusia
-19..Záver
+19. Záver
 
 
 výkonný výbor urbariátu Dulova Ves
