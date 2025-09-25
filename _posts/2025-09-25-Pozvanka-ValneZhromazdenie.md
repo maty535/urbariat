@@ -68,11 +68,13 @@ Na zastupovanie člena pozemkového spoločenstva:
 
 
 **.......................................................... , narodený/á: ..............................................**
+
 trvale bytom: ...................................................................................................., SR,
+
 ako člen pozemkového spoločenstva: Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 
-
 **splnomocňujem:**
+
 Meno:..................................... dátum narodenia: .......................
 
 trvale bytom.........................................................................
