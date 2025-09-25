@@ -114,5 +114,5 @@ Splnomocnenie je možné kedykoľvek odvolať, o čom splnomocniteľ (podielnik)
 spoločenstvo, inak spoločenstvo neberie zodpovednosť za neoprávnené hlasovania na valnom zhromaždení.
 
 
-(Verzia pre tlač)[/docs/2025-pozvanka-vz.pdf]
+[Verzia pre tlač](/docs/2025-pozvanka-vz.pdf)
 
