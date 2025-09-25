@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "POZVÁNKA na Valné zhromaždenie spoločenstva"
+title: "Pozvánka na Valné zhromaždenie spoločenstva"
 date: 2025-09-25
 author: Ing. Matúš Ivanecký
 categories: valné zhromaždenie 2025
@@ -9,13 +9,9 @@ published: true
 ---
 
 # POZVÁNKA na Valné zhromaždenie
-
 **Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo**
-
 Vás srdečne pozýva na valné zhromaždenie pozemkového spoločenstva, ktoré sa uskutoční :
-
 **v Kultúrnom dome v Kokošovciach**
-
 **dňa 26.10.2025 /Nedeľa/ o 15:00 hodine**
 
 V prípade ak sa rozhodnete, aby Vás na VZ zastupoval Váš splnomocnený zástupca, musí sa preukázať
