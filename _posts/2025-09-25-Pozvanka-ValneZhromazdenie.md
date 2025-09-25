@@ -106,7 +106,7 @@ Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 
 Ing. Peter Semeš, tel.: 0944 952 434, e-mail: urbar.dulova@gmail.com
 
-web: [urbar.dulovaves.sk](https://urbar.dulovaves.sk)
+web: [https://urbar.dulovaves.sk](https://urbar.dulovaves.sk)
 
 * Nehodiace sa prečiarknite
 V prípade trvalého splnomocnenia na dobu neurčitú, splnomocnenia na dobu určitú alebo splnomocnenia na
