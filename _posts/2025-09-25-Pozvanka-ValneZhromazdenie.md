@@ -17,10 +17,9 @@ pozývame na valné zhromaždenie pozemkového
 spoločenstva: Urbariát Dulova Ves pozemkové
 spoločenstvo, ktoré sa uskutoční :
 
-Obchodná 25/15, 082 52 Dulova Ves
 **v Kultúrnom dome v Kokošovciach**
 
-**26.10.2025 /Nedeľa/ o 15:00 hodine**
+**dňa 26.10.2025 /Nedeľa/ o 15:00 hodine**
 
 ```
 výkonný výbor urbariátu Dulova Ves
