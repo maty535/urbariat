@@ -61,7 +61,7 @@ Chovanca, ktorý sa ho chystá predať mimo spoločenstva
 výkonný výbor urbariátu Dulova Ves
 pozemkové spoločenstvo
 
-
+-------------------------  
 
 ## Splnomocnenie
 Na zastupovanie člena pozemkového spoločenstva:
@@ -91,12 +91,11 @@ trvale bytom....................................................................
 
 Dňa: ...................................... V ............................................
 
-### ...................................................... ............................................
+### ......................................................                  ............................................
+                  Podpis podielnika                                                  Podpis splmomocneného zástupcu
 
 
-
--------------------------                                         -----------------------------------
-Podpis podielnika                                                  Podpis splmomocneného zástupcu
+-------------------------  
 
 
 
