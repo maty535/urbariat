@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pozvánka na prerokovanie zmien a doplnkov [zemn0ho plánu obce Dulova Ves"
+title: "Pozvánka na prerokovanie zmien a doplnkov úemného plánu obce Dulova Ves"
 date: 2025-09-16
 author: Výbor urbariátu
 categories: uzemny plan
