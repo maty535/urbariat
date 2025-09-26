@@ -8,7 +8,7 @@ tags: 2025 pozemky reality
 published: true
 ---
 
-**Obec Dulova** Ves zvoláva prerokovanie Návrhu zmien a doplnkov č. 3 Územného plánu obce Dulova Ves s odborným
+**Obec Dulova Ves** zvoláva prerokovanie Návrhu zmien a doplnkov č. 3 Územného plánu obce Dulova Ves s odborným
 výkladom spracovateľa dokumentácie, ktoré sa uskutoční v zasadačke Obecného úradu v Dulovej Vsi dňa **8.10.2025 (streda) o 17,00 hod**.
 
 
