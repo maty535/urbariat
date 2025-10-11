@@ -28,7 +28,7 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 | **Funkčné obdobie dozornej rady** | 5 rokov |
 | **Vykonáva podnikateľskú činnosť?** | nie |
 | **Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti** | nie |
-| **Poznámka** | funkčné obdobie aktuálneho výboru a dorozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
+| **Poznámka** | funkčné obdobie aktuálneho výboru a dozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
 
 ## Katastrálne informácie
 [//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
