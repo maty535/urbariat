@@ -7,8 +7,8 @@ tags: projekty pozemky zmluvy právo 2024 stavebnictvo
 author: Ing. Matúš Ivanecký
 ---
 
-- Výbor schválil zámer obce, poskytne svoju plnú súčinnosť a prenajme obci pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení upozorní podielnikov aby svojvoľne nezasypávali existujúce odvodňovacie priekopy a požiada Valné zhromaždenie o potvrdenie tohto zámeru.
-- Zároveň výbor požiada o schválenie tohto projektu a prenájmu valné zhromaždenie urbariátu.
+- Výbor schválil zámer obce, poskytne jej svoju plnú súčinnosť a prenajme obci pozemok v rozsahu 200 m2, keďže dažďová voda steká hlavne z urbárskych pozemkov a zároveň na valmom zhromaždení upozorní podielnikov aby svojvoľne nezasypávali existujúce odvodňovacie priekopy a požiada Valné zhromaždenie o potvrdenie tohto zámeru.
+
 
 ## Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom
 
