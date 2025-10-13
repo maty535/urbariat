@@ -9,6 +9,9 @@ author: Ing. Matúš Ivanecký
 
 - Dna 18. 6. 2025 starosta obce poziadal vybor urbariatu o predbezne vyjadrenie sa k projektu cesty na ulici K Ihrisku.
 
+<img width="1049" height="1050" alt="image" src="https://github.com/user-attachments/assets/8d3bb19c-792b-4fed-a10f-7ad5d3c85356" />
+
+
 - Obec pripravuje zámer dokoncenia ulice K ihrisku.  Starosta poveril projektanta spracovanim projektovej dokumentácie. Zatial pre obec pripravil pracovnu verziu situácie stavby. Podla technickych noriem ulica musi byt ukoncená obratiskom. Obratisko navrhol az za rodinnymi domami na pozemkoch Urbariátu. 
 - Obec preto posiela urbaru navrh situacie a ziada o predbezne vyjadrenie, ci s danym technickym riesením umiestenia obratiska budete suhlasit.
 
