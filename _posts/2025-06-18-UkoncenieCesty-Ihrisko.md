@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dokoncenie ulice k Ihrisku"
-date: 2024-07-08
+date: 2025-06-18
 categories: projekty
-tags: projekty pozemky zmluvy právo 2025 stavebnictvo
+tags: projekty pozemky zmluvy právo 2025 stavebnictvo obec
 author: Ing. Matúš Ivanecký
 ---
 
