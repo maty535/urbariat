@@ -12,7 +12,8 @@ Cieľom predkupného práva je ochrana zostávajúcich spoluvlastníkov,
   nie ochrana hospodárskeho záujmu prevádzajúceho spoluvlastníka.
 
 Nemožno tu priorizovať autonómiu povinného spoluvlastníka
- disponovať so svojím spoluvlastníckym podielom pred zachovaním stability v spoluvlastníckych vzťahoch,
+disponovať so svojím spoluvlastníckym podielom pred
+zachovaním stability v spoluvlastníckych vzťahoch,
 a teda pred efektívnym výkonom vlastníckeho práva v spoluvlastníckom vzťahu.
 
 Nielen na strane povinného spoluvlastníka, ale aj na strane oprávneného
