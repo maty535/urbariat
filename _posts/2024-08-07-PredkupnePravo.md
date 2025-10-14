@@ -7,7 +7,17 @@ tags: právo zmluvy reality pozemky 2024 2021
 author: Ing. Matúš Ivanecký
 ---
 
+```
+Cieľom predkupného práva je ochrana zostávajúcich spoluvlastníkov, nie ochrana hospodárskeho záujmu prevádzajúceho spoluvlastníka.
+
+Nemožno tu priorizovať autonómiu povinného spoluvlastníka disponovať so svojím spoluvlastníckym podielom pred zachovaním stability v spoluvlastníckych
+vzťahoch, a teda pred efektívnym výkonom vlastníckeho práva v spoluvlastníckom vzťahu. Nielen na strane povinného spoluvlastníka, ale aj na strane oprávneného
+spoluvlastníka ide o posudzovanie zásahu do vlastníckeho práva, nie je tu teda len vlastnícka sloboda povinného spoluvlastníka.
+
+```
+
 Ako sa môže dotknutý spoluvlastník brániť v prípade porušenia predkupného práva, a to najmä v kontexte katastrálneho konania:
+- [ústavny výklad práv jednotlivých spoluvlastníkov podielov](https://www.notar.sk/wp-content/uploads/2024/11/2020_3.pdf)
 - [kompetencie a povinnosti výboru pri ponke podielu prostredníctvom výboru](https://urbar.dulovaves.sk/predkupne/pravo/2024/08/16/PocitanieLehot-PonukaPodielov.html#kompetencie-výboru-spoločenstva-pri-ponuke-predloženej-prostredníctvom-výboru)
 - [Počitanie lehôt pre uplatnenie predkupného práva](https://urbar.dulovaves.sk/predkupne/pravo/2024/08/16/PocitanieLehot-PonukaPodielov.html)
 - [detaily](https://www.ulpianus.sk/blog/pozemkove-spolocenstva-4-predkupne-pravo-v-pozemkovych-spolocenstvach-) o predkupnom práve v pozemkových spoločenstvách 
