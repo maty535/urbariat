@@ -3,10 +3,7 @@
    
 ### 11.1 Zosuladenie zakladateľskej zmluvy so zakonom o PS
 
-- zmena obvykleho miesta uverejnenia pozvanky podla [§ 14 97/2013 odsek 2](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/97/#paragraf-14.odsek-2): 
-- 1. **web urbaru**
-- 2. úradná tabuľa obce, web obce resp. vývesky obce pred obecnym úradom
-
+### 11.1.1
 - ČL. V bod 1. sa povodný odsek nahrádza pôvodný text:
        
 ~~Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia v médiu sceloštátnou pôsobnosťou. V pozvánke na zasadnutie zhromaždenia a v oznámení o zasadnutí zhromaždenia výbor uvedie názov a sídlo spoločenstva, miesto, dátum a hodinu Zasadnutia zhromaždenia, údaj, či ide o čiastkovú schôdzu alebo mimoriadne zasadnutie zhromaždenia, program zasadnutia zhromaždenia a poučenie o možnosti zúčastniť sa Zasadnutia prostredníctvom zástupcu na základe splnomocnenia. Ak vlastník podielu spoločnej nehnuteľnosti prevádza svoj podiel podľa 8 9 ods. 7 alebo ak fond prevádza podiel vo vlastníctve štátu podľa $ 11 ods. 2, výbor to uvedie v programe zasadnutia zhromaždenia.~~
@@ -14,6 +11,11 @@
 - týmto textom: 
        
    Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
+
+11.1.2 Obvyklé miesto uverejnenia pozvánky
+
+ - web urbáru: urbar.dulovaves.sk
+ - 
 
 ### 11.2. Odstranenie zmien v dodatoku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
