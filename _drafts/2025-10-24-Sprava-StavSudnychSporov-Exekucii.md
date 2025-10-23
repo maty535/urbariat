@@ -1,17 +1,32 @@
-#17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
+---
+layout: post
+title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za poškodenie plota v lokalite býv. muničného skladu"
+date: 2025-10-24
+author: Ing. Matúš Ivanecký
+categories: spory pravo 
+tags: VZ 2025
+published: true
+spor_17c_uri  : "[17C/51/2023](https://drive.google.com/drive/folders/1P0l9AvJgUXxDmph6hbXsQJxx_oO7SaN1?usp=drive_link)"
+spor_14up_uri : "[14Up/766/2023](https://drive.google.com/drive/folders/1kADN_QFOKzfmAWeoaPRK5fYchv8QnZtX?usp=drive_link)"
+spor_38up_uri : "[38Up/852/2023](https://drive.google.com/drive/folders/1fCQf_fmrxJvqXsCCYWJSixGW8W0mTUiR?usp=drive_link)"
+proces_uri_prefix: "https://otvorenesudy.sk/proceedings/"
+proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
+---
+
+# 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 
 Urbariát viedol 3 súdne spory a bol  účastníkom 2 trestných konaní s p. Petrom Jarkovským.
 
 
 Súdne spory sa týkali:
-1. Nadobudnutia podielu v urbaráte od p. Molčanovej(dcéra p. Leľaka), t.z. žaloba urbarátu o určenie relatívnej neplatnosti kúpnych zmlúv.
+## 1. Nadobudnutia podielu v urbaráte od p. Molčanovej(dcéra p. Leľaka), t.z. žaloba urbarátu o určenie relatívnej neplatnosti kúpnych zmlúv.
 Stav:  - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. ....
 
 
-2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu
+## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu
 
 
-3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu
+## 3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu
 
 
 
