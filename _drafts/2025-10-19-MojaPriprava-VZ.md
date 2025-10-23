@@ -15,7 +15,8 @@
 11.1.2 Obvyklé miesto uverejnenia pozvánky
 
  - web urbáru: urbar.dulovaves.sk
- - 
+ - úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom
+ 
 
 ### 11.2. Odstranenie zmien v dodatoku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
