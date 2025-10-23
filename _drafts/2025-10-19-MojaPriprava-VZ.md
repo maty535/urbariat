@@ -48,4 +48,8 @@ novým textom v tomto znení:
 
 Spoločenstvo po oznámení bankového účtu podielnika mu bude zasielať podiel na zisku spoločenstva v prípade schválenia rozdelenia zisku a účtovnej uzávierky na jeho bankový učet.
 
+### 11.6. Elektornická komunikácia a elektronické zasielanie pozvánok na VZ.
+
+Spoločenstvo po oznámení email adresy a súhlase podielnika mu bude zasielať pozvánky na valné zhromaždenie na jeho email účet.
+
 
