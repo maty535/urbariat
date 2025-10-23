@@ -2,6 +2,7 @@
 # 11.Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)
    
 ### 11.1 Zosuladenie zakladateľskej zmluvy so zakonom o PS
+
        - zmena obvykleho miesta uverejnenia pozvanky podla [§ 14 97/2013 odsek 2](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/97/#paragraf-14.odsek-2): 
        - **1. web urbaru**
        - 2. uradna tabuľa obce, web obce resp. vývesky obce pred obecnym úradom
@@ -22,7 +23,14 @@
      - Ak prejavia zaujem o odkup podielu viaceri clenovia je treba zistiť, ci chcú aby zmluvu o prevode podielu v ich mene sprostredkoval výbor
 
      
-### 11.3. Zmena názvu spoločenstva na: Dulova Ves p.s.
+### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
+odôvodnenie: zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru.
+
+Ako alternatívny názov je možné použiť trochu dlhší názov:
+
+### 11.3.2 Zmena názvu spoločenstva na: Urbár Dulova Ves p.s., alebo
+
+### 11.3.3 Zmena názvu spoločenstva na: Urbáriát Dulova Ves p.s.
 
 
 ### 11.4. Uprava Zásad rozdelenia ročného zisku spoločenstva
