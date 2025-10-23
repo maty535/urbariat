@@ -4,7 +4,7 @@ title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za po�
 date: 2025-10-24
 author: Ing. Matúš Ivanecký
 published: false
-categories: spory pravo 
+categories: valne zhromazdenie
 tags: VZ 2025
 published: true
 spor_17c_uri  : "[17C/51/2023](https://drive.google.com/drive/folders/1P0l9AvJgUXxDmph6hbXsQJxx_oO7SaN1?usp=drive_link)"
