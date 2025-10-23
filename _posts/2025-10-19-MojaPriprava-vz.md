@@ -3,9 +3,9 @@ layout: post
 title: "11. Návrh zmien a dodatkov zakladateľskej zmluvy"
 date: 2025-10-24
 author: Ing. Matúš Ivanecký
-published: true
 categories: valne zhromazdenie
 tags: VZ 2025
+published: true
 ---
 
 # 11.Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)
