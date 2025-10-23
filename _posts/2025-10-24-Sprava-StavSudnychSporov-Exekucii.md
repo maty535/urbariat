@@ -3,7 +3,6 @@ layout: post
 title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za poškodenie plota v lokalite býv. muničného skladu"
 date: 2025-10-24
 author: Ing. Matúš Ivanecký
-published: false
 categories: valne zhromazdenie
 tags: VZ 2025
 published: true
