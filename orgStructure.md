@@ -39,7 +39,7 @@ Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štat
 
 ## Štatutárni zástupcovia:
 - Predseda: Peter Semeš ml. [získal 5 hlasov z 5] 
-- Podpredseda: Matúš Bidovský [získal 4 hlasy z 5]
+- Matúš Bidovský - zastupuje predsedu	[získal 4 hlasy z 5]
 
  
 ## Odborný lesný hospodár [OLH]: 
