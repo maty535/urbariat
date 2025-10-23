@@ -53,3 +53,6 @@ Spoločenstvo po oznámení bankového účtu podielnika mu bude zasielať podie
 Spoločenstvo po oznámení email adresy a súhlase podielnika mu bude zasielať pozvánky na valné zhromaždenie na jeho email účet.
 
 
+Prijaté uznesenia by mali mať číslovanie vo formáte: 2025/11.3.3, kde 11 - bod programu VZ.
+
+
