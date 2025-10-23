@@ -12,7 +12,7 @@
        
    Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
 
-11.1.2 Obvyklé miesto uverejnenia pozvánky
+### 11.1.2 Obvyklé miesto uverejnenia pozvánky
 
  - webové sídlo urbáru: urbar.dulovaves.sk
  
