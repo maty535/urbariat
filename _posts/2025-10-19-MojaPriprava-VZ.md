@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11. Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)"
+title: "11. Návrh zmien a dodatkov zakladateľskej zmluvy"
 date: 2025-10-24
 author: Ing. Matúš Ivanecký
 published: true
