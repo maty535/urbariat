@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Právoplatné 2. stupňové rozhodnutie v spore o náhradu škody za poškodenie plota v lokalite býv. muničného skladu"
+title: "Oboznámenie podielnikov o stave súdnych sporov a exekúciách"
 date: 2025-10-24
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
