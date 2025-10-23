@@ -15,7 +15,7 @@
        
          Zasadnutie zhromaždenia zvoláva výbor najmenej raz za rok. Výbor je povinný pozvať na zasadnutie zhromaždenia najmenej 30 dní pred termínom zasadnutia zhromaždenia všetkých členov spoločenstva, fond, ak fond spravuje podiely na spoločnej nehnuteľnosti alebo spoločne obhospodarovanej nehnuteľnosti alebo s nimi nakladá, a správcu, ak správca vykonáva práva vlastníka k podielom na spoločne obhospodarovanej nehnuteľnosti. Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
 
-### 11.2. Odstranenie zmien dodatok c.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
+### 11.2. Odstranenie zmien v dodatoku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
      - Na prevod podielu na spoločnej nehnuteľnosti medzi spoluvlastníkmi spoločnej nehnuteľnosti sa nevzťahuje všeobecné ustanovenie o predkupnom práve,15) ak nejde o prevod podľa § 11 ods. 2.
      - Ak vlastník podielu na spoločnej nehnuteľnosti prevádza spoluvlastnícky podiel na tretiu osobu, je povinný ho ponúknuť ostatným vlastníkom podielov na spoločnej nehnuteľnosti; podiel možno ponúknuť prostredníctvom výboru. Ak o podiel neprejavia záujem ostatní vlastníci podielov alebo v ich mene spoločenstvo podľa odseku 10, možno ho previesť tretej osobe.
@@ -42,4 +42,9 @@ a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoloč
 novým textom v tomto znení:
 
  a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**.
+
+### 11.5. Zavedenie možnosti bezhotovostnej výplaty podielov v prípade schválenia účtovnej uzávierky a rozdelenia zisku
+
+Spoločenstvo po oznámení bankového účtu podielnika mu bude zasielať podiel na zisku spoločenstva v prípade schválenia rozdelenia zisku a účtovnej uzávierky na jeho bankový učet.
+
 
