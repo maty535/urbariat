@@ -17,7 +17,7 @@
  - webové sídlo urbáru: urbar.dulovaves.sk
  
  
- Poznámka: - úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom (urbár na týmto miestami nemá kontrolu a nevie zabezpečit zverejnenie v požadovanom čase) budú použité ako doplnkove miesta uverejnania oznámenia a pozvánky na VZ.
+ Poznámka: - úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom (urbár nad týmto miestami nemá kontrolu ani žíadnu zodpovednosť a nevie zabezpečit zverejnenie v požadovanom čase) budú použité ako doplnkove miesta uverejnania oznámenia a pozvánky na VZ.
  
 
 ### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
