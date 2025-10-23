@@ -12,11 +12,11 @@ permalink: /organization/
 
 |Meno|Funkcia|Od|Kontakt|
 |:-------------|:------------------|:------|:------|
-| Ing. Peter Semeš ml.   | člen - predseda    | 26.05.2024 | 0905 384 750 | 
-| Marta Giňovská         | člen               | 26.05.2024 | 0908 591 984 | 
-| Matúš Bidovský         | člen - podpredseda | 26.05.2024 | 0907 394 830 |
-| Vladimír Koropšák ml.  | člen               | 26.05.2024 | 0907 606 664 | 
-| Ing. Matúš Ivanecký    | člen               | 26.05.2024 | 0918 730 322 | 
+| Ing. Peter Semeš ml.   | člen - predseda            | 26.05.2024 | 0905 384 750 | 
+| Marta Giňovská         | člen                       | 26.05.2024 | 0908 591 984 | 
+| Matúš Bidovský         | člen - zastupuje predsedu	 | 26.05.2024 | 0907 394 830 |
+| Vladimír Koropšák ml.  | člen                       | 26.05.2024 | 0907 606 664 | 
+| Ing. Matúš Ivanecký    | člen                       | 26.05.2024 | 0918 730 322 | 
 
 -  funkčné obdobie aktuálneho výboru a dozornej rady plynie od 25.5.2024 a konči najneskôr 24.5.2029
 
