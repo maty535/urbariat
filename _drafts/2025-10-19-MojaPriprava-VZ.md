@@ -13,7 +13,7 @@
        
 - týmto textom: 
        
-   Zasadnutie zhromaždenia zvoláva výbor najmenej raz za rok. Výbor je povinný pozvať na zasadnutie zhromaždenia najmenej 30 dní pred termínom zasadnutia zhromaždenia všetkých členov spoločenstva, fond, ak fond spravuje podiely na spoločnej nehnuteľnosti alebo spoločne obhospodarovanej nehnuteľnosti alebo s nimi nakladá, a správcu, ak správca vykonáva práva vlastníka k podielom na spoločne obhospodarovanej nehnuteľnosti. Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
+   Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
 
 ### 11.2. Odstranenie zmien v dodatoku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
