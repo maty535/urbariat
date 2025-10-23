@@ -4,7 +4,7 @@
 ### 11.1 Zosuladenie zakladateľskej zmluvy so zakonom o PS
 
 - zmena obvykleho miesta uverejnenia pozvanky podla [§ 14 97/2013 odsek 2](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/97/#paragraf-14.odsek-2): 
-- **1. web urbaru**
+- 1. **web urbaru**
 - 2. úradná tabuľa obce, web obce resp. vývesky obce pred obecnym úradom
 
 - ČL. V bod 1. sa povodný odsek nahrádza pôvodný text:
