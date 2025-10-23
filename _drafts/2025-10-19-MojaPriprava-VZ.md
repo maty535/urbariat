@@ -2,7 +2,6 @@
 # 11.Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)
    
 ### 11.1 Zosuladenie zakladateľskej zmluvy so zakonom o PS
-    
        - zmena obvykleho miesta uverejnenia pozvanky podla [§ 14 97/2013 odsek 2](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/97/#paragraf-14.odsek-2): 
        - **1. web urbaru**
        - 2. uradna tabuľa obce, web obce resp. vývesky obce pred obecnym úradom
@@ -32,6 +31,7 @@ V článku C) Výplata dividend-podielov sa v bode a) sa nahrádza:
 
 a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~.
 
-novým textom v tomto znení
+novým textom v tomto znení:
+
  a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**.
 
