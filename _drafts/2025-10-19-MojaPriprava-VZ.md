@@ -34,7 +34,7 @@ Ako alternatívny názov je možné použiť trochu dlhší názov:
 ### 11.3.3 Zmena názvu spoločenstva na: Urbáriát Dulova Ves p.s.
 
 
-### 11.4. Uprava Zásad rozdelenia ročného zisku spoločenstva
+### 11.4. Úprava Zásad rozdelenia ročného zisku spoločenstva
 
 V článku C) Výplata dividend-podielov sa v bode a) sa nahrádza:
 
