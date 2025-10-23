@@ -20,10 +20,10 @@
 
 ### 11.2. Odstranenie zmien v dodatoku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
-     - Na prevod podielu na spoločnej nehnuteľnosti medzi spoluvlastníkmi spoločnej nehnuteľnosti sa nevzťahuje všeobecné ustanovenie o predkupnom práve,15) ak nejde o prevod podľa § 11 ods. 2.
-     - Ak vlastník podielu na spoločnej nehnuteľnosti prevádza spoluvlastnícky podiel na tretiu osobu, je povinný ho ponúknuť ostatným vlastníkom podielov na spoločnej nehnuteľnosti; podiel možno ponúknuť prostredníctvom výboru. Ak o podiel neprejavia záujem ostatní vlastníci podielov alebo v ich mene spoločenstvo podľa odseku 10, možno ho previesť tretej osobe.
+- Na prevod podielu na spoločnej nehnuteľnosti medzi spoluvlastníkmi spoločnej nehnuteľnosti sa nevzťahuje všeobecné ustanovenie o predkupnom práve,15) ak nejde o prevod podľa § 11 ods. 2.
+- Ak vlastník podielu na spoločnej nehnuteľnosti prevádza spoluvlastnícky podiel na tretiu osobu, je povinný ho ponúknuť ostatným vlastníkom podielov na spoločnej nehnuteľnosti; podiel možno ponúknuť prostredníctvom výboru. Ak o podiel neprejavia záujem ostatní vlastníci podielov alebo v ich mene spoločenstvo podľa odseku 10, možno ho previesť tretej osobe.
     
-     - Ak prejavia zaujem o odkup podielu viaceri clenovia je treba zistiť, ci chcú aby zmluvu o prevode podielu v ich mene sprostredkoval výbor
+- Ak prejavia zaujem o odkup podielu viaceri clenovia je treba zistiť, ci chcú aby zmluvu o prevode podielu v ich mene sprostredkoval výbor
 
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
