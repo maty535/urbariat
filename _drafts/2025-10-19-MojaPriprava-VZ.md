@@ -1,7 +1,7 @@
 
 # 11.Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)
    
-### 11.1 Zosuladenie zakladateľskej zmluvy so zakonom o PS
+### 11.1 Zosúladenie zakladateľskej zmluvy so zakonom o PS
 
 ### 11.1.1
 - ČL. V bod 1. sa povodný odsek nahrádza pôvodný text:
