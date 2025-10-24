@@ -27,7 +27,7 @@ Stav:
 - súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že budú v spore vystupovať členovia výboru ako fyzické osoby (podielnici)
 - tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho zisku spoločenstva.
 
-Ide o sumu:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spolo4nej nehnuteľnosti = **1,345 € / m2**
+Ide o sumu max.:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spolo4nej nehnuteľnosti = **1,345 € / m2**
 
 ## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu (o 6798,96 €): {{page.spor_14up_uri}}
 
@@ -44,8 +44,11 @@ Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 �
 
 Stav: 
 - ukončené, predchádzajúci urbár zmeškal lehoty **(chyba výboru urbáru )** na podanie odporu v upomínacom konaní a potom sa pokúšal sporit o nedoručenie platobného rozkazu **(chyba právneho zastúpenia)**, čo všetky súdne inštancie zamietli.
-Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**
 - v merite veci pochybyl urbár tým, že po zmene vlastníctva pozemkov a stavieb bývaleho mun. skladu nezabezpečil to, aby nebolo možne aby porasty nemohli poškodiť susedné stavby a nehnuteľnosti. 
+
+Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**
+
+<hr/>
 
 Celková strata: ***17 646,50 €**
 
