@@ -15,7 +15,7 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 
 # 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 
-Urbariát viedol 3 súdne spory a bol  účastníkom 2 trestných konaní s p. Petrom Jarkovským.
+Urbariát viedol 3 súdne spory a bol  účastníkom 2 trestných konaní s p. Petrom Jarkovským. Jedno TO inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
 
 
 Súdne spory sa týkali:
@@ -23,10 +23,19 @@ Súdne spory sa týkali:
 Stav:  - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. ....
 
 
-## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu
+## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu (o 6798,96)
+Stav: 
 
+- ukončené, predchádzajúci urbár zmeškal lehoty na podanie odporu v upomínacom konaní a potom sa pokusíl sporiť o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli.
 
-## 3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu
+-Istina sa navýšila o úroky, kedže predchádzajúce vedenie urbáru stihlo pozastaviť exekúciu z dovodu rozhodnutia v otázke  o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli. Tým sa však celkový spor natiahol a exekúcia bola vymoýená až s viac ako ročným odkladom.
+
+Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 € €**
+
+## 3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu (o 3 474,53 €)
+Stav: 
+- ukončené, predchádzajúci urbár zmeškal lehoty na podanie odporu v upomínacom konaní a potom sa pokusíl sporit o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli.
+Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**
 
 
 
