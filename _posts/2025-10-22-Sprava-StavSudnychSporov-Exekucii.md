@@ -20,10 +20,10 @@ Urbariát viedol **3 súdne spory** a bol  účastníkom **2 trestných konaní*
 
 Súdne spory sa týkali:
 
-## 1. Nadobudnutia podielu v urbaráte od p. Molčanovej (dcéra p.Leľaka), t.z. žaloba urbarátu o určenie relatívnej neplatnosti kúpnych zmlúv:  {{page.spor_17c_uri}}
+## 1. Nadobudnutia podielu v urbáre od p. Molčanovej (dcéra p.Leľaka), t.z. žaloba urbáru o určenie relatívnej neplatnosti kúpnych zmlúv:  {{page.spor_17c_uri}}
 
 Stav:  
-- urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. ....
+- urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. .... ( chyba právneho zastúpenia, čo výrazne predĺžilo celkovú dĺžku sporu)
 - súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že budú v spore vystupovať členovia výboru ako fyzické osoby (podielnici)
 - tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho zisku spoločenstva.
 
