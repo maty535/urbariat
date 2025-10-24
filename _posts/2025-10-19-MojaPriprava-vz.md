@@ -21,20 +21,25 @@ published: true
        
    Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
 
+**Odôvodnenie:** Zapracovanie aktuálizácii zákona 97/2013 O pozemkových spolocenstvách.
+
 ### 11.1.2 Obvyklé miesto uverejnenia pozvánky
 
  - webové sídlo urbáru: urbar.dulovaves.sk
  
  
  Poznámka: - úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom (urbár nad týmto miestami nemá kontrolu ani žíadnu zodpovednosť a nevie zabezpečit zverejnenie v požadovanom čase) budú použité ako doplnkove miesta uverejnania oznámenia a pozvánky na VZ.
- 
+
+ **Odôvodnenie:** Zefektívnenie a zlepšenie komunikácie o veciach v urbariáte.
 
 ### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
 - Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách
+
+**Odôvodnenie:** Povodn znenie uvedené v dodatkoch bolo nezrozumiteľné, v niektorých aspektoch už bolo v rozpore so zákonom 97/2013 O pozemkových spolocenstvách.
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
-odôvodnenie: zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru.
+**Odôvodnenie:** zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru.
 
 Ako alternatívny názov je možné použiť trochu dlhší názov:
 
