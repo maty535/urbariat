@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Oboznámenie podielnikov o stave súdnych sporov a exekúciách"
-date: 2025-10-24
+date: 2025-10-23
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
-tags: VZ 2025
+tags: 2025 zhromaždenie
 published: true
 spor_17c_uri  : "[17C/51/2023](https://drive.google.com/drive/folders/1P0l9AvJgUXxDmph6hbXsQJxx_oO7SaN1?usp=drive_link)"
 spor_14up_uri : "[14Up/766/2023](https://drive.google.com/drive/folders/1kADN_QFOKzfmAWeoaPRK5fYchv8QnZtX?usp=drive_link)"
