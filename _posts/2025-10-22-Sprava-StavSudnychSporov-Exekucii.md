@@ -32,9 +32,14 @@ Stav:  - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t
 
 Celková strata: ***17 646,50 €**
 
-Časová os sporov:
+[Časová os sporov](https://urbar.dulovaves.sk/spory/pravo/2024/12/17/Spor-ZnicenyPlot.html):
+<script src="/assets/js/tableSearch.js"></script>
+<div>
+  <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
+  <input type="button" value="Vyhľadať" onclick="search();"/><br/>
+</div>
 
-https://urbar.dulovaves.sk/spory/pravo/2024/12/17/Spor-ZnicenyPlot.html
+
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
@@ -64,6 +69,6 @@ https://urbar.dulovaves.sk/spory/pravo/2024/12/17/Spor-ZnicenyPlot.html
 | <span style="color:red;">4.11.2024</span>  | Enviro-Policia SR    | Uznesenie o zastavení trestného stíhania vo veci ukladania odpadu na urbárske pozemky |PPZ-1706/NCK-ENV-KE-2022|
 | <span style="color:red;">27.11.2024</span> | KK BB               | Uznesenie o potvrdení zamietnutia návrhu na určenie neúčinnosti el. platobného rozkazu  {: style=";background-color: #C70039; color: white;" }|15CoUp/4/2024, {{ page.spor_14up_uri }}|
  
-## Uznesenie:
+# Uznesenie:
 
 Uznesenie c. 2025/17.1. Valné zhromaždenie berie na vedomie aktuálny stav súdnych sporov
