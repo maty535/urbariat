@@ -10,7 +10,7 @@ published: true
 
 # 11.Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)
    
-### 11.1 Zosúladenie zakladateľskej zmluvy so zakonom o PS
+### 11.1 Zosúladenie zakladateľskej zmluvy so zakonom 97/2013 O pozemkových spolocenstvách
 
 ### 11.1.1
 - v ČL. V. bod 1. sa nahrádza pôvodný text:
