@@ -15,34 +15,35 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 
 # 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 
-Urbariát viedol 3 súdne spory a bol  účastníkom 2 trestných konaní s p. Petrom Jarkovským. Jedno **TO** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
+Urbariát viedol **3 súdne spory** a bol  účastníkom **2 trestných konaní** s p. Petrom Jarkovským. Jedno **TO** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
 
 
 Súdne spory sa týkali:
 
-## 1. Nadobudnutia podielu v urbaráte od p. Molčanovej(dcéra p. Leľaka), t.z. žaloba urbarátu o určenie relatívnej neplatnosti kúpnych zmlúv:  {{page.spor_17c_uri}}
+## 1. Nadobudnutia podielu v urbaráte od p. Molčanovej (dcéra p.Leľaka), t.z. žaloba urbarátu o určenie relatívnej neplatnosti kúpnych zmlúv:  {{page.spor_17c_uri}}
 
 Stav:  
 - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. ....
 - súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že budú v spore vystupovať členovia výboru ako fyzické osoby (podielnici)
+- tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho zisku spoločenstva.
 
+Ide o sumu:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spolo4nej nehnuteľnosti = **1,345 € / m2**
 
-## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu (o 6798,96): {{page.spor_14up_uri}}
+## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu (o 6798,96 €): {{page.spor_14up_uri}}
 
 Stav: 
 
-- ukončené, predchádzajúci urbár zmeškal lehoty na podanie odporu v upomínacom konaní a potom sa pokusíl sporiť o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli.
+- ukončené, predchádzajúci výbor urbáru zmeškal lehoty na podanie odporu v upomínacom konaní a potom sa pokusíl sporiť o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli.
 
--Istina sa navýšila o úroky, kedže predchádzajúce vedenie urbáru stihlo pozastaviť exekúciu z dovodu rozhodnutia v otázke  o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli. Tým sa však celkový spor natiahol a exekúcia bola vymoýená až s viac ako ročným odkladom.
+-Istina sa navýšila o úroky, kedže predchádzajúce vedenie urbáru stihlo pozastaviť exekúciu z dovodu rozhodnutia v otázke  o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli. Tým sa však celkový spor natiahol a exekúcia bola vymožená až s viac ako ročným odkladom.
 
-Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 € €**
+Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 €**
 
 ## 3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu (o 3 474,53 €): {{page.spor_38up_uri}}
 
 Stav: 
 - ukončené, predchádzajúci urbár zmeškal lehoty na podanie odporu v upomínacom konaní a potom sa pokusíl sporit o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli.
 Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**
-
 
 
 Celková strata: ***17 646,50 €**
