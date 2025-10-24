@@ -58,13 +58,20 @@ novým textom v tomto znení:
 
  a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**.
 
+ **Odôvodnenie:** Pôvodný spôsob rozdelnia zisku bol príliš komplexný, nezodpovedal spôsobu účtovania a najmä bol nevykonateľný, keďže náklady a príjmy nie su evidované v spoločenstve podľa nehnuteľností a parciel.
+
 ### 11.5. Zavedenie možnosti bezhotovostnej výplaty podielov v prípade schválenia účtovnej uzávierky a rozdelenia zisku
 
 Spoločenstvo po oznámení bankového účtu podielnika mu bude zasielať podiel na zisku spoločenstva v prípade schválenia rozdelenia zisku a účtovnej uzávierky na jeho bankový učet.
 
+**Odôvodnenie:** Zefektívnenie, zrýchlenie a zlacnenie jednotlivých finančných operácií, zníženie nákladov na transakčnú daň, ktorá je v prípade hotovostných operácií 0.8 % z operácie bez limitu, pri bezhotovostných operáciách je 0.4 % s max. limitom 40 EUR.
+
 ### 11.6. Elektornická komunikácia a elektronické zasielanie pozvánok na VZ.
 
 Spoločenstvo po oznámení email adresy a súhlase podielnika mu bude zasielať pozvánky na valné zhromaždenie na jeho email účet.
+
+
+**Odôvodnenie:** Zefektivnenie, zrýchlenie a zlacnenie komunikácie medzi urbárom a podielnikmi.
 
 Prijaté uznesenia by mali mať číslovanie vo formáte: 2025/11.3.3, kde 11 - bod programu VZ.
 
