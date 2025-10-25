@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11. Návrh zmien a dodatkov zakladateľskej zmluvy"
+title: "11. Návrh zmien zmluvy o pozemkovom spoločenstve"
 date: 2025-10-23
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
@@ -19,7 +19,7 @@ published: true
        
 - týmto textom: 
        
-   **Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.**{: style="color: green;" }
+   **Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zmluve o pozemkovom spoločenstve.**{: style="color: green;" }
 
 **Odôvodnenie:** Zapracovanie aktuálizácii zákona 97/2013 O pozemkových spolocenstvách.
 
