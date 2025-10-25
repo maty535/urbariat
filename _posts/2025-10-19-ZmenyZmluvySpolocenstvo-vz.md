@@ -81,7 +81,11 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
 
 
 ### Uznesenie c. 2025/11.1.2 Valné zhromaždenie súhlasí so zmenou a definíciou obvyklého miesta uverejnenia oznámenia a pozvanky na VZ.
- - Obvyklé miesto uverejnenia oznámenia o zasadnutí zhromaždenia je webové sídlo urbar.dulovaves.sk a doplnkové miesta sú:úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom 
+ - Obvyklé miesto uverejnenia oznámenia o zasadnutí zhromaždenia je webové sídlo urbar.dulovaves.sk.
+ - Doplnkové miesta sú:
+    - úradna tabuľa obce,
+    - web obce
+    - výveska obce pred obecným uradom 
 
 ### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením čl. VII. bod 7  týkajúceho sa prevodov podielov na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách.
 
