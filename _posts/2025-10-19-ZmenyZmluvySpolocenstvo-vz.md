@@ -39,7 +39,7 @@ published: true
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
 
-**Odôvodnenie:** zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru. Takisto pojem "urbár" je v dnešnej dobe už málo známy a archaický, pričom málokto z podielnikov vie presne definovať jeho význam. Ako neoficiálne meno spoločenstva môže byť používaný, v oficialnom názve právnickej osoby by sme sa mu však radi vyhli.
+**Odôvodnenie:** zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru. Takisto pojem "urbár" je v dnešnej dobe už málo známy a archaický, pričom málokto z podielnikov vie presne definovať jeho význam. Ako neoficiálne (ľudové) meno spoločenstva môže byť používaný, v oficialnom názve právnickej osoby by sme sa mu však radi vyhli.
 
 ### 11.4. Úprava Zásad rozdelenia ročného zisku spoločenstva
 
