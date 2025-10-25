@@ -82,7 +82,7 @@ Prijaté uznesenia by mali mať číslovanie vo formáte: 2025/11.3.3, kde 11 - 
 
 ### Uznesenie c. 2025/11.1.2 Valné zhromaždenie súhlasí so zmenou a definíciou obvyklého miesta uverejnenia oznámenia a pozvanky na VZ.
 
-### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením prevodu podielu na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách
+### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením čl. VII. bod 7  týkajúceho sa prevodov podielov na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách.
 
 ### Uznesenie c. 2025/11.3.X Valné zhromaždenie súhlasí so zmenou názvu spoločenstva na: 
 
