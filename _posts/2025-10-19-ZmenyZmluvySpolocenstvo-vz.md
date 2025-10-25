@@ -31,7 +31,7 @@ published: true
 
  **Odôvodnenie:** Zefektívnenie a zlepšenie komunikácie o veciach v urbariáte.
 
-### 11.2. Odstránenie zmien prijatých dodatkom č.1 bod 2. a nahradenie čl. VIII. bod 7 zmluvy o spoločenstve týmto textom (o predkupnom práve):
+### 11.2. Vypustenie zmien prijatých dodatkom č.1 bod 2. z 18.5.2019 a dodatku z 9.8.2021 bod 2. a nahradenie čl. VIII. bod 7 zmluvy o spoločenstve týmto textom (o predkupnom práve):
    
 - **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: DarkOrange;" }
 
