@@ -44,7 +44,8 @@ Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 �
 
 Stav: 
 - ukončené, predchádzajúci urbár zmeškal lehoty **(chyba výboru urbáru )** na podanie odporu v upomínacom konaní a potom sa pokúšal sporit o nedoručenie platobného rozkazu **(chyba právneho zastúpenia)**, čo všetky súdne inštancie zamietli.
-- v merite veci pochybyl urbár tým, že po zmene vlastníctva pozemkov a stavieb bývaleho mun. skladu nezabezpečil to, aby nebolo možne aby porasty nemohli poškodiť susedné stavby a nehnuteľnosti. 
+- v merite veci pochybyl urbár tým, že po zmene vlastníctva pozemkov a stavieb bývaleho mun. skladu nezabezpečil to, aby nebolo možné, aby porasty mohli poškodiť susedné stavby a nehnuteľnosti.
+- **Upozornenie:** Neželaný stav naďalej pretrváva a nápravu nedokazali zabezpečiť ani poverení členovia výboru{: style="color: red;" }
 
 Utŕžená strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**{: style="color: red;" }
 
