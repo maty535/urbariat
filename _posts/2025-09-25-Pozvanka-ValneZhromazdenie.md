@@ -37,14 +37,14 @@ k prerokovaným bodom programu, toto zasadnutie sa bude považovať za prvú či
 8. Správa OLH o stave lesa a plán činnosti
 9. Návrh plánu hlavných úloh a finančného plánu na rok 2025/
 10. Zmena adresy Spoločenstva Urbariát Dulova Ves pozemkové spoločenstvo
-11. Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)
+11. [Návrh zmien a dodatkov zakladateľskej zmluvy (stanov)](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/10/23/MojaPriprava-vz.html)
 12. Zmeny a doplnky územného plánu (možnosti realizácie IBV na pozemkoch urbariátu)
 13. Prejednanie projektov obce na pozemkoch spoločenstva (obratisko a retenčná nádrž pri Ihrisku)
 14. Nájomné Zmluvy
-15. Predloženie ponuky členom spoločenstva pre uplatnenie si predkupného pravá pre podiel p.
-Chovanca, ktorý sa ho chystá predať mimo spoločenstva
+15. [Predloženie ponuky členom spoločenstva pre uplatnenie si predkupného pravá pre podiel p.
+Chovanca, ktorý sa ho chystá predať mimo spoločenstva](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/10/25/Ponuka-Chovanec.html)
 16. Schválenie rozdelenia zisku
-17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
+17. [Oboznámenie podielnikov o stave súdnych sporov a exekúciách](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/10/24/Sprava-StavSudnychSporov-Exekucii.html)
 18. Rôzne – diskusia
 19. Záver
 
