@@ -24,7 +24,7 @@ Súdne spory sa týkali:
 
 Stav:  
 - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. .... **(chyba právneho zastúpenia, čo výrazne predĺžilo celkovú dĺžku sporu)**
-- súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že budú v spore vystupovať členovia výboru ako fyzické osoby (podielnici)
+- súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že jeho členovia budú v spore vystupovať ako fyzické osoby (podielnici)
 - tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho zisku spoločenstva.
 
 Ide o sumu max.:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spolo4nej nehnuteľnosti = **1,345 € / m2**
