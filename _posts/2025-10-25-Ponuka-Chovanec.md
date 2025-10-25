@@ -8,7 +8,7 @@ tags: 2025 zhromaždenie
 published: true
 ---
 
-Dňa 21.6.2024 doručil spoluvlastník spoločnej nehnuteľnosti a člen spoločenstva, súčasne aj bývalý člen výboru urbariátu ponuku na kúpu podielu na spočnej nehnuteľnosti v tomto znení:
+Dňa 21.6.2024 doručil spoluvlastník spoločnej nehnuteľnosti a člen spoločenstva, súčasne aj bývalý člen výboru urbariátu ponuku na kúpu podielu na spočnej nehnuteľnosti protredníctvom výboru v tomto znení:
 
 V deň konania valného zhromaždeni bude tu ponuka p. Chovanca uverejnená v plnom znení.
 
