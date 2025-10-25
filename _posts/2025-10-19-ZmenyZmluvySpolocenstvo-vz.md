@@ -34,7 +34,7 @@ published: true
 
 ### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
-- **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: yellow;" }
+- **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: DarkOrange;" }
 
 **Odôvodnenie:** Povodn znenie uvedené v dodatkoch bolo nezrozumiteľné, v niektorých aspektoch už bolo v rozpore so zákonom 97/2013 O pozemkových spolocenstvách.
      
@@ -57,7 +57,7 @@ a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoloč
 
 novým textom v tomto znení:
 
- a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**{: style="color: yellow;" }.
+ a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**{: style="color: DarkOrange;" }.
 
  **Odôvodnenie:** Pôvodný spôsob rozdelnia zisku bol príliš komplexný, nezodpovedal spôsobu účtovania a najmä bol nevykonateľný, keďže náklady a príjmy nie su evidované v spoločenstve podľa nehnuteľností a parciel.
 
