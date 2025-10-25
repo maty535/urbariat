@@ -13,6 +13,7 @@ author: Ing. Matúš Ivanecký
 ## Projekt obce pre realizáciu vodozádržných opatrení v lokalite nad Ihriskom
 
  - [Projektová dokumentácia](https://drive.google.com/drive/folders/1DDMp7_qrtbSMIan6DcWQe4PBxGbJ-mDZ?usp=drive_link)
+ - [Zmluva](https://drive.google.com/file/d/1dVn3ogNWCydnBpuxlJcHOElSbHoHP744/view?usp=drive_link)
    
 Ing. Ján Komorník (rodák z obce Dulova Ves) v projekte uvádza:  
 
