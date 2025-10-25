@@ -23,7 +23,7 @@ published: true
 
 **Odôvodnenie:** Zapracovanie aktuálizácii zákona 97/2013 O pozemkových spolocenstvách.
 
-### 11.1.2 Obvyklé miesto uverejnenia pozvánky
+### 11.1.2 Obvyklé miesto uverejnenia oznámenia o zasadnutí zhromaždenia
 
  - **webové sídlo urbáru: urbar.dulovaves.sk**{: style="color: green;" }
   
