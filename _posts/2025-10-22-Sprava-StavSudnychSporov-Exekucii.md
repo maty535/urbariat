@@ -50,7 +50,7 @@ Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €
 
 <hr/>
 
-Celková strata: ***17 646,50 €**
+Celková strata: **17 646,50 €**
 
 [Časová os sporov](https://urbar.dulovaves.sk/spory/pravo/2024/12/17/Spor-ZnicenyPlot.html):
 <script src="/assets/js/tableSearch.js"></script>
@@ -63,11 +63,11 @@ Celková strata: ***17 646,50 €**
 
 | Dátum       |  Iniciátor          | Udalosť           | Dokumenácia       |
 |:----------- |:-------------       |:------------------|:------------------|
-| <span style="color:blue;">25.08.2021</span> | [AK Fecilak (Molcanova, Jarkovsky)]  ({{ proces_uri_prefix }}3952575)| Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.1| {{ page.spor_17c_uri }} |
+| <span style="color:blue;">25.08.2021</span> | [AK Fecilak (Molcanova, Jarkovsky)]  ({{ proces_uri_prefix }}3952575)| Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.1 spôsobom osobitnej ponuky pre všetkých spoluvlastníkov spoločnej nehnuteľnosti| {{ page.spor_17c_uri }} |
 | <span style="color:red;">18.10.2021</span>  | Peter Jarkovský | Žiadosť o odstránenie spadnutých stromov a opravu oplotenia {: style=";background-color: #FFC300; color: white;" }| {{ page.spor_14up_uri }} |
-| <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.2 |{{ page.spor_17c_uri }} |
+| <span style="color:blue;">11.11.2021</span> | AK Fecilak (Molcanova, Jarkovsky)  | Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.2 prostredníctvom výboru|{{ page.spor_17c_uri }} |
 | 15.11.2021  | Urbár (MG)          | Zaslanie odpovede urbáru na žiadosť o odstránenie spadnutých stromov (adresátom neprevzatá), k náprave však nedošlo, bola iba v liste deklarovaná, že bude vykonaná za vhodných metereologických podmienok (aby sa tam dalo dostať) |{{ page.spor_14up_uri }} |
-| <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.3 | {{ page.spor_17c_uri }} |
+| <span style="color:blue;">19.01.2022</span> | AK Fecilak (Molcanova, Jarkovsky)  |Ponuka na uplatenie predkupného práva pre podiel na spoločnej nehnutelnnoti c.3 prostredníctvom výboru| {{ page.spor_17c_uri }} |
 | <span style="color:blue;">30.03.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.1 na spoločnej nehnutelnnoti | V-2872/2022, {{ page.spor_17c_uri }} |
 | <span style="color:blue;">20.05.2022</span> | Molcanova, Jarkovský   |Kúpa podielu c.2 na spoločnej nehnutelnnoti | V-4718/2022, {{ page.spor_17c_uri }} |
 |  <span style="color:red;">25.10.2022</span> | Urbár (FK)          | Podanie trestného oznámenia vo veci ukladania odpadu na urbárske pozemky  {: style=";background-color: #C70039; color: white;font-weight: bold;" } |PPZ-1706/NCK-ENV-KE-2022|
