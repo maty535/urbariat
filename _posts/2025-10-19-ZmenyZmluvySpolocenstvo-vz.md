@@ -31,7 +31,7 @@ published: true
 
  **Odôvodnenie:** Zefektívnenie a zlepšenie komunikácie o veciach v urbariáte.
 
-### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VIII. bod 7 týmto textom (o predkupnom práve):
+### 11.2. Odstránenie zmien prijatých dodatkom č.1 bod 2. a nahradenie čl. VIII. bod 7 zmluvy o spoločenstve týmto textom (o predkupnom práve):
    
 - **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: DarkOrange;" }
 
@@ -39,14 +39,7 @@ published: true
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
 
-**Odôvodnenie:** zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru.
-
-Ako alternatívny názov je možné použiť trochu dlhší názov:
-
-### 11.3.2 Zmena názvu spoločenstva na: Urbár Dulova Ves p.s., alebo
-
-### 11.3.3 Zmena názvu spoločenstva na: Urbáriát Dulova Ves p.s.
-
+**Odôvodnenie:** zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru.  Takisto pojem "urbár" je v dnešnej dobe už málo známy a archaický, pričom málokto z podielnikov vie presne definovať jeho význam. Ako neoficiálne meno spoločenstva môže byť používaný v oficialnom názve by sme sa mu radi vyhli.
 
 ### 11.4. Úprava Zásad rozdelenia ročného zisku spoločenstva
 
@@ -92,7 +85,7 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
 
 ### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením čl. VII. bod 7  týkajúceho sa prevodov podielov na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách.
 
-### Uznesenie c. 2025/11.3.X Valné zhromaždenie súhlasí so zmenou názvu spoločenstva na: 
+### Uznesenie c. 2025/11.3.X Valné zhromaždenie súhlasí so zmenou názvu spoločenstva na: Dulova Ves p.s.
 
 ### Uznesenie c. 2025/11.4 Valné zhromaždenie súhlasí so zmenou zásad rozdelenia ročného zisku spoločenstva, takto:
 
