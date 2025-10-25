@@ -38,7 +38,7 @@ Stav:
 
 -Istina sa navýšila o úroky, kedže predchádzajúce vedenie urbáru stihlo pozastaviť exekúciu z dovodu rozhodnutia v otázke  o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli. Tým sa však celkový spor natiahol a exekúcia bola vymožená až s viac ako ročným odkladom.
 
-Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 €**
+Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 €**{: style="color: red;" }
 
 ## 3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu (o 3 474,53 €): {{page.spor_38up_uri}}
 
@@ -46,11 +46,11 @@ Stav:
 - ukončené, predchádzajúci urbár zmeškal lehoty **(chyba výboru urbáru )** na podanie odporu v upomínacom konaní a potom sa pokúšal sporit o nedoručenie platobného rozkazu **(chyba právneho zastúpenia)**, čo všetky súdne inštancie zamietli.
 - v merite veci pochybyl urbár tým, že po zmene vlastníctva pozemkov a stavieb bývaleho mun. skladu nezabezpečil to, aby nebolo možne aby porasty nemohli poškodiť susedné stavby a nehnuteľnosti. 
 
-Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**
+Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**{: style="color: red;" }
 
 <hr/>
 
-Celková strata: **17 646,50 €**
+Celková strata: **17 646,50 €**{: style="color: red;" }
 
 [Časová os sporov](https://urbar.dulovaves.sk/spory/pravo/2024/12/17/Spor-ZnicenyPlot.html):
 <script src="/assets/js/tableSearch.js"></script>
