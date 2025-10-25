@@ -26,8 +26,7 @@ published: true
 ### 11.1.2 Obvyklé miesto uverejnenia pozvánky
 
  - **webové sídlo urbáru: urbar.dulovaves.sk**{: style="color: green;" }
- 
- 
+  
  Poznámka: - úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom (urbár nad týmto miestami nemá kontrolu ani žíadnu zodpovednosť a nevie zabezpečit zverejnenie v požadovanom čase) budú použité ako doplnkove miesta uverejnania oznámenia a pozvánky na VZ.
 
  **Odôvodnenie:** Zefektívnenie a zlepšenie komunikácie o veciach v urbariáte.
@@ -36,7 +35,7 @@ published: true
    
 - **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: DarkOrange;" }
 
-**Odôvodnenie:** Povodn znenie uvedené v dodatkoch bolo nezrozumiteľné, v niektorých aspektoch už bolo v rozpore so zákonom 97/2013 O pozemkových spolocenstvách.
+**Odôvodnenie:** Povodné znenie uvedené v dodatkoch bolo nezrozumiteľné, v niektorých aspektoch už bolo v rozpore so zákonom 97/2013 O pozemkových spolocenstvách.
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
 
