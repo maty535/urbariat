@@ -15,17 +15,17 @@ published: true
 ### 11.1.1
 - v ČL. V. bod 1. sa nahrádza pôvodný text:
        
-~~Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia v médiu sceloštátnou pôsobnosťou. V pozvánke na zasadnutie zhromaždenia a v oznámení o zasadnutí zhromaždenia výbor uvedie názov a sídlo spoločenstva, miesto, dátum a hodinu Zasadnutia zhromaždenia, údaj, či ide o čiastkovú schôdzu alebo mimoriadne zasadnutie zhromaždenia, program zasadnutia zhromaždenia a poučenie o možnosti zúčastniť sa Zasadnutia prostredníctvom zástupcu na základe splnomocnenia. Ak vlastník podielu spoločnej nehnuteľnosti prevádza svoj podiel podľa 8 9 ods. 7 alebo ak fond prevádza podiel vo vlastníctve štátu podľa $ 11 ods. 2, výbor to uvedie v programe zasadnutia zhromaždenia.~~
+**Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia v médiu sceloštátnou pôsobnosťou. V pozvánke na zasadnutie zhromaždenia a v oznámení o zasadnutí zhromaždenia výbor uvedie názov a sídlo spoločenstva, miesto, dátum a hodinu Zasadnutia zhromaždenia, údaj, či ide o čiastkovú schôdzu alebo mimoriadne zasadnutie zhromaždenia, program zasadnutia zhromaždenia a poučenie o možnosti zúčastniť sa Zasadnutia prostredníctvom zástupcu na základe splnomocnenia. Ak vlastník podielu spoločnej nehnuteľnosti prevádza svoj podiel podľa 8 9 ods. 7 alebo ak fond prevádza podiel vo vlastníctve štátu podľa $ 11 ods. 2, výbor to uvedie v programe zasadnutia zhromaždenia.**{: style="color: red;" }
        
 - týmto textom: 
        
-   Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.
+   **Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách. Výbor je povinný informovať okresný úrad o zasadnutí zhromaždenia do 30 dní odo dňa jeho konania.**{: style="color: #06402B;" }
 
 **Odôvodnenie:** Zapracovanie aktuálizácii zákona 97/2013 O pozemkových spolocenstvách.
 
 ### 11.1.2 Obvyklé miesto uverejnenia pozvánky
 
- - webové sídlo urbáru: urbar.dulovaves.sk
+ - **webové sídlo urbáru: urbar.dulovaves.sk**{: style="color: #06402B;" }
  
  
  Poznámka: - úradna tabuľa obce, web obce resp. vývesky obce pred obecným uradom (urbár nad týmto miestami nemá kontrolu ani žíadnu zodpovednosť a nevie zabezpečit zverejnenie v požadovanom čase) budú použité ako doplnkove miesta uverejnania oznámenia a pozvánky na VZ.
@@ -34,11 +34,12 @@ published: true
 
 ### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
    
-- Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách
+- **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: #06402B;" }
 
 **Odôvodnenie:** Povodn znenie uvedené v dodatkoch bolo nezrozumiteľné, v niektorých aspektoch už bolo v rozpore so zákonom 97/2013 O pozemkových spolocenstvách.
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
+
 **Odôvodnenie:** zjednodušenie a skrátenie názvu, ktorý je možné uvádzať pri bezhotovostných bankových operáciach a je si ho možné ľahšie zapamätať. Takisto uľahčenie vypisovania obálok v prípade odosielania listov urbáru.
 
 Ako alternatívny názov je možné použiť trochu dlhší názov:
@@ -52,11 +53,11 @@ Ako alternatívny názov je možné použiť trochu dlhší názov:
 
 V článku C) Výplata dividend-podielov sa v bode a) sa nahrádza:
 
-a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~.
+a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~{: style="color: red;" }.
 
 novým textom v tomto znení:
 
- a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**.
+ a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**.{: style="color: #06402B;" }
 
  **Odôvodnenie:** Pôvodný spôsob rozdelnia zisku bol príliš komplexný, nezodpovedal spôsobu účtovania a najmä bol nevykonateľný, keďže náklady a príjmy nie su evidované v spoločenstve podľa nehnuteľností a parciel.
 
