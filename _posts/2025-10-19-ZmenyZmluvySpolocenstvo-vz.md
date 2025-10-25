@@ -31,7 +31,7 @@ published: true
 
  **Odôvodnenie:** Zefektívnenie a zlepšenie komunikácie o veciach v urbariáte.
 
-### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VII. bod 7 týmto textom:
+### 11.2. Odstranenie zmien v dodatku č.1 bod 2. a nahradenie čl. VIII. bod 7 týmto textom (o predkupnom práve):
    
 - **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: DarkOrange;" }
 
