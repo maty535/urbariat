@@ -23,7 +23,7 @@ Súdne spory sa týkali:
 ## 1. Nadobudnutia podielu v urbáre od p. Molčanovej (dcéra p.Leľaka), t.z. žaloba urbáru o určenie relatívnej neplatnosti kúpnych zmlúv:  {{page.spor_17c_uri}}
 
 Stav:  
-- urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. .... **(chyba právneho zastúpenia, čo výrazne predĺžilo celkovú dĺžku sporu)**
+- urbár, ako právnická osoba nebol oprávnený na základe zákonného zmocnenia podať žalobu v mene podielnikov, t.z. .... **(chyba právneho zastúpenia, čo výrazne predĺžilo celkovú dĺžku sporu)**
 - súdne konanie prebieha, urbár (právnická osoba) súhlasil, aby v spore pokračovali a namiesto právnickej osoby vystupovali ako žalobcovia (podielnici) členovia výboru. (V princípe stačí aj jeden podielnik)
 - tu treba podielnikom prednesieť aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho, resp. aktuálneho zisku spoločenstva, k čomu ich de-facto zaväzuje fakt, že VZ viackrát odhlasovalo, resp. potvrdilo, že chce riešiť tento spor. Bude potrebné prijať 2 uznesenia o podielanie sa celého spoločenstva na nákladoch na tento súdny spor.
 
