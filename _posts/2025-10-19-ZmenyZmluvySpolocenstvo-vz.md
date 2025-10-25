@@ -73,7 +73,7 @@ Prijaté uznesenia by mali mať číslovanie vo formáte: 2025/11.3.3, kde 11 - 
 
 ## Uznesenia:
 
-### Uznesenie c. 2025/11.1.1 Valné zhromaždenie súhlasí s touto zmenou zakladateľskej zmluvy:
+### Uznesenie c. 2025/11.1.1 Valné zhromaždenie súhlasí s touto zmenou zmluvy o pozemkovom spoločenstve :
 v ČL. V. bod 1. sa nahrádza pôvodný text:
 Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia v médiu sceloštátnou pôsobnosťou.
 
@@ -81,12 +81,12 @@ týmto textom:
 
 Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.
 
-### Uznesenie c. 2025/11.1.2 Valné zhromaždenie súhlasí so zmenou a definíciou obvyklého miesta uverejnenia oznámenia a pozvanky na VZ.
+### Uznesenie c. 2025/11.1.2 Valné zhromaždenie súhlasí so zmenou a definíciou obvyklého miesta uverejnenia oznámenia a pozvánky na VZ.
  - Obvyklé miesto uverejnenia oznámenia o zasadnutí zhromaždenia je webové sídlo urbar.dulovaves.sk.
  - Doplnkové miesta sú:
     - úradna tabuľa obce,
     - web obce
-    - výveska obce pred obecným uradom 
+    - výveska obce pred obecným uradom
 
 ### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením čl. VII. bod 7  týkajúceho sa prevodov podielov na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách.
 
@@ -94,11 +94,7 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
 
 ### Uznesenie c. 2025/11.4 Valné zhromaždenie súhlasí so zmenou zásad rozdelenia ročného zisku spoločenstva, takto:
 
-V článku C) Výplata dividend-podielov sa v bode a) sa nahrádza:
-
-a) 90% z celkovej čiastky sa rozdelí ~~na 6 242 400 podielov~~{: style="color: red;" } pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~.
-
-novým textom v tomto znení:
+Článok C) Výplata dividend-podielov sa v bode a) znie :
 
  a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa výšky ich podielov na **spoločnej nehnuteľnosti**.
 
