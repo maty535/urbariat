@@ -7,7 +7,7 @@ categories: valne zhromazdenie
 tags: 2025 zhromaždenie
 published: true
 ---
-- V deň konania valného zhromaždeni bude na tomto mieste ponuka p. Chovanca uverejnená v plnom znení, tak ako ju ponúkol ostatným spoluvstaníkom spoločnej nehnuteľnosti.{: style="color: red;" }
+- **V deň konania valného zhromaždenia t.j. 26.10.2025 bude na tomto mieste ponuka p. Chovanca uverejnená v plnom znení, tak ako ju ponúkol ostatným spoluvstaníkom spoločnej nehnuteľnosti.**{: style="color: red;" }
 
 - Dňa 21.6.2024 doručil spoluvlastník spoločnej nehnuteľnosti a člen spoločenstva, súčasne aj bývalý člen výboru urbariátu ponuku na odpredaj svojho celého podielu na spočnej nehnuteľnosti spoločenstviu prostredníctvom výboru v tomto znení:
 
