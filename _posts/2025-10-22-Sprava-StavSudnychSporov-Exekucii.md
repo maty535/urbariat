@@ -15,7 +15,7 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 
 # 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 
-Urbariát viedol **3 súdne spory** a bol  účastníkom **2 trestných konaní** s p. Petrom Jarkovským. Jedno **TO** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
+Urbariát viedol **3 súdne spory** (1 z nich inicioval) a bol  účastníkom **2 trestných konaní** (1 z nich inicioval) s p. Petrom Jarkovským. Jedno **TO** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
 
 
 Súdne spory sa týkali:
@@ -25,9 +25,9 @@ Súdne spory sa týkali:
 Stav:  
 - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. .... **(chyba právneho zastúpenia, čo výrazne predĺžilo celkovú dĺžku sporu)**
 - súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že jeho členovia budú v spore vystupovať ako fyzické osoby (podielnici)
-- tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho zisku spoločenstva.
+- tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho, resp. aktuálneho zisku spoločenstva, k čomu ich de-facto zaväzuje fakt, že VZ viackrát odhlasovalo, resp. potvrdilo, že chce riešiť tento spor.
 
-Ide o sumu max.:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spoločnej nehnuteľnosti = **1,345 € / m2**
+Ide o sumu max.:  **12 000 €**{: style="color: red;" } / podiel pani Molčanovej => 0.69 % zo spoločnej nehnuteľnosti = **1,345 € / m2**{: style="color: red;" }
 
 ## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu (o 6798,96 €): {{page.spor_14up_uri}}
 
@@ -46,11 +46,11 @@ Stav:
 - ukončené, predchádzajúci urbár zmeškal lehoty **(chyba výboru urbáru )** na podanie odporu v upomínacom konaní a potom sa pokúšal sporit o nedoručenie platobného rozkazu **(chyba právneho zastúpenia)**, čo všetky súdne inštancie zamietli.
 - v merite veci pochybyl urbár tým, že po zmene vlastníctva pozemkov a stavieb bývaleho mun. skladu nezabezpečil to, aby nebolo možne aby porasty nemohli poškodiť susedné stavby a nehnuteľnosti. 
 
-Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**{: style="color: red;" }
+Utŕžená strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**{: style="color: red;" }
 
 <hr/>
 
-Celková strata: **17 646,50 €**{: style="color: red;" }
+Celková strata: **17 646,50 €**{: style="color: red;" }, z čoho bolo v roku 2024 umorených iba **5 651,14 €**{: style="color: red;" }
 
 [Časová os sporov](https://urbar.dulovaves.sk/spory/pravo/2024/12/17/Spor-ZnicenyPlot.html):
 <script src="/assets/js/tableSearch.js"></script>
