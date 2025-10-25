@@ -27,7 +27,7 @@ Stav:
 - súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že jeho členovia budú v spore vystupovať ako fyzické osoby (podielnici)
 - tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho zisku spoločenstva.
 
-Ide o sumu max.:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spolo4nej nehnuteľnosti = **1,345 € / m2**
+Ide o sumu max.:  **12 000 €** / podiel pani Molčanovej => 0.69 % zo spoločnej nehnuteľnosti = **1,345 € / m2**
 
 ## 2. Spor o náhradu škody za spílenie 6 dubov a jedného hrabu (o 6798,96 €): {{page.spor_14up_uri}}
 
