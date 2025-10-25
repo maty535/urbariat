@@ -10,7 +10,7 @@ published: true
 
 # 11.Návrh zmien a dodatkov zmluvy o pozemkovom spoločenstve formou dodatku č.2025/01
    
-### 11.1 Zosúladenie zakladateľskej zmluvy so zákonom 97/2013 O pozemkových spoločenstvách
+### 11.1 Zosúladenie zmluvy o pozemkovom spoločenstve so zákonom 97/2013 O pozemkových spoločenstvách
 
 ### 11.1.1
 - v ČL. V. bod 1. sa nahrádza pôvodný text:
@@ -65,6 +65,9 @@ Spoločenstvo po oznámení email adresy a súhlase podielnika mu bude zasielať
 
 **Odôvodnenie:** Zefektivnenie, zrýchlenie a zlacnenie komunikácie medzi urbárom a podielnikmi.
 
+
+<hr/>
+
 Prijaté uznesenia by mali mať číslovanie vo formáte: 2025/11.3.3, kde 11 - bod programu VZ.
 
 
@@ -77,8 +80,6 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
 týmto textom:
 
 Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.
-
-
 
 ### Uznesenie c. 2025/11.1.2 Valné zhromaždenie súhlasí so zmenou a definíciou obvyklého miesta uverejnenia oznámenia a pozvanky na VZ.
  - Obvyklé miesto uverejnenia oznámenia o zasadnutí zhromaždenia je webové sídlo urbar.dulovaves.sk.
