@@ -38,6 +38,8 @@ Stav:
 
 -Istina sa navýšila o úroky, kedže predchádzajúce vedenie urbáru stihlo pozastaviť exekúciu z dovodu rozhodnutia v otázke  o nedoručenie platobného rozkazu, čo všetky súdne inštancie zamietli. Tým sa však celkový spor natiahol a exekúcia bola vymožená až s viac ako ročným odkladom.
 
+-  **Upozornenie: Viditeľné hranice nie sú doteraz jednoznačne vytýčené, ich vytýčenie by predstavovalo významný náklad pre celé spoločenstvo, keďže ide o plochu s výmerou cez 8ha. Nejaké drevené kolíky tam p. Jarkovský má. Urbár však pozvaný k ich vytýčeniu nebol.**{: style="color: red;" }
+
 Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 €**{: style="color: red;" }
 
 ## 3. Spor o náhradu škody za poškodený plot v lokalite býv. mun. skladu (o 3 474,53 €): {{page.spor_38up_uri}}
@@ -45,7 +47,7 @@ Utŕžena strata, bez nákladov na vlastné právne zastúpenie: **11 995,36 �
 Stav: 
 - ukončené, predchádzajúci urbár zmeškal lehoty **(chyba výboru urbáru )** na podanie odporu v upomínacom konaní a potom sa pokúšal sporit o nedoručenie platobného rozkazu **(chyba právneho zastúpenia)**, čo všetky súdne inštancie zamietli.
 - v merite veci pochybyl urbár tým, že po zmene vlastníctva pozemkov a stavieb bývaleho mun. skladu nezabezpečil to, aby nebolo možné, aby porasty mohli poškodiť susedné stavby a nehnuteľnosti.
-- **Upozornenie: Neželaný stav naďalej pretrváva a nápravu nedokazali zabezpečiť ani poverení členovia výboru**{: style="color: red;" }
+- **Upozornenie: Neželaný stav ešte stále pretrváva a nápravu nedokazali zabezpečiť ani poverení členovia výboru**{: style="color: red;" }
 
 Utŕžená strata, bez nákladov na vlastné právne zastúpenie: **5 651,14 €**{: style="color: red;" }
 
