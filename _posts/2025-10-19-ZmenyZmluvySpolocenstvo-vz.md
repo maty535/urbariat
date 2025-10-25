@@ -8,7 +8,7 @@ tags: 2025 zhromaždenie
 published: true
 ---
 
-# 11.Návrh zmien a dodatkov zakladateľskej zmluvy č.2025/01
+# 11.Návrh zmien a dodatkov zmluvy o pozemkovom spoločenstve formou dodatku č.2025/01
    
 ### 11.1 Zosúladenie zakladateľskej zmluvy so zákonom 97/2013 O pozemkových spoločenstvách
 
