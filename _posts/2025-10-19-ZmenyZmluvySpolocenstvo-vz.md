@@ -8,7 +8,7 @@ tags: 2025 zhromaždenie
 published: true
 ---
 
-# 11.Návrh zmien zmluvy a jej dodatkov formou dodatku č.2025/01
+# 11.Návrh zmien zmluvy a jej dodatkov formou dodatku č. 2025/01
    
 ### 11.1 Zosúladenie zmluvy o pozemkovom spoločenstve so zákonom 97/2013 O pozemkových spoločenstvách
 
