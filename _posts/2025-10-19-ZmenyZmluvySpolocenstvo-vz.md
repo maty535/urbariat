@@ -72,11 +72,11 @@ Prijaté uznesenia by mali mať číslovanie vo formáte: 2025/11.3.3, kde 11 - 
 
 ### Uznesenie c. 2025/11.1.1 Valné zhromaždenie súhlasí s touto zmenou zakladateľskej zmluvy:
 v ČL. V. bod 1. sa nahrádza pôvodný text:
-Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia v médiu sceloštátnou pôsobnosťou.{: style="color: red;" }
+Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia v médiu sceloštátnou pôsobnosťou.
 
 týmto textom:
 
-Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.{: style="color: green;" }
+Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.
 
 
 
@@ -91,11 +91,11 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
 
 V článku C) Výplata dividend-podielov sa v bode a) sa nahrádza:
 
-a) 90% z celkovej čiastky sa rozdelí ~~na 6 242 400 podielov~~{: style="color: red;" } pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~{: style="color: red;" }.
+a) 90% z celkovej čiastky sa rozdelí ~~na 6 242 400 podielov~~{: style="color: red;" } pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~.
 
 novým textom v tomto znení:
 
- a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa výšky ich podielov na **spoločnej nehnuteľnosti**{: style="color: DarkOrange;" }.
+ a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa výšky ich podielov na **spoločnej nehnuteľnosti**.
 
 
 ### Uznesenie c. 2025/11.5 Valné zhromaždenie súhlasí s možnosťou bezhotovostných výplat podielov zo zisku spoločenstva po oznámení bankového účtu podielnika a súhlase pre výplatu podielov bezhotovostne.
