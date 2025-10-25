@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<h1 align="center">{{ page.tag }}</h1>
+<h1 align="center">{{ page.tag | capitalize }}</h1>
 <hr/>
 <ul class="archive-list">
     {% for post in site.tags[page.tag] %}
