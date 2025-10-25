@@ -15,7 +15,7 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 
 # 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 
-Urbariát viedol **3 súdne spory** (1 z nich inicioval) a bol  účastníkom **2 trestných konaní** (1 z nich inicioval) s p. Petrom Jarkovským. Jedno **TO** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
+Urbariát viedol **3 súdne spory** (1 z nich inicioval) a bol  účastníkom **2 trestných konaní** (1 z nich inicioval) s p. Petrom Jarkovským. Jedno **TO (trestné oznámenie)** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
 
 
 Súdne spory sa týkali:
@@ -24,8 +24,8 @@ Súdne spory sa týkali:
 
 Stav:  
 - urbár nebol oprávnený na podanie tejto žaloby v mene podielnikov, t.z. .... **(chyba právneho zastúpenia, čo výrazne predĺžilo celkovú dĺžku sporu)**
-- súdne konanie prebieha, namiesto urbáru sa rozhodol výbor kvoli efektivite, že jeho členovia budú v spore vystupovať ako fyzické osoby (podielnici)
-- tu treba podielnikom prednesiet aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho, resp. aktuálneho zisku spoločenstva, k čomu ich de-facto zaväzuje fakt, že VZ viackrát odhlasovalo, resp. potvrdilo, že chce riešiť tento spor.
+- súdne konanie prebieha, urbár (právnická osoba) súhlasil v spore vystupovať ako žalobcovia (podielnici) členovia výboru. (V princípe stačí aj jeden podielnik)
+- tu treba podielnikom prednesieť aké sú možnosti riešenia tohto sporu a či sa chcú podieľat na získanie podielu p. Jarkovského pre všetkých podielnikov, t.z. z budúceho, resp. aktuálneho zisku spoločenstva, k čomu ich de-facto zaväzuje fakt, že VZ viackrát odhlasovalo, resp. potvrdilo, že chce riešiť tento spor.
 
 Ide o sumu max.:  **12 000 €**{: style="color: red;" } / podiel pani Molčanovej => 0.69 % zo spoločnej nehnuteľnosti = **1,345 € / m2**{: style="color: red;" }
 
