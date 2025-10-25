@@ -19,7 +19,7 @@ published: true
        
 - týmto textom: 
        
-   **Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách.**{: style="color: green;" }
+   **Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.**{: style="color: green;" }
 
 **Odôvodnenie:** Zapracovanie aktuálizácii zákona 97/2013 O pozemkových spolocenstvách.
 
@@ -76,7 +76,7 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
 
 týmto textom:
 
-Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách.{: style="color: green;" }
+Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznámenie o zasadnutí zhromaždenia (ďalej len „oznámenie“) na obvyklom mieste uverejnenia, na svojom webovom sídle alebo v médiu s celoštátnou pôsobnosťou; obvyklé miesto uverejnenia určí spoločenstvo v stanovách, alebo v dodatku k zakladateľskej zmluve.{: style="color: green;" }
 
 
 
