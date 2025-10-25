@@ -35,7 +35,7 @@ published: true
    
 - **Prevod podielu na spoločnej nehnuteľnosti sa riadi podľa zákona č. 97/2013 O pozemkových spoločenstvách**{: style="color: DarkOrange;" }
 
-**Odôvodnenie:** Povodné znenie a zmeny uvedené v dodatkoch už neboli v súlade so zákonom 97/2013 O pozemkových spoločenstvách, v niektorých aspektoch už bolo v rozpore so zákonom 97/2013 O pozemkových spolocenstvách.
+**Odôvodnenie:** Pôvodné znenie a zmeny uvedené v dodatkoch už neboli v súlade so zákonom 97/2013 O pozemkových spoločenstvách.
      
 ### 11.3.1 Zmena názvu spoločenstva na: Dulova Ves p.s.
 
