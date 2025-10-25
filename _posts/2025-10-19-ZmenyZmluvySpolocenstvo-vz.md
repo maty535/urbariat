@@ -51,7 +51,7 @@ novým textom v tomto znení:
 
  a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa výšky ich podielov na **spoločnej nehnuteľnosti**{: style="color: DarkOrange;" }.
 
- **Odôvodnenie:** Pôvodný spôsob rozdelnia zisku bol príliš komplexný, nezodpovedal spôsobu účtovania a najmä bol nevykonateľný, keďže náklady a príjmy nie su evidované v spoločenstve podľa nehnuteľností a parciel.
+ **Odôvodnenie:** Pôvodný spôsob rozdelenia zisku bol príliš komplexný, nezodpovedal spôsobu účtovania a najmä bol nevykonateľný, keďže náklady a príjmy nie su evidované v spoločenstve podľa nehnuteľností a parciel.
 
 ### 11.5. Zavedenie možnosti bezhotovostnej výplaty podielov v prípade schválenia účtovnej uzávierky a rozdelenia zisku
 
