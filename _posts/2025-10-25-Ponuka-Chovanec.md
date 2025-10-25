@@ -10,6 +10,9 @@ published: true
 
 Dňa 21.6.2024 doručil spoluvlastník spoločnej nehnuteľnosti a člen spoločenstva, súčasne aj bývalý člen výboru urbariátu ponuku na kúpu podielu na spočnej nehnuteľnosti protredníctvom výboru v tomto znení:
 
+<img width="747" height="836" alt="image" src="https://github.com/user-attachments/assets/5f9e5ede-b2e3-4b13-9092-bd3a2d1a6456" />
+
+
 V deň konania valného zhromaždeni bude na tomto mieste ponuka p. Chovanca uverejnená v plnom znení, tak ako ju ponúkol ostatným spoluvstaníkom spoločnej nehnuteľnosti.
 
 
