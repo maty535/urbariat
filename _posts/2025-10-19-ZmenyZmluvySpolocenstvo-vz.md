@@ -53,11 +53,11 @@ Ako alternatívny názov je možné použiť trochu dlhší názov:
 
 V článku C) Výplata dividend-podielov sa v bode a) sa nahrádza:
 
-a) 90% z celkovej čiastky sa rozdelí na 6 242 400 podielov pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~{: style="color: red;" }.
+a) 90% z celkovej čiastky sa rozdelí ~~na 6 242 400 podielov~~{: style="color: red;" } pre členov spoločenstva podľa ich výšky podielov na parcelách, ~~kde zisk vznikol~~{: style="color: red;" }.
 
 novým textom v tomto znení:
 
- a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa ich výšky podielov na **spoločnej nehnuteľnosti**{: style="color: DarkOrange;" }.
+ a) 90% z celkovej čiastky sa rozdelí pre členov spoločenstva podľa výšky ich podielov na **spoločnej nehnuteľnosti**{: style="color: DarkOrange;" }.
 
  **Odôvodnenie:** Pôvodný spôsob rozdelnia zisku bol príliš komplexný, nezodpovedal spôsobu účtovania a najmä bol nevykonateľný, keďže náklady a príjmy nie su evidované v spoločenstve podľa nehnuteľností a parciel.
 
