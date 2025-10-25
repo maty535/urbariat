@@ -6,6 +6,7 @@ permalink: /historia/
 ---
 ## 2025
 
+- 26.10.2025 Valné zhromaždenie - [pozvánka](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/09/25/Pozvanka-ValneZhromazdenie.html)
 - 30.5.2025 Zmena bankového účtu spoločenstva na: **SK63 8330 0000 0021 0316 9449**, t.z. prechod z VǓB banky do Fio banky, hlavne kvoli racionalizácii nákladov na poplatky a získanie úrokových výnosov z terminovaného, resp. sporiacieho podnikateľského účtu, ktorý je rádovo v desiatkach EUR (cca. 50 EUR/ mesiac) výhodnejší ako podnikateľský účet vo VÚB banke.
 
 - 1.1.2025 Zmena na pozícii OLH, výbor vybral nového OLH, ktorým sa stal **Rudolf Najsarek, Pod Lesom 25, Dulova Ves, mobil: 0917 669 345**. 
@@ -14,7 +15,7 @@ permalink: /historia/
 Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente, § 60b odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3)
   
 ## 2014
-Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/20221101) a pridelenie IČO.
+Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/) a pridelenie IČO.
 
 ## 1995
 	
