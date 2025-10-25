@@ -88,7 +88,7 @@ Výbor najmenej 25 dní pred termínom zasadnutia zhromaždenia uverejní oznám
     - web obce
     - výveska obce pred obecným uradom
 
-### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením čl. VII. bod 7  týkajúceho sa prevodov podielov na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách.
+### Uznesenie c. 2025/11.2 Valné zhromaždenie súhlasí so zosúladením čl. VIII. bod 7  týkajúceho sa prevodov podielov na spoločnej nehnuteľnosti so zákonom č. 97/2013 O pozemkových spoločenstvách.
 
 ### Uznesenie c. 2025/11.3.X Valné zhromaždenie súhlasí so zmenou názvu spoločenstva na: Dulova Ves p.s.
 
