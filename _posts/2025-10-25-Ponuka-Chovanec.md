@@ -7,7 +7,7 @@ categories: valne zhromazdenie
 tags: 2025 zhromaždenie
 published: true
 ---
-- **Pán Chovanec Vladimír ponúkol ostatným spoluvlastníkom spoločnej nehnuteľnosti prostredníctvom výboru svoj podiel vo výške 15 139,871 m2 (1,18 %) zo spoločnej nehnuteľnosti za sumu 20 000 €, čo predstavuje 1,321€/ m2.**{: style="color: red;" }
+- **Pán Vladimír Chovanec ponúkol ostatným spoluvlastníkom spoločnej nehnuteľnosti prostredníctvom výboru svoj podiel vo výške 15 139,871 m2 (1,18 %) zo spoločnej nehnuteľnosti za sumu 20 000 €, čo predstavuje 1,321€/ m2.**{: style="color: red;" }
 
 <!-- Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo, Adresa: Obchodná 25/15, 082 52 Dulova Ves -->
 
