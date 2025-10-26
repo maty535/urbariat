@@ -4,7 +4,7 @@ title: "15. Ponuka na predaj podielu Chovanec"
 date: 2025-10-25
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
-tags: 2025 zhromaždenie
+tags: 2025 zhromaždenie predaj podielnici
 published: true
 ---
 - **Pán Vladimír Chovanec ponúkol ostatným spoluvlastníkom spoločnej nehnuteľnosti prostredníctvom výboru svoj podiel vo výške 15 139,871 m2 (1,18 %) zo spoločnej nehnuteľnosti za sumu 20 000 €, čo predstavuje 1,321€/ m2.**{: style="color: red;" }
