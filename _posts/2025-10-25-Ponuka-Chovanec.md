@@ -16,15 +16,14 @@ published: true
 **VladimirChovanec -- Podiely na parcelach**
 
 
-| Podielnik  | Podielnik  | Podielnik  | Podielnik  | Dátum narodenia  |
-| --- | --- | --- | --- | --- |
-| Chovanec Vladimír,rod. Chovanec  | Chovanec Vladimír,rod. Chovanec  | Chovanec Vladimír,rod. Chovanec  | Chovanec Vladimír,rod. Chovanec  | 22.04.1947  |
-| č.93,082 52 Dulová Ves, SR  | č.93,082 52 Dulová Ves, SR  | 0944 993 138  | 0944 993 138  | 0944 993 138  |
-| Evidovaný od - do  | Bankové spojenie  | Bankové spojenie  | e-mail  | e-mail  |
-| 01.05.2013 - |  |  |  |  |
-| Poznámka | Poznámka | Poznámka | Poznámka | Poznámka |
-| Predlozil ponuku na odpredaj za 20 000 EUR, t.z.<br>1.321 EUR /m2, co je nizsia ponuka ako ponuka Lelakovej dcery, ktoru riesil Jarkovsky  | Predlozil ponuku na odpredaj za 20 000 EUR, t.z.<br>1.321 EUR /m2, co je nizsia ponuka ako ponuka Lelakovej dcery, ktoru riesil Jarkovsky  | Predlozil ponuku na odpredaj za 20 000 EUR, t.z.<br>1.321 EUR /m2, co je nizsia ponuka ako ponuka Lelakovej dcery, ktoru riesil Jarkovsky  | Predlozil ponuku na odpredaj za 20 000 EUR, t.z.<br>1.321 EUR /m2, co je nizsia ponuka ako ponuka Lelakovej dcery, ktoru riesil Jarkovsky  | Predlozil ponuku na odpredaj za 20 000 EUR, t.z.<br>1.321 EUR /m2, co je nizsia ponuka ako ponuka Lelakovej dcery, ktoru riesil Jarkovsky  |
-
+| Podielnik  | 
+| --- | 
+| Chovanec Vladimír,rod. Chovanec  | 
+| č.93,082 52 Dulová Ves, SR  | 
+| Evidovaný od - do  | 
+| 01.05.2013 - |  
+| Poznámka | 
+| Predlozil ponuku na odpredaj za 20 000 EUR, t.z.<br>1.321 EUR /m2, co je nizsia ponuka ako ponuka Lelakovej dcery, ktoru riesil Jarkovsky  | 
 
 **Spoluvlastnícke podiely**
 
