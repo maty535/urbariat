@@ -96,4 +96,4 @@ Celková strata: **17 646,50 €**{: style="color: red;" }, z čoho bolo v roku
 
 - Uznesenie c. 2025/17.1 Valné zhromaždenie berie na vedomie aktuálny stav súdnych sporov
 - Uznesenie c. 2025/17.1.1 Valné zhromaždenie súhlasí, že všetky náklady na tento spor budu znášať nerozdielne všetci podielnici prostredníctvom spoločenstva.
-- Uznesenie c. 2025/17.1.2 Valné zhromaždenie súhlasí, aby prostredníctvo výžboru kúpili podiel p. Jarkovského zo svojho zisku z nasl. ťažby , resp. zo zisku za rok 2025 (2024).
+- Uznesenie c. 2025/17.1.2 Valné zhromaždenie súhlasí, aby prostredníctvo výboru kúpili podiel p. Jarkovského zo svojho zisku z nasl. ťažby , resp. zo zisku za rok 2025 (2024).
