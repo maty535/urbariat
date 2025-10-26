@@ -14,6 +14,4 @@ author: Ing. Matúš Ivanecký
 - Obec pripravuje zámer dokoncenia ulice K ihrisku.  Starosta poveril projektanta spracovanim projektovej dokumentácie. Zatial pre obec pripravil pracovnu verziu situácie stavby. Podla technickych noriem ulica musi byt ukoncená obratiskom. Obratisko navrhol az za rodinnymi domami na pozemkoch Urbariátu. 
 - Obec preto posiela urbaru navrh situacie a ziada o predbezne vyjadrenie, ci s danym technickym riesením umiestenia obratiska budete suhlasit.
 
-[Projektova dokumentácia](https://drive.google.com/file/d/1HtxSQF--jo5vx1Kakjkulav2DrHkolLU/view?usp=drive_link)
-
 - **Výbor urbariátu predloží vec na prerokovanie Valnému zhromaždeniu**, na ktorom sa vec prediskutuje a na základe toho pošle obci nejaké výjadrenie k predmetnému riešeniu.
