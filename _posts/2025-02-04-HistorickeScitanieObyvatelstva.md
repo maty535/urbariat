@@ -45,37 +45,36 @@ published: true
 
 
 
-## Československá republika.Sčítanie ľudu 1930.    
+## Československá republika - Sčítanie ľudu 1930.    
 
-Politický okres Prešov
-Číslo sčítacieho obvodu 85
-Obec GULVAS-326 
-Meno sčítacieho komisára Imrich Banhegyi
+ - Politický okres: Prešov
+ - Číslo sčítacieho obvodu: 85
+ - Obec: GULVAS-326 
+ - Meno sčítacieho komisára: Imrich Banhegyi
 
-| Poradové číslo osád | Meno osady     | Popisné číslo domu | Dom je  |           | Meno majiteľa domu   | Počet bytových strán | Počet prítomných osôb | Poznámka     |
+| Poradové číslo osád | Meno osady     | Popisné číslo domu | Dom je  obývaný|     neobývaný      | Meno majiteľa domu   | Počet bytových strán | Počet prítomných osôb | Poznámka     |
 |-------------------|----------------|--------------------|---------|-----------|----------------------|----------------------|-----------------------|--------------|
-|                   |                |                    | obyvany | neobyvany |                      |                      |                       |              |
 | 1                 | Pracháren      | 1                  |         | 1         | Ján Gajdoš           | 1                    | 1                     |              |
-| 2                 | culyn Boltočky | 2                  | 1       |           | Ján Gajdoš           | 1                    | 6                     |               |
+| 2                 | Mlyn Boltocký  | 2                  | 1       |           | Ján Gajdoš           | 1                    | 6                     |               |
 | 3                 | Gulvas ves     | 3                  | 1       |           | Ján Švihura          | 1                    | 6                     |              |
-|                   |                | 4                  | 1       |           | vd. Anna Krajňaková | 1                    | 4                     |               |
+|                   |                | 4                  | 1       |           | vd. Anna Krajňaková  | 1                    | 4                     |               |
 |                   |                | 5                  | 1       |           | Jozef Ivanecký       | 1                    | 6                     |              |
 |                   |                | 6                  | 1       |           | Jozef Komár          | 1                    | 4                     |              |
-|                   |                | 7                  | 1       |           | Herman Princeenthal  | 1                    | 6                     | 16           |
+|                   |                | 7                  | 1       |           | Herman Princeenthal  | 1                    | 6                     |              |
 |                   |                | 8                  | 1       |           | Jozef Komár          | 1                    | 9                     |              |
-|                   |                | 9                  | 1       |           | Ondrej Cvelihár       | 1                    | 5                     |              |
-|                   |                | 10                 | 1       |           | Ondrej Bidovský       | 1                    | 1                     |              |
+|                   |                | 9                  | 1       |           | Ondrej Cvelihár      | 1                    | 5                     |              |
+|                   |                | 10                 | 1       |           | Ondrej Bidovský      | 1                    | 1                     |              |
 |                   |                | 11                 | 1       |           | Vincent Ivanecký     | 1                    | 5                     |              |
 |                   |                | 12                 | 1       |           | Ján Pribula          | 1                    | 6                     |              |
 |                   |                | 13                 | 1       |           | vd. Anna Komárová    | 1                    | 2                     |              |
-|                   |                | 14                 | 1       |           | Jozef uhrin         | 1                    | 5                     |              |
+|                   |                | 14                 | 1       |           | Jozef uhrin          | 1                    | 5                     |              |
 |                   |                | 15                 |         | 1         | Vincent Komár        | 1                    | 6                     |              |
-|                   |                | 16                 | 1       |           | Juraj Potočnák        | 1                    | 6                     |              |
-|                   |                | 17                 | 1       |           | Juraj Kundra       | 1                    | 6                     |              |
-| 1                       | 140        | 18                       | 1       |           | Emichal Kundra                                  | 1                          | 7                           |          |
-|                         |            | 19                       | 1       |           | Štefan Hajduk                                   | 1                          | 5                           |          |
+|                   |                | 16                 | 1       |           | Juraj Potočnák       | 1                    | 6                     |              |
+|                   |                | 17                 | 1       |           | Juraj Kundra         | 1                    | 6                     |              |
+|                   |                | 18                       | 1       |           | Emichal Kundra                                  | 1                          | 7                   |          |
+|                   |                | 19                       | 1       |           | Štefan Hajduk                                   | 1                          | 5                           |          |
+|                   |            | 21                       | 1       |           | Ján Chován                                    | 1                          | 6                           |          |
 |                         |            | 20                       | 1       |           | vd. Mania Pribula po Jánovi                     | 1                          | 1                           |          |
-|                         |            | 21                       | 1       |           | Ján Chován                                    | 1                          | 6                           |          |
 |                         |            | 22                       | 1       |           | Štefan Bidovský                                 | 1                          | 4                           |          |
 |                         |            | 23                       | 1       |           | vd. Jána Bidovského                           | 1                          | 4                           |          |
 |                         |            | 24                       | 1       |           | Jozef Bidovský                                  | 1                          | 3                           |          |
@@ -97,8 +96,7 @@ Meno sčítacieho komisára Imrich Banhegyi
 |                         |            | 40                       | 1       |           | Vincent Petrovčík                                | 1                          | 3                           |          |
 |                         |            | 41                       | 1       |           | michal Komár                                   | 1                          | 9                           |          |
 |                         |            | 42                       | 1       |           | Jozef Toďor                                     | 1                          | 5                           |          |
-| 1                       |            |                          | 39      | 3         |                         | 40                         | 175                         |          |
-|                         | 140        | 43                       | 1       |           | vd. Maria Fecková     | 1                          | 6                           |          |
+|                         |            | 43                       | 1       |           | vd. Maria Fecková     | 1                          | 6                           |          |
 |                         |            | 44                       | 1       |           | za Maria Petrovčíková | 1                          | 3                           |          |
 |                         |            | 45                       | 1       |           | Ondrej Ander          | 1                          | 5                           |          |
 |                         |            | 46                       |         | 1         | Jura Šimučák         | 1                          | 1                           |          |
@@ -123,22 +121,23 @@ Meno sčítacieho komisára Imrich Banhegyi
 |                         |            | 65                       | 1       |           | Michal Komár         | 1                          | 7                           |          |
 |                         |            | 66                       | 1       |           | Michal Petrovčík     | 1                          | 8                           |          |
 |                         |            | 67                       | 1       |           | Ján Olejár           | 1                          | 5                           |          |
-| 1                       | 110                    | 68                       | 1       |           | vd. Anna Cmár Lešková | 1                          | 3                           |          |
-|                         |                        | 69                       | 1       |           | Jozef Javurecký             | 1                          | 5                           |          |
-|                         |                        | 70                       | 1       |           | Ján Repko                   | 1                          | 6                           |          |
-|                         |                        | 71                       | 1       |           | Ján Kuneč                   | 1                          | 6                           |          |
-|                         |                        | 72                       | 1       |           | vd. Barbora Sedláková   | 1                          | 9                           |          |
-|                         |                        | 73                       | 1       | 1         | Jozef a Ján Sedlák      | 1                          | -                           |          |
-|                         |                        | 74                       | 1       |           | Československý stát      | 1                          | 3                           |          |
-|                         |                        | 75                       | 1       |           | Juliana Minarčíková       | 1                          | 2                           |          |
-|                         |                        | 76                       | 1       |           | Michal Komár             | 1                          | 5                           |          |
-|                         |                        | 77                       | 1       |           | vd Mária Komárová       | 1                          | 2                           |          |
-|                         |                        | 78                       | 1       |           | Jozef Sokol                 | 1                          | 5                           |          |
-|                         |                        | 79                       | 1       |           | Ján Furčák                   | 1                          | 9                           |          |
-|                         |                        | 80                       | 1       | 1         | Rimskokatolícka cirkev  | 1                          | -                           |          |
-|                         |                        | 81                       | 1       |           | Ján Potočňák                  | 1                          | 3                           |          |
-|                         |                        | 82                       | 1       |           | st. Štefan Potočňák          | 1                          | 8                           |          |
-|                         |                        | 83                       | 1       |           | Obec Guľvas                  | 1                          | 4                           |          |
-|                         |                        | 84                       | 1       | 1         | ml. Ondrej Dzurko           | 1                          | -                           |          |
-| 4.                      | ľekeš cig. osadla      | 85                       | 1       |           | st. Ondrej Dzurko           | 1                          | 5                           |          |
+|                         |            | 68                       | 1       |           | vd. Anna Cmár Lešková | 1                          | 3                           |          |
+|                         |                        | 69                       | 1       |           | Jozef Javurecký             | 1                          | 5                         |          |
+|                         |                        | 70                       | 1       |           | Ján Repko                   | 1                          | 6                         |          |
+|                         |                        | 71                       | 1       |           | Ján Kuneč                   | 1                          | 6                         |          |
+|                         |                        | 72                       | 1       |           | vd. Barbora Sedláková   | 1                          | 9                         |          |
+|                         |                        | 73                       | 1       | 1         | Jozef a Ján Sedlák      | 1                          | -                         |          |
+|                         |                        | 74                       | 1       |           | Československý stát      | 1                          | 3                         |          |
+|                         |                        | 75                       | 1       |           | Juliana Minarčíková       | 1                          | 2                         |          |
+|                         |                        | 76                       | 1       |           | Michal Komár             | 1                          | 5                         |          |
+|                         |                        | 77                       | 1       |           | vd Mária Komárová       | 1                          | 2                         |          |
+|                         |                        | 78                       | 1       |           | Jozef Sokol                 | 1                          | 5                         |          |
+|                         |                        | 79                       | 1       |           | Ján Furčák                   | 1                          | 9                         |          |
+|                         |                        | 80                       | 1       | 1         | Rimskokatolícka cirkev  | 1                          | -                         |          |
+|                         |                        | 81                       | 1       |           | Ján Potočňák                  | 1                          | 3                         |          |
+|                         |                        | 82                       | 1       |           | st. Štefan Potočňák          | 1                          | 8                         |          |
+|                         |                        | 83                       | 1       |           | Obec Guľvas                  | 1                          | 4                         |          |
+|                         |                        | 84                       | 1       | 1         | ml. Ondrej Dzurko           | 1                          | -                         |          |
+| 4.                      | ľekeš cig. osadla      | 85                       | 1       |           | st. Ondrej Dzurko           | 1                          | 5                         |          |
+|                         |                        | 86                       | 1       |           | Ondrej Dzurko               | 2                          | 9                         |          |rej Dzurko           | 1                          | 5                           |          |
 |                         |                        | 86                       | 1       |           | Ondrej Dzurko               | 2                          | 9                           |          |
