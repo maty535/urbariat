@@ -49,7 +49,7 @@ nad   rámec právneho základu v rozsahu:
 - email
 - telefónne číslo
 
-Súhlas sa udeľuje pre účely: poukázanie podielov na zisku / nájmu na účet, poukázanie podielov na zisku /
+**Súhlas sa udeľuje pre účely:** poukázanie podielov na zisku / nájmu na účet, poukázanie podielov na zisku /
 nájmu na adresu, zasielanie pozvánok a informácií emailom, ochrana osôb a majetku prevadzkovateľa.
 Predmetné osobné údaje budú uchované a spracovávané prevádzkovateľom po dobu, počas ktorej je
 spoluvlastníkom nehnuteľnsti obhospodarovanej pozemkovým spoločenstvom až do ukončenia zákonného
