@@ -9,6 +9,7 @@ published: true
 ---
 
 - [verzia pre tlač](/assets/2025-11-05-DoplnenieUdajov.pdf)
+- [vzor pre vyplnenie](/assets/2025-11-05-DoplnenieUdajov-vzor.pdf)
 
 ## Návratka
 
