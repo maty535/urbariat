@@ -17,7 +17,7 @@ Odsúhlasenie a doplnenie osobných údajov členov
 **Meno, priezvisko, rodne priezvisko, datum narodenia:**  ............................................... , 
 
 
-nová adresa:  ..........................................
+**nová adresa:**  ..........................................
 
 **číslo účtu v tvare IBAN:**  ..........................................
 
@@ -32,11 +32,11 @@ nová adresa:  ..........................................
 Súhlas so spracúvaním osobných údajov udelený v súlade so zákonom
  č. 18/2018 Z. z. Zákon o ochrane osobných údajov
 
-Dotknutá osoba: 
+**Dotknutá osoba:** 
 
-Adresa:  
+**Adresa:**  
 
-Prevádzkovateľ: Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
+**Prevádzkovateľ:** Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 
 **Adresa:**  Obchodná 25/15, 082 52 Dulova Ves
 **IČO:**     42379831
