@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Súhlas so spracovaním osobných udajov a oznámenie čísla účtu"
-date: 2025-09-25
+date: 2025-11-05
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
 tags: 2025 zhromaždenie podielnici právo
