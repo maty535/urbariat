@@ -8,6 +8,8 @@ tags: 2025 zhromaždenie podielnici právo
 published: true
 ---
 
+- [verzia pre tlač](/assets/2025-11-05-DoplnenieUdajov.pdf)
+
 ## Návratka
 
 Po vyplnení zaslať na adresu spoločenstva, prípadne odovzdať na Zhromaždení vlastníkov
