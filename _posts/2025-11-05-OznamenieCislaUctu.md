@@ -32,9 +32,9 @@ nová adresa:  ..........................................
 Súhlas so spracúvaním osobných údajov udelený v súlade so zákonom
  č. 18/2018 Z. z. Zákon o ochrane osobných údajov
 
-Dotknutá osoba: Komárová Mária, rod. Sekeľová, nar.: 06.05.1930,
+Dotknutá osoba: 
 
-Adresa:  č. 15, 082 52 Dulová Ves, SR
+Adresa:  
 
 Prevádzkovateľ: Spoločenstvo urbariát Dulova Ves pozemkové spoločenstvo
 
