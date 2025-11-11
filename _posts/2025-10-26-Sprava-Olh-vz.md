@@ -20,7 +20,9 @@ Vážení podielnici pozemkového spoločenstva dovoľte mi, aby som vás v kr�
 
 - Balík peňazí, ktorý vám tu nechali vaši predchodcovia sa pomaly, ale isto míňa. Je dosť možné, že v budúcnosti si na valnú hromadu neprídete pre dividendy, ale prinesiete príspevok na pestovnú činnosť. Pri aktuálnej vekovej štruktúre porastov, potrebuje spoločenstvo na pestovnú činnosť ročne okolo 5000€. Je na zamyslenie, či pôjdete do prvej alternatívy s ťažbami na maximum, alebo do tej druhej šetrnejšej, aby bolo na výchovu lesa a celkovú réžiu, ale aj na nejaké podiely zo zisku.
 
-**Odborny  lesný  hospodár (Rudolf Najsarek)**
+S pozdravom
+**Odborný  lesný  hospodár (Rudolf Najsarek)**
+
 **a výbor Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo**
 
 
@@ -38,5 +40,6 @@ Obnovné  a  vychovné  tažby  podľa  vývoja  cien  na  trhu  s  drevnou  hmo
 
 S pozdravom
 **Odborny  lesný  hospodár (Rudolf Najsarek)**
+
 **a výbor Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo**
 
