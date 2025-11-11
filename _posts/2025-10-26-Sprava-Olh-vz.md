@@ -2,7 +2,7 @@
 layout: post
 title: "VZ-25/08. Správa OLH o stave lesa a plán činnosti"
 date: 2025-10-26
-author: Ing. Matúš Ivanecký
+author: Rudolf Najsarek (OLH)
 categories: valne zhromazdenie
 tags: 2025 zhromaždenie les hospodarenie
 published: true
@@ -35,6 +35,6 @@ Spoločnosť urbariát,PS. Dulová Ves Odborný lesný hospodár
 Obnovné  a  vychovné  tažby  podľa  vývoja  cien  na  trhu  s  drevnou  hmotou a  možností  PS.
 
 S pozdravom
-**Odborny  lesný  hospodár (Rudolf Najsárek)**
+**Odborny  lesný  hospodár (Rudolf Najsarek)**
 **a výbor Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo**
 
