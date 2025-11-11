@@ -23,7 +23,6 @@ Vážení podielnici pozemkového spoločenstva dovoľte mi, aby som vás v kr�
 S pozdravom
 
 **Odborný  lesný  hospodár (Rudolf Najsarek)**
-
 **a výbor Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo**
 
 
@@ -42,6 +41,5 @@ Obnovné  a  vychovné  tažby  podľa  vývoja  cien  na  trhu  s  drevnou  hmo
 S pozdravom
 
 **Odborny  lesný  hospodár (Rudolf Najsarek)**
-
 **a výbor Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo**
 
