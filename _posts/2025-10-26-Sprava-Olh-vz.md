@@ -8,7 +8,7 @@ tags: 2025 zhromaždenie les hospodarenie
 published: true
 ---
 
-## 08.Správa o aktuálnom stave lesa pozemkového spoločenstva
+## Správa o aktuálnom stave lesa pozemkového spoločenstva
 
 Vážení podielnici pozemkového spoločenstva dovoľte mi, aby som vás v krátkosti poinformoval o aktuálnom stave lesa.
 
