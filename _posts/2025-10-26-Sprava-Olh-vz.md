@@ -23,7 +23,7 @@ Balík peňazí, ktorý vám tu nechali vaši predchodcovia sa pomaly, ale isto 
 Spoločnosť urbariát,PS. Dulová Ves Odborný lesný hospodár
 
 
-## Plan  prace  Spol.  urb.  Dulova  ves  PS  na  rok  2025
+## Plán  práce spoločenstva v lesných činnostiach na rok 2025/26
 
 |Dielec|Plánovaná činnosť|
 |:---:|:--- |
