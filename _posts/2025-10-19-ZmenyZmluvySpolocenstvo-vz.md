@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11. Návrh zmien zmluvy o pozemkovom spoločenstve"
+title: "VZ-25/11. Návrh zmien zmluvy o pozemkovom spoločenstve"
 date: 2025-10-25
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
