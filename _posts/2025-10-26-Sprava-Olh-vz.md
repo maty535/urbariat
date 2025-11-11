@@ -32,9 +32,9 @@ S pozdravom
 
 |Dielec|Plánovaná činnosť|
 |:---:|:--- |
-|4329|1. **uvoľnenie** dubového  zmladenia  zhruba  na  výmere  **3 ha** |
-|4329|2. **prečistka** za  účelom  uvolnenia  duba  na  miestach  kde  je clonený  na  výmere  **1.5  ha** |
-|4330|3. **prečistka** za  účelom  uvolnenia  duba  zhruba  **5  ha**|
+|4329|**uvoľnenie** dubového  zmladenia  zhruba  na  výmere  **3 ha** |
+|4329|**prečistka** za  účelom  uvolnenia  duba  na  miestach  kde  je clonený  na  výmere  **1.5  ha** |
+|4330|**prečistka** za  účelom  uvolnenia  duba  zhruba  **5  ha**|
 |6315|**ochrana  proti  burine**  a  vysek  nežiaducich  drevin  na  vymere  **2.5 ha** |
 
 Obnovné  a  vychovné  tažby  podľa  vývoja  cien  na  trhu  s  drevnou  hmotou a  možností  PS.
