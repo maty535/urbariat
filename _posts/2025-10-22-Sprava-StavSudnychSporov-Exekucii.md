@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VZ-2025/17.Oboznámenie podielnikov o stave súdnych sporov a exekúciách"
+title: "VZ-25/17.Oboznámenie podielnikov o stave súdnych sporov a exekúciách"
 date: 2025-10-25
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
