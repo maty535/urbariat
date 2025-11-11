@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "17.Oboznámenie podielnikov o stave súdnych sporov a exekúciách"
+title: "VZ-2025/17.Oboznámenie podielnikov o stave súdnych sporov a exekúciách"
 date: 2025-10-25
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
@@ -13,7 +13,7 @@ proces_uri_prefix: "https://otvorenesudy.sk/proceedings/"
 proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 ---
 
-# 17. Oboznámenie podielnikov o stave súdnych sporov a exekúciách
+# Oboznámenie podielnikov o stave súdnych sporov a exekúciách
 
 Urbariát viedol **3 súdne spory** (1 z nich inicioval) a bol  účastníkom **2 trestných konaní** (1 z nich inicioval) s p. Petrom Jarkovským. Jedno **TO (trestné oznámenie)** inicioval sám urbár (VEC: ukladanie odpadu na urbarske pozemky), druhé inicioval p. Peter Jarkovský (VEC: spilenie 6 stromov), obe TK boli zastavené OČTK.
 
