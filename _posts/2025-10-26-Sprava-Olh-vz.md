@@ -34,6 +34,7 @@ Spoločnosť urbariát,PS. Dulová Ves Odborný lesný hospodár
 
 Obnovné  a  vychovné  tažby  podľa  vývoja  cien  na  trhu  s  drevnou  hmotou a  možností  PS.
 
-Spol.nurb.  Dulova  Ves  PS:
+S pozdravom
+**Odborny  lesný  hospodár (Rudolf Najsárek)**
+**a výbor Spoločenstva urbariát Dulova Ves pozemkové spoločenstvo**
 
-Odborny  lesny  hospodar
