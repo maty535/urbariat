@@ -21,6 +21,7 @@ published: true
 ```
 
 kde : 
+- **20 139 €** - dosiahnutý účtovný zisk za rok 2024
 - **1 286 889 m2** - celkova vymera urbaru
 - **0.9 => 90 %** z celeho zisku určená na vyplatenie podielnikom podľa podľa platných [zásad rozdelenia zisku](https://urbar.dulovaves.sk/docs/2016-06-04-ZasadyRozdeleniaZisku.html), ktoré schválilo VZ
 - ```<virtuálna (ideálna) výmera podielnika zo spoločnej nehnuteľnosti> m2``` je virtuálna (ideálna) vymera zo spolocnej nehnutelnosti, ktorú mal podielnik uvedenú na pozvánke na VZ a ktorú si podielnik vypočíta ako sumu výmer svoj podielov na jednotlivých parcelách spoločnej nehnuteľnosti.
