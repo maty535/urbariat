@@ -14,8 +14,9 @@ published: true
 
 [(20 139 € * 0.9) /1 286 889 m2] * <výmera zo spoločnej nehnuteľnosti podielnika> m2 = 0,017388187 €/m2 *  <výmera zo spoločnej nehnuteľnosti podielnika> m2 = <podiel na zisk pre podielnika> €
 
-kde : 1 286 889 m2 - celkova vymera urbaru
-0.9 => 90% z celeho zisku na vyplatenie podielnikom , ktore schvalila VZ
-<výmera zo spoločnej nehnuteľnosti> m2 je virtuálna (ideálna) vymera zo spolocnej nehnutelnosti, ktorú mal podielnik uvedenú na pozvánke na VZ
+kde : 
+- 1 286 889 m2 - celkova vymera urbaru
+- 0.9 => 90% z celeho zisku na vyplatenie podielnikom , ktore schvalila VZ
+- <výmera zo spoločnej nehnuteľnosti> m2 je virtuálna (ideálna) vymera zo spolocnej nehnutelnosti, ktorú mal podielnik uvedenú na pozvánke na VZ
 
 
