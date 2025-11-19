@@ -9,7 +9,7 @@ published: true
 ---
 ## Aký podiel na zisku za rok 2024 mi bude vyplatený ? 
 - Na základe schválenia účtovnej uzávierky za rok 2024 valným zhromaždením podielnikov  a nárvhu výboru na rozdelenie zisku, kde v tomto roku navrhol výbor vyplatiť celý dosiahnutý zisk, t.z. celú sumu **20 139€**
-- Bez toho, aby sa valného zhromaždenia zúčastnili podielnici , ktorí disponujú vačšinou z výmery celého urbariátu by nemohla byť schválená účtovná uzávierka, ani návrh výboru na rozdelenie zisku podielnikov, t.z. pri neúčasťi podielnikov disponujúcich viac ako 50 % výmery urbariátu, nemože dojsť ani k výplate akéhoľvek dosiahnutého zisku.
+- Bez toho, aby sa valného zhromaždenia zúčastnili podielnici , ktorí disponujú vačšinou z výmery celého urbariátu by nemohla byť schválená účtovná uzávierka, ani návrh výboru na rozdelenie zisku podielnikov, t.z. pri neúčasťi podielnikov disponujúcich viac ako 50 % výmery urbariátu (alebo ich splnomocnených zástupcov), nemože dojsť ani k výplate akéhoľvek dosiahnutého zisku. Ten môže byť rozdelený a vyplatený až po valnom zhromaždení , ktoré má dostatočnú účasť podielnikov, resp. ich splnomocnených zástupcov.
 - <img width="561" height="455" alt="image" src="https://github.com/user-attachments/assets/07880b78-2648-49b3-8f0c-c708ed628385" />,
 - podľa platných [zásad rozdelenia zisku](https://urbar.dulovaves.sk/docs/2016-06-04-ZasadyRozdeleniaZisku.html) prislúcha podielnikovi nasl. suma, podľa tohto vzorca:
 
