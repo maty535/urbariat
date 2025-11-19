@@ -31,9 +31,10 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
 
 ## Katastrálne informácie
-Spoločnstvo má zriadenú jednu spoločnú nehnuteľnosť s celkovou výmerou: **1 286 889 m2**{: style="color: red;" } , ktorá je substrátom parciel uvedených na týchto LV:
 [//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
 [//]: # (https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html) 
+
+Spoločnstvo má zriadenú jednu spoločnú nehnuteľnosť s celkovou výmerou: **1 286 889 m2**{: style="color: red;" } , ktorá je substrátom parciel uvedených na týchto LV:
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
 |----------: | :--------- | :------- | :--------| --------:|
