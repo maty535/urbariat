@@ -16,7 +16,7 @@ published: true
   
 ```
 [(20 139 € * 0.9) /1 286 889 m2] * <výmera zo spoločnej nehnuteľnosti podielnika> m2
-    = 0,017388187 €/m2 * <virtuálna (ideálna) výmera podielnika zo spoločnej nehnuteľnosti > m2
+    = 0,014084432 €/m2 * <virtuálna (ideálna) výmera podielnika zo spoločnej nehnuteľnosti > m2
     = <podiel na zisku pre podielnika> €
 ```
 
