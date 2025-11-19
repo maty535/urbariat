@@ -33,7 +33,7 @@ k prerokovaným bodom programu, toto zasadnutie sa bude považovať za prvú či
 4. Voľba zapisovateľa a overovateľa zápisnice (minimálne 2)
 5. Správa o činnosti spoločenstva Urbariát Dulova Ves pozemkové spoločenstvo
 6. Správa dozornej rady
-7. Schválenie ročnej účtovnej uzávierky za rok 2024
+7. [Schválenie ročnej účtovnej uzávierky za rok 2024](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
 8. [Správa OLH o stave lesa a plán činnosti](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/10/26/Sprava-Olh-vz.html)
 9. Návrh plánu hlavných úloh a finančného plánu na rok 2025/
 10. Zmena adresy Spoločenstva Urbariát Dulova Ves pozemkové spoločenstvo
