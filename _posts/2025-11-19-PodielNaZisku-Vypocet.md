@@ -21,6 +21,6 @@ published: true
 kde : 
 - 1 286 889 m2 - celkova vymera urbaru
 - 0.9 => 90% z celeho zisku na vyplatenie podielnikom , ktore schvalila VZ
-- <<virtuálna (ideálna) výmera podielnika zo spoločnej nehnuteľnosti> m2 je virtuálna (ideálna) vymera zo spolocnej nehnutelnosti, ktorú mal podielnik uvedenú na pozvánke na VZ a ktorú si podielnik vypočíta ako sumu výmer svoj podielov na jednotlivých parcelách spoločnej nehnuteľnosti.
+- ```<virtuálna (ideálna) výmera podielnika zo spoločnej nehnuteľnosti> m2``` je virtuálna (ideálna) vymera zo spolocnej nehnutelnosti, ktorú mal podielnik uvedenú na pozvánke na VZ a ktorú si podielnik vypočíta ako sumu výmer svoj podielov na jednotlivých parcelách spoločnej nehnuteľnosti.
 
 
