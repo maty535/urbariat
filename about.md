@@ -39,6 +39,8 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 - [Judikát ústavného súdu týkajúci sa spoločnej nehnuteľnosti a nakladania s ňnou](https://www.slov-lex.sk/sudne-rozhodnutia/judikaty/774da6a5-9443-4615-86c3-504618587aed)
 - <img width="883" height="285" alt="image" src="https://github.com/user-attachments/assets/c7cd0190-829e-43a3-bff2-8e1a3f052901" />
 - [Judikát najvyššieho súdu týkajúci sa prevodov podielov na spoločnej nehnuteľnosti](https://otvorenesudy.sk/decrees/3905360?)
+- <img width="1215" height="208" alt="image" src="https://github.com/user-attachments/assets/3c7b8e6a-f2d4-465e-a405-11eafb720ba0" />
+
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
 |----------: | :--------- | :------- | :--------| --------:|
