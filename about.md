@@ -3,7 +3,8 @@ layout: page
 title: O nás
 description: Základné právne a registračné informácie o spoločenstve
 permalink: /about/
-kataster_lv_uri_prefix: "/assets/kataster/2024-12-31-lv"
+kataster_lv_uri_prefix_gulvas: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?cadastralUnitCode=813591&outputType=html&prfNumber="
+kataster_lv_uri_prefix_zehna: "https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?cadastralUnitCode=874159&outputType=html&prfNumber="
 ---
 
 
@@ -31,8 +32,6 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
 
 ## Katastrálne informácie
-[//]: # https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=414&cadastralUnitCode=813591&outputType=html
-[//]: # (https://kataster.skgeodesy.sk/Portal45/api/Bo/GeneratePrfPublic?prfNumber=1033&cadastralUnitCode=874159&outputType=html) 
 
 - Spoločenstvo má zriadenú jednu spoločnú nehnuteľnosť s celkovou výmerou: **1 286 889 m2**{: style="color: red;" }, ktorá je substrátom (súhrnom) všetkých parciel uvedených na týchto LV, t.z. pri dedení (delení, resp. prevodoch) ideálných podielov nesmie vzniknúť podiel s nižšou výmerou ako [2000 m2 práve z tejto celkovej výmery spoločnej nehnuteľnosti, nie jej jednotlivých (parciálnych) parciel](https://www.slov-lex.sk/sudne-rozhodnutia/judikaty/774da6a5-9443-4615-86c3-504618587aed):
 - Spoločná nehnuteľnosť nie je deliteľná na parcely, a ak sa prevadza podiel z nej, musí sa prevadzať pre všetky jej jednotlivé parcely a musí byť pri prevode vždy vrámci podielu nemenný pre podiel a parcelu.
@@ -44,16 +43,16 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 
 | Číslo k.ú. | Názov k.ú. | Číslo LV | Poznámka (typ pozemkov)|Výmera [ha]|
 |----------: | :--------- | :------- | :--------| --------:|
-| 813591 | DULOVA VES | {% capture lv_url %}[414]({{ page.kataster_lv_uri_prefix }}-414.html){% endcapture %}  {{ lv_url }} | TPP |	5.9829	|	
-| 813591 | DULOVA VES | [822]({{ page.kataster_lv_uri_prefix }}-822.html) | TPP, orná pôda |19.0824		|	
-| 813591 | DULOVA VES | [1133]({{ page.kataster_lv_uri_prefix }}-1133.html) | Zastavaná plocha a nádvorie|0.0127		|	
-| 813591 | DULOVA VES | [1600]({{ page.kataster_lv_uri_prefix }}-1600.html)| Lesný pozemok, Ostatná plocha, Trvalý trávny porast, Vodná plocha, Zastavaná plocha a nádvorie |43.9012|
-| 874159 | ŽEHŇA | [634]({{ page.kataster_lv_uri_prefix }}-634.html)	    | TPP |	0.0518|
-| 874159 | ŽEHŇA | [1033]({{ page.kataster_lv_uri_prefix }}-1033.html)     | TPP | 24.4756|	
-| 874159 | ŽEHŇA | [1037]({{ page.kataster_lv_uri_prefix }}-1037.html)     | Lesný pozemok |35.1536|
-| 874159 | ŽEHŇA | [1050]({{ page.kataster_lv_uri_prefix }}-1050.html)     | Lesný pozemok |0.0287|
+| 813591 | DULOVA VES | [414]({{ page.kataster_lv_uri_prefix_gulvas }}414)   | TPP |	5.9829	|	
+| 813591 | DULOVA VES | [822]({{ page.kataster_lv_uri_prefix_gulvas }}822)   | TPP, orná pôda |19.0824		|	
+| 813591 | DULOVA VES | [1133]({{ page.kataster_lv_uri_prefix_gulvas }}1133) | Zastavaná plocha a nádvorie|0.0127		|	
+| 813591 | DULOVA VES | [1600]({{ page.kataster_lv_uri_prefix_gulvas }}1600) | Lesný pozemok, Ostatná plocha, Trvalý trávny porast, Vodná plocha, Zastavaná plocha a nádvorie |43.9012|
+| 874159 | ŽEHŇA | [634]({{ page.kataster_lv_uri_prefix_zehna }}634)	       | TPP |	0.0518|
+| 874159 | ŽEHŇA | [1033]({{ page.kataster_lv_uri_prefix_zehna }}1033l)      | TPP | 24.4756|	
+| 874159 | ŽEHŇA | [1037]({{ page.kataster_lv_uri_prefix_zehna }}1037)       | Lesný pozemok |35.1536|
+| 874159 | ŽEHŇA | [1050]({{ page.kataster_lv_uri_prefix_zehna }}1050)       | Lesný pozemok |0.0287|
 |===
-| Spolu:   {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  | 128.6889  {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
+| Spolu:   {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  | 128.6889 ha {: style=";background-color: #08A04B; color: white;font-weight: bold;" }  :||||
 
 ![Typ spoločných pozemkov](https://github.com/user-attachments/assets/a14b834c-ce20-4120-9a46-1a3f0e7e6fdf)
 
