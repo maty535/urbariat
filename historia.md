@@ -15,7 +15,10 @@ permalink: /historia/
 Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente, § 60b odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3)
   
 ## 2014
+
 Zmena právnej subjektivity ( na právnickú osobu) podľa zákona [97/2013 z.z. o pozemkových spoločenstvách](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/) a pridelenie IČO.
+
+- [Zmluva o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](https://urbar.dulovaves.sk/docs/2014-01-14-ZZ-anon.pdf)
 
 ## 1995
 	
@@ -25,6 +28,8 @@ Bola prijatá zákonna úprava vzťahov pozemkových spoločenstiev [181/1995 z.
 
 Obnovenie pozemkového spoločenstva ako občianskeho združenia vlastníkov spoločných nehnuteľností. Fungovanie sa pohybuje vrámci zákona: [293/1992 z.z. 
 O úprave niektorých vlastníckych vzťahov k nehnuteľnostiam](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/293/)
+
+- [Stanovy občianskeho združenia vlastníkov spoločných nehnuteľností[(https://urbar.dulovaves.sk/docs/1992-09-20-ZZ.pdf)
     
 
 ## 1948
