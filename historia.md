@@ -29,7 +29,7 @@ Bola prijatá zákonna úprava vzťahov pozemkových spoločenstiev [181/1995 z.
 Obnovenie pozemkového spoločenstva ako občianskeho združenia vlastníkov spoločných nehnuteľností. Fungovanie sa pohybuje vrámci zákona: [293/1992 z.z. 
 O úprave niektorých vlastníckych vzťahov k nehnuteľnostiam](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/1992/293/)
 
-- [Stanovy občianskeho združenia vlastníkov spoločných nehnuteľností[(https://urbar.dulovaves.sk/docs/1992-09-20-ZZ.pdf)
+- [Stanovy občianskeho združenia vlastníkov spoločných nehnuteľností](https://urbar.dulovaves.sk/docs/1992-09-20-ZZ.pdf)
     
 
 ## 1948
