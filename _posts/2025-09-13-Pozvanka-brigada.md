@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Pozvánka na brigádu"
+title: "Pozvánka na brigádu - výbor spoločenstva"
 date: 2025-09-05
 categories: oznamy brigada 
 tags: podielnici les pozemky 2025 brígáda
 author: Výbor urbariátu
 ---
 
-Vážení spolu-podielnici, **výkonný výbor Urbariátu Dulová Ves** organizuje brigádu v pestovateľských činnostiach a výrub nežiaducich drevín, na ktorú pozývame všetkých podielnikov. 
+Vážení spolu-podielnici, **výbor urbáru** organizuje brigádu v pestovateľských činnostiach a výrub nežiaducich drevín, na ktorú pozývame všetkých podielnikov. 
 
 Brigáda sa bude konať **13.9.2025** na parcelách,kde prebiehala posledných 10 rokov ťažba drevnej hmoty. Spoločné stretnutie bude o  **8:00 hod.** na futbalovom ihrisku v Dulovej Vsi. 
 
