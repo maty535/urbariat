@@ -7,7 +7,6 @@ tags: právo hospodarenie
 author: Ing. Marta Boráková
 ---
 
-
 V tomto príspevku sa budeme zaoberať viacerými oblasťami súvisiacimi s výkonom poľnohospodárskej výroby a lesného hospodárstva ako je:
 
 - spôsob vykonávania činnosti
