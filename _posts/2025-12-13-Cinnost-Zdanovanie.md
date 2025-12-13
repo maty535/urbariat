@@ -4,7 +4,7 @@ title: "Vykonávanie činnosti v oblasti poľnohospodárskej výroby a lesného 
 date: 2025-12-23
 categories: dane cinnost 
 tags: právo hospodarenie 
-author: *Ing. Marta Boráková
+author: Ing. Marta Boráková
 ---
 
 
