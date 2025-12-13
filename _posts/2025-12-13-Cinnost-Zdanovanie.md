@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vykonávanie činnosti v oblasti poľnohospodárskej výroby a lesného hospodárstva a zdaňovanie príjmov"
-date: 2025-12-23
+date: 2025-12-13
 categories: dane cinnost 
 tags: právo hospodarenie 
 author: Ing. Marta Boráková
