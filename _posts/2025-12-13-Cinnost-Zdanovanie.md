@@ -58,11 +58,11 @@ Poľnohospodárskou výrobou, ktorá je vykonávaná samostatne hospodáriacim r
 
 Samostatne hospodáriaci roľník vykonáva poľnohospodársku výrobu ako podnikateľskú činnosť. Aby bola určitá činnosť podnikaním v zmysle zákona, musí mať nasledovné znaky:
 
- a) sústavnosť,
- b) samostatnosť,
- c) vo vlastnom mene,
- d) na vlastný účet,
- e) cieľom dosiahnutia zisku.
+ * a) sústavnosť,
+ * b) samostatnosť,
+ * c) vo vlastnom mene,
+ * d) na vlastný účet,
+ * e) cieľom dosiahnutia zisku.
 
 Podmienkou je, aby boli všetky uvedené znaky naplnené súčasne.
 
@@ -593,10 +593,10 @@ Elektronickú registračnú pokladnicu (ďalej len "ERP") má teda povinnosť po
 
 Podnikateľom sa podľa Obchodného zákonníka rozumie
 
- a) osoba zapísaná v obchodnom registri,
- b) osoba, ktorá podniká na základe zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov,
- c) osoba, ktorá podniká na základe iného než živnostenského oprávnenia podľa osobitných predpisov,
- d) fyzická osoba, ktorá vykonáva poľnohospodársku výrobu a je zapísaná do evidencie podľa § 12 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov alebo § 10 zákona č. 181/1995 Z. z. o pozemkových spoločenstvách, t.j. samostatne hospodáriaci roľníci vykonávajúci poľnohospodársku výrobu, lesné a vodné hospodárstvo.
+ * a) osoba zapísaná v obchodnom registri,
+ * b) osoba, ktorá podniká na základe zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov,
+ * c) osoba, ktorá podniká na základe iného než živnostenského oprávnenia podľa osobitných predpisov,
+ * d) fyzická osoba, ktorá vykonáva poľnohospodársku výrobu a je zapísaná do evidencie podľa § 12 zákona č. 105/1990 Zb. o súkromnom podnikaní občanov v znení neskorších predpisov alebo § 10 zákona č. 181/1995 Z. z. o pozemkových spoločenstvách, t.j. samostatne hospodáriaci roľníci vykonávajúci poľnohospodársku výrobu, lesné a vodné hospodárstvo.
 
 #### **Príklad**
 
@@ -722,8 +722,8 @@ Fyzické osoby, s ktorými boli uzatvorené dohody, sú považované za zamestna
 
 Na základe uzatvorených dohôd podľa § 223 Zákonníka práce sú zamestnanci povinní
 
-a) vykonávať práce zodpovedne a riadne a dodržiavať podmienky dohodnuté v dohode,
-b) vykonávať práce osobne, prípadne za pomoci rodinných príslušníkov uvedených v dohode.
+* a) vykonávať práce zodpovedne a riadne a dodržiavať podmienky dohodnuté v dohode,
+* b) vykonávať práce osobne, prípadne za pomoci rodinných príslušníkov uvedených v dohode.
 
 Zamestnávateľ je povinný poskytnúť zamestnancom za vykonanú prácu dohodnutú odmenu a dodržiavať ostatné dohodnuté podmienky. Nároky zamestnanca alebo iné plnenia v jeho prospech nemožno dohodnúť pre zamestnanca priaznivejšie, ako sú nároky a plnenia vyplývajúce z pracovného pomeru.
 
@@ -765,8 +765,8 @@ Fyzická alebo právnická osoba, ktorá zamestná občana (zamestnanca), aj ke�
 
 Podľa ustanovenia § 39 ods. 9 zákona o dani z príjmov zamestnávateľ, ktorý je platiteľom dane, je povinný predkladať miestne príslušnému správcovi dane v lehote podľa § 49 zákona o dani z príjmov
 
-- a) prehľad o zrazených a odvedených preddavkoch na daň z príjmov zo závislej činnosti, ktoré zamestnancom vyplatil, a o daňovom bonuse za uplynulý kalendárny štvrťrok,
-- b) hlásenie o vyúčtovaní dane z príjmov zo závislej činnosti znížených o sumy podľa § 5 ods. 8 a o daňovom bonuse, poskytnutých jednotlivým zamestnancom bez ohľadu na to, či ide o peňažné, alebo nepeňažné plnenie za uplynulé zdaňovacie obdobie, a o zrazených a preddavkoch na daň.
+* a) prehľad o zrazených a odvedených preddavkoch na daň z príjmov zo závislej činnosti, ktoré zamestnancom vyplatil, a o daňovom bonuse za uplynulý kalendárny štvrťrok,
+* b) hlásenie o vyúčtovaní dane z príjmov zo závislej činnosti znížených o sumy podľa § 5 ods. 8 a o daňovom bonuse, poskytnutých jednotlivým zamestnancom bez ohľadu na to, či ide o peňažné, alebo nepeňažné plnenie za uplynulé zdaňovacie obdobie, a o zrazených a preddavkoch na daň.
 
 Ustanovenie § 38 ods. 1 zákona o správe daní ustanovuje, že daňové priznanie alebo hlásenie je povinný podať každý, komu vznikla daňová povinnosť podľa osobitného zákona (zákon o dani z príjmov) alebo koho na to správca dane vyzve.
 
@@ -932,8 +932,8 @@ Podľa § 17 ods. 3 písm. h) zákona o dani z príjmov dotácia, podpora a prí
 
 Podľa opatrenia MF SR č. 23 054/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre podnikateľov účtujúcich v sústave podvojného účtovníctva v znení neskorších predpisov sa účtujú na účte 346 – Dotácie zo štátneho rozpočtu a na účte 347 – Ostatné dotácie
 
-a) v prospech týchto účtov príjem dotácií,
-b) na ťarchu týchto účtov priznanie dotácie, nasledovne
+* a) v prospech týchto účtov príjem dotácií,
+* b) na ťarchu týchto účtov priznanie dotácie, nasledovne
   - dotácie na obstaranie dlhodobého majetku a na obstaranie technického zhodnotenia so súvzťažným zápisom v prospech účtu 384 Výnosy budúcich období,
   - dotácie na hospodársku činnosť so súvzťažným zápisom v prospech účtu 648 Ostatné výnosy z hospodárskej činnosti, ak sa dotácia poskytla na úhradu nákladov, a to v časovej a vecnej súvislosti so zaúčtovaním nákladov vynaložených na príslušný účet, na ktorý sa dotácie na hospodársku činnosť poskytli,
   - dotácie na úhradu úrokov so súvzťažným zápisom v prospech účtu 668 Ostatné finančné výnosy, a to v časovej a vecnej súvislosti so zaúčtovaním úrokov do finančných nákladov.
@@ -975,9 +975,9 @@ Chrániť pôdu pomocou vhodných opatrení
 
 # **Štandardy**
 
-a) poľnohospodársku pôdu pri priemernom sklone kultúrneho podielu viac ako 12° nie je vhodné využívať ako ornú pôdu s výnimkou pestovania viacročných krmovín (VRK) a tráv na ornej pôde (pre hospodársky rok 2004/2005 s výnimkou husto osiatych plodín so šírkou medziriadku max. 16 cm),
+* a) poľnohospodársku pôdu pri priemernom sklone kultúrneho podielu viac ako 12° nie je vhodné využívať ako ornú pôdu s výnimkou pestovania viacročných krmovín (VRK) a tráv na ornej pôde (pre hospodársky rok 2004/2005 s výnimkou husto osiatych plodín so šírkou medziriadku max. 16 cm),
 
-b) na orných pôdach pri priemernom sklone kultúrneho dielu 7° až 12° je možné pestovať plodiny na ornej pôde len pri takom spôsobe pestovania, ktoré zamedzí tvorbe ryhovej erózie.
+* b) na orných pôdach pri priemernom sklone kultúrneho dielu 7° až 12° je možné pestovať plodiny na ornej pôde len pri takom spôsobe pestovania, ktoré zamedzí tvorbe ryhovej erózie.
 
 #### **Oblasť**
 
@@ -987,9 +987,9 @@ Zaistiť minimálnu úroveň údržby a zabrániť zhoršeniu stanovíšť
 
 ### **Štandardy**
 
-a) udržiavať všetky plochy trávnych porastov kosením alebo spásaním a mulčovaním,
+* a) udržiavať všetky plochy trávnych porastov kosením alebo spásaním a mulčovaním,
 
-b) udržiavať plochy ornej pôdy nevyužívanej na produkciu plodín kosením alebo mulčovaním.
+* b) udržiavať plochy ornej pôdy nevyužívanej na produkciu plodín kosením alebo mulčovaním.
 
 Ad 2) Doplnkové vyrovnávacie platby sú financované zo
 
@@ -1046,23 +1046,23 @@ V nasledujúcom texte si bližšie priblížime podpory poskytované v súvislos
 
 Biotický škodca je živočíšny činiteľ (najmä hmyz, lesné stavovce a zver), ktorého dôsledkom je poškodenie, resp. zničenie lesa nad rámec únosnosti pri bežnom hospodárení a v prípade výskytu mimoriadnych udalostí v lese. Za biotického škodcu sa pritom považuje:
 
-a) podkôrny a drevokazný hmyz v lesných porastoch,
-b) listožravý hmyz v lesných porastoch,
-c) cicavý hmyz v lesných porastoch,
-d) hmyz v škôlkach, skladoch a výsadbách,
-e) zver,
-f) drobné hlodavce.
+* a) podkôrny a drevokazný hmyz v lesných porastoch,
+* b) listožravý hmyz v lesných porastoch,
+* c) cicavý hmyz v lesných porastoch,
+* d) hmyz v škôlkach, skladoch a výsadbách,
+* e) zver,
+* f) drobné hlodavce.
 
 Podpora sa použije na úhradu oprávnených nákladov. Za oprávnené náklady sa považujú všetky náklady (vrátane sadbového materiálu lesných drevín, aj vlastný sadbový materiál) na realizáciu jednotlivých aktivít schémy, okrem vlastných mzdových nákladov žiadateľa.
 
 Oprávnené náklady zahŕňajú náklady na:
 
-a) ochranu lesných porastov proti biotickým škodcom v lese a na skladoch:
+* a) ochranu lesných porastov proti biotickým škodcom v lese a na skladoch:
   - náklady na obstaranie, inštaláciu a kontrolu lapákov a lapačov,
   - náklady na obstaranie prípravkov proti biotickým škodcom a ich leteckej a pozemnej aplikácie,
   - náklady na obstaranie prípravkov a ich aplikácia proti odhryzu, obhryzu a lúpaniu zverou,
   - náklady na obstaranie prípravkov a ich aplikácia proti drobným hlodavcom.
-b) budovanie a obhospodarovanie génových zdrojov:
+* b) budovanie a obhospodarovanie génových zdrojov:
   - náklady na vyznačenie uznaného zdroja reprodukčného materiálu v teréne podľa § 7 ods. 9 zákona č. 217/2004 Z. z.,
   - náklady na podporu prirodzenej obnovy v uznaných porastoch pre zber semena a jej ochrana vrátane oplotenia,
   - náklady na zber semennej suroviny, rezkov a vrúbľov z vysokých stromov v génových zdrojoch mimoriadnej biologickej a hospodárskej hodnoty [podmienkou zberu je, že sa uskutoční v uznanom zdroji alebo semennom zdroji podľa § 5 ods. 1 písm. b) zákona č. 217/2004 Z.   z., podľa STN 48 1211, v súlade s programom zachovania genofondu lesných drevín, ktorý preverila komisia pre reprodukčný materiál a jeho zdroje zriadená ministerstvom podľa § 29 ods.2 písm. d) zákona č. 217/2004 Z. z.],
@@ -1133,25 +1133,25 @@ Za oprávnené náklady sa považujú náklady spojené s vyhotovením LHP v dig
 
 Podpora sa poskytuje žiadateľovi, ktorým môže byť súkromný vlastník alebo nájomca a správca lesného pozemku a štátna organizácia lesného hospodárstva. Podpora sa použije na úhradu nákladov na
 
-a) zalesňovanie (vrátane podsadieb) meliorizačnými, prípravnými, prípadne inými drevinami, ktoré zodpovedajú podmienkam stanovišťa, zabezpečia zvyšovanie diverzity z hľadiska vekovej, horizontálnej a vertikálnej štruktúry (vrátane nákladov na nákup sadeníc) a sú tolerantnejšie k zmeneným ekologickým podmienkam a k zmenám klímy (zalesaňovanie zahŕňa zvýšený počet sadeníc oproti normovanému počtu sadeníc na 1 ha, nadštandardnej kvality a obaľovanie sadeníc),
-b) mechanické alebo chemické ničenie buriny, krov a výmladkov v zaburinených porastoch alebo holinách vzniknutých následkom pôsobenia antropogénnych škodlivých činiteľov najmä imisií (vrátane materiálu),
-c) opakované vyžínanie,
-d) okopávanie s mulčovaním (vrátane materiálu),
-e) oplocovanie mladých lesných porastov (vrátane materiálu),
-f) výchovu mladých lesných porastov,
-g) ochranné a obranné opatrenia proti hmyzím škodcom (vrátane materiálu),
-h) realizáciu supresívnych opatrení na likvidáciu hmyzích škodcov s využitím ekologicky akceptovateľných metód (vrátane materiálu),
-i) vápnenie,
-j) hnojenie (pri výsadbe, resp. prihnojovanie založených kultúr), aj na asimilačné orgány (aj letecky),
-k) používanie rastových stimulátorov,
-l) aplikácia látok zlepšujúcich sorpčnú schopnosť zemín (napr. aplikácia zeolitu, alginitu a pod., aplikácia drevného popola zo spaľovania lesnej biomasy),
-m) aplikácia mulčovacích plachtičiek s výplňou (vrátane materiálu),
-n) odvoz kalamitného dreva prostredníctvom vrtuľníkov v neprístupných lokalitách, kde sú vykonávané nápravné opatrenia v lesoch postihnutých imisiami,
-o) výrobu a inštaláciu výstražných tabúľ (vrátane materiálu),
-p) výrobu propagačných materiálov o prevencii pred lesnými požiarmi,
-q) organizáciu seminárov a workshopov o prevencii pred lesnými požiarmi,
-r) rozhlasové a televízne relácie zamerané na prevenciu pred lesnými požiarmi, budovanie protipožiarnych pásov v lese,
-s) technicko organizačné opatrenia (monitorovanie, spojovacia technika).
+* a) zalesňovanie (vrátane podsadieb) meliorizačnými, prípravnými, prípadne inými drevinami, ktoré zodpovedajú podmienkam stanovišťa, zabezpečia zvyšovanie diverzity z hľadiska vekovej, horizontálnej a vertikálnej štruktúry (vrátane nákladov na nákup sadeníc) a sú tolerantnejšie k zmeneným ekologickým podmienkam a k zmenám klímy (zalesaňovanie zahŕňa zvýšený počet sadeníc oproti normovanému počtu sadeníc na 1 ha, nadštandardnej kvality a obaľovanie sadeníc),
+* b) mechanické alebo chemické ničenie buriny, krov a výmladkov v zaburinených porastoch alebo holinách vzniknutých následkom pôsobenia antropogénnych škodlivých činiteľov najmä imisií (vrátane materiálu),
+* c) opakované vyžínanie,
+* d) okopávanie s mulčovaním (vrátane materiálu),
+* e) oplocovanie mladých lesných porastov (vrátane materiálu),
+* f) výchovu mladých lesných porastov,
+* g) ochranné a obranné opatrenia proti hmyzím škodcom (vrátane materiálu),
+* h) realizáciu supresívnych opatrení na likvidáciu hmyzích škodcov s využitím ekologicky akceptovateľných metód (vrátane materiálu),
+* i) vápnenie,
+* j) hnojenie (pri výsadbe, resp. prihnojovanie založených kultúr), aj na asimilačné orgány (aj letecky),
+* k) používanie rastových stimulátorov,
+* l) aplikácia látok zlepšujúcich sorpčnú schopnosť zemín (napr. aplikácia zeolitu, alginitu a pod., aplikácia drevného popola zo spaľovania lesnej biomasy),
+* m) aplikácia mulčovacích plachtičiek s výplňou (vrátane materiálu),
+* n) odvoz kalamitného dreva prostredníctvom vrtuľníkov v neprístupných lokalitách, kde sú vykonávané nápravné opatrenia v lesoch postihnutých imisiami,
+* o) výrobu a inštaláciu výstražných tabúľ (vrátane materiálu),
+* p) výrobu propagačných materiálov o prevencii pred lesnými požiarmi,
+* q) organizáciu seminárov a workshopov o prevencii pred lesnými požiarmi,
+* r) rozhlasové a televízne relácie zamerané na prevenciu pred lesnými požiarmi, budovanie protipožiarnych pásov v lese,
+* s) technicko organizačné opatrenia (monitorovanie, spojovacia technika).
 
 Podporu nemožno použiť na nájomné, na zaplatenie dane z pridanej hodnoty v prípade, že konečný prijímateľ pomoci je platiteľ dane z pridanej hodnoty, na bankové poplatky.
 
@@ -1167,9 +1167,9 @@ Združenie je novo vzniknutý právny subjekt, ktorý vznikne na základe zmluvy
 
 Podpora je stanovená na základe splnenia taxatívne určených kritérií pre poskytnutie príspevku:
 
-a) sadzba na 1 ha obhospodarovanej pôdy,
-b) veľkosť celkového združeného lesného majetku lesných pozemkov,
-c) veľkosť výmer jednotlivých združených lesných majetkov lesných pozemkov.
+* a) sadzba na 1 ha obhospodarovanej pôdy,
+* b) veľkosť celkového združeného lesného majetku lesných pozemkov,
+* c) veľkosť výmer jednotlivých združených lesných majetkov lesných pozemkov.
 
 ## **6.7 Podpora na vypracovanie protipožiarnej dokumentácie, projektov, posudkov a expertíz na činnosti verejnoprospešného charakteru pre vlastníkov lesov**
 
