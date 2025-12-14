@@ -38,8 +38,8 @@ ako náhradníci do výboru boli zvolení títo členovia, ktorí sa nezúčastn
 Výbor si priamo po ukončení valného zhromaždenia spomedzi seba zvolil štatutárnych zástupcov, ktorí majú splnomocnenie konať iba so súhlasom výboru a v rozsahu na ktorý ich výbor splnomocní.
 
 ## Štatutárni zástupcovia:
-- Predseda: Peter Semeš ml. [získal 5 hlasov z 5] 
-- Matúš Bidovský - zastupuje predsedu	[získal 4 hlasy z 5]
+- Predseda: Peter Semeš ml.
+- Matúš Bidovský - zastupuje predsedu
 
  
 ## Odborný lesný hospodár [OLH]: 
