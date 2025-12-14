@@ -7,7 +7,7 @@ tags: reality právo pozemky 2025
 author: Ing. Matúš Ivanecký
 ---
 
-| Typ pozemkov | Všeobecná hodnota || Ročná sadzba dane z nehnuteľností ||Ročná sadzba dane  [€/ha] ||
+| Typ pozemkov | Všeobecná hodnota || Ročná sadzba dane <br/> zo vš. hodnoty [%] ||Ročná sadzba<br/> dane  [€/ha] ||
 |              | Dulova Ves | Žehňa |Dulova Ves | Žehňa |Dulova Ves | Žehňa |
 |:-------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | TPP               | 0,0527 €/m2 | 0,0474 €/m2 | 0,6 %         | 0,5 %  | 3,162 €    | 2,37 €   |
