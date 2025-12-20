@@ -24,5 +24,5 @@ published: true
  - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru, ktorý to bude riešiť.
  
 # Podrobnosti týkajúce sa výplaty podielov zo zisku
-* [Zásady rozdelenia ročného zisku spoločenstva](https://urbar.dulovaves.sk/docs/2016-06-04-ZasadyRozdeleniaZisku.html)
+* [Zásady rozdelenia ročného zisku spoločenstva noevlizované 26.10.2025](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html)
 * [Orientačný výpočet podielu zo zisku, ktorý bude vypaltený podielnikovi](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
