@@ -19,7 +19,7 @@ permalink: /docs/
 
 | Dátum        | Dokument          |
 |-------------:|:------------------|
-| 25.09.2025   | [Plná moc pre zastupovanie podielnika](https://urbar.dulovaves.sk/docs/2025-pozvanka-vz.pdf) |
+| 25.09.2025   | [Spnomocnenie pre zastupovanie podielnika](https://urbar.dulovaves.sk/docs/2025-09-25-Splnomocnenie.pdf) |
 | 27.10.2025   | [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/assets/2025-11-05-DoplnenieUdajov.pdf) |
 
 # Zákony
