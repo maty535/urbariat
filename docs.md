@@ -14,6 +14,14 @@ permalink: /docs/
 | 18.5.2019   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2019-05-18-ZZ-Dodatok.pdf)|
 |  7.8.2021   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2021-08-07-ZZ-Dodatok-1.pdf)|
 
+
+# Pre podielnikov
+
+| Dátum        | Dokument          |
+|-------------:|:------------------|
+| 25.09.2025   | [Plná moc pre zastupovanie podielnika](https://urbar.dulovaves.sk/docs/2025-pozvanka-vz.pdf) |
+| 27.10.2025   | [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/assets/2025-11-05-DoplnenieUdajov.pdf) |
+
 # Zákony
 
 | Dátum           | Číslo     | Názov             |
