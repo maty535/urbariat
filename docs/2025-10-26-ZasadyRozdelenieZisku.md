@@ -45,7 +45,7 @@ c) 1% z celkovej čiastky sa rozdeli pre členov dozornej rady spoločenstva.
 
 Dividendy-podiely, ktoré nebudú prevzaté osobne podielnikom, alebo osobou ním splnomocneným do doby troch rokov od výplaty prepadnú v prospech spoločenstva.
 
-Tieto „Zásady" schválilo Zhromaždenie spoločenstva urbariát Dulova Ves, pozemkové spoločenstvo dňa 04.06.2016 uznesením č. /2016 a platí pre rozdelenie zisku spoločenstva pre rok 2015 a následujúce roky.
+Tieto „Zásady" a ich zmeny schválilo Zhromaždenie spoločenstva urbariát Dulova Ves, pozemkové spoločenstvo dňa 04.06.2016 uznesením č. /2016 a 26.10.2025 uznesením č. **B8/2025** a platí pre rozdelenie zisku spoločenstva pre rok 2015 a následujúce roky.
 
 V Dulovej Vsi ***04.06.2016***, 
  - novelizované **26.10.2025**
