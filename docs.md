@@ -13,6 +13,7 @@ permalink: /docs/
 |  4.6.2016   | [Zásady rozdelenia ročného zisku spoločenstva](./2016-06-04-ZasadyRozdeleniaZisku.html) |
 | 18.5.2019   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2019-05-18-ZZ-Dodatok.pdf)|
 |  7.8.2021   | [Dodatok k zmluve o pozemkovom spoločenstve vlastníkov podielov spoločnej nehnuteľnosti](./2021-08-07-ZZ-Dodatok-1.pdf)|
+|  26.10.2025 | [Zásady rozdelenia ročného zisku spoločenstva](./2025-10-26-ZasadyRozdeleniaZisku.html) |
 
 
 # Pre podielnikov
