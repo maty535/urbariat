@@ -20,5 +20,6 @@ published: true
  - chceme sa poďakovať všetkým podielnikom, ktorí si zvolili túto formu výplaty, keďže tým výrazne šetria nielen pracnosť tejto finančnej opeáracie, ale aj celkové náklady na transakčnú daň, ktorá sa pri každom prevode odvádza štátu.
    - V prípade bezhotovostného prevodu je však polovičná.
  - Zároveň týmto sa každý podielnik vyhne premlčaniu svojich podielov zo zisku, ak by si nevybral svoj podiel v lehote 3 rokov.
- - Bezhotovostné prevody budeme realizovať 22.12.2025 o 10.00 pomocou SEPA okamzitých platieb.
- - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru, ktorý to bude riešiť. 
+ - Bezhotovostné prevody budú realizované 22.12.2025 o 10.00 pomocou dávky SEPA okamžitých platieb.
+ - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru, ktorý to bude riešiť.
+ 
