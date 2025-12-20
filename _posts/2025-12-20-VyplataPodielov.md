@@ -5,7 +5,7 @@ date: 2025-12-20
 author: Ing. Matúš Ivanecký
 categories: podielnici
 tags: 2025 zhromaždenie podielnici hospodarenie
-published: false
+published: true
 ---
 
 ## Výplata podielov z dosiahnutého zisku za rok 2024
@@ -23,3 +23,6 @@ published: false
  - Bezhotovostné prevody budú realizované 22.12.2025 o 10.00 pomocou dávky SEPA okamžitých platieb.
  - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru, ktorý to bude riešiť.
  
+# Podrobnosti týkajúce sa výplaty podielov zo zisku
+* [Zásady rozdelenia ročného zisku spoločenstva](https://urbar.dulovaves.sk/docs/2016-06-04-ZasadyRozdeleniaZisku.html)
+* [Orientačný výpočet podielu zo zisku, ktorý bude vypaltený podielnikovi](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
