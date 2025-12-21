@@ -15,7 +15,7 @@ published: true
 - Pričom podielnikovi sa jeho suma na výplatu zníži o plnú výšku transakčnej dane, t.j. 2 x 0.8%, t.z. o 1.6 %.
 
 
-## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 31 podielnikov (viac ako 10 %)
+## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 31 podielnikov ( 10,50 %) z 296 zapísaných na LV 
  - pričom celkovo vyplatíme tento rok 16.9 % z celkovej sumy na výplatu už bezhotovostne
  - chceme sa poďakovať všetkým podielnikom, ktorí si zvolili túto formu výplaty, keďže tým výrazne šetria nielen pracnosť tejto finančnej opeáracie, ale aj celkové náklady na transakčnú daň, ktorá sa pri každom prevode odvádza štátu.
    - V prípade bezhotovostného prevodu je však polovičná.
