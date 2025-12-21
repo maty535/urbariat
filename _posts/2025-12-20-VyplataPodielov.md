@@ -11,6 +11,16 @@ published: true
 ## Výplata podielov z dosiahnutého zisku za rok 2024
 
 - začne v Pondelok budúceho týždňa, t.z. **22.12.2025** a bude ukončená do **15.01.2026** v priestoroch materskej školky cca. od **18.00 - 19.30**.
+
+* Prehľad plánovaných termínov výplaty podielov v hotovosti:
+| Dátum | Čas | miesto |
+|:------:|:--------:|:--------:|
+| 22.12.2025 | 18.00 - 19.00 | materská škôlka Dulova Ves |
+| 23.12.2025 | 18.00 - 19.00 | materská škôlka Dulova Ves |
+|  |  | bude upresnené po Vianočných sviatkoch |
+|  |  | bude upresnené po Vianočných sviatkoch |
+|  |  | bude upresnené po Vianočných sviatkoch |
+
 - Po tomto termíne bude možné realizovať výplatu neprebraných podielov iba v bezhotovostne, t.j. iba prevodom na účet, resp. v hotovosti iba po osobnom oznámení učasti na budúcom valnom zhromaždení, pričom podielnikovi sa jeho suma na výplatu zníži o plnú výšku transakčnej dane, t.j.  **2 x 0.8 %**, t.z. o **1.6 %** ( čo sú skutočne vynaložené náklady na vykonanie tejto finančnej operácie, ak sa hotovosť podarí vyplatíť až na druhý pokus).
 
 
