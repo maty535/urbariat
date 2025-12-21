@@ -31,7 +31,7 @@ published: true
    - V prípade bezhotovostného prevodu je však polovičná a nehrozí viacnásobne učtovanie tejto dane.
  - Zároveň týmto sa každý podielnik vyhne premlčaniu svojich podielov zo zisku, ak by si nevybral svoj podiel v lehote 3 rokov.
  - Bezhotovostné prevody budú realizované 22.12.2025 o 10.00 pomocou dávky SEPA okamžitých platieb.
- - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru na nasl. deň, a výbor ktorý to bude riešiť.
+ - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru na nasl. deň, a výbor to bude riešiť v spolupráci s bankami.
  
 # Podrobnosti týkajúce sa výplaty podielov zo zisku
 * [Zásady rozdelenia ročného zisku spoločenstva novelizované 26.10.2025](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html)
