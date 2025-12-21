@@ -12,7 +12,7 @@ published: true
 - T.z. tento rok bude vyplácaná suma: **0,014084432 €/m2**{: style="color: red;" }  na 1 m2 ideálnej výmery, ktorou podielnik disponuje, a ktorej výmera mu bola oznámená na pozvánke na VZ v roku 2025.
 - {% alert caution %} Bez toho, aby sa valného zhromaždenia zúčastnili podielnici, alebo ich splnomocnení zástupcovia, ktorí disponujú vačšinou z výmery celého urbariátu by nemohla byť schválená účtovná uzávierka, ani návrh výboru na rozdelenie zisku pre podielnikov, t.z. pri neúčasťi podielnikov (alebo ich splnomocnených zástupcov) disponujúcich viac ako 50 % z výmery urbariátu, nemože dojsť ani k výplate akéhoľvek dosiahnutého zisku. Ten môže byť rozdelený a vyplatený až po valnom zhromaždení, ktoré má dostatočnú účasť podielnikov, resp. ich splnomocnených zástupcov. {% endalert %}
 - <img width="561" height="455" alt="image" src="https://github.com/user-attachments/assets/07880b78-2648-49b3-8f0c-c708ed628385" />,
-- podľa platných [zásad rozdelenia zisku](https://urbar.dulovaves.sk/docs/2016-06-04-ZasadyRozdeleniaZisku.html) prislúcha podielnikovi nasl. suma, podľa tohto vzorca:
+- podľa platných [zásad rozdelenia zisku](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html) prislúcha podielnikovi nasl. suma, podľa tohto vzorca:
 - Dosiahnutý zisk: [finstat](https://finstat.sk/42379831)
   
 ```
