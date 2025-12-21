@@ -38,7 +38,7 @@ b) 1,5% z celkovej čiastky sa rozdelí pre členov spoločenstva, ktorí sa na 
 
 c) 1% z celkovej čiastky sa rozdeli pre členov dozornej rady spoločenstva.
 
-***d) 7,5 % z celkovej čiastky sa rozdelí pre členov výboru spoločenstva.***{: style="color: red;" }
+d) 7,5 % z celkovej čiastky sa rozdelí pre členov výboru spoločenstva.
 
 
 <h2 align="center">D. Neprevzaté dividendy-podiely</h2>
