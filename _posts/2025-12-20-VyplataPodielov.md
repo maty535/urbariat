@@ -22,7 +22,7 @@ published: true
 | -  | -  | bude upresnené po Vianočných sviatkoch |
 | -  | -  | bude upresnené po Vianočných sviatkoch |
 
-- Po tomto termíne **15.1.2026** bude možné realizovať výplatu neprebraných podielov iba v bezhotovostne, t.j. iba prevodom na účet, resp. v hotovosti iba po osobnom oznámení učasti na budúcom valnom zhromaždení, pričom podielnikovi sa jeho suma na výplatu zníži o plnú výšku transakčnej dane, t.j.  **2 x 0.8 %**, t.z. o **1.6 %** ( čo sú skutočne vynaložené náklady (transakčná daň) na vykonanie tejto finančnej operácie, ak sa hotovosť podarí vyplatíť až na druhý pokus).
+- Po tomto termíne **15.1.2026** bude možné realizovať výplatu neprebraných podielov iba bezhotovostne, t.j. iba prevodom na účet, resp. v hotovosti iba po osobnom oznámení učasti na budúcom valnom zhromaždení, pričom podielnikovi sa jeho suma na výplatu zníži o plnú výšku transakčnej dane, t.j.  **2 x 0.8 %**, t.z. o **1.6 %** ( čo sú skutočne vynaložené náklady (transakčná daň) na vykonanie tejto finančnej operácie, ak sa hotovosť podarí vyplatíť až na druhý pokus).
 
 
 ## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 31 podielnikov ( 10,50 %) z 296 zapísaných na LV 
