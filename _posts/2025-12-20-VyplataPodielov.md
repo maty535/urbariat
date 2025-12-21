@@ -17,7 +17,7 @@ published: true
 ## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 31 podielnikov ( 10,50 %) z 296 zapísaných na LV 
  - pričom celkovo vyplatíme tento rok 16.9 % z celkovej sumy na výplatu už bezhotovostne
  - chceme sa poďakovať všetkým podielnikom, ktorí si zvolili túto formu výplaty, keďže tým výrazne šetria nielen pracnosť tejto finančnej opeáracie, ale aj celkové náklady na transakčnú daň, ktorá sa pri každom prevode odvádza štátu.
-   - V prípade bezhotovostného prevodu je však polovičná.
+   - V prípade bezhotovostného prevodu je však polovičná a nehrozí viacnásobne učtovanie tejto dane.
  - Zároveň týmto sa každý podielnik vyhne premlčaniu svojich podielov zo zisku, ak by si nevybral svoj podiel v lehote 3 rokov.
  - Bezhotovostné prevody budú realizované 22.12.2025 o 10.00 pomocou dávky SEPA okamžitých platieb.
  - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru, ktorý to bude riešiť.
