@@ -10,7 +10,7 @@ published: true
 
 ## Výplata podielov z dosiahnutého zisku za rok 2024
 
-- začne v Pondelok budúceho týždňa, t.z. **22.12.2025** a bude ukončená do **15.01.2026** v priestoroch materskej školky cca. od **18.00 - 19.30**.
+- začne v Pondelok budúceho týždňa, t.z. **22.12.2025** a bude ukončená do **15.01.2026** v priestoroch materskej školky cca. od **18.00 - 19.00**.
 
 * Prehľad plánovaných termínov výplaty podielov v hotovosti:
   
