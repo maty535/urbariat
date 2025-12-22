@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valné zhromaždenie"
-date: 2025-10-26
+date: 2025-12-21
 categories: spolocenstvo zhromazdenie
 tags: zhromaždenie 2025 právo
 author: Ing. Matúš Ivanecký
