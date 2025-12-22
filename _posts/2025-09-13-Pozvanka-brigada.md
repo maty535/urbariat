@@ -4,7 +4,7 @@ title: "Pozvánka na brigádu - výbor spoločenstva"
 date: 2025-09-05
 categories: oznamy brigada 
 tags: podielnici les pozemky 2025 brígáda
-author: Výbor urbariátu
+author: Výbor urbáru
 ---
 
 Vážení spolu-podielnici, **výbor urbáru** organizuje brigádu v pestovateľských činnostiach a výrub nežiaducich drevín, na ktorú pozývame všetkých podielnikov. 
