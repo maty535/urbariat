@@ -26,7 +26,7 @@ published: true
 - Po tomto termíne **30.1.2026** bude možné realizovať výplatu neprebraných podielov iba bezhotovostne, t.j. iba prevodom na účet, resp. v hotovosti iba po osobnom oznámení učasti na budúcom valnom zhromaždení, pričom podielnikovi sa jeho suma na výplatu zníži o plnú výšku transakčnej dane, t.j.  **2 x 0.8 %**, t.z. o **1.6 %** ( čo sú skutočne vynaložené náklady (transakčná daň) na vykonanie tejto finančnej operácie, ak sa hotovosť podarí vyplatíť až na druhý pokus).
 
 
-## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 35 podielnikov ( 11,82 %) z 296 zapísaných na LV 
+## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 36 podielnikov ( 13,2 %) z 273 známich podielnikov zapísaných na LV 
  - pričom celkovo vyplatíme tento rok 18.5 % z celkovej sumy na výplatu už bezhotovostne
  - chceme sa poďakovať všetkým podielnikom, ktorí si zvolili túto formu výplaty, keďže tým výrazne šetria nielen pracnosť tejto finančnej opeáracie, ale aj celkové náklady na transakčnú daň, ktorá sa pri každom prevode odvádza štátu.
    - V prípade bezhotovostného prevodu je však polovičná a nehrozí viacnásobne učtovanie tejto dane.
