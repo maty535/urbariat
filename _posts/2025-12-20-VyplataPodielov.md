@@ -18,7 +18,7 @@ published: true
 |:------|:--------:|:--------:|
 | ~~22.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas |
 | ~~23.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas | |
-| 28.12.2025   | -  | čas, bude upresnený po Vianočných sviatkoch |
+| 28.12.2025   | po nedeľnej omši  | materská škôlka Dulova Ves, po ukončení sv. omše v nedeľu|
 | 29.12.20225  | -  | čas, bude upresnený po Vianočných sviatkoch  |
 | 30.12.20225  | -  | bude upresnené po Vianočných sviatkoch |
 | 31.12.20225  | -  | bude upresnené po Vianočných sviatkoch |
