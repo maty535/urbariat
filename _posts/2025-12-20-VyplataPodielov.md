@@ -36,6 +36,6 @@ published: true
  
 # Podrobnosti a dokumenty týkajúce sa výplaty podielov zo zisku
 * [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/assets/2025-11-05-DoplnenieUdajov.pdf)
-* [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/docs/2025-09-25-Splnomocnenie.pdf)
+* [Spnomocnenie pre zastupovanie podielnika](https://urbar.dulovaves.sk/docs/2025-09-25-Splnomocnenie.pdf)
 * [Zásady rozdelenia ročného zisku spoločenstva novelizované 26.10.2025](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html)
 * [Orientačný výpočet podielu zo zisku, ktorý bude vyplatený podielnikovi](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
