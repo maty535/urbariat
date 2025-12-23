@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Výplata podielov na zisku za rok 2024"
-date: 2025-12-20
+date: 2025-12-23
 author: Výbor urbáru
 categories: podielnici
 tags: 2025 zhromaždenie podielnici hospodarenie
