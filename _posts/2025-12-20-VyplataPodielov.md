@@ -27,7 +27,7 @@ published: true
 
 
 ## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 36 podielnikov ( 13,2 %) z 273 známich podielnikov zapísaných na LV 
- - pričom celkovo vyplatíme tento rok 18.5 % z celkovej sumy na výplatu už bezhotovostne
+ - pričom celkovo vyplatíme tento rok 19.20 % z celkovej sumy na výplatu už bezhotovostne
  - chceme sa poďakovať všetkým podielnikom, ktorí si zvolili túto formu výplaty, keďže tým výrazne šetria nielen pracnosť tejto finančnej opeáracie, ale aj celkové náklady na transakčnú daň, ktorá sa pri každom prevode odvádza štátu.
    - V prípade bezhotovostného prevodu je však polovičná a nehrozí viacnásobne učtovanie tejto dane.
  - Zároveň týmto sa každý podielnik vyhne premlčaniu svojich podielov zo zisku, ak by si nevybral svoj podiel v lehote 3 rokov.
