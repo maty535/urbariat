@@ -53,5 +53,7 @@ V Dulovej Vsi ***04.06.2016***,
 
 Zhromaždenie Urbariátu Dulova Ves p.s.
 
+<hr>
+
 - [Uznesenia z VZ 2025](https://drive.google.com/file/d/14qDel5OnywJTdiJoZ7attKQqR-NDAMkz/view?usp=drive_link)
 - [Zápisnica z VZ 2025](https://drive.google.com/file/d/1Ea-5jT1_NbDDic2Z0aiJgLBzOsz3zOyN/view?usp=drive_link)
