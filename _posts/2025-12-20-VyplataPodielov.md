@@ -17,7 +17,7 @@ published: true
 | Dátum | Čas | miesto |
 |:------|:--------:|:--------:|
 | ~~22.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas |
-| ~~23.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli neohláseniu výplaty podielnikom cez obecný rozhlas | |
+| ~~23.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas | |
 | 28.12.2025   | po nedeľnej sv. omši  | materská škôlka Dulova Ves, po ukončení sv. omše v nedeľu|
 | 29.12.20225  | -  | čas, bude upresnený po Vianočných sviatkoch  |
 | 30.12.20225  | -  | bude upresnené po Vianočných sviatkoch |
@@ -34,6 +34,8 @@ published: true
  - Bezhotovostné prevody boli realizované 22.12.2025 o 11.15 pomocou dávky SEPA okamžitých platieb.
  - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru na nasl. deň, a výbor to bude riešiť v spolupráci s bankami (reklamačné konanie).
  
-# Podrobnosti týkajúce sa výplaty podielov zo zisku
+# Podrobnosti a dokumenty týkajúce sa výplaty podielov zo zisku
+* [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/assets/2025-11-05-DoplnenieUdajov.pdf)
+* [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/docs/2025-09-25-Splnomocnenie.pdf)
 * [Zásady rozdelenia ročného zisku spoločenstva novelizované 26.10.2025](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html)
 * [Orientačný výpočet podielu zo zisku, ktorý bude vyplatený podielnikovi](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
