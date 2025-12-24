@@ -3,7 +3,7 @@ layout: post
 title: "Pozvánka na brigádu - poľovnícke spoločenstvo Dúbrava"
 date: 2025-06-24
 categories: oznamy brigada 
-tags: podielnici les pozemky 
+tags: podielnici les pozemky brigada
 author: Matúš Bidovský  
 ---
 
