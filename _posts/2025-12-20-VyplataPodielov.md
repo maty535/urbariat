@@ -38,7 +38,7 @@ published: true
 
 <img width="362" height="200" alt="image" src="https://github.com/user-attachments/assets/1de98a42-fe02-40ac-b67f-fb16f5e7754d" />
 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3813d5a4-cc74-4e2d-ac01-a7434ff1c57d" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/3813d5a4-cc74-4e2d-ac01-a7434ff1c57d" />
 
  
 # Podrobnosti a dokumenty týkajúce sa výplaty podielov zo zisku
