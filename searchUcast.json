@@ -6,7 +6,7 @@ layout: null
     {
       "Id": "{{ member.Id | escape }}",
       "Plocha": "{{ member.area }}",
-      "Pomer na spoločnej nehnuteľnosti": "{{ member.power }}",
+      "Ucast": "{{ member.power }}",
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
