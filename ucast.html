@@ -7,7 +7,10 @@ description: Aký je podiel úcasti na právach a povinnostiach podielnika
 Vyhľadávanie: <!-- Search Input --> <input type="text" id="search-input" placeholder="Search...">
 
 <!-- Results Display -->
-<ul id="search-results"></ul>
+<div id="search-results">
+| Id | Ideálna výmera [m2] | Podiel na celkovej výmere [%] | Dividenda 2024 |
+| ---: | --------------------: | ------------------------: |  ------------: |
+</div>
 
 <!-- Initialization Script -->
 <script>
@@ -15,7 +18,7 @@ Vyhľadávanie: <!-- Search Input --> <input type="text" id="search-input" place
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results'),
     json: '/searchUcast.json',
-    searchResultTemplate: '<li>{id}, {plocha} m<sup>2</sup>,  {ucast} %, dividenda2024: {dividenda} €</li>',
+    searchResultTemplate: '| {id} | {plocha} m<sup>2</sup> |  {ucast} % |  {dividenda} € |',
     noResultsText: 'No results found'
   });
 </script>
