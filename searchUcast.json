@@ -5,7 +5,7 @@ layout: null
   {% for meber in site.data.members %}
     {
       "Id": "{{ member.Id | escape }}",
-      "Plocha": "{{ member.area}}",
+      "Plocha": "{{ member.area }}",
       "Pomer na spoločnej nehnuteľnosti": "{{ member.power }}",
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
