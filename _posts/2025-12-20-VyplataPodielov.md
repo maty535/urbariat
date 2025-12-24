@@ -33,6 +33,11 @@ published: true
  - Zároveň týmto sa každý podielnik vyhne premlčaniu svojich podielov zo zisku, ak by si nevybral svoj podiel v lehote 3 rokov.
  - Bezhotovostné prevody boli realizované 22.12.2025 o 11.15 pomocou dávky SEPA okamžitých platieb.
  - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru na nasl. deň, a výbor to bude riešiť v spolupráci s bankami (reklamačné konanie).
+
+# Rozdelenie výplat podielu zo zisku , podľa spôsobu výplaty
+
+<img width="603" height="123" alt="image" src="https://github.com/user-attachments/assets/6390f6a7-711f-4dc7-858d-79bfacb4692a" />
+
  
 # Podrobnosti a dokumenty týkajúce sa výplaty podielov zo zisku
 * [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/assets/2025-11-05-DoplnenieUdajov.pdf)
