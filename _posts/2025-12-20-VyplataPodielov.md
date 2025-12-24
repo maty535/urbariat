@@ -34,9 +34,9 @@ published: true
  - Bezhotovostné prevody boli realizované 22.12.2025 o 11.15 pomocou dávky SEPA okamžitých platieb.
  - Ak by niektorý podielnik, ktorý oznámil urbáru čislo účtu nedostal v tento deň do 17.00 podiel zo zisku na svoj bankový účet, nech to oznámi emailom výboru na nasl. deň, a výbor to bude riešiť v spolupráci s bankami (reklamačné konanie).
 
-# Rozdelenie výplat podielu zo zisku , podľa spôsobu výplaty
+# Rozdelenie výplat podielu zo zisku podielnikov podľa spôsobu výplaty
 
-<img width="603" height="123" alt="image" src="https://github.com/user-attachments/assets/6390f6a7-711f-4dc7-858d-79bfacb4692a" />
+<img width="788" height="477" alt="image" src="https://github.com/user-attachments/assets/d9de0341-0157-494a-9a00-f4a63ec9ac08" />
 
  
 # Podrobnosti a dokumenty týkajúce sa výplaty podielov zo zisku
