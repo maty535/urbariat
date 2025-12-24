@@ -6,7 +6,7 @@ layout: null
     {
       "id": "{{ member.Id | escape }}",
       "plocha": "{{ member.area }}",
-      "ucast": "{{ member.power }}",
+      "ucast": "{{ member.power }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
