@@ -23,7 +23,7 @@ Vyhľadávanie: <!-- Search Input --> <input type="text" id="search-input" place
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results'),
     json: '/searchUcast.json',
-    searchResultTemplate: '<li>{{ member.Id }}, {{ member.area}} m<sup>2</sup> ,  {{ member.power }} %</li>',
+    searchResultTemplate: '<li>{{ Id }}, {{ Plocha }} m<sup>2</sup> ,  {{ Pomer na spoločnej nehnuteľnosti }} %</li>',
     noResultsText: 'No results found'
   });
 </script>
