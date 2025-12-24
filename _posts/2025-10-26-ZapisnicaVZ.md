@@ -8,6 +8,9 @@ author: Ing. Matúš Ivanecký
 ---
 
 - VZ 26.10.2025 v Kokošovciach sa zúčastnilo  **53,15 %** majetkovej účasti **zo všetkých členov spoločenstva**, resp. **54,34 %** majetkovej účasti **zo známych členov spoločenstva**.
+
+<img width="1234" height="230" alt="image" src="https://github.com/user-attachments/assets/4cce5afa-2ccd-44d4-9fa4-d60772a1e69e" />
+
 - Na valnom zhromaždení podielníkov bol zvolený nový člen dozornej rady: pán **Ing. Ján Giňovský**. Zároveň bol na neskoršom zasadnutí dozornej rady členmi dozornej rady zvolený za predsedu dozornej rady.
 
 - [Uznesenia z VZ 2025](https://drive.google.com/file/d/14qDel5OnywJTdiJoZ7attKQqR-NDAMkz/view?usp=drive_link)
