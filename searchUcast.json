@@ -7,7 +7,7 @@ layout: null
       "id": "{{ member.Priezvisko }} {{ member.Meno }}",
       "plocha": "{{ member.Vymera }}",
       "ucast": "{{ member.Hlasy }}",
-      "dividenda": {{ vymera * 0.014084432}}
+      "dividenda": {{ member.vymera * 0.014084432}}
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
