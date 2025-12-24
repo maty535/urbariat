@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% for meber in site.data.members %}
+  {% for member in site.data.members %}
     {
       "Id": "{{ member.Id | escape }}",
       "Plocha": "{{ member.area }}",
