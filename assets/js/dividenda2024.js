@@ -6,7 +6,7 @@ function vypocetZiskuPodielnika(){
    plocha    = ucast*12868.89;
 
   // Zapíšeme výsledok do bunky v tfoot
-  document.getElementById('plocha').textContent     = plocha +  " m<sup>2</sup>";
+  document.getElementById('plocha').textContent     = plocha +  " m2";
   document.getElementById('ucast').textContent      = ucast + " %";
   document.getElementById('dividenda').textContent  = dividenda + " €";
 
