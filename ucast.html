@@ -28,6 +28,8 @@ Pomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a pov
 <script>
   // Funkcia, ktorá sčíta hodnoty v druhom stĺpci (plocha)
   function prepocitajSumu() {
+	// PRIDAJTE TENTO RIADOK:
+  	limit: 100, // Nastavte na ľubovoľné číslo alebo 1000 pre "všetky"
     var rows = document.querySelectorAll('#search-results tr');
     var sum = 0;
 
