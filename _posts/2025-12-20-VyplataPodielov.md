@@ -25,7 +25,7 @@ published: true
 </script>
 
 <div>
-  <label>Pomer účasti: <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="vypocetZiskuPodielnika();" />
+  Pomer účasti: <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="vypocetZiskuPodielnika();" />
 </div>
 
 <!-- Results Display -->
