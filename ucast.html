@@ -5,7 +5,7 @@ description: Aký je podiel úcasti na právach a povinnostiach podielnika
 ---
 ##  Vyhľadávanie podielnika podľa mena, alebo priezviska
 
-Ppomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a povinností vyplývajúcich zo spoluvlastníckeho práva spoločnej nehnuteľnosti je vyjadrený súčtom alebo veľkosťou ich podielov na spoločnej nehnuteľnosti (<b>1 286 889 m<sup>2</sup></b>).
+Pomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a povinností vyplývajúcich zo spoluvlastníckeho práva spoločnej nehnuteľnosti je vyjadrený súčtom alebo veľkosťou ich podielov na spoločnej nehnuteľnosti (<b>1 286 889 m<sup>2</sup></b>).
 
 ##  Vyhľadávanie podielnika podľa mena, alebo priezviska
 
@@ -15,27 +15,66 @@ Ppomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a po
 <table>
   <tr><th>Id</th><th>Ideálna plocha</th><th>Pomer účasti</th></tr>
   <tbody id="search-results"></tbody>
+  <tfoot>
+    <tr style="background-color: #f2f2f2; font-weight: bold;">
+      <td>SPOLU:</td>
+      <td id="celkova-plocha">0.000</td>
+      <td id='celkova-ucast'></td>
+    </tr>
+  </tfoot>
 </table>
 
 <!-- Initialization Script -->
 <script>
+  // Funkcia, ktorá sčíta hodnoty v druhom stĺpci (plocha)
+  function prepocitajSumu() {
+    var rows = document.querySelectorAll('#search-results tr');
+    var sum = 0;
+
+    rows.forEach(function(row) {
+      // Index 1 je druhý stĺpec (Ideálna plocha)
+      var cellValue = row.cells[1].textContent;
+      // Odstránime " m2" a prevedieme na číslo
+      var plocha = parseFloat(cellValue.replace(' m2', '').replace(',', '.')) || 0;
+      sum += plocha;
+    });
+
+    var sum = 0;
+
+    rows.forEach(function(row) {
+      // Index 2 je druhý stĺpec (ucast)
+      var cellValue = row.cells[2].textContent;
+      // Odstránime " %" a prevedieme na číslo
+      var ucast = parseFloat(cellValue.replace(' %', '').replace(',', '.')) || 0;
+      sum += ucast;
+    });
+
+    // Zapíšeme výsledok do bunky v tfoot
+    document.getElementById('celkova-ucast').textContent = sum.toFixed(3).replace('.', ',');
+  }
+	
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results'),
     json: '/searchUcast.json',
     searchResultTemplate: '<tr><td>{id}</td><td>{plocha} m<sup>2</sup></td><td>{ucast} %</td></tr>',
-    noResultsText: 'No results found'
+    noResultsText: 'No results found',
+	success: function() {
+      // Táto funkcia sa spustí po každej aktualizácii výsledkov
+      // Pridáme malý timeout, aby sa DOM stihol prekresliť
+      setTimeout(prepocitajSumu, 50);
+    }
+  });
+
+  // Počúvame aj na zmeny v inpute pre okamžitú reakciu pri mazaní textu
+  document.getElementById('search-input').addEventListener('input', function() {
+    if (this.value === '') {
+      document.getElementById('celkova-plocha').textContent = "0.000";
+    }
+    setTimeout(prepocitajSumu, 100);
   });
 </script>
 
 <script>
-var table = document.querySelector('table');
-var lastCell = table.rows[ table.rows.length - 1 ].cells[ table.rows[ table.rows.length - 1 ].cells.length - 1 ];
-var sum = 0;
 
-for( var i = 1; i < table.rows.length - 1; i++ ){
-	sum = sum + parseFloat( table.rows[ i ].cells[ 1 ].textContent );
-}
-
-lastCell.textContent = sum.toFixed( 3 );
 </script>
