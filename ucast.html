@@ -69,12 +69,13 @@ Pomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a pov
     }
   });
 
-  // Počúvame aj na zmeny v inpute pre okamžitú reakciu pri mazaní textu
+  // Pridaný "listener" na vstup, aby sa suma vynulovala, ak vymažeš hľadaný text
   document.getElementById('search-input').addEventListener('input', function() {
-    if (this.value === '') {
-      document.getElementById('celkova-plocha').textContent = "0.000";
+    if (this.value.length === 0) {
+      document.getElementById('celkova-suma').textContent = "0.000";
     }
-    setTimeout(prepocitajSumu, 100);
+    // Pre istotu voláme prepočet pri každom údere do klávesnice
+    setTimeout(aktualizujSumu, 250);
   });
 </script>
 
