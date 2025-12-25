@@ -6,7 +6,7 @@ layout: null
     {
       "id": "{{ member.Priezvisko }} {{ member.Meno }}",
       "plocha": "{{ member.Vymera }}",
-      "ucast": "{{ member.Hlasy }}",
+      "ucast": "{{ member.Vymera | divided_by: 12868.89 | round: 6 }}",
       "dividenda": "{{ member.Vymera | times: 0.014084432 | round: 2 }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
