@@ -62,6 +62,7 @@ Pomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a pov
     json: '/searchUcast.json',
     searchResultTemplate: '<tr><td>{id}</td><td>{plocha} m<sup>2</sup></td><td>{ucast} %</td></tr>',
     noResultsText: 'No results found',
+	fuzzy: true,
 	success: function() {
       // Táto funkcia sa spustí po každej aktualizácii výsledkov
       // Pridáme malý timeout, aby sa DOM stihol prekresliť
