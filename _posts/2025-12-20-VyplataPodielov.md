@@ -9,21 +9,7 @@ published: true
 ---
 ## Výpočet podielu na zisku podielnika za rok 2024
 
-<script>
-  // Funkcia, ktorá vypocita zisk na podiel
-  function vypocetZiskuPodielnika(){
-     ucast     = parseFloat(document.getElementById('ucast-in').textContent);
-     dividenda = ucast*201.39*0.9;
-     plocha    = ucast*12868.89;
-
-    // Zapíšeme výsledok do bunky v tfoot
-    document.getElementById('plocha').textContent     = plocha +  " m<sup>2</sup>";
-    document.getElementById('ucast').textContent      = ucast + " %";
-    document.getElementById('dividenda').textContent  = dividenda + " €";
-
-  }
-</script>
-
+<script src="/assets/js/dividenda2024.js"></script>
 <div>
   Pomer účasti podielnika na právach a povinnostiach: <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="vypocetZiskuPodielnika();" />
 </div>
@@ -34,7 +20,7 @@ published: true
   <tbody id="dividenda-results"></tbody>
   <tfoot>
     <tr style="background-color: #f2f2f2; font-weight: bold;">
-      <td>SPOLU:</td>
+      <td>Dividenda:</td>
       <td id='ucast'></td>
       <td id="plocha">0.000</td>
       <td id="dividenda">0.000</td>
