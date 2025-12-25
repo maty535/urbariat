@@ -27,3 +27,15 @@ Ppomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a po
     noResultsText: 'No results found'
   });
 </script>
+
+<script>
+var table = document.querySelector('table');
+var lastCell = table.rows[ table.rows.length - 1 ].cells[ table.rows[ table.rows.length - 1 ].cells.length - 1 ];
+var sum = 0;
+
+for( var i = 1; i < table.rows.length - 1; i++ ){
+	sum = sum + parseFloat( table.rows[ i ].cells[ 1 ].textContent );
+}
+
+lastCell.textContent = sum.toFixed( 3 );
+</script>
