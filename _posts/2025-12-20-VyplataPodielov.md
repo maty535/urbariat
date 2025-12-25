@@ -7,6 +7,42 @@ categories: podielnici
 tags: 2025 zhromaždenie podielnici hospodarenie
 published: true
 ---
+## Výpočet podielu na zisku podielnika za rok 2024
+
+<script>
+
+  // Funkcia, ktorá vypocita zisk na podiel
+  function vypocetZiskuPodielnika(){
+     ucast = document.getElementById('ucast-in');
+     dividenda = parseFloat(ucast)*201.39*0.9;
+     plocha    = parseFloat(ucast)*12868.89;
+
+    // Zapíšeme výsledok do bunky v tfoot
+    document.getElementById('plocha').textContent     = plocha +  " m<sup>2</sup>";
+    document.getElementById('ucast').textContent      = ucast + " %";
+    document.getElementById('dividenda').textContent  = dividenda + " €";
+
+  }
+ 
+</script>
+
+<div>
+  <label>Pomer účasti: <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="vypocetZiskuPodielnika();" />
+</div>
+
+<!-- Results Display -->
+<table>
+  <tr><th>Id</th><th>Ideálna plocha</th><th>Pomer účasti</th></tr>
+  <tbody id="dividenda-results"></tbody>
+  <tfoot>
+    <tr style="background-color: #f2f2f2; font-weight: bold;">
+      <td>SPOLU:</td>
+      <td id='ucast'></td>
+      <td id="plocha">0.000</td>
+      <td id="dividenda">0.000</td>
+    </tr>
+  </tfoot>
+</table>
 
 ## Výplata podielov z dosiahnutého zisku za rok 2024
 
