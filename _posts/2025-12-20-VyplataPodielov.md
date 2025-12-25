@@ -24,9 +24,9 @@ published: true
   <tfoot>
     <tr style="background-color: #f2f2f2; font-weight: bold;">
       <td>Dividenda:</td>
-      <td id='ucast'></td>
-      <td id="plocha">0.000</td>
-      <td id="dividenda">0.000</td>
+      <td id='ucast'>0.00 %</td>
+      <td id="plocha">0.00 m2</td>
+      <td id="dividenda">0.00 €</td>
     </tr>
   </tfoot>
 </table>
