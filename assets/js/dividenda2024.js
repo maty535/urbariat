@@ -6,8 +6,8 @@ function vypocetZiskuPodielnika(){
    plocha    = ucast*12868.89;
 
   // Zapíšeme výsledok do bunky v tfoot
+  document.getElementById('ucast').textContent      = ucast.toFixed(4) + " %";
   document.getElementById('plocha').textContent     = plocha.toFixed(4) +  " m2";
-  document.getElementById('ucast').textContent      = ucast.toFixed(6) + " %";
   document.getElementById('dividenda').textContent  = dividenda.toFixed(2) + " €";
 
 }
