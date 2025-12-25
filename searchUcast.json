@@ -5,7 +5,7 @@ layout: null
   {% for member in site.data.podielnici %}
     {% capture search_key %}{{ member.Id }} {{ member.RodnePriezvisko }} {{ member.Obec }} {% endcapture %}
     {
-      "id": "{{ full_name }}",
+      "id": "{{ member.Id }}",
       "plocha": "{{ member.Vymera }}",
       "ucast": "{{ member.Hlasy | round: 6 }}",
       "dividenda": "{{ member.Vymera | times: 0.014084432 | round: 2 }}",
