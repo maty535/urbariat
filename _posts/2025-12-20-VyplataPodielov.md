@@ -10,7 +10,6 @@ published: true
 ## Výpočet podielu na zisku podielnika za rok 2024
 
 <script>
-
   // Funkcia, ktorá vypocita zisk na podiel
   function vypocetZiskuPodielnika(){
      ucast = document.getElementById('ucast-in');
@@ -23,7 +22,6 @@ published: true
     document.getElementById('dividenda').textContent  = dividenda + " €";
 
   }
- 
 </script>
 
 <div>
