@@ -8,7 +8,7 @@ function vypocetZiskuPodielnika(){
   // Zapíšeme výsledok do bunky v tfoot
   document.getElementById('ucast').textContent      = ucast.toFixed(4) + " %";
   document.getElementById('plocha').textContent     = plocha.toFixed(4) +  " m2";
-  document.getElementById('dividenda').textContent  = dividenda.toFixed(2) + " €";
+  document.getElementById('dividenda').textContent  = dividenda.toFixed(0) + " €";
 
 }
 
