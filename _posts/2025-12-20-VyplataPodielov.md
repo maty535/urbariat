@@ -32,7 +32,7 @@ published: true
 
 <!-- Results Display -->
 <table>
-  <tr><th>Id</th><th>Ideálna plocha</th><th>Pomer účasti</th></tr>
+  <tr><th>  </th><th>Pomer účasti</th><th>Ideálna plocha</th><th>Dividenda</th></tr>
   <tbody id="dividenda-results"></tbody>
   <tfoot>
     <tr style="background-color: #f2f2f2; font-weight: bold;">
