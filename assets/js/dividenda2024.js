@@ -1,7 +1,7 @@
 
 // Funkcia, ktorá vypocita zisk na podiel
 function vypocetZiskuPodielnika(){
-   ucast     = parseFloat(document.getElementById('ucast-in').textContent);
+   ucast     = parseFloat(document.getElementById('ucast-in').value);
    dividenda = ucast*201.39*0.9;
    plocha    = ucast*12868.89;
 
