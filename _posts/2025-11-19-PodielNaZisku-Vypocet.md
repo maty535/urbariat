@@ -31,8 +31,8 @@ kde :
 
 <script src="/assets/js/dividenda2024.js"></script>
 
+[Pomer účasti podielnika](https://urbar.dulovaves.sk/ucast) na právach a povinnostiach:
 <div>
-  [Pomer účasti podielnika](https://urbar.dulovaves.sk/ucast) na právach a povinnostiach: 
   <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="delayedVypocetZiskuPodielnika();" />
   <input type="button" value="Vypočítať" onclick="vypocetZiskuPodielnika();"/><br/>
 </div>
