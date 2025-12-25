@@ -3,7 +3,7 @@ layout: null
 ---
 [
   {% for member in site.data.podielnici %}
-    {% capture search_key %}{{ member.Id }} {{ member.RodnePriezvisko }} {{ member.Obec }} {% endcapture %}
+    {% capture search_key %}{{ member.Id }} {{ member.Povod }} {{ member.Obec }} {% endcapture %}
     {
       "id": "{{ member.Id }}",
       "plocha": "{{ member.Vymera }}",
