@@ -27,3 +27,6 @@ kde :
 - **0.9 => 90 %** z celeho zisku určené pre vyplatenie podielnikom podľa podľa platných [zásad rozdelenia zisku](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html), ktoré schválilo VZ 26.10.2025.
 - ```<virtuálna (ideálna) výmera podielnika zo spoločnej nehnuteľnosti> m2``` je virtuálna (ideálna) výmera zo spoločnej nehnutelnosti, ktorú mal podielnik uvedenú na pozvánke na VZ v roku 2025 a ktorú si podielnik vypočíta ako sumu výmer svojich podielov na jednotlivých parcelách spoločnej nehnuteľnosti (podiely na výmere sú uvedené na LV v katastri nehnuteľností a sú prístupné [tu](https://urbar.dulovaves.sk/about/).
 
+## Súvisiace dokumenty a informácie
+* [Ǔčasť podielnikov na právach a povinnostiach v pozemkovom spoločenstve](https://urbar.dulovaves.sk/ucast)
+* <a href="{{ '/docs/' | relative_url }}#zakladateľské-dokumenty">Zmluva, dodatky, zásady rozdelenie zisku z hospodárenie spoločenstva</a>
