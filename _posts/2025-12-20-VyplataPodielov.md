@@ -46,4 +46,4 @@ published: true
 * [Spnomocnenie pre zastupovanie podielnika](https://urbar.dulovaves.sk/docs/2025-09-25-Splnomocnenie.pdf)
 * [Ǔčasť podielnikov na právach a povinnostiach v pozemkovom spoločenstve](https://urbar.dulovaves.sk/ucast)
 * [Zásady rozdelenia ročného zisku spoločenstva novelizované 26.10.2025](https://urbar.dulovaves.sk/docs/2025-10-26-ZasadyRozdeleniaZisku.html)
-* [Orientačný výpočet podielu zo zisku, ktorý bude vyplatený podielnikovi](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
+* [Výpočet podielu zo zisku pre podielnikov](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/11/19/PodielNaZisku-Vypocet.html)
