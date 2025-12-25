@@ -39,6 +39,9 @@ Pomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a pov
       sum += plocha;
     });
 
+	 // Zapíšeme výsledok do bunky v tfoot
+    document.getElementById('celkova-plocha').textContent = sum.toFixed(3).replace('.', ',') + " m2";
+
     var sum = 0;
 
     rows.forEach(function(row) {
@@ -50,7 +53,7 @@ Pomer účasti spoluvlastníkov spoločnej nehnuteľnosti na výkone práv a pov
     });
 
     // Zapíšeme výsledok do bunky v tfoot
-    document.getElementById('celkova-ucast').textContent = sum.toFixed(3).replace('.', ',');
+    document.getElementById('celkova-ucast').textContent = sum.toFixed(3).replace('.', ',') + " %";
   }
 	
   SimpleJekyllSearch({
