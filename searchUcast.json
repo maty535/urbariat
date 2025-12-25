@@ -3,13 +3,13 @@ layout: null
 ---
 [
   {% for member in site.data.podielnici %}
-    {% capture full_name %}{{ member.Priezvisko }} {{ member.Meno }}{% endcapture %}
+    {% capture search_key %}{{ member.Id }} {{ member.RodnePriezvisko }} {{ member.Obec }} {% endcapture %}
     {
       "id": "{{ full_name }}",
       "plocha": "{{ member.Vymera }}",
-      "ucast": "{{ member.Vymera | divided_by: 12868.89 | round: 6 }}",
+      "ucast": "{{ member.Hlasy | round: 6 }}",
       "dividenda": "{{ member.Vymera | times: 0.014084432 | round: 2 }}",
-      "search_key": "{{ full_name | slugify: 'latin' }}"
+      "search_key": "{{ search_key | slugify: 'latin' }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
