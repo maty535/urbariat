@@ -20,6 +20,7 @@ permalink: /docs/
 
 | Dátum        | Dokument          |
 |-------------:|:------------------|
+| 23.12.2025   | [Ǔčasť podielnikov na právach a povinnostiach v pozemkovom spoločenstve](https://urbar.dulovaves.sk/ucast) |
 | 25.09.2025   | [Spnomocnenie pre zastupovanie podielnika](https://urbar.dulovaves.sk/docs/2025-09-25-Splnomocnenie.pdf) |
 | 27.10.2025   | [Súhlas so spracovaním osobných udajov a oznámenie čísla účtu](https://urbar.dulovaves.sk/assets/2025-11-05-DoplnenieUdajov.pdf) |
 
