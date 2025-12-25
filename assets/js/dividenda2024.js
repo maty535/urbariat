@@ -1,5 +1,4 @@
 
-<script>
   // Funkcia, ktorá vypocita zisk na podiel
   function vypocetZiskuPodielnika(){
      ucast     = parseFloat(document.getElementById('ucast-in').textContent);
@@ -12,4 +11,4 @@
     document.getElementById('dividenda').textContent  = dividenda + " €";
 
   }
-</script>
+
