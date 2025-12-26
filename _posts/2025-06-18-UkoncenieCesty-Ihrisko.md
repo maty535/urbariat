@@ -3,7 +3,7 @@ layout: post
 title: "Dokončenie ulice k Ihrisku"
 date: 2025-06-18
 categories: projekty
-tags: projekty pozemky zmluvy právo 2025 stavebnictvo obec
+tags: projekty pozemky zmluvy právo 2025 obec
 author: Ing. Matúš Ivanecký
 ---
 

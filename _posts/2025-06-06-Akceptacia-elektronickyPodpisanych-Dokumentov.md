@@ -3,7 +3,7 @@ layout: post
 title: "Akceptácia dokumentov podpísaných zaručeným elektronickým podpisom alebo zaručenou elektronickou pečaťou a opatrené časovou pečiatkou."
 date: 2025-05-24
 categories: pravo 
-tags: právo podielnici zhromaždenie 2025
+tags: právo podielnici zhromaždenie 2025 právo
 author: Ing. Matúš Ivanecký
 ---
 

@@ -4,7 +4,7 @@ title: "Výplata výnosu z podielov členov spoločenstva, ktorí nemajú podiel
 date: 2025-02-13
 author: Marta Giňovská
 categories: spolocenstvo
-tags: podielnici zhromaždenie hospodarenie právo pozemky
+tags: podielnici zhromaždenie hospodarenie právo pozemky história
 published: true
 ---
 

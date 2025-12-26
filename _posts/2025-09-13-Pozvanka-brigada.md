@@ -3,7 +3,7 @@ layout: post
 title: "Pozvánka na brigádu - výbor spoločenstva"
 date: 2025-09-05
 categories: oznamy brigada 
-tags: podielnici les pozemky 2025 brigada
+tags: podielnici les pozemky 2025 brigády
 author: Výbor urbáru
 ---
 
