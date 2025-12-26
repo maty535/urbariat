@@ -7,6 +7,9 @@ categories: spolocenstvo
 tags: reality podielnici história
 published: true
 ---
+
+## 1767 Mapa využívania pôdy - Národný archív Uhorska
+
 - [Historická katastrálna mapa Guľvasu z r.1767](https://maps.hungaricana.hu/en/MOLTerkeptar/2504/)
   ![image](https://github.com/user-attachments/assets/39b3565f-ff2b-4452-9bee-db3da3ab8791)
 
@@ -35,17 +38,15 @@ published: true
 | 18 | Komar Onda        |
 
 
+## 1799 Mapa využívania pôdy - Národný archív Uhorska 
+
 - [Historická katastrálna mapa Guľvasu z r.1799](https://maps.hungaricana.hu/en/MOLTerkeptar/1613/)
   ![image](https://github.com/user-attachments/assets/51b6bd50-db60-455f-8423-38033c16e950)
 
 
-
+## 1930 Československá republika - Sčítanie ľudu 1930 - Slovakiana    
 
 - Prehľad obyvateľov obce Dulova Ves podľa sčitania obyvateľov z roku: [1930](https://slovakiana.sk/scitacie-harky/cair-ko29rli)
-
-
-
-## Československá republika - Sčítanie ľudu 1930.    
 
  - Politický okres: Prešov
  - Číslo sčítacieho obvodu: 85
