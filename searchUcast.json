@@ -9,7 +9,10 @@ layout: null
       "plocha": "{{ member.Vymera }}",
       "ucast": "{{ member.Hlasy | round: 6 }}",
       "dividenda": "{{ member.Vymera | times: 0.014084432 | round: 2 }}"
-      {% # "search_key": "{{ search_key | slugify: 'latin' }}" %}
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
+
+ {% 
+      # "search_key": "{{ search_key | slugify: 'latin' }}" 
+ %}
