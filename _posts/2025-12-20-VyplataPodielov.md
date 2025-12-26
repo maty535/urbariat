@@ -21,11 +21,10 @@ published: true
 
 <!-- Results Display -->
 <table>
-  <tr><th> </th><th>Pomer účasti</th><th>Ideálna plocha</th><th>Dividenda</th></tr>
+  <tr><th>Pomer účasti</th><th>Ideálna plocha</th><th>Dividenda</th></tr>
   <tbody id="dividenda-results"></tbody>
   <tfoot>
     <tr style="font-weight: bold;">
-      <td>Dividenda:</td>
       <td id='ucast'>0.00 %</td>
       <td id="plocha">0.00 m2</td>
       <td id="dividenda">0.00 €</td>
