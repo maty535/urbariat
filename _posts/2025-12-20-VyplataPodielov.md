@@ -13,7 +13,7 @@ published: true
 
 [Pomer účasti podielnika](https://urbar.dulovaves.sk/ucast) na právach a povinnostiach: 
 <div>
-  <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="delayedVypocetZiskuPodielnika();" />
+  <input type="text" size="25" maxlength="15" value="" id="ucast-in" onkeyup="delayedVypocetZiskuPodielnika();"        placeholder="%"/>
   <input type="button" value="Vypočítať" onclick="vypocetZiskuPodielnika();"/><br/>
 </div>
 
