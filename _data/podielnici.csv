@@ -1,17 +1,17 @@
 Id,Povod,Obec,Vymera,Hlasy
 Ander Martin,Ander,Dulova Ves,3784.9680,0.2941176744847458
 Ander Miroslav,Ander,Prešov,3784.9680,0.2941176744847458
-Babejová Magdaléna,Kočerhová,Prešov,2523.3120,0.19607844965649718
-Babejová Mária,Repková,Kendice,1682.2080,0.1307189664376648
+Babejová Magdaléna,Minarcik-Kočerhová,Prešov,2523.3120,0.19607844965649718
+Babejová Mária,Minarcik-Repková,Kendice,1682.2080,0.1307189664376648
 Bakošová Helena,Cveliharová,Prešov,5046.6240,0.39215689931299436
 Balčíková Ľudmila,Matisová,Košice - Ťahanovce,1682.2080,0.1307189664376648
 Baranová Cecília,Lešková,Dulova Ves,1439.1470,0.11183147886103618
 Bartková Mária,Komárová,Žipov,6254.2290,0.4859959949925752
 Bednaríková Margita,Komárová,Dulova Ves,1261.6560,0.09803922482824859
 Belušková Beáta,Bidovská,Prešov,5046.6240,0.39215689931299436
-Beňa Ján,Beňa,Prešov,5411.2150,0.42048809182454744
-Beňa Martin,Beňa,Prešov,5411.2150,0.42048809182454744
-Benková Milada,Pavelová,Dulova Ves,10093.2470,0.784313720919209
+Beňa Ján,Ander,Prešov,5411.2150,0.42048809182454744
+Beňa Martin,Ander,Prešov,5411.2150,0.42048809182454744
+Benková Milada,Pavel,Dulova Ves,10093.2470,0.784313720919209
 Bidovská Alžbeta,Dancáková,Dulova Ves,5046.6240,0.39215689931299436
 Bidovská Alžbeta,Falatová,Prešov - Solivar,3784.9680,0.2941176744847458
 Bidovská Ľudmila,Kovaľová,Prešov- solivar,1892.4840,0.1470588372423729
@@ -39,7 +39,7 @@ Cupáková Mária,Ivanecký,Prešov- solivar,14950.7330,1.1617733153364431
 Degrová Mária,Ivanecký,Prešov - Solivar,6947.7320,0.539885879823357
 Dianovská Mária,Markušová,Prešov,3595.9460,0.2794293835754288
 Duľová Renáta,Petrušová,Dulova Ves,1353.8800,0.10520565487777113
-Dzijačková Jana,Lelák,Lesné,8923.5400,0.6934195567760701
+Dzijačková Jana,Bidovsky-Lelák,Lesné,8923.5400,0.6934195567760701
 Dzivý Jozef,Dzivý,Dulova Ves,1051.3800,0.0816993540235405
 Dzivý Marcel,Dzivý,Dulova Ves,1051.3800,0.0816993540235405
 Dzvoňárová Mária,Repková,Kokošovce,0.3390,0.00002634259
@@ -52,7 +52,7 @@ Frištiková Mária,Ivanecky-Pavel,Dulova Ves,354.9820,0.027584508065575202
 Gašparová Emília,Anderová,Seniakovce,3784.9680,0.2941176744847458
 Giňovská Marta,Ivanecky-Uhrin,Dulova Ves,21684.8050,1.6850563646126435
 Gmitrová Mária,Komár,Dulova Ves,841.1040,0.0653594832188324
-Harčár Peter,Harčár,Prešov,1202.4920,0.0934417809150595
+Harčár Peter,Lesko-Harčár,Prešov,1202.4920,0.0934417809150595
 Hatoková Božena,Minarčík,Dulova Ves,7026.7140,0.5460233166963119
 Havanič Peter,Cvelihar-Havanič,Prešov,5046.6240,0.39215689931299436
 Hirková Ľudmila,Cinová,Abranovce,13667.9390,1.0620915245992468
@@ -75,17 +75,17 @@ Ivanecký Martin,Ivanecký,Košice-ťahanovce,2523.3120,0.19607844965649718
 Ivanecký Matúš,Ivanecký,Prešov,5677.4510,0.441176434020339
 Ivanecký Peter,Ivanecký,Košice- západ,1523.1150,0.11835636173749252
 Ivanecký Vincent,Ivanecký,Hanušovce Nad Topľou,2523.3120,0.19607844965649718
-Ivanová Soňa,Ivanová,Drienov,4569.3440,0.35506900750569786
+Ivanová Soňa,Olejar,Drienov,4569.3440,0.35506900750569786
 Jakubíková Marta,Komár,Dulova Ves,2948.8590,0.229146336630432
 Jančárová Eva,Repková,Strážske,841.1040,0.0653594832188324
 Janda Miloš,Janda,Prešov,6308.2790,0.49019604643446335
 Janečková Marta,Anderová,Dulova Ves,7569.9350,0.5882352712627119
-Jarkovský Peter,Lelak-Jarkovský,Prešov,8923.5400,0.6934195567760701
+Jarkovský Peter,Bidovsky-Lelak-Jarkovský,Prešov,8923.5400,0.6934195567760701
 Javorová Irena,Švihurová,Michalovce,268.6430,0.020875382414489517
 Juhásová Martina,Repko,Dulova Ves,5046.6240,0.39215689931299436
 Jurko Anton,Jurko,Dulova Ves,676.9400,0.052602827438885565
-Jurko Marián,Jurko,Dulova Ves,3505.2490,0.27238161177848286
-Jurková Anna,Švihurová,Dulova Ves,3.0470,0.00023677255769534127
+Jurko Marián,Murman-Švihurová,Dulova Ves,3505.2490,0.27238161177848286
+Jurková Anna,Murman-Švihurová,Dulova Ves,3.0470,0.00023677255769534127
 Kakačšíková Gabriela,Anderová,Dulova Ves,2028.8000,0.15765151462169621
 Kakaščíková Gabriela,Anderová,Dulova Ves,1756.1680,0.13646615986304958
 Kalužniaková Anna,Bimbová,Košice,2030.8200,0.15780848231665667
@@ -97,8 +97,8 @@ Kapráľ Rudolf,Kapráľ,Bratislava,4809.9690,0.3737672013670177
 Kapráľová Lívia,Kapráľová,Prešov- solivar,748.3290,0.05815023673370431
 Kapráľová Margita,Sedláková,Žehňa,709.9650,0.05516909383793008
 Kapráľová Oľga,Petrušková,Prešov,4809.9690,0.3737672013670177
-Kerestešová Mária,Chovanová,Košice,2852.4010,0.2216508960757299
-Kmecová Daniela,Kmecová,Prešov,4731.2100,0.36764709310593224
+Kerestešová Mária,Chovan,Košice,2852.4010,0.2216508960757299
+Kmecová Daniela,Kmec,Prešov,4731.2100,0.36764709310593224
 Kočerha Milan,Kočerha,Prešov,2523.3120,0.19607844965649718
 Kohoutová Terézia,Potočňáková,Kysak,3988.0610,0.309899377490988
 Kolibabová Mária,Švihurová,Dulova Ves,315.4140,0.024509806207062147
@@ -120,7 +120,7 @@ Komárová Mária,Potočňáková,Dulova Ves,3990.0090,0.31005075029781126
 Komárová Mária,Komár,Dulova Ves,13247.3870,1.0294117829898306
 Koropšák Vladimír,Sedlák,Dulova Ves,7569.9350,0.5882352712627119
 Koropšáková Monika,Sedlák,Dulova Ves,7569.9350,0.5882352712627119
-Kováčiková Alexandra,Kováčiková,Košice Dargovských Hrdinov,2756.8810,0.21422834448037087
+Kováčiková Alexandra,Chovan,Košice Dargovských Hrdinov,2756.8810,0.21422834448037087
 Kovaľová Helena,Chovancová,Gregorovce,5046.6240,0.39215689931299436
 Kovaľová Magdaléna,Cmarová,Petrovany,9619.9370,0.7475343250272557
 Kovaľová Marta,Frištiková,Petrovany,2404.9840,0.186883561830119
@@ -133,14 +133,14 @@ Križovenská Zuzana,Vrabľová,Prešov,3607.4760,0.2803253427451785
 Kukla Dominik,Murman-Repko,Dulova Ves,10093.2470,0.784313720919209
 Kurucová Jana,Kurucová,Prešov - Solivar,5046.6240,0.39215689931299436
 Laštíková Mária,Repko,Bratislava Dúbravka,6781.4000,0.5269607557450565
-Lelák Anton,Lelák,Chminianska Nová Ves,8923.5400,0.6934195567760701
-Leško Ján,Leško,Prešov,1261.6560,0.09803922482824859
-Leško Jozef,Leško,Ličartovce,1803.7380,0.14016267137258925
-Leško Stanislav,Leško,Dulova Ves,1261.6560,0.09803922482824859
-Lešková Janka,Lešková,Malá Lodina,1202.4920,0.0934417809150595
+Lelák Anton,Bidovsky-Lelák,Chminianska Nová Ves,8923.5400,0.6934195567760701
+Leško Ján,Komar-Leško,Prešov,1261.6560,0.09803922482824859
+Leško Jozef,Komar-Leško,Ličartovce,1803.7380,0.14016267137258925
+Leško Stanislav,Komar-Leško,Dulova Ves,1261.6560,0.09803922482824859
+Lešková Janka,Komar-Lešková,Malá Lodina,1202.4920,0.0934417809150595
 Lukáčová Anna,Matisová,Prešov,1682.2080,0.1307189664376648
 Macejková Danka,Pirohárová,Prešov,2341.5570,0.18195485391513952
-Mačingová Mária,Mačingová,Košice Dargovských Hrdinov,2756.8810,0.21422834448037087
+Mačingová Mária,Chovan,Košice Dargovských Hrdinov,2756.8810,0.21422834448037087
 Magačová Valéria,Bidovská,Prešov - Solivar,3784.9680,0.2941176744847458
 Majirská Magdaléna,Minarčíková,Ľubotice,5056.7450,0.3929433696301701
 Majková Margita,Sokolová,Prešov,3784.9680,0.2941176744847458
@@ -163,12 +163,12 @@ Minarčík František,Minarčík,Vranov Nad Topľou,4809.9690,0.3737672013670177
 Minarčík Jozef,Minarčík,Dulova Ves,5569.6010,0.4327957578314835
 Ňachajová Zuzana,Repková,Dulova Ves,925.2140,0.07189540045800377
 Neznámy 73440,,Dulova Ves,7015.2000,0.5451286008350371
-Olejár Jozef,Olejár,Prešov,4569.3440,0.35506900750569786
-Olejárová Anna,Varholová,Dulova Ves,9001.7740,0.6994988689778217
-Olejárová Božena,Olejárová,Dulova Ves,4569.3440,0.35506900750569786
+Olejár Jozef,Pavel-Olejár,Prešov,4569.3440,0.35506900750569786
+Olejárová Anna,Pavel-Varholová,Dulova Ves,9001.7740,0.6994988689778217
+Olejárová Božena,Pavel-Olejárová,Dulova Ves,4569.3440,0.35506900750569786
 Onderušová Zuzana,Ferencová,Prešov,7286.6330,0.5662207851648433
 Onofrejová Ľuboslava,Bidovská,Prešov,1892.4840,0.1470588372423729
-Orosová Janette,Repková,Záborské,6781.4000,0.5269607557450565
+Orosová Janette,Chovan-Repková,Záborské,6781.4000,0.5269607557450565
 Papcún Ján,Papcún,Ruská Nová Ves,4626.0720,0.3594771577035782
 Partilová Adriána,Cvancigerová,Nemcovce,2523.3120,0.19607844965649718
 Pasienková spoločnosť v Dulovej Vsi,,Dulova Ves,7414.7060,0.5761729255592363
@@ -206,7 +206,7 @@ Priesterová Martina,Priesterová,Gemerská Poloma,3379.3150,0.2625956861858327
 Pustá Verona,Jurková,Dulova Ves,860.8080,0.06689061760571424
 Pustý Jozef,Pustý,Drienovská Nová Ves,1170.0120,0.09091786471094243
 Rajčuľová Emília,Cmarová,Dulova Ves,11039.8670,0.8578725127031158
-Regecová Andrea,Repková,Prešov,6781.4000,0.5269607557450565
+Regecová Andrea,Repko,Prešov,6781.4000,0.5269607557450565
 Repko Anton,Repko,Župčany,6781.4000,0.5269607557450565
 Repko František,Repko,Dulova Ves,925.2140,0.07189540045800377
 Repko Ján,Repko,Dulova Ves,925.2140,0.07189540045800377
@@ -288,10 +288,10 @@ Vasilová Mária,Pavlová,Košice,5046.6240,0.39215689931299436
 Vašková Marta,Cinová,Vyšná Šebastová,1240.7250,0.09641274422269519
 Vašková Marta,Vašková,Vyšná Šebastová,801.5900,0.062288977526422255
 Veselá Marta,Lešková,Dulova Ves,1981.2290,0.15395492540537686
-Vevericová Marta,Olejárová,Dulova Ves,11354.9030,0.8823529457474577
+Vevericová Marta,Pavel-Olejárová,Dulova Ves,11354.9030,0.8823529457474577
 Wittnerová Alžbeta,Komárová,Prešov,5079.5880,0.3947184255984782
 Wittnerová Alžbeta,Komárová,Prešov,1228.6910,0.09547762083598509
 Wittnerová Otília,Bombíková,Záborské,3784.9680,0.2941176744847458
 Zošová Marta,Chovanová,Dulova Ves,6150.5720,0.47794114333093224
-Žula Peter,Potočňák,Záborské,3323.3840,0.25824946829136003
-Žulová Pavlína,Potočňák,Záborské,1723.2390,0.13390735331485468
+Žula Peter,Bidovsky-Potočňák,Záborské,3323.3840,0.25824946829136003
+Žulová Pavlína,Bidovsky-Potočňák,Záborské,1723.2390,0.13390735331485468
