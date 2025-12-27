@@ -29,7 +29,7 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
     {%- assign previous_year = current_year -%}
   {%- endunless -%}
      <article class="post-item">
-	 	<a href="{{ post.url }}">{{post.date | date: "%d. %m. %Y" }} {{ post.title | escape }}</a>
+	 	- {{post.date | date: "%d. %m. %Y" }}  <a href="{{ post.url }}">{{ post.title | escape }}</a>
 	  </article>
 {%- endfor -%}
 
