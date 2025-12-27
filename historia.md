@@ -25,9 +25,12 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
   {%- capture current_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
   {%- unless current_year == previous_year -%}
     <h2>{{ current_year }}</h2>
+	
     {%- assign previous_year = current_year -%}
   {%- endunless -%}
- <a href="{{ post.url }}">{{post.date | date: "%d. %m. %Y" }} {{ post.title | escape }}</a><br/>
+     <article class="post-item">
+	 	<a href="{{ post.url }}">{{post.date | date: "%d. %m. %Y" }} {{ post.title | escape }}</a>
+	  </article>
 {%- endfor -%}
 
 
