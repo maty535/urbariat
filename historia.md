@@ -17,7 +17,7 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results'),
     json: '/search.json',
-    searchResultTemplate: '<li>{post.date | date: "%d. %m. %Y" } <a href="{url}" title="{title}">{title}</a></li>',
+    searchResultTemplate: '<li>{datum} <a href="{url}" title="{title}">{title}</a></li>',
     noResultsText: 'Nenašiel sa žiadny príspevok'
   });
 </script>
