@@ -16,6 +16,7 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
 <!-- Initialization Script -->
 <script>
   SimpleJekyllSearch({
+    limit: 10, // Nastavte na ľubovoľné číslo alebo 1000 pre "všetky"
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results'),
     json: '/search.json',
