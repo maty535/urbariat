@@ -9,7 +9,7 @@ permalink: /historia/
   <label for="search-input" aria-hidden="true">
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
   </label>
-  <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
+  <input type="search" id="search-input" placeholder="Vyhľadať v histórii ...." aria-label="Search">
 </div>
 
 <ul id="search-results"></ul>
@@ -20,19 +20,11 @@ permalink: /historia/
     <h2>{{ current_year }}</h2>
     {%- assign previous_year = current_year -%}
   {%- endunless -%}
-  <article class="post-item">
-    <h3 class="post-item-title">
-      <a href="{{ post.url }}">{{ post.title | escape }}</a>
-    </h3> 
-  </article>
+  <ul>
+     <li><a href="{{ post.url }}"><time datetime='{{post.date | date: "%d. %m. %Y "}}'>{{post.date | date: "%d. %m. %Y" }}</time> {{ post.title | escape }}</a></li>
+  </ul>
 {%- endfor -%}
 
-## 2025
-
-- 26.10.2025 Valné zhromaždenie - [pozvánka](https://urbar.dulovaves.sk/valne/zhromazdenie/2025/09/25/Pozvanka-ValneZhromazdenie.html)
-- 30.5.2025 Zmena bankového účtu spoločenstva na: **SK63 8330 0000 0021 0316 9449**, t.z. prechod z VǓB banky do Fio banky, hlavne kvoli racionalizácii nákladov na poplatky a získanie úrokových výnosov z terminovaného, resp. sporiacieho podnikateľského účtu, ktorý je rádovo v desiatkach EUR (cca. 50 EUR/ mesiac) výhodnejší ako podnikateľský účet vo VÚB banke.
-
-- 1.1.2025 Zmena na pozícii OLH, výbor vybral nového OLH, ktorým sa stal **Rudolf Najsarek, Pod Lesom 25, Dulova Ves, mobil: 0917 669 345**. 
 
 ## 2020
 Zmena spôsobu doručovania listín od orgánov verejnej moci na elektronickú podľa zákona o [305/2013 Z.z. o elektronickej podobe výkonu pôsobnosti orgánov verejnej moci a o zmene a doplnení niektorých zákonov, zákon o e-Governmente, § 60b odsek 3](https://www.slov-lex.sk/ezbierky-fe/pravne-predpisy/SK/ZZ/2013/305/20241001#paragraf-60b.odsek-3)
