@@ -6,6 +6,7 @@ layout: null
     {% capture search_key %} {{post.date | date: "%Y-%m-%d" }} {{ post.title }} {% endcapture %}
     {
       "title": "{{ post.title | escape }}",
+      "datum": "{{post.date | date: "%Y-%m-%d" }}",
       "category": "{{ post.category }}",
       "tags": "{{ post.tags | join: ', ' }}",
       "url": "{{ post.url | prepend: site.baseurl }}",
