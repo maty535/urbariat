@@ -5,14 +5,21 @@ description: Základne míľniky urbárskeho spoločenstva
 permalink: /historia/
 ---
 
-<div class="search-article">
-  <label for="search-input" aria-hidden="true">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-  </label>
-  <input type="search" id="search-input" placeholder="Vyhľadať v histórii ...." aria-label="Search">
-</div>
+Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-input" placeholder="Vyhľadývať v histórii...">
 
+<!-- Results Display -->
 <ul id="search-results"></ul>
+
+<!-- Initialization Script -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{title}">{title}</a></li>',
+    noResultsText: 'Nenašiel sa žiadny príspevok'
+  });
+</script>
 
 {%- for post in site.posts -%}
   {%- capture current_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
@@ -20,9 +27,9 @@ permalink: /historia/
     <h2>{{ current_year }}</h2>
     {%- assign previous_year = current_year -%}
   {%- endunless -%}
-  <ul>
-     <li><a href="{{ post.url }}"><time datetime='{{post.date | date: "%d. %m. %Y "}}'>{{post.date | date: "%d. %m. %Y" }}</time> {{ post.title | escape }}</a></li>
-  </ul>
+ 
+* <a href="{{ post.url }}"><time datetime='{{post.date | date: "%d. %m. %Y "}}'>{{post.date | date: "%d. %m. %Y" }}</time> {{ post.title | escape }}</a>
+  
 {%- endfor -%}
 
 
