@@ -27,10 +27,10 @@ Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-i
     <h2>{{ current_year }}</h2>
     {%- assign previous_year = current_year -%}
   {%- endunless -%}
- 
-* <a href="{{ post.url }}"><time datetime='{{post.date | date: "%d. %m. %Y "}}'>{{post.date | date: "%d. %m. %Y" }}</time> {{ post.title | escape }}</a>
-  
+ * [{{post.date | date: "%d. %m. %Y" }} {{ post.title | escape }}]({{ post.url }})
+
 {%- endfor -%}
+
 
 
 ## 2020
