@@ -4,7 +4,7 @@ title: "VZ 25/07 Aký podiel na zisku za rok 2024 možem očakávať?"
 date: 2025-11-19
 author: Ing. Matúš Ivanecký
 categories: valne zhromazdenie
-tags: 2025 zhromaždenie podielnici právo hospodarenie
+tags: zhromaždenie podielnici právo hospodarenie
 published: true
 ---
 ## Aký podiel na zisku za rok 2024 mi bude vyplatený ? 

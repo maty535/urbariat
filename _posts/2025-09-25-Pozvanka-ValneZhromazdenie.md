@@ -4,7 +4,7 @@ title: "Pozvánka na Valné zhromaždenie spoločenstva"
 date: 2025-09-25
 author: Výbor urbariátu
 categories: valne zhromazdenie
-tags: 2025 zhromaždenie
+tags: zhromaždenie
 published: true
 ---
 

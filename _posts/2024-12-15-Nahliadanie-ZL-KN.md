@@ -3,7 +3,7 @@ layout: post
 title: "Nahliadanie do zbierky listín katastra nehnuteľností"
 date: 2024-12-15
 categories: kataster pravo
-tags: pozemky kataster právo reality 2024
+tags: pozemky kataster právo reality
 author: Ing. Matúš Ivanecký
 ---
 

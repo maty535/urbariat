@@ -4,7 +4,7 @@ title: "Právoplatné rozhodnutia súdov v spore o náhradu škody za zničený 
 date: 2025-09-18
 author: Ing. Matúš Ivanecký
 categories: spory pravo 
-tags: spory kataster právo reality 2025 2024 2023 2021
+tags: spory kataster právo reality
 published: true
 spor_17c_uri  : "[17C/51/2023](https://drive.google.com/drive/folders/1P0l9AvJgUXxDmph6hbXsQJxx_oO7SaN1?usp=drive_link)"
 spor_14up_uri : "[14Up/766/2023](https://drive.google.com/drive/folders/1kADN_QFOKzfmAWeoaPRK5fYchv8QnZtX?usp=drive_link)"

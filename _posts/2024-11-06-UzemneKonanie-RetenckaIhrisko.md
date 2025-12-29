@@ -3,7 +3,7 @@ layout: post
 title: "Oznámenie o začatí územného konania pre stavbu: „Odvodňovacie zariadenia nad ihriskom na parc. č. KN-C 550/1, k. ú. Dulova Ves"
 date: 2024-11-06
 categories: projekty
-tags: pozemky projekty právo 2024 obec
+tags: pozemky projekty právo obec
 author: Ing. Matúš Ivanecký
 ---
 

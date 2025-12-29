@@ -3,7 +3,7 @@ layout: post
 title: "Hodnota ornej pôdy a trvalých trávnatých porastov podľa zákona o miestnych daniach"
 date: 2025-05-24
 categories: pravo 
-tags: reality právo pozemky 2025 dane
+tags: reality právo pozemky dane
 author: Ing. Matúš Ivanecký
 ---
 

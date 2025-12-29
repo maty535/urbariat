@@ -4,7 +4,7 @@ title: "VZ-25/08. Správa OLH o stave lesa a plán činnosti"
 date: 2025-10-26
 author: Rudolf Najsarek (OLH)
 categories: valne zhromazdenie
-tags: 2025 zhromaždenie les hospodarenie
+tags: zhromaždenie les hospodarenie
 published: true
 ---
 
