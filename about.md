@@ -34,7 +34,7 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 ## Katastrálne informácie
 
 - Spoločenstvo má zriadenú jednu spoločnú nehnuteľnosť s celkovou výmerou: **1 286 889 m2**{: style="color: red;" }, ktorá je substrátom (súhrnom) všetkých parciel uvedených na týchto LV, t.z. pri dedení (delení, resp. prevodoch) ideálných podielov nesmie vzniknúť podiel s nižšou výmerou ako [2000 m2 práve z tejto celkovej výmery spoločnej nehnuteľnosti, nie jej jednotlivých (parciálnych) parciel](https://www.slov-lex.sk/sudne-rozhodnutia/judikaty/774da6a5-9443-4615-86c3-504618587aed):
-- Spoločná nehnuteľnosť nie je deliteľná na parcely, a ak sa prevadza podiel z nej, musí sa prevadzať pre všetky jej jednotlivé parcely a musí byť pri prevode vždy vrámci podielu nemenný pre podiel a parcelu.
+- Spoločná nehnuteľnosť nie je deliteľná na parcely, a ak sa prevadza podiel z nej, musí sa prevadzať pre všetky jej jednotlivé parcely.
 - [Judikát ústavného súdu týkajúci sa spoločnej nehnuteľnosti a nakladania s ňnou](https://www.slov-lex.sk/sudne-rozhodnutia/judikaty/774da6a5-9443-4615-86c3-504618587aed)
 - <img width="883" height="285" alt="image" src="https://github.com/user-attachments/assets/c7cd0190-829e-43a3-bff2-8e1a3f052901" />
 - [Judikát najvyššieho súdu týkajúci sa prevodov podielov na spoločnej nehnuteľnosti](https://otvorenesudy.sk/decrees/3905360?)
