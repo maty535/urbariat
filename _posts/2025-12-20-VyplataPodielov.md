@@ -38,10 +38,10 @@ published: true
 
 * Prehľad plánovaných termínov výplaty podielov v hotovosti:
   
-| Dátum | Čas | miesto |
+| Dátum | Čas      | miesto   |
 |:------|:--------:|:--------:|
 | ~~22.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas |
-| ~~23.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas | |
+| ~~23.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas | 
 | ~~28.12.2025~~   | ~~po nedeľnej sv. omši~~  | ~~materská škôlka Dulova Ves, po ukončení sv. omše v nedeľu~~ termin odvolany, z osobnych dovodov clena vyboru zodpovedneho za hotovostnu pokladnu |
 | 29.12.20225  | 18.00 - 19.00 | materská škôlka Dulova Ves |
 | 30.12.20225  | 18.00 - 19.00 | materská škôlka Dulova Ves |
