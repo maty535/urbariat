@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Valné zhromaždenie"
+title: "Valné zhromaždenie 2024"
 date: 2024-05-25
 categories: spolocenstvo zhromazdenie
 tags: zhromaždenie právo
