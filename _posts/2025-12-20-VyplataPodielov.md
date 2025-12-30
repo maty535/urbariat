@@ -40,14 +40,14 @@ published: true
   
 | Dátum | Čas      | miesto   |
 |:------|:--------:|:--------:|
-| ~~22.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas |
-| ~~23.12.2025~~ | ~~18.00 - 19.00~~ | ~~materská škôlka Dulova Ves~~ termin odvolany, kvoli nemoznosti ohlasit vyplatu podielnikom cez obecný rozhlas | 
-| ~~28.12.2025~~   | ~~po nedeľnej sv. omši~~  | ~~materská škôlka Dulova Ves, po ukončení sv. omše v nedeľu~~ termin odvolany, z osobnych dovodov clena vyboru zodpovedneho za hotovostnu pokladnu |
-| 29.12.20225  | 18.00 - 19.00 | materská škôlka Dulova Ves |
-| 30.12.20225  | 18.00 - 19.00 | materská škôlka Dulova Ves |
-| 31.12.20225  | 10.15 - 11.00 | materská škôlka Dulova Ves |
 
-- Po tomto termíne **30.1.2026** bude možné realizovať výplatu neprebraných podielov iba bezhotovostne, t.j. iba prevodom na účet, resp. v hotovosti iba po osobnom oznámení učasti na budúcom valnom zhromaždení, pričom podielnikovi sa jeho suma na výplatu zníži o plnú výšku transakčnej dane, t.j.  **2 x 0.8 %**, t.z. o **1.6 %** ( čo sú skutočne vynaložené náklady (transakčná daň) na vykonanie tejto finančnej operácie, ak sa hotovosť podarí vyplatíť až na druhý pokus).
+- Pre informácie o termínoch výplat kontaktujte:
+
+|Meno|Funkcia|Od|Kontakt|
+|:-------------|:------------------|:------|:------|
+| Ing. Peter Semeš ml.   | člen - predseda                           |  0905 384 750 | 
+| Marta Giňovská         | člen - zodpúovedný za hotovostnú pokladňu |  0908 591 984 | 
+
 
 
 ## O bezhotovstnú výplatu svojich podielov na zisku si požiadalo už 36 podielnikov ( 13,2 %) z 273 známych podielnikov zapísaných na LV 
