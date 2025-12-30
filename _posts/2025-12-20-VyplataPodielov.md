@@ -43,8 +43,8 @@ published: true
 
 - Pre informácie o termínoch výplat kontaktujte:
 
-|Meno|Funkcia|Od|Kontakt|
-|:-------------|:------------------|:------|:------|
+|Meno|Funkcia|Kontakt|
+|:-------------|:------------------|:------|
 | Ing. Peter Semeš ml.   | člen - predseda                           |  0905 384 750 | 
 | Marta Giňovská         | člen - zodpúovedný za hotovostnú pokladňu |  0908 591 984 | 
 
