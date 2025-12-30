@@ -37,9 +37,6 @@ published: true
 - začne v Pondelok **22.12.2025** a bude ukončená max. do **30.01.2026** v priestoroch materskej školky cca. od **18.00 - 19.00**.
 
 * Prehľad plánovaných termínov výplaty podielov v hotovosti:
-  
-| Dátum | Čas      | miesto   |
-|:------|:--------:|:--------:|
 
 - Pre informácie o termínoch výplat kontaktujte:
 
