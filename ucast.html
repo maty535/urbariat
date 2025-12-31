@@ -14,13 +14,13 @@ na spoločnej nehnuteľnosti, ktorej celková výmera je <b>1 286 889 m<sup>2</s
 
 <!-- Results Display -->
 <table>
-  <tr><th>Id</th><th>Ideálna plocha</th><th>Pomer účasti</th></tr>
+  <tr><th align="center">Id</th><th align="center">Ideálna plocha</th><th align="center">Pomer účasti</th></tr>
   <tbody id="search-results"></tbody>
   <tfoot>
     <tr style="background-color: #f2f2f2; font-weight: bold;">
       <td>SPOLU:</td>
-      <td id="celkova-plocha">0.000</td>
-      <td id='celkova-ucast'></td>
+      <td id="celkova-plocha" align="right">0.000</td>
+      <td id='celkova-ucast'  align="right"></td>
     </tr>
   </tfoot>
 </table>
@@ -63,7 +63,7 @@ na spoločnej nehnuteľnosti, ktorej celková výmera je <b>1 286 889 m<sup>2</s
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('search-results'),
     json: '/searchUcast.json',
-    searchResultTemplate: '<tr><td>{id}</td><td>{plocha} m<sup>2</sup></td><td>{ucast} %</td></tr>',
+    searchResultTemplate: '<tr><td align="center">{id}</td><td align="right">{plocha} m<sup>2</sup></td><td align="right">{ucast} %</td></tr>',
     noResultsText: 'No results found',
 	success: function() {
       // Táto funkcia sa spustí po každej aktualizácii výsledkov
