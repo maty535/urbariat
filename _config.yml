@@ -30,8 +30,13 @@ pagination:
 # Where things are
 jekyll-spaceship:
   # default enabled processors
+  plantuml-processor:
+    mode: "server"
+    server: "https://www.plantuml.com/plantuml/svg/"
+  
   processors:
     - table-processor
+    
     
 #feed_items: 10
 #feed_update_period: daily
@@ -77,6 +82,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-spaceship
   - ./_plugins/jekyll-alerts-tag.rb
-  - jekyll-plantuml
+
 
 remote_theme: "jekyll/minima@1e8a445"
