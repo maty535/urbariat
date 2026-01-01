@@ -3,8 +3,7 @@ layout: home
 title: Predchodcovia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov a podielov
 ---
-
-```plantuml!
+{% plantuml %}
 
 @startmindmap
 * Boh
@@ -29,4 +28,4 @@ description: Predchodcovia podielnikov a podielov
 *** Ondka
 @endmindmap
 
-```
+{% endplantuml %}
