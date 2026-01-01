@@ -4,7 +4,7 @@ title: Predchodcovia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov a podielov
 ---
 
-```plantuml
+```plantuml!
 
 @startmindmap
 * **My Project**
@@ -20,7 +20,7 @@ description: Predchodcovia podielnikov a podielov
 ```
 
 
-```plantuml
+```plantuml!
 @startmindmap top to bottom direction
 * Boh
 ** Habrsburg
