@@ -3,7 +3,9 @@ layout: home
 title: Predchodcovia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov a podielov
 ---
+
 ```plantuml
+
 @startmindmap
 * **My Project**
 ** Feature 1
@@ -16,8 +18,6 @@ description: Predchodcovia podielnikov a podielov
 ** Feature 3
 @endmindmap
 
-
-{% plantuml %}
 @startmindmap top to bottom direction
 * Boh
 ** Habrsburg
@@ -40,4 +40,5 @@ description: Predchodcovia podielnikov a podielov
 *** Pavel
 *** Ondka
 @endmindmap
+
 ```
