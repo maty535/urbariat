@@ -4,8 +4,9 @@ title: Predchodcocia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov
 ---
 
-@startmindmap
+{% plantuml %}
 
+@startmindmap
 * Boh
 ** Habrsburg
 *** Ander
@@ -26,5 +27,6 @@ description: Predchodcovia podielnikov
 *** Petrovcik
 *** Pavel
 *** Ondka
-
 @endmindmap
+
+{% plantuml %}
