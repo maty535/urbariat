@@ -78,5 +78,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-spaceship
   - ./_plugins/jekyll-alerts-tag.rb
+  - jekyll-plantuml
 
 remote_theme: "jekyll/minima@1e8a445"
