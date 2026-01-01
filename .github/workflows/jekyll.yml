@@ -33,6 +33,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      # 1. Musíte nainštalovať Javu a PlantUML
+      - name: Install Java and PlantUML
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y plantuml
+      
       - name: Setup Ruby
         uses:  ruby/setup-ruby@v1
         with:
@@ -42,6 +48,7 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+    
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
