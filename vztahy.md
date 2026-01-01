@@ -5,6 +5,7 @@ description: Predchodcovia podielnikov
 ---
 
 @startmindmap
+
 * Boh
 ** Habrsburg
 *** Ander
