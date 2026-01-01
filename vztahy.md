@@ -15,7 +15,7 @@ description: Predchodcovia podielnikov a podielov
 -- Legacy Feature B
 ** Feature 3
 @endmindmap
-{% endplantuml %}
+
 
 {% plantuml %}
 @startmindmap top to bottom direction
