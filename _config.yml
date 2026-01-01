@@ -32,8 +32,7 @@ jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
-    - plantuml-processor
-
+    
 #feed_items: 10
 #feed_update_period: daily
 #feed_update_frequency: 1
