@@ -4,7 +4,7 @@ title: Predchodcocia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov
 ---
 
-{% plantuml %}
+
 
 @startmindmap
 * Boh
@@ -17,7 +17,7 @@ description: Predchodcovia podielnikov
 **** Sokol
 **** Biros
 **** Marton
-***** Prirohar
+***** Pirohar
 ****** Bilská
 *** Murman
 *** Kmec
@@ -29,4 +29,3 @@ description: Predchodcovia podielnikov
 *** Ondka
 @endmindmap
 
-{% plantuml %}
