@@ -4,7 +4,7 @@ title: Predchodcocia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov
 ---
 
-
+```plantuml!
 
 @startmindmap
 * Boh
@@ -29,3 +29,4 @@ description: Predchodcovia podielnikov
 *** Ondka
 @endmindmap
 
+```
