@@ -35,7 +35,6 @@ jekyll-spaceship:
   # default enabled processors
   processors:
     - table-processor
-    - plantuml-processor
   
     
     
