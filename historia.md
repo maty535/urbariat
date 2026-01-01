@@ -71,7 +71,7 @@ zákonný článok X/1913 o nedeliteľných spoločných pasienkoch upravoval sp
 
 ## 1853
 
-Urbársky patent z 2. marca 1853 definitívne potvrdil zrušenie urbárskeho pomeru a právo poddaných na vlastníctvo pôdy zapísanej v urbároch.
+[Urbársky patent z 2. marca 1853](https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=1853&page=301&size=45) definitívne potvrdil zrušenie urbárskeho pomeru a právo poddaných na vlastníctvo pôdy zapísanej v urbároch.
 
 
 ## 1848
