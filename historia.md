@@ -86,5 +86,13 @@ Tereziánsky urbár, pri ktorom ešte nemožno hovoriť o urbáre ako spoločens
 ## 16 st.
     
 Rozšírenie urbárov u nás však môžeme registrovať už v polovici 16. storočia. Samotné slovo urbár je nemeckého pôvodu (odvodené od latinského urbs - mesto), vyjadrovalo výťažok, alebo dôchodok, najčastejšie sa používalo v baníctve. <br>
+
+Urbár bol súpis pozemkového majetku, povinností a práv, ktoré mali poddaní voči svojmu zemepánovi. Je to v podstate hospodárska kniha alebo register.
+
+Medzi hlavné body, ktoré urbár obsahoval, patrili:
+* Rozsah pôdy, ktorú poddaný obhospodaroval.
+* Peňažné dávky (činz), ktoré musel platiť.
+* Naturálne dávky (odovzdávanie časti úrody, dobytka, vajec a pod.).
+* Robotné povinnosti (koľko dní v roku musel poddaný bezplatne pracovať na panskom – tzv. roboty).
         
-V období feudalizmu (stredoveku) sa prostredníctvom tzv. urbárov reguloval pomer medzi zemepánom a poddaným. Pôda spolu s poddaným, ktorý na nej sídlil, prešla do rúk zemepánov a v súvislosti s tým, došlo  k jej rozdeleniu na dominikál (pánsku pôdu) a rustikál (poddanskú, urbársku pôdu). Urbárska aj pánska pôda bola vo vlastníctve zemepána, avšak poddanskú pôdu zemepán prenechal poddaným do užívania. Podľa spôsobu užívania majetku, sa zaviedlo aj jeho delenie na poddanský, želiarský a domkársky. Zároveň sa pôda rozdelila na intravilán – domy, záhrady a extravilán – pasienky, lesy, oráčiny. Vo vzťahu k týmto pozemkom sa neskôr vytvorili tzv. urbárske formy spoluvlastníctva.</p>
+V období feudalizmu (stredoveku) sa prostredníctvom tzv. urbárov reguloval pomer medzi zemepánom a poddaným. Pôda spolu s poddaným, ktorý na nej sídlil, prešla do rúk zemepánov a v súvislosti s tým, došlo  k jej rozdeleniu na dominikál (pánsku pôdu) a rustikál (poddanskú, urbársku pôdu). Urbárska aj pánska pôda bola vo vlastníctve zemepána, avšak poddanskú pôdu zemepán prenechal poddaným do užívania. Podľa spôsobu užívania majetku, sa zaviedlo aj jeho delenie na poddanský, želiarský a domkársky. Zároveň sa pôda rozdelila na intravilán – domy, záhrady a extravilán – pasienky, lesy, oráčiny. Vo vzťahu k týmto pozemkom sa neskôr vytvorili tzv. urbárske formy spoluvlastníctva.
