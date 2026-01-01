@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Predchodcocia a vzťahy v spoločenstve
-description: Predchodcovia podielnikov
+title: Predchodcovia a vzťahy v spoločenstve
+description: Predchodcovia podielnikov a podielov
 ---
 
 ```plantuml!
