@@ -29,13 +29,18 @@ pagination:
 
 # Where things are
 jekyll-spaceship:
-  plantuml-processor:
-    mode: "server"
-    server: "https://www.plantuml.com/plantuml/png/"
   # default enabled processors
   processors:
     - table-processor
-  
+    - plantuml-processor
+  plantuml-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: plantuml
+    syntax:
+      code: 'plantuml!'
+      custom: ['@startuml', '@enduml']
+    src: http://www.plantuml.com/plantuml/svg/
     
     
 #feed_items: 10
