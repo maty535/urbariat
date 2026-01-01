@@ -33,8 +33,6 @@ jekyll-spaceship:
   plantuml-processor:
     mode: "server"
     server: "https://www.plantuml.com/plantuml/svg/"
-    # Pridajte toto, aby Spaceship zachytil aj pôvodné tagy
-    tag: "plantuml"
   processors:
     - table-processor
     - plantuml-processor
