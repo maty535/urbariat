@@ -1,3 +1,8 @@
+---
+layout: home
+title: Predchodcocia a vzťahy v spoločenstve
+description: Predchodcovia podielnikov
+---
 
 @startmindmap
 * Boh
