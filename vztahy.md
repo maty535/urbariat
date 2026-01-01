@@ -23,7 +23,7 @@ description: Predchodcovia podielnikov a podielov
 ```plantuml!
 @startmindmap top to bottom direction
 * Boh
-** Habrsburg
+** Habsburg
 *** Ander
 *** Bidovsky
 *** Bugoš
