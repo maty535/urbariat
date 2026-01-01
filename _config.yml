@@ -34,7 +34,7 @@ jekyll-spaceship:
     - table-processor
     - plantuml-processor
   plantuml-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    mode: server  # mode value 'pre-fetch' for fetching image at building stage
     css:
       class: plantuml
     syntax:
