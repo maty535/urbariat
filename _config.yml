@@ -33,6 +33,10 @@ jekyll-spaceship:
   processors:
     - table-processor
     - plantuml-processor
+  
+  plantuml-processor:
+    mode: "server"
+    server: "https://www.plantuml.com/plantuml/svg/"
     
     
 #feed_items: 10
