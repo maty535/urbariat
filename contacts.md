@@ -15,5 +15,6 @@ permalink: /contacts/
 |**bankový kontakt**| **SK63 8330 0000 0021 0316 9449** (Fio banka od 30.5.2025) <br/> ~~SK90 0200 0000 0033 3224 4953 (VUB do 30.5.2025)~~|
 |**dozorná rada**| +421 903 961 154 |
 |**štatutárny zástupca spoločenstva**| +421 905 384 750|
-|**Finstat**|[Finančné ukazovatele](https://finstat.sk/42379831)|
+| **Mapa urbáru**| [prieskum na Google Earth](https://earth.google.com/earth/d/1csBx09yv7gkXudxKOTJlmR5xm45wuJYr?usp=sharing) |
+| **Finančné ukazovatele**| [finstat](https://finstat.sk/42379831) |
 
