@@ -30,9 +30,6 @@ pagination:
 # Where things are
 jekyll-spaceship:
   # default enabled processors
-  plantuml-processor:
-    mode: "server"
-    server: "https://www.plantuml.com/plantuml/svg/"
   processors:
     - table-processor
     - plantuml-processor
