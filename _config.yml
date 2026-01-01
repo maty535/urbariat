@@ -37,6 +37,7 @@ jekyll-spaceship:
     tag: "plantuml"
   processors:
     - table-processor
+    - plantuml-processor
     
     
 #feed_items: 10
