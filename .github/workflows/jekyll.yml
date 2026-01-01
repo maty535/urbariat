@@ -33,12 +33,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      # 1. Musíte nainštalovať Javu a PlantUML
-      - name: Install Java and PlantUML
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y plantuml graphviz
-      
+           
       - name: Setup Ruby
         uses:  ruby/setup-ruby@v1
         with:
