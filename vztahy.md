@@ -5,7 +5,6 @@ description: Predchodcovia podielnikov a podielov
 ---
 
 ```plantuml!
-
 @startmindmap
 * **My Project**
 ** Feature 1
