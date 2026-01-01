@@ -30,6 +30,8 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 | **Vykonáva podnikateľskú činnosť?** | nie |
 | **Spoločenstvo vlastníkov spoločne obhospod. nehnuteľnosti** | nie |
 | **Poznámka** | funkčné obdobie aktuálneho výboru a dozornej rady plynie od 26.5.2024 a konči najneskôr 25.5.2029 |
+| **Mapa urbáru**| [prieskum na Google Earth](https://earth.google.com/earth/d/1csBx09yv7gkXudxKOTJlmR5xm45wuJYr?usp=sharing) |
+| **Finančné ukazovatele**| [finstat](https://finstat.sk/42379831) |
 
 ## Katastrálne informácie
 
