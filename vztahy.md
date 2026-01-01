@@ -17,7 +17,10 @@ description: Predchodcovia podielnikov a podielov
 -- Legacy Feature B
 ** Feature 3
 @endmindmap
+```
 
+
+```plantuml
 @startmindmap top to bottom direction
 * Boh
 ** Habrsburg
