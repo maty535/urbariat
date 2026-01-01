@@ -4,8 +4,12 @@ title: Predchodcovia a vzťahy v spoločenstve
 description: Predchodcovia podielnikov a podielov
 ---
 
-```plantuml
+```plantuml!
+
 @startmindmap top to bottom direction
+' Force rendering to be more generous with space
+skinparam DefaultFontName SansSerif
+skinparam shadowing false
 * Boh
 ** Habsburg
 *** Ander
