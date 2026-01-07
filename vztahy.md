@@ -29,3 +29,22 @@ description: Predchodcovia podielnikov a podielov
 *** Ondka
 @endmindmap
 ```
+
+```plantuml!
+@startmindmap top to bottom direction
+* Ivanecky Vincent st
+** Ivanecky Vincent
+*** Ivanecky Ladislav
+*** Ivanecky Vincent
+*** Ivanecky Martin
+** Ivanecky Stefan
+*** Ivanecka Lydia
+*** Ivanecky Peter
+** Ivanecky Frantisek
+*** Ivanecka Maria
+*** Filipova Zuzana
+** Ivanecky Jozef
+*** Ivanecky Matus
+*** Ivanecky Marek
+@endmindmap
+```
