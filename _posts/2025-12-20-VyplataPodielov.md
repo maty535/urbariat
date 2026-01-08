@@ -36,7 +36,15 @@ published: true
 
 - začne v Pondelok **22.12.2025** a bude ukončená max. do **30.01.2026** v priestoroch materskej školky cca. od **18.00 - 19.00**.
 
-- Pre informácie o termínoch výplat kontaktujte:
+* Prehľad plánovaných termínov výplaty podielov v hotovosti:
+  
+| Dátum | Čas | miesto |
+|:------:|:--------:|:--------:|
+| 8.1.2026 | 17.00 - 18.00 | materská škôlka Dulova Ves |
+| 9.1.2026 | 17.00 - 18.00 | materská škôlka Dulova Ves |
+| 12.1 - 30.1.2026  | -  | ďalšie termíny budú upresnené  do 11.1.2026 |
+
+- Pre informácie o ďalšich termínoch výplat kontaktujte:
 
 |Meno|Funkcia|Kontakt|
 |:-------------|:------------------|:------|
