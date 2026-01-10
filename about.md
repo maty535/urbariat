@@ -39,7 +39,7 @@ Cieľom spoločenstva je racionálne hospodáriť na spoločnej nehnuteľnosti a
 - Spoločenstvo má zriadenú jednu spoločnú nehnuteľnosť s celkovou výmerou: **1 286 889 m2**{: style="color: red;" }, ktorá je substrátom (súhrnom) všetkých parciel uvedených na týchto LV, t.z. pri dedení (delení, resp. prevodoch) ideálných podielov nesmie vzniknúť podiel s nižšou výmerou ako [2000 m2 práve z tejto celkovej výmery spoločnej nehnuteľnosti, nie jej jednotlivých (parciálnych) parciel](https://www.slov-lex.sk/sudne-rozhodnutia/judikaty/774da6a5-9443-4615-86c3-504618587aed):
 - Spoločná nehnuteľnosť nie je deliteľná na parcely, a ak sa prevadza podiel z nej, musí sa prevadzať pre všetky jej jednotlivé parcely.
 - [Judikát ústavného súdu týkajúci sa spoločnej nehnuteľnosti a nakladania s ňnou](https://www.slov-lex.sk/sudne-rozhodnutia/judikaty/774da6a5-9443-4615-86c3-504618587aed)
-- <img width="1737" height="319" alt="image" src="https://github.com/user-attachments/assets/c6e13a1c-09f0-4499-8677-018cdff9c264" />
+- <img src="https://github.com/user-attachments/assets/c6e13a1c-09f0-4499-8677-018cdff9c264" />
 - <img width="883" height="285" alt="image" src="https://github.com/user-attachments/assets/c7cd0190-829e-43a3-bff2-8e1a3f052901" />
 - [Judikát najvyššieho súdu týkajúci sa prevodov podielov na spoločnej nehnuteľnosti](https://otvorenesudy.sk/decrees/3905360?)
 - <img width="1215" height="208" alt="image" src="https://github.com/user-attachments/assets/3c7b8e6a-f2d4-465e-a405-11eafb720ba0" />
